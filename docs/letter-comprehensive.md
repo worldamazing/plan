@@ -68,10 +68,6 @@ Together, we can turn this vision into reality. By uniting our efforts and resou
 
 **Let’s begin this journey of transformation.**
 
-**Sincerely,**
-
-M~
-
 > That was inspiring. What did you think? So for only $25k USD (or working it off) and working 2 days a week at most on average, we could all  have peace, prosperity, and joy? That sounds amazing.<br/><br/>
 
 > World Peace<br/>
