@@ -5,7 +5,7 @@
 
 ### Letters
 - A comprehensive letter to detail the Global Institution ([view](docs/letter-v1.md))
-- An alternative abriged letter with additional details ([read](docs/letter-v2.md))
+- An alternative abriged letter with additional details ([view](docs/letter-v2.md))
 
 <!---
 - A letter in narrative form ([read](docs/letter-v3.md))
