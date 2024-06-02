@@ -1,4 +1,4 @@
-# log
+# Plan
 > This is a place to learn more about the Global Institution (GI) plan. Questions, comments, ideas, or thoughts? Use the discussion tab above.
 
 ## Intro
