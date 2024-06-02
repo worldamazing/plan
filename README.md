@@ -1,10 +1,10 @@
 # Plan
-> This is a place to learn more about the Global Institution (GI) plan. Questions, comments, ideas, or thoughts? Use the discussion tab above.
+> This is a place to learn about the Global Institution (GI) plan. Questions, comments, ideas, or thoughts can be shared using the ***Discussions*** tab above
 
 ## Overview Letters of the GI Plan
 > Below are some letters in different forms to help outline the GI plan
-- A comprehensive and inspiring letter with many details ([view](docs/letter-comprehensive.md))
-- An abridged letter with additional perspectives on the plan ([view](docs/letter-abridged.md))
+- A comprehensive and inspiring letter ([view](docs/letter-comprehensive.md))
+- An abridged letter with additional perspectives ([view](docs/letter-abridged.md))
 - A narrative letter showing what the world can one day become for everyone ([view](docs/letter-narrative.md))
 
 ## Changes For All Worldwide
@@ -13,5 +13,5 @@
 - **Expanded For All:** things that will be expanded for all worldwide ([view](docs/expanded-for-all.md))
 
 ## Case Studies
-- **A World United Under the Global Institution:** what would the world look like when everyone is a member of the GI? ([view](docs/case-study-global.md))
-- **Transforming Suffering into Lessons for a Peaceful Future:** keeping the past in our minds forever ([view](docs/case-study-suffering.md))
+- **A World United:** what would the world look like when everyone is a member of the GI? ([view](docs/case-study-global.md))
+- **Transforming Suffering into Lessons:** keeping the past in our minds forever ([view](docs/case-study-suffering.md))
