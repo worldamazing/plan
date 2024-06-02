@@ -11,3 +11,6 @@
 - Covered For All: things you'll no longer need to pay for by joining the GI ([view](docs/covered-for-all.md))
 - Obosolete For All: things that will become obsolete as the GI grows ([view](docs/obsolete-for-all.md))
 - Expanded For All: things that will be expanded for all worldwide ([view](docs/expanded-for-all.md))
+
+## Case Studies
+- A World United Under the Global Institution: what would the world look like when everyone is a member of the GI? ([view](docs/case-study-global.md))
