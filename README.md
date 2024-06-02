@@ -10,3 +10,4 @@
 ## Changes For All Worldwide
 - Covered For All: things you'll no longer need to pay for by joining the GI ([view](docs/covered-for-all.md))
 - Obosolete For All: things that will become obsolete as the GI grows ([view](docs/obsolete-for-all.md))
+- Expanded For All: things that will be expanded for all worldwide ([view](docs/expanded-for-all.md))
