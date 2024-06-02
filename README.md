@@ -4,7 +4,7 @@
 ## Intro
 
 ### Letters
-- A comprehensive letter about the institution ([read](docs/letter-v1.md))
+- A Comprehensive and Inspiring Letter to Detail the Global Institution ([view](docs/letter-v1.md))
 
 <!---
 - An alternative abriged letter with additional details ([read](docs/letter-v2.md))
