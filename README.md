@@ -6,7 +6,7 @@
 ### Letters
 - A comprehensive letter with many details ([view](docs/letter-v1.md))
 - An abriged letter with additional details ([view](docs/letter-v2.md))
-- A letter in narrative form ([read](docs/letter-v3.md))
+- A letter in narrative form ([view](docs/letter-v3.md))
 
 <!---
 ### Details
