@@ -4,9 +4,10 @@
 ## Intro
 
 ### Letters
-- A comprehensive letter with many details ([view](docs/letter-v1.md))
+> Below are some letters in different forms to help outline the GI plan
+- A comprehensive and inspiring letter with many details ([view](docs/letter-v1.md))
 - An abriged letter with additional details ([view](docs/letter-v2.md))
-- A letter in narrative form ([view](docs/letter-v3.md))
+- A letter in narrative form showing what the world can one day become for everyone ([view](docs/letter-v3.md))
 
 <!---
 ### Details
