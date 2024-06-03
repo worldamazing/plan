@@ -6,7 +6,7 @@ As we stand on the brink of a new era, it is with great enthusiasm and hope that
 
 **Our Vision:**
 
-Imagine a world where all basic needs are met through collective effort, allowing each person to live a life of purpose, creativity, and fulfillment. A world where the concept of "work" is transformed into a meaningful contribution, just two days a week on average or possibly even as little as 1 day per week, giving everyone ample time to pursue personal passions, spend with loved ones, and grow as individuals.
+Imagine a world where all basic needs are met through collective effort, allowing each person to live a life of purpose, creativity, and fulfillment. A world where the concept of "work" is transformed into a meaningful contribution, just two days a week on average, giving everyone ample time to pursue personal passions, spend with loved ones, and grow as individuals.
 
 **Key Features of the Global Institution:**
 
