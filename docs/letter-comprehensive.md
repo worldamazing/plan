@@ -10,8 +10,16 @@ Imagine a world where all basic needs are met through collective effort, allowin
 
 **Key Features of the Global Institution:**
 
-1. **Comprehensive Support:**
-   - **Housing for All:** We will build homes for those without, ensuring that no one is left without shelter. For those who already have homes, we will ensure they are maintained and upgraded as needed. Priority will be given to the elderly, disabled, and those with terminal illnesses, ensuring dignity and comfort for all. Initial efforts will focus on acquiring existing properties for immediate needs before transitioning to building new, sustainable housing.
+1. **Comprehensive Support: Housing for All**
+   - **Overview:** Our vision ensures that every individual has a safe and comfortable place to call home, laying a foundational aspect of dignity and stability in our global community.
+   - **Initial Housing Support:** We will build homes for those without, ensuring that no one is left without shelter. For those who already own homes, we will ensure they are maintained and upgraded as needed. Priority will be given to the elderly, disabled, and those with terminal illnesses, ensuring they live with dignity and comfort.
+   - **Dynamic Housing Opportunities:** As members contribute and achieve within the institution, they will have opportunities for housing upgrades. This system is designed to recognize and reward the efforts and contributions of our members, enhancing their living conditions as a form of appreciation and incentive.
+   - **Sustainable Housing Development:** All housing will be built with sustainability in mind, utilizing green technologies and designs that reduce environmental impact and enhance living quality. Our goal is to transition from acquiring existing properties to building new, sustainable housing that not only serves current needs but also anticipates future growth and technological advancements.
+   - **Mobility and Flexibility:** We understand the importance of mobility in a global community. Members will have opportunities to relocate based on their needs, preferences, and contributions to the institution. This mobility is a key part of our vision, allowing people to explore and inhabit different parts of the world, enriching their experiences and understanding of global cultures.
+   - **Long-term Development Plans:** We are committed to continuously improving and expanding our housing projects to meet the growing and evolving needs of our global community. This includes planning new developments in emerging areas, upgrading existing infrastructure, and ensuring that our housing initiatives remain at the forefront of innovation and comfort.
+   - **Amazing Housing For All:** Through these initiatives, we aim to create a living environment that adapts to the needs and achievements of its residents, fostering a sense of belonging and progression. Housing is not just about providing a roof over one's head—it's about creating spaces that grow with their inhabitants and contribute to a fulfilling and dynamic life within the global institution.
+
+1. **Additional Comprehensive Support:**
    - **Universal Healthcare:** Integrated healthcare services will cater to every individual, providing comprehensive health coverage that includes mental health services, preventive care, and advanced treatments. We will also extend our care to domestic animals, recognizing their importance in our lives.
    - **Global Education:** An education system that nurtures every child’s potential, ensuring they excel in all areas of intelligence. By laying a strong foundation early, we aim to make the concept of "genius" universal. Our curriculum will be broad-based, adaptive, and continuous, allowing individuals to pursue their passions and contribute meaningfully to society.
 
@@ -52,20 +60,13 @@ Imagine a world where all basic needs are met through collective effort, allowin
    - **Obsolete Governments:** As our institution grows, the need for traditional governments and their structures will diminish. With all essential services provided and managed collectively, the burdens of governance and taxation will become obsolete. This new system will operate without the need for taxes, as resources are pooled and managed efficiently to benefit all.
    - **Elimination of Land Disputes:** The global institution will manage land resources, eliminating disputes and ensuring that all humans can live and walk freely on any part of this planet. This freedom extends beyond Earth, as we envision a future where humans can explore and inhabit the solar system and beyond without territorial constraints.
 
-
 1. **Comprehensive Inclusion and Rehabilitation:**
    - **No One Left Behind:** In our vision for a unified global community, we are committed to the principle that no one is left behind. This includes those who are currently incarcerated, those without homes, and even those who have committed acts that have deeply hurt others. Our institution recognizes that every human being has inherent value and the potential for positive change.
-
    - **Inclusive Rehabilitation Programs:** We will implement inclusive rehabilitation programs aimed at integrating all individuals back into society, regardless of their past actions. These programs will focus on education, mental health support, and vocational training, ensuring that every individual has the opportunity to contribute positively to the community.
-
    - **Support for the Homeless:** For those living on the streets, our initiative extends beyond providing immediate shelter. We aim to offer comprehensive services that address the root causes of homelessness, including access to healthcare, job training, and continuous support to ensure they can lead stable and fulfilling lives.
-
    - **Reconciliation and Understanding:** For those involved in actions under the banners of various ideologies, whether labeled as freedom fighters or terrorists, our institution will engage in deep, thoughtful reconciliation processes. We believe that by understanding how atrocities against humans have come about—often as consequences of the structures and pitfalls of civilization—collective anger will naturally dissipate. Our aim is not to forgive but to foster a profound understanding that prevents such pitfalls from occurring again, paving the way for harmonious living. **If you hold anger, know that ahead lies the opportunity for a deeper understanding of yourself and humanity. Once we truly understand, the anger will be gone, replaced by insight and compassion.**
-
    - **Freedom of Movement:** Central to our ethos is the belief that every human should have the freedom to walk freely across the globe. We will work to dismantle barriers that restrict free movement and ensure that every person can explore and inhabit the Earth without fear of persecution or restriction. This freedom extends to future aspirations of exploring beyond our planet, ensuring that space, too, becomes a realm of shared human heritage.
-
    - **Global Responsibility:** By fostering a global responsibility ethic, we encourage every individual to take part in creating a world that honors diversity and cherishes peace. This includes engaging in global discussions, participating in cultural exchanges, and supporting initiatives that promote global well-being.
-
    - **Forward, Together:** These initiatives are not mere aspirations but concrete steps towards building a global institution where understanding, rehabilitation, and mutual respect form the cornerstone of our new society. By embracing those who have been marginalized or vilified, we not only enrich our community but also strengthen the very foundations of global peace and cooperation.
 
 1. **Additional Initiatives and Features:**
