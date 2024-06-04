@@ -1,4 +1,4 @@
-# A Comprehensive and Inspiring Letter to Detail the Global Institution
+# A Comprehensive Letter to Detail the Global Institution
 
 **Dear Global Citizens,**
 
