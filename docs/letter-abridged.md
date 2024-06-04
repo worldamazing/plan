@@ -1,4 +1,4 @@
-# Open Letter to the Citizens of the World
+# An Abridged Letter to Detail the Global Institution
 > Here's another version of a letter that attempts to encompass everything that I discussed with ChatGPT. It's really doing an incredible job. It's still mind blowing to me almost daily. Humanity is incredible when we work together.
 
 **Dear Esteemed Members of the Global Community,**
