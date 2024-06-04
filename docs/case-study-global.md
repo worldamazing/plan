@@ -12,7 +12,7 @@ Healthcare, integrated into daily life, focuses on prevention and well-being, su
 
 Culturally, the world blossoms as barriers dissolve. Weekly cultural festivals become a global norm, where people dress in the vibrant colors of their heritage and share their traditions and cuisines openly, creating a tapestry of human expression.
 
-The environment receives unprecedented attention. With global cooperation, the GI implements large-scale initiatives to restore natural habitats and reverse the effects of climate change. Cities are no longer just places to live; they are ecosystems that contribute to the planet's health.
+The environment receives unprecedented attention. With global cooperation, the GI implements large-scale initiatives to restore natural habitats and reverse the effects of carbon emissions. Cities are no longer just places to live; they are ecosystems that contribute to the planet's health.
 
 In the evening, as people gather in communal dining halls or small family units, the air is filled with a sense of peace and security. The worries of unemployment, inequality, and isolation are tales of the past. The world operates not as a collection of nations, but as a single, unified entity that thrives on cooperation and mutual respect.
 
