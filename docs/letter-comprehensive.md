@@ -8,7 +8,7 @@ As we stand on the brink of a new era, it is with great enthusiasm and hope that
 
 Imagine a world where all basic needs are met through collective effort, allowing each person to live a life of purpose, creativity, and fulfillment. A world where the concept of "work" is transformed into a meaningful contribution, just two days a week on average, giving everyone ample time to pursue personal passions, spend with loved ones, and grow as individuals.
 
-## **Key Features of the Global Institution:**
+## **Key Features of the Global Institution**
 
 1. ### **Home for Every Citizen: Building Safe and Sustainable Communities**
    - **Overview:** Our vision ensures that every individual has a safe and comfortable place to call home, laying a foundational aspect of dignity and stability in our global community.
