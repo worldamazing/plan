@@ -24,3 +24,20 @@
 - **Mental Health:** Envisioning a society free from mental health challenges ([view](docs/vision-mental-health.md))
 - **Creativity and Human Potential:** Imagining a society where everyone excels at the highest level of all forms of intelligence ([view](docs/vision-human-potential.md))
 - **Openness and Empowerment:** Envisioning a society where openness and self-awareness empower every individual to contribute fully to communal life ([view](docs/vision-openness-empowerment.md))
+
+## Member Benefits Overview
+> In the Global Institution, we've reimagined what it means to live and work together. This section details the comprehensive benefits available to all members, from transformative living environments to global travel opportunities. Each benefit underscores our commitment to enhancing every aspect of our members' lives.
+
+### Core Member Benefits
+> Delve into the array of foundational benefits that every member enjoys, designed to elevate both personal well-being and communal prosperity. Explore how each benefit integrates seamlessly into daily life, ensuring that every interaction and experience within the GI is enriching.
+
+- **Core Member Benefits:** A comprehensive overview of the standard benefits available to all members, enhancing every aspect of life from home to health, education, and beyond ([view](docs/benefits.md))
+
+### Personalized Member Pages
+> Recognizing the unique contributions and preferences of each member, we offer personalized benefits tailored to the individual lifestyles and aspirations of key community figures. These pages illustrate how the GI adapts its vast resources to meet specific needs and interests.
+- **Barack:** Diplomacy and global leadership enhancements ([view](docs/benefits-barack.md))
+- **Don:** Focused on entrepreneurship and financial strategy ([view](docs/benefits-don.md))
+- **Joe:** Tailored for governance and policy expertise ([view](docs/benefits-joe.md))
+- **Ye:** Innovative approaches to music and fashion ([view](docs/benefits-ye.md))
+- **Jay:** Supporting artistic entrepreneurship and cultural impact ([view](docs/benefits-hov.md))
+- **Marshall:** Enhancing musical creativity and personal development ([view](docs/benefits-marshall.md))
