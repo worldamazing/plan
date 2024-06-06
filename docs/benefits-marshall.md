@@ -23,7 +23,3 @@ Recognizing the need for balance and inspiration, the GI offers **Personalized C
 
 #### **Conclusion: A Bold Future Awaits**
 Marshall Bruce Mathers III, your path has altered the course of music and influenced countless lives. The Global Institution invites you to expand this influence, challenging societal norms and advocating for change. Join us, and lead a global movement where your revolutionary spirit continues to push boundaries and redefine possibilities.
-
-<!--
-chatgpt was prompted: do it again for marhsall, and take into account his way of thinking, don't be afraid to push boundaries with his benefits page the way that EM pushed boundaries in not just hip-hop but in music, although his later work is maybe 50% as innovative as his earlier stuff, his first albums and second EP pushed boundaries of things what[sic] could be said. In addition remember his struggle with addiction, weight gain, and other mental health struggles
--->
