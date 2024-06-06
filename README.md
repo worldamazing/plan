@@ -33,8 +33,8 @@
 
 - **Core Member Benefits:** A comprehensive overview of the standard benefits available to all members, enhancing every aspect of life from home to health, education, and beyond ([view](docs/benefits.md))
 
-### Personalized Member Pages
-> Recognizing the unique contributions and preferences of each member, we offer personalized benefits tailored to the individual lifestyles and aspirations of key community figures. These pages illustrate how the GI adapts its vast resources to meet specific needs and interests.
+### Personalized Member Benefits
+> Recognizing the unique contributions and preferences of each member, the Global Institution is committed to ensuring that everyone has the opportunity to soar to new heights. Our personalized benefits are tailored to the individual lifestyles and aspirations of key community figures, demonstrating how the GI leverages its vast resources to meet specific needs and interests. These pages embody our belief that no matter one’s current standing or viewpoints, the future holds incredible potential for all. By embracing every member, we foster a brighter, more inclusive tomorrow.
 - **Barack:** Diplomacy and global leadership enhancements ([view](docs/benefits-barack.md))
 - **Don:** Focused on entrepreneurship and financial strategy ([view](docs/benefits-don.md))
 - **Joe:** Tailored for governance and policy expertise ([view](docs/benefits-joe.md))
