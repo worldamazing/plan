@@ -7,7 +7,7 @@ The Global Institution (GI) extends a visionary platform to Ye, an artist, innov
 Ye’s unparalleled creativity has redefined music, fashion, and art. The **Creative Renaissance and Innovation Hubs** within the GI offer state-of-the-art facilities and resources for Ye to continue pushing boundaries. These hubs are equipped with advanced technology and collaborative spaces, fostering a new era of creative exploration and groundbreaking projects.
 
 #### **Global Cultural Ambassador**
-Ye’s influence on global culture is undeniable. As the **Global Cultural Ambassador**, Ye can lead initiatives that celebrate and expand cultural understanding worldwide. This role involves curating international art exhibitions, music festivals, and cultural exchanges that highlight diverse artistic expressions and promote global unity.
+Ye’s influence on global culture is undeniable. As a **Global Cultural Ambassador**, Ye can lead initiatives that celebrate and expand cultural understanding worldwide. This role involves curating international art exhibitions, music festivals, and cultural exchanges that highlight diverse artistic expressions and promote global unity.
 
 #### **Architectural and Urban Development Projects**
 With a keen interest in architecture and community design, Ye is invited to spearhead the **Innovative Urban Development Projects**. These projects focus on creating sustainable, aesthetically groundbreaking communities that reflect Ye’s vision for harmonious living spaces. This includes designing communal spaces and futuristic cities that prioritize human connection and environmental sustainability.
