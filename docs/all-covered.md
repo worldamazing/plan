@@ -1,6 +1,6 @@
 # Things That Will Be Covered by the Global Institution (GI) for Everyone for Life:
 
-1. **Housing**: Including utilities (electricity, water, heating, cooling).
+1. **Housing**: Including utilities (internet, electricity, water, heating, cooling).
 1. **Healthcare**: Comprehensive medical, dental, mental health services, and wellness programs.
 1. **Education**: All levels of education, from early childhood to higher education and lifelong learning.
 1. **Food**: Basic groceries and meals.
@@ -11,7 +11,6 @@
 1. **Communication**: Internet, phone, and postal services.
 1. **Entertainment**: Access to cultural events, sports, and recreational activities.
 1. **Personal Care**: Basic hygiene products and services.
-1. **Utilities**: Internet, electricity, water, heating, and waste management.
 1. **Community Services**: Libraries, parks, recreational facilities, and community centers.
 1. **Fitness**: Gym memberships, fitness classes, and wellness programs.
 1. **Technology**: Essential personal electronics and maintenance.
