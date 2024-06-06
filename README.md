@@ -23,3 +23,4 @@
 - **Justice:** Imagining a world governed by restorative justice practices ([view](docs/vision-justice.md))
 - **Mental Health:** Envisioning a society free from mental health challenges ([view](docs/vision-mental-health.md))
 - **Creativity and Human Potential:** Imagining a society where everyone excels at the highest level of all forms of intelligence ([view](docs/vision-human-potential.md))
+- **Openness and Empowerment:** Envisioning a society where openness and self-awareness empower every individual to contribute fully to communal life ([view](docs/vision-openness.md))
