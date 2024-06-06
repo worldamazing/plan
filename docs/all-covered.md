@@ -1,4 +1,5 @@
-# Things That Will Be Covered by the Global Institution (GI) for Everyone for Life:
+# Covered For All
+## Essential services and resources provided at no cost 
 
 1. **Housing**: Including utilities (internet, electricity, water, heating, cooling).
 1. **Healthcare**: Comprehensive medical, dental, mental health services, and wellness programs.
