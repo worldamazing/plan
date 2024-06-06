@@ -22,3 +22,4 @@
 > Offering a conceptual and holistic look at the future, this section elaborates on the broader societal transformations envisioned by the Global Institution. It discusses the idealistic outcomes of these changes, such as the eradication of mental health challenges and the overhaul of the justice system into a restorative model. This vision paints a picture of a world where systemic changes lead to a healthier, more equitable, and interconnected global society.
 - **Justice:** Imagining a world governed by restorative justice practices ([view](docs/vision-justice.md))
 - **Mental Health:** Envisioning a society free from mental health challenges ([view](docs/vision-mental-health.md))
+- **Creativity and Human Potential:** Imagining a society where everyone excels at the highest level of all forms of intelligence ([view](docs/vision-creativity-human-potential.md))
