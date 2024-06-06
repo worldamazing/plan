@@ -26,6 +26,6 @@ Imagine grocery stores as vibrant community hubs where commerce and social inter
 Our logistics network manages goods distribution efficiently across the globe and into space, significantly reducing the need for personal vehicles and promoting environmental stewardship. We commit to specialized habitats for urban wildlife and urban farms to reconnect our children with nature.
 
 ## **Security, Peace, and Rehabilitation**
-Transitioning from punitive systems to focus on rehabilitation and community support, we aim to empty our prisons by 2050, replacing them with facilities that encourage societal integration. Our commitment to dignity and respect is underscored by our use of innovative, non-lethal methods such as water or candy-dispensing units for maintaining peace.
+Transitioning from punitive systems to focus on rehabilitation and community support, we aim to empty our prisons by 2050, replacing them with facilities that encourage societal integration. Our commitment to dignity and respect is underscored by our use of innovative, non-lethal methods for maintaining peace.
 
 This letter is not just an invitation—it is an imperative to build a future where cooperation, innovation, and respect for life define our global community. Let's unite to create this sanctuary where every individual and every form of life can flourish.
