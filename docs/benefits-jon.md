@@ -19,6 +19,5 @@ Jon Stewart, your tenure behind the desk was just the prelude. At the Global Ins
 
 Join us, and let’s turn those hypothetical musings into definitive actions.
 
-## Illustrations
 ![illustration capturing the essence of a satirical news anchor, depicted in a vibrant and dynamic global setting.](/assets/images/benefits-jon-01.webp)
-![illustration capturing the essence of a satirical news anchor, depicted in a vibrant and dynamic global setting.](/assets/images/benefits-jon-02.webp)
+![illustration capturing the essence of a satirical news anchor in a vibrant global setting. This scene shows the figure speaking animatedly, surrounded by an engaged and diverse audience, set against a backdrop of global communication symbols.](/assets/images/benefits-jon-02.webp)
