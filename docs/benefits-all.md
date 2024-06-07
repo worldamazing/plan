@@ -32,8 +32,7 @@ Join the Global Institution and step into a life where every day is a canvas of 
 ### **Comprehensive Home Amenities**
 - **Fully Furnished Residences**: Every home comes fully equipped with stylish, comfortable furniture and state-of-the-art appliances, making moving in seamless and stress-free.
 - **Library Collections**: Each home includes a curated library stocked with a range of books spanning literature, science, history, and more, encouraging continuous learning and leisure.
-- **Essential Utilities and Connectivity**: High-speed internet, premium cable, and all utilities are included, ensuring connectivity and comfort in every residence.
-Certainly! Here’s how you can incorporate the inclusion of fun foods and international delights into the grocery section, emphasizing the balance between health and enjoyment:
+- **Essential Utilities and Connectivity**: High-speed internet and all utilities are included, ensuring connectivity and comfort in every residence.
 
 ### **Comprehensive Grocery Service**
 - **Tailored Grocery Deliveries**: Experience the convenience of personalized grocery delivery directly to your door. Choose from a wide selection of nutritious staples and delightful treats, all from our own GI ecosystem, catering to your specific dietary needs and cravings. From seasonal fruits and artisanal cheeses to specialty meats and gourmet desserts, our integrated supply chain ensures the highest quality and freshness.
