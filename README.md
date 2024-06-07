@@ -3,9 +3,9 @@
 
 ## Overview Letters to All Global Citizens
 > This section presents three distinct formats of letters—Comprehensive, Abridged, and Narrative—each crafted to meet different information preferences. Whether you seek a detailed exploration, a quick overview, or a story-driven presentation, these letters provide insights into the Global Institution's plans, ensuring that everyone, regardless of time constraints or information needs, can engage with our transformative agenda.
-- [**Comprehensive letter**](docs/letter-comprehensive.md): Offering detailed insights and in-depth analysis
-- [**Abridged letter**](docs/letter-abridged.md): Concise information for a quick understanding
-- [**Narrative letter**](docs/letter-narrative.md): Engaging storytelling format
+- [**Comprehensive Letter**](docs/letter-comprehensive.md): Offering detailed insights and in-depth analysis
+- [**Abridged Letter**](docs/letter-abridged.md): Concise information for a quick understanding
+- [**Narrative Letter**](docs/letter-narrative.md): Engaging storytelling format
 
 ## Changes For All Worldwide
 > This section outlines specific societal and structural changes that the Global Institution will bring about globally. It lists elements that will become obsolete, aspects that will be universally covered, and areas that will be significantly expanded, detailing the practical shifts in how resources and services are managed and distributed worldwide. 
