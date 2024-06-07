@@ -12,6 +12,6 @@ Miguel thrived too, benefiting from the GI’s education initiatives. Schools in
 
 As Maria watched Miguel grow into a confident, caring young person, she felt a deep gratitude for the GI. It had given her family not just the means to survive but the space to thrive. The fear and fatigue that once marked her days were replaced by a sense of purpose and possibility.
 
-Every year, Maria and Miguel visited the [Memorial Gardens of Reflection and Learning](docs/case-study-suffering.md), a poignant reminder of the world’s past hardships. Here, they learned about the struggles and resilience of generations before them, reinforcing their appreciation for the peace and stability the GI had cultivated.
+Every year, Maria and Miguel visited the [Memorial Gardens of Reflection and Learning](/docs/case-study-suffering.md), a poignant reminder of the world’s past hardships. Here, they learned about the struggles and resilience of generations before them, reinforcing their appreciation for the peace and stability the GI had cultivated.
 
 In this new world, Maria found her voice, her community, and a future illuminated by hope—not just for herself, but for Miguel and generations to follow. Her life, once defined by limitations, was now a testament to the transformative power of care, community, and opportunity.
