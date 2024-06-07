@@ -17,16 +17,16 @@
 > Explore hypothetical scenarios that vividly illustrate the transformative effects of the Global Institution through 'Before and After' narratives. These case studies demonstrate the potential changes in individuals' lives and community dynamics, offering a tangible look at the practical application and impact of the GI's initiatives.
 - [**A World United**](docs/case-study-global.md): Envisioning global unity under the GI
 - [**Transforming Suffering into Lessons**](docs/case-study-suffering.md): Maintaining historical awareness while fostering progress
-- [**Maria's Renewed Hope**](docs/case-study-maria.md): A factory worker's life is transformed by stable employment and community involvement.
-- [**John's New Foundations**](docs/case-study-john.md): A single father's life is revitalized through community support and new career opportunities.
-- [**The Washingtons' Community Revival**](docs/case-study-the-washingtons.md): A low-income family in Compton thrives in a transformed, supportive environment.
-- [**The Hills' Community Engagement**](docs/case-study-the-hills.md): Wealthy residents of the Hollywood Hills discover a new sense of purpose and community.
-- [**The Al-Hayek's Cultural Renaissance**](docs/case-study-the-al-hayeks.md): A family in Gaza finds new beginnings in a revitalized community.
-- [**The Golan's Unity Through Diversity**](docs/case-study-the-golans.md): A family in the West Bank contributes to peace and community healing.
-- [**Jacob's Journey from Conflict to Reconciliation**](docs/case-study-jacob.md): A former IDF Air Force pilot finds healing and a new purpose in peace-building.
-- [**Jamal's Road to Redemption**](docs/case-study-jamal.md): A former combatant's transformation through education and community engagement.
-- [**David's Path to Inner Peace**](docs/case-study-david.md): How a former Prime Minister redirected his focus from conflict to peace advocacy.
-- [**Alexei's Transformation**](docs/case-study-alexei.md): From a war leader to a global peacemaker, illustrating personal and policy transformations.
+- [**Maria's Renewed Hope**](docs/case-study-maria.md): A factory worker's life is transformed by stable employment and community involvement
+- [**John's New Foundations**](docs/case-study-john.md): A single father's life is revitalized through community support and new career opportunities
+- [**The Washingtons' Community Revival**](docs/case-study-the-washingtons.md): A low-income family in Compton thrives in a transformed, supportive environment
+- [**The Hills' Community Engagement**](docs/case-study-the-hills.md): Wealthy residents of the Hollywood Hills discover a new sense of purpose and community
+- [**The Al-Hayek's Cultural Renaissance**](docs/case-study-the-al-hayeks.md): A family in Gaza finds new beginnings in a revitalized community
+- [**The Golan's Unity Through Diversity**](docs/case-study-the-golans.md): A family in the West Bank contributes to peace and community healing
+- [**Jacob's Journey from Conflict to Reconciliation**](docs/case-study-jacob.md): A former IDF Air Force pilot finds healing and a new purpose in peace-building
+- [**Jamal's Road to Redemption**](docs/case-study-jamal.md): A former combatant's transformation through education and community engagement
+- [**David's Path to Inner Peace**](docs/case-study-david.md): How a former Prime Minister redirected his focus from conflict to peace advocacy
+- [**Alexei's Transformation**](docs/case-study-alexei.md): From a war leader to a global peacemaker, illustrating personal and policy transformations
 
 
 ## Vision of the Future
@@ -45,7 +45,7 @@
 - [**Core Benefits**](docs/benefits-all.md): A comprehensive overview of the standard benefits available to all members, enhancing every aspect of life from home to health, education, and beyond
 
 ### Personalized Benefits
-> Recognizing the unique contributions and preferences of each member, the Global Institution is committed to ensuring that everyone has the opportunity to soar to new heights. Our personalized benefits are tailored to the individual lifestyles and aspirations of key community figures, demonstrating how the GI leverages its vast resources to meet specific needs and interests. These pages embody our belief that no matter one’s current standing or viewpoints, the future holds incredible potential for all. By embracing every member, we aim to foster the brightest, most inclusive future for all.
+> Recognizing the unique contributions and preferences of each member, the Global Institution is committed to ensuring that everyone has the opportunity to soar to new heights. Our personalized benefits are tailored to the individual lifestyles and aspirations of key community figures, demonstrating how the GI leverages its vast resources to meet specific needs and interests. These pages embody our belief that no matter one’s current standing or viewpoints, the future holds incredible potential for all. By embracing every member, we aim to foster the brightest, most inclusive future.
 - [**Barack**](docs/benefits-barack.md): Diplomacy and global leadership enhancements
 - [**Don**](docs/benefits-don.md): Focused on entrepreneurship and financial strategy
 - [**Joe**](docs/benefits-joe.md): Tailored for governance and policy expertise
