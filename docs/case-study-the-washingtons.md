@@ -16,7 +16,7 @@ The children thrived in GI-supported schools that focused not just on academics 
 The Washingtons also participated in the GI’s cultural revival programs, which celebrated and preserved Compton’s rich heritage. They helped organize neighborhood festivals that featured local music, art, and food, fostering a renewed sense of pride and belonging.
 
 **Reflecting on the Past and Embracing the Future**:
-Annually, the Washington family visited the GI’s [Memorial Gardens of Reflection and Learning](docs/case-study-suffering.md). These visits were deeply meaningful, reminding them of the challenges they had overcome and reinforcing their commitment to contributing positively to their community.
+Annually, the Washington family visited the GI’s [Memorial Gardens of Reflection and Learning](/docs/case-study-suffering.md). These visits were deeply meaningful, reminding them of the challenges they had overcome and reinforcing their commitment to contributing positively to their community.
 
 **Life After GI**:
 In this new world, every day was an opportunity for the Washingtons to grow together, give back to their community, and live sustainably. Marcus and Jasmine found fulfillment in work that directly improved their surroundings and empowered their neighbors. The children, with access to unparalleled educational resources, were poised to become thoughtful, engaged citizens.
