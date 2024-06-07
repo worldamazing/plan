@@ -1,5 +1,5 @@
 # Global Institution Plan
-> Welcome to the comprehensive hub for the Global Institution (GI) plan. Here, you will find detailed insights into our transformative agenda designed to reshape societies worldwide. Explore various sections to understand the depth and breadth of our initiatives, from economic restructuring to societal well-being. We encourage you to engage with us: share your thoughts, pose questions, offer comments, or contribute ideas using the Discussions tab above. Your input is invaluable as we work together to build a brighter, more equitable future for all.
+> Welcome to the comprehensive hub for the Global Institution (GI) plan. Here, you will find detailed insights into our transformative agenda designed to reshape societies worldwide. Explore various sections to understand the depth and breadth of our initiatives, from economic restructuring to societal well-being. We encourage you to engage with us: share your thoughts, pose questions, offer comments, or contribute ideas using the Discussions tab above. Your input is invaluable as we work together to build the brightest, most equitable future for all.
 
 ## Overview Letters to All Global Citizens
 > This section presents three distinct formats of letters—Comprehensive, Abridged, and Narrative—each crafted to meet different information preferences. Whether you seek a detailed exploration, a quick overview, or a story-driven presentation, these letters provide insights into the Global Institution's plans, ensuring that everyone, regardless of time constraints or information needs, can engage with our transformative agenda.
@@ -28,13 +28,13 @@
 ## Member Benefits Overview
 > In the Global Institution, we've reimagined what it means to live and work together. This section details the comprehensive benefits available to all members, from transformative living environments to global travel opportunities. Each benefit underscores our commitment to enhancing every aspect of our members' lives.
 
-### Core Member Benefits
-> Delve into the array of foundational benefits that every member enjoys, designed to elevate both personal well-being and communal prosperity. Explore how each benefit integrates seamlessly into daily life, ensuring that every interaction and experience within the GI is enriching.
+### Benefits For All
+> Delve into the array of foundational benefits that every member enjoys, designed to elevate both personal well-being and communal prosperity. Explore how benefits integrate seamlessly into daily life, ensuring that every interaction and experience within the GI is enriching.
 
-- **Core Member Benefits:** A comprehensive overview of the standard benefits available to all members, enhancing every aspect of life from home to health, education, and beyond ([view](docs/benefits.md))
+- **Core Benefits:** A comprehensive overview of the standard benefits available to all members, enhancing every aspect of life from home to health, education, and beyond ([view](docs/benefits-all.md))
 
-### Personalized Member Benefits
-> Recognizing the unique contributions and preferences of each member, the Global Institution is committed to ensuring that everyone has the opportunity to soar to new heights. Our personalized benefits are tailored to the individual lifestyles and aspirations of key community figures, demonstrating how the GI leverages its vast resources to meet specific needs and interests. These pages embody our belief that no matter one’s current standing or viewpoints, the future holds incredible potential for all. By embracing every member, we foster a brighter, more inclusive tomorrow.
+### Personalized Benefits
+> Recognizing the unique contributions and preferences of each member, the Global Institution is committed to ensuring that everyone has the opportunity to soar to new heights. Our personalized benefits are tailored to the individual lifestyles and aspirations of key community figures, demonstrating how the GI leverages its vast resources to meet specific needs and interests. These pages embody our belief that no matter one’s current standing or viewpoints, the future holds incredible potential for all. By embracing every member, we aim to foster the brightest, most inclusive future for all.
 - **Barack:** Diplomacy and global leadership enhancements ([view](docs/benefits-barack.md))
 - **Don:** Focused on entrepreneurship and financial strategy ([view](docs/benefits-don.md))
 - **Joe:** Tailored for governance and policy expertise ([view](docs/benefits-joe.md))
