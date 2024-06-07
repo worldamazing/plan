@@ -18,37 +18,8 @@ His legacy evolved dramatically—from a war leader to a global peacemaker. Alex
 
 This case study not only chronicles a political transformation but also captures a deeply personal evolution, underscoring the critical link between leadership in public office and the private sphere in nurturing a peaceful world.
 
-## Illustrations of Future Alexei
-<figure>
-    <img src="/assets/images/case-study-alexei-01.webp"
-         alt="">
-    <!--<figcaption><i>The transformative journey of a fictional prime minister named Alexei</i></figcaption>-->
-</figure>
-
-<br/><br/>
-<figure>
-    <img src="/assets/images/case-study-alexei-02.webp"
-         alt="">
-    <!--<figcaption><i>A peaceful negotiation scene involving the fictional prime minister, Alexei</i></figcaption>-->
-</figure>
-
-<br/><br/>
-<figure>
-    <img src="/assets/images/case-study-alexei-03.webp"
-         alt="">
-    <!--<figcaption><i>The fictional Prime Minister Alexei visiting a region that was once war-torn but is now bustling with reconstruction efforts</i></figcaption>-->
-</figure>
-
-<br/><br/>
-<figure>
-    <img src="/assets/images/case-study-alexei-05.webp"
-         alt="">
-    <!--<figcaption><i>The fictional Prime Minister Alexei visiting a region that was once war-torn but is now bustling with reconstruction efforts</i></figcaption>-->
-</figure>
-
-<br/><br/>
-<figure>
-    <img src="/assets/images/case-study-alexei-04.webp"
-         alt="">
-   <!-- <figcaption><i>Alexei eating dinner with his family</i></figcaption>-->
-</figure>
+![](/assets/images/case-study-alexei-01.webp)
+![](/assets/images/case-study-alexei-02.webp)
+![](/assets/images/case-study-alexei-03.webp)
+![](/assets/images/case-study-alexei-05.webp)
+![](/assets/images/case-study-alexei-04.webp)
