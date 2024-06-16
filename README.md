@@ -7,7 +7,15 @@
 - [**Abridged Letter**](docs/letter-abridged.md): Concise information for a quick understanding
 - [**Narrative Letter**](docs/letter-narrative.md): Engaging storytelling format
 
-## Changes For All Worldwide
+## Member Benefits Overview
+<!-- In the Global Institution, we've reimagined what it means to live and work together. This section details the comprehensive benefits available to all members, from transformative living environments to global travel opportunities. Each benefit underscores our commitment to enhancing every aspect of our members' lives. -->
+
+### Benefits For All
+> Delve into the array of foundational benefits that every member enjoys, designed to elevate both personal well-being and communal prosperity. Explore how benefits integrate seamlessly into daily life, ensuring that every interaction and experience within the GI is enriching.
+
+- [**Core Benefits**](docs/benefits-all.md): A comprehensive overview of the standard benefits available to all members, enhancing every aspect of life from home to health, education, and beyond
+  
+### Changes For All Worldwide
 > This section outlines specific societal and structural changes that the Global Institution will bring about globally. It lists elements that will become obsolete, aspects that will be universally covered, and areas that will be significantly expanded, detailing the practical shifts in how resources and services are managed and distributed worldwide. 
 - [**Covered For All**](docs/all-covered.md): Essential services and resources provided at no cost
 - [**Obsolete For All**](docs/all-obsolete.md): Outdated practices and systems phased out
@@ -36,14 +44,7 @@
 - [**Creativity and Human Potential**](docs/vision-human-potential.md): Imagining a society where everyone excels at the highest level of all forms of intelligence
 - [**Openness and Empowerment**](docs/vision-openness-empowerment.md): Envisioning a society where openness and self-awareness empower every individual to contribute fully to communal life
 
-## Member Benefits Overview
-> In the Global Institution, we've reimagined what it means to live and work together. This section details the comprehensive benefits available to all members, from transformative living environments to global travel opportunities. Each benefit underscores our commitment to enhancing every aspect of our members' lives.
-
-### Benefits For All
-> Delve into the array of foundational benefits that every member enjoys, designed to elevate both personal well-being and communal prosperity. Explore how benefits integrate seamlessly into daily life, ensuring that every interaction and experience within the GI is enriching.
-
-- [**Core Benefits**](docs/benefits-all.md): A comprehensive overview of the standard benefits available to all members, enhancing every aspect of life from home to health, education, and beyond
-
+<!--
 ### Personalized Benefits
 > Recognizing the unique contributions and preferences of each member, the Global Institution is committed to ensuring that everyone has the opportunity to soar to new heights. Our personalized benefits are tailored to the individual lifestyles and aspirations of key community figures, demonstrating how the GI leverages its vast resources to meet specific needs and interests. These pages embody our belief that no matter one’s current standing or viewpoints, the future holds incredible potential for all. By embracing every member, we aim to foster the brightest, most inclusive future.
 - [**Barack**](docs/benefits-barack.md): Diplomacy and global leadership enhancements
@@ -52,3 +53,4 @@
 - [**Ye**](docs/benefits-ye.md): Innovative approaches to music and fashion
 - [**Jay**](docs/benefits-hov.md): Supporting artistic entrepreneurship and cultural impact
 - [**Marshall**](docs/benefits-marshall.md): Enhancing musical creativity and personal development
+-->
