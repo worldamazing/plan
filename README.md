@@ -10,7 +10,7 @@
 ## Member Benefits Overview
 <!-- In the Global Institution, we've reimagined what it means to live and work together. This section details the comprehensive benefits available to all members, from transformative living environments to global travel opportunities. Each benefit underscores our commitment to enhancing every aspect of our members' lives. -->
 
-### Benefits For All
+### Benefits For All Worldwide
 > Delve into the array of foundational benefits that every member enjoys, designed to elevate both personal well-being and communal prosperity. Explore how benefits integrate seamlessly into daily life, ensuring that every interaction and experience within the GI is enriching.
 
 - [**Core Benefits**](docs/benefits-all.md): A comprehensive overview of the standard benefits available to all members, enhancing every aspect of life from home to health, education, and beyond
