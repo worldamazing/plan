@@ -2,13 +2,14 @@
 > Welcome to the comprehensive hub for the Global Institution (GI) plan. Here, you will find detailed insights into our transformative agenda designed to reshape societies worldwide. Explore various sections to understand the depth and breadth of our initiatives, from economic restructuring to societal well-being. We encourage you to engage with us: share your thoughts, pose questions, offer comments, or contribute ideas using the Discussions tab above. Your input is invaluable as we work together to build the brightest, most equitable future for all.
 
 ## Overview Letters to All Global Citizens
-> This section presents three distinct formats of letters—Comprehensive, Abridged, and Narrative—each crafted to meet different information preferences. Whether you seek a detailed exploration, a quick overview, or a story-driven presentation, these letters provide insights into the Global Institution's plans, ensuring that everyone, regardless of time constraints or information needs, can engage with our transformative agenda.
+> Whether you seek a detailed exploration, a quick overview, or a story-driven presentation, these letters provide insights into the Global Institution's plans, ensuring that everyone, regardless of time constraints or information needs, can engage with our transformative agenda.
 - [**Comprehensive Letter**](docs/letter-comprehensive.md): Offering detailed insights and in-depth analysis
 - [**Abridged Letter**](docs/letter-abridged.md): Concise information for a quick understanding
 - [**Narrative Letter**](docs/letter-narrative.md): Engaging storytelling format
 
 ## Member Benefits
-> Delve into the array of foundational benefits that every member enjoys, designed to elevate both personal well-being and communal prosperity. Explore how benefits integrate seamlessly into daily life, ensuring that every interaction and experience within the GI is enriching.
+> Delve into the array of foundational benefits that every member enjoys, designed to elevate both personal well-being and communal prosperity.
+<!--Explore how benefits integrate seamlessly into daily life, ensuring that every interaction and experience within the GI is enriching.-->
 
 - [**Core Benefits**](docs/benefits-all.md): A comprehensive overview of the standard benefits available to all members, enhancing every aspect of life from home to health, education, and beyond
 
