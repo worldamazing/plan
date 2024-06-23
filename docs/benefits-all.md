@@ -78,11 +78,65 @@ Join the Global Institution and step into a life where every day is a canvas of 
 1. **Commercial Environmental Services**: For-profit waste management and recycling companies.
 <!--1. **Traditional Government Structures**: National, state, and local governments as separate entities.-->
 
-<!--
+### Crimes Cured For All
+> Targeting severe violations that threaten human rights and dignity
+1. **Violence (including Domestic Violence)**
+2. **War**
+3. **Murder**
+4. **Assault**
+5. **Abuse (including Domestic Abuse)**
+6. **Torture**
+7. **Human Trafficking**
+8. **Genocide**
+9. **Ethnic Cleansing**
+10. **Terrorism**
+11. **Gang Violence**
+12. **Rape**
+13. **Sexual Assault**
+14. **Corruption**
+15. **Racism**
+16. **Discrimination**
+17. **Exploitation**
+18. **Animal Cruelty**
+19. **Forced Labor**
+20. **Apartheid**
+21. **Forced Displacement**
+
+### Societal Issues Cured For All
+> Addressing systemic conditions that underpin societal dysfunction
+1. **Economic Inequality**
+2. **Educational Disparities**
+3. **Environmental Degradation**
+4. **Resource Depletion**
+5. **Drug and Substance Abuse**
+6. **Homelessness**
+7. **Hunger**
+8. **Malnutrition**
+9. **Disease**
+10. **Bullying**
+11. **Illiteracy**
+12. **Digital Divide**
+13. **Obesity**
+14. **Lifestyle Diseases**
+
+### Behavioral and Cultural Challenges Cured For All
+> Focusing on cultural norms and behaviors that perpetuate inequality and exclusion
+1. **Prejudice**
+2. **Ignorance**
+3. **Misinformation**
+4. **Authoritarianism**
+5. **Mental Illness Stigma**
+6. **Isolation**
+7. **Loneliness**
+8. **Toxic Behaviors**
+9. **Mean Behaviors**
+10. **Unhealthy Gender Expectations**
+11. **Social Inequality**
+
 ### Expanded For All
 > Enhancements and expansions of services and features for global accessibility. These services are designed to be comprehensive and inclusive, ensuring that every aspect of global life is supported, protected, and enhanced by the Global Institution.
 
-1. **Safety Services**: Includes a defense force and comprehensive emergency response system, focusing on crisis management, disaster preparedness, and global safety. This force integrates technology like drones and AI to enhance efficiency and responsiveness.
+1. **Safety Services**: Includes a global defense force and comprehensive emergency response system, focusing on crisis management, disaster preparedness, and global safety. This force integrates technology like drones and AI to enhance efficiency and responsiveness.
 1. **People's Department**: Integrated with the global defense force, this department ensures community welfare, mediates conflicts, and engages in proactive community outreach to maintain harmony and address issues before they escalate.
 1. **Global Health Monitoring**: Utilizes advanced medical technology and data analysis to proactively monitor public health, predict outbreaks, and deploy preventative measures swiftly.
 1. **Environmental Stewardship Corps**: Focuses on maintaining and restoring natural habitats, managing climate change impacts, and implementing sustainable practices at a global scale. This includes reforestation projects, ocean cleanup initiatives, and wildlife conservation efforts.
@@ -95,7 +149,6 @@ Join the Global Institution and step into a life where every day is a canvas of 
 1. **Sports and Recreation Expansion**: Develops and maintains public sports facilities, organizes global sports events, and promotes physical well-being and teamwork through sports and recreational activities.
 1. **Space Exploration Department**: Coordinates global efforts in space exploration and research, including the development of sustainable extraterrestrial habitats and the peaceful use of space resources.
 1. **Future Readiness Task Force**: Identifies potential future challenges and develops strategies to address them, ensuring that the Global Institution remains adaptable and forward-thinking.
--->
 
 ## **Expansive Member Privileges**
 
