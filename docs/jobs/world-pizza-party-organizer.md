@@ -1,4 +1,4 @@
-## GI World Pizza Party Organizer
+# GI World Pizza Party Organizer
 
 **Job Title:** World Pizza Party Organizer
 
