@@ -1,6 +1,4 @@
-# GI World Pizza Party Organizer
-
-**Job Title:** World Pizza Party Organizer
+# Job Title: World Pizza Party Organizer
 
 **Location:** Global – Remote with Travel Opportunities  
 
@@ -12,6 +10,8 @@ In a world where unity is as crucial as sustenance, we are seeking a distinguish
 This position calls for an individual who can weave the fabric of festivities across continents, making the World Pizza Party a beacon of global unity and joy. The role demands a unique blend of strategic foresight, cultural sensitivity, and logistical expertise to bring together diverse communities in celebration. As the architect of this annual phenomenon, you will be tasked with crafting an event that not only feeds the body but also nourishes the soul, spreading a message of hope and connection that resonates worldwide.
 
 Your leadership will direct the course of an event characterized by its global reach and local impact. Through your vision, the World Pizza Party will evolve into more than just an event; it will become a tradition that marks the calendar of millions, offering a shared moment of joy that highlights the beauty of our diverse cultures united by a common thread. In this role, you will not only celebrate the universal love for pizza but also champion the values of inclusivity and unity, creating a legacy of harmony and understanding that transcends borders.
+
+![](/assets/images/jobs-wppo-01.webp)
 
 ## **Key Responsibilities:**
 - **Plan and Execute World-Class Events:** Organize an annual pizza party that serves as a beacon of global unity and cultural celebration.
