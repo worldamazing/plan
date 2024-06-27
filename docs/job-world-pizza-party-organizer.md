@@ -1,8 +1,12 @@
-# Job Title: Yearly World Pizza Party Organizer
+# GI Job: Yearly World Pizza Party Organizer
+
+**Position:** World Pizza Party Organzier (World PPO)
 
 **Location:** Global – Remote with Travel Opportunities  
 
-**Job Classification:**  GI Full Member
+**Job Classification:** Permanent w/ Full GI Benefits
+
+![](/assets/images/jobs-wppo-01.webp)
 
 ## **Overview:**
 In a world where unity is as crucial as sustenance, we are seeking a distinguished leader to orchestrate the World Pizza Party—an annual global event that transcends mere culinary delight to embody a celebration of community, culture, and shared dreams. This prestigious role is not just about ensuring that everyone has a slice of pizza; it's about guaranteeing a moment of universal connection—where every participant has a pizza in their belly, a place to rest, and a head full of dreams for a brighter future.
@@ -10,8 +14,6 @@ In a world where unity is as crucial as sustenance, we are seeking a distinguish
 This position calls for an individual who can weave the fabric of festivities across continents, making the World Pizza Party a beacon of global unity and joy. The role demands a unique blend of strategic foresight, cultural sensitivity, and logistical expertise to bring together diverse communities in celebration. As the architect of this annual phenomenon, you will be tasked with crafting an event that not only feeds the body but also nourishes the soul, spreading a message of hope and connection that resonates worldwide.
 
 Your leadership will direct the course of an event characterized by its global reach and local impact. Through your vision, the World Pizza Party will evolve into more than just an event; it will become a tradition that marks the calendar of millions, offering a shared moment of joy that highlights the beauty of our diverse cultures united by a common thread. In this role, you will not only celebrate the universal love for pizza but also champion the values of inclusivity and unity, creating a legacy of harmony and understanding that transcends borders.
-
-![](/assets/images/jobs-wppo-01.webp)
 
 ## **Key Responsibilities:**
 - **Plan and Execute World-Class Events:** Organize an annual pizza party that serves as a beacon of global unity and cultural celebration.
@@ -42,6 +44,6 @@ Your leadership will direct the course of an event characterized by its global r
 This position offers not only a unique professional challenge but also the chance to become a beloved figure in international cultural celebrations, respected and recognized as a key contributor to global harmony and joy.
 
 ## **Application Process:**
-We invite visionary leaders to apply for this role by submitting a comprehensive CV and a cover letter that outlines your motivation for this position and your vision for a world united by the simple yet profound act of sharing a meal. Describe how you will bring elegance, taste, and inspiration to this pivotal role.
+We invite visionary leaders to apply for this role by submitting a comprehensive CV and a cover letter to jobs@whomanatee.org that outlines your motivation for this position and your vision for a world united by the simple yet profound act of sharing a meal. Describe how you will bring elegance, taste, and inspiration to this pivotal role.
 
 This position is designed for someone who sees beyond the horizon, who understands that a meal can be more than nourishment—it can be a profound expression of hope and unity. If you are driven to create a future where every year, people around the world pause to dine together, dream together, and hope together, we welcome your application.
