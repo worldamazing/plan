@@ -9,21 +9,8 @@
 
 ## Member Benefits
 > Delve into the array of foundational benefits that every member enjoys, designed to elevate both personal well-being and communal prosperity.
-<!--Explore how benefits integrate seamlessly into daily life, ensuring that every interaction and experience within the GI is enriching.-->
 
 - [**Core Benefits**](docs/benefits-all.md): A comprehensive overview of the standard benefits available to all members, enhancing every aspect of life from home to health, education, and beyond
-
-<!-- In the Global Institution, we've reimagined what it means to live and work together. This section details the comprehensive benefits available to all members, from transformative living environments to global travel opportunities. Each benefit underscores our commitment to enhancing every aspect of our members' lives. 
-
-### Benefits For All Worldwide
--->
-  
-<!--### Quick Overview of Benefits For All Worldwide
-> This section outlines specific societal and structural changes that the Global Institution will bring about globally. It lists elements that will become obsolete, aspects that will be universally covered, and areas that will be significantly expanded, detailing the practical shifts in how resources and services are managed and distributed worldwide. 
-- [**Covered For All**](docs/all-covered.md): Essential services and resources provided at no cost
-- [**Obsolete For All**](docs/all-obsolete.md): Outdated practices and systems phased out
-- [**Expanded For All**](docs/all-expanded.md): Enhancements and expansions of services and features for global accessibility
--->
 
 ## Before and After Case Studies
 > Explore hypothetical scenarios that vividly illustrate the transformative effects of the Global Institution through 'Before and After' narratives. These case studies demonstrate the potential changes in individuals' lives and community dynamics, offering a tangible look at the practical application and impact of the GI's initiatives.
@@ -58,3 +45,9 @@
 - [**Jay**](docs/benefits-hov.md): Supporting artistic entrepreneurship and cultural impact
 - [**Marshall**](docs/benefits-marshall.md): Enhancing musical creativity and personal development
 -->
+
+## Get Involved
+> Join us at the Global Institution in shaping a future that celebrates equity and enlightenment. Your voice and actions are pivotal in this collective journey.
+- **Start Thinking**: Envision a better tomorrow? Dedicate some time to reflect on how the GI’s principles could profoundly impact the world. Consider how these ideas might be implemented in your local community or beyond, and share these thoughts to inspire and gather support.
+- **Join the Conversation**: After forming your thoughts, dive into our [Discussion Board](https://github.com/whomanatee/plan/discussions). Share your insights and ask questions. Engage with others to brainstorm practical solutions and explore innovative ideas that can drive real change.
+- **Spread the Word**: Amplify our vision by talking about the GI with friends, family, and on your social media platforms. Every discussion you initiate helps us grow stronger and reach further.
