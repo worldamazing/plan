@@ -48,6 +48,7 @@
 
 ## Get Involved
 > Join us at the Global Institution in shaping a future that celebrates equity and enlightenment. Your voice and actions are pivotal in this collective journey.
-- **Start Thinking**: Envision a better tomorrow? Dedicate some time to reflect on how the GI’s principles could profoundly impact the world. Consider how these ideas might be implemented in your local community or beyond, and share these thoughts to inspire and gather support.
-- **Join the Conversation**: After forming your thoughts, dive into our [Discussion Board](https://github.com/whomanatee/plan/discussions). Share your insights and ask questions. Engage with others to brainstorm practical solutions and explore innovative ideas that can drive real change.
-- **Spread the Word**: Amplify our vision by talking about the GI with friends, family, and on your social media platforms. Every discussion you initiate helps us grow stronger and reach further.
+
+- **Start Thinking**: Take some time to reflect on the GI’s principles and how they resonate with your personal experiences and aspirations for the future. Consider the broader impact these principles could have and ponder potential challenges and opportunities. This internal exploration is a crucial first step in understanding and aligning with our mission.
+- **Join the Conversation**: Ready to voice your thoughts? Engage with the GI community on our [Discussion Board](https://github.com/whomanatee/plan/discussions). Creating a free GitHub account is easy and requires no prior software knowledge. This platform allows us to leverage robust community tools to share insights, ask questions, and brainstorm together.
+- **Spread the Word**: Help amplify our vision by discussing the GI with friends, family, and on your social media platforms. Every discussion you initiate helps us grow stronger and reach further.
