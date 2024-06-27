@@ -1,4 +1,4 @@
-# Job Title: World Pizza Party Organizer
+# Job Title: Yearly World Pizza Party Organizer
 
 **Location:** Global – Remote with Travel Opportunities  
 
