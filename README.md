@@ -6,6 +6,13 @@
 - [**Overview**](docs/overview.md): Providing a thorough exploration of the Global Institution's strategic initiatives, this document offers a detailed insight into our ambitious plans. It outlines the mechanisms and philosophies underpinning our efforts to reshape global society for a sustainable and prosperous future.
 - [**Core Benefits**](docs/benefits-all.md): Delve into the extensive benefits that membership in the Global Institution offers. This document details how our programs and policies tangibly improve personal well-being and foster community prosperity, covering critical areas such as housing, healthcare, education, and environmental sustainability.
 
+## Vision of the Future
+> Offering a conceptual and holistic look at the future, this section elaborates on the broader societal transformations envisioned by the Global Institution. It discusses the idealistic outcomes of these changes, such as the eradication of mental health challenges and the overhaul of the justice system into a restorative model. This vision paints a picture of a world where systemic changes lead to a healthier, more equitable, and interconnected global society.
+- [**Justice**](docs/vision-justice.md): Imagining a world governed by restorative justice practices
+- [**Mental Health**](docs/vision-mental-health.md): Envisioning a society free from mental health challenges
+- [**Creativity and Human Potential**](docs/vision-human-potential.md): Imagining a society where everyone excels at the highest level of all forms of intelligence
+- [**Openness and Empowerment**](docs/vision-openness-empowerment.md): Envisioning a society where openness and self-awareness empower every individual to contribute fully to communal life
+
 ## Before and After Case Studies
 > Explore hypothetical scenarios that vividly illustrate the transformative effects of the Global Institution through 'Before and After' narratives. These case studies demonstrate the potential changes in individuals' lives and community dynamics, offering a tangible look at the practical application and impact of the GI's initiatives.
 - [**A World United**](docs/case-study-global.md): Envisioning global unity under the GI
@@ -20,14 +27,6 @@
 - [**Jamal's Road to Redemption**](docs/case-study-jamal.md): A former combatant's transformation through education and community engagement
 - [**David's Path to Inner Peace**](docs/case-study-david.md): How a former Prime Minister redirected his focus from conflict to peace advocacy
 - [**Alexei's Transformation**](docs/case-study-alexei.md): From a war leader to a global peacemaker, illustrating personal and policy transformations
-
-## Vision of the Future
-> Offering a conceptual and holistic look at the future, this section elaborates on the broader societal transformations envisioned by the Global Institution. It discusses the idealistic outcomes of these changes, such as the eradication of mental health challenges and the overhaul of the justice system into a restorative model. This vision paints a picture of a world where systemic changes lead to a healthier, more equitable, and interconnected global society.
-- [**Justice**](docs/vision-justice.md): Imagining a world governed by restorative justice practices
-- [**Mental Health**](docs/vision-mental-health.md): Envisioning a society free from mental health challenges
-- [**Creativity and Human Potential**](docs/vision-human-potential.md): Imagining a society where everyone excels at the highest level of all forms of intelligence
-- [**Openness and Empowerment**](docs/vision-openness-empowerment.md): Envisioning a society where openness and self-awareness empower every individual to contribute fully to communal life
-
 
 ## Call To Action
 > Join us in uniting diverse perspectives, skills, and passions to drive global change. Your involvement is essential in shaping a just, sustainable, and innovative future for all.
