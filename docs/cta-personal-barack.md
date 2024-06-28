@@ -1,6 +1,4 @@
-# Global Institution Personalized Benefits Page
-
-## **Opportunities and Horizons: An Overview for Barack Hussein Obama the Second**
+# Opportunities and Horizons: An Overview for Barack Hussein Obama the Second
 
 In a world where the complexities of global leadership intertwine with the simple joys of family life, one man has navigated these waters with an élan that only someone with a preternatural coolness could. Enter Barack Hussein Obama the Second. Known for his eloquence and charm, he faced the challenges of race inequality, steered the ship of state through tumultuous times, and even managed to maintain marital bliss under the brightest of spotlights. 
 
