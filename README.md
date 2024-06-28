@@ -1,16 +1,10 @@
 # Global Institution Plan
 > Welcome to the comprehensive hub for the Global Institution (GI) plan. Here, you will find detailed insights into our transformative agenda designed to reshape societies worldwide. Explore various sections to understand the depth and breadth of our initiatives, from economic restructuring to societal well-being. We encourage you to engage with us: share your thoughts, pose questions, offer comments, or contribute ideas using the Discussions section of this repository. Your input is invaluable as we work together to build the brightest, most equitable future for all.
 
-## Overview Letters
-> Whether you seek a detailed exploration, a quick overview, or a story-driven presentation, these letters provide insights into the Global Institution's plans, ensuring that everyone, regardless of time constraints or information needs, can engage with our transformative agenda.
-- [**Comprehensive Letter**](docs/letter-comprehensive.md): Offering detailed insights and in-depth analysis
-- [**Abridged Letter**](docs/letter-abridged.md): Concise information for a quick understanding
-- [**Narrative Letter**](docs/letter-narrative.md): Engaging storytelling format
-
-## Member Benefits
-> Delve into the array of foundational benefits that every member enjoys, designed to elevate both personal well-being and communal prosperity.
-
-- [**Core Benefits**](docs/benefits-all.md): A comprehensive overview of the standard benefits available to all members, enhancing every aspect of life from home to health, education, and beyond
+## Key Documents
+> Dive into the foundational texts of the Global Institution with our essential documents. Designed for comprehensive understanding and ease of access, these resources are tailored to provide a detailed view of our transformative initiatives and the core benefits that enrich the lives of all members.
+- [**Overview**](docs/overview.md): Providing a thorough exploration of the Global Institution's strategic initiatives, this document offers a detailed insight into our ambitious plans. It outlines the mechanisms and philosophies underpinning our efforts to reshape global society for a sustainable and prosperous future.
+- [**Core Benefits**](docs/benefits-all.md): Delve into the extensive benefits that membership in the Global Institution offers. This document details how our programs and policies tangibly improve personal well-being and foster community prosperity, covering critical areas such as housing, healthcare, education, and environmental sustainability.
 
 ## Before and After Case Studies
 > Explore hypothetical scenarios that vividly illustrate the transformative effects of the Global Institution through 'Before and After' narratives. These case studies demonstrate the potential changes in individuals' lives and community dynamics, offering a tangible look at the practical application and impact of the GI's initiatives.
@@ -26,7 +20,6 @@
 - [**Jamal's Road to Redemption**](docs/case-study-jamal.md): A former combatant's transformation through education and community engagement
 - [**David's Path to Inner Peace**](docs/case-study-david.md): How a former Prime Minister redirected his focus from conflict to peace advocacy
 - [**Alexei's Transformation**](docs/case-study-alexei.md): From a war leader to a global peacemaker, illustrating personal and policy transformations
-
 
 ## Vision of the Future
 > Offering a conceptual and holistic look at the future, this section elaborates on the broader societal transformations envisioned by the Global Institution. It discusses the idealistic outcomes of these changes, such as the eradication of mental health challenges and the overhaul of the justice system into a restorative model. This vision paints a picture of a world where systemic changes lead to a healthier, more equitable, and interconnected global society.
