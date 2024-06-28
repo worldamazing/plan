@@ -113,11 +113,10 @@ Join the Global Institution and step into a life where every day is a canvas of 
 7. **Hunger**
 8. **Malnutrition**
 9. **Disease**
-10. **Bullying**
-11. **Illiteracy**
-12. **Digital Divide**
-13. **Obesity**
-14. **Lifestyle Diseases**
+1. **Illiteracy**
+1. **Digital Divide**
+1. **Obesity**
+1. **Lifestyle Diseases**
 
 ### Behavioral and Cultural Challenges Cured For All
 > Focusing on cultural norms and behaviors that perpetuate inequality and exclusion
@@ -129,9 +128,9 @@ Join the Global Institution and step into a life where every day is a canvas of 
 6. **Isolation**
 7. **Loneliness**
 8. **Toxic Behaviors**
-9. **Mean Behaviors**
-10. **Unhealthy Gender Expectations**
-11. **Social Inequality**
+9. **Mean Behaviors (including Bullying)**
+1. **Unhealthy Gender Expectations**
+1. **Social Inequality**
 
 ### Expanded For All
 > Enhancements and expansions of services and features for global accessibility. These services are designed to be comprehensive and inclusive, ensuring that every aspect of global life is supported, protected, and enhanced by the Global Institution.
