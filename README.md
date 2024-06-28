@@ -46,6 +46,28 @@
 - [**Marshall**](docs/benefits-marshall.md): Enhancing musical creativity and personal development
 -->
 
+## Call To Action
+> Join us in uniting diverse perspectives, skills, and passions to drive global change. Your involvement is essential in shaping a just, sustainable, and innovative future for all.
+
+### General
+> From thinkers to leaders, to those seeking redemption, each human is crucial in our collective mission.
+- [**Global Citizens**](docs/cta-global-citizens.md): A broad appeal to all members of the global community to join in fostering a sustainable and equitable world.
+- [**Thinkers**](docs/cta-thinkers.md): An invitation for deep thinkers and philosophers to harness their intellect in shaping global policies.
+- [**Lovers**](docs/cta-lovers.md): Encouraging those who lead with love and empathy to spread their warmth and understanding within the GI.
+- [**Haters**](docs/cta-haters.md): Engaging those harboring negative feelings, promoting understanding and a shift toward positive contributions.
+- [**Kids**](docs/cta-kids.md): Inspiring the next generation to take an active role in crafting the future through creativity and innovation.
+- [**Redemption Seekers**](docs/cta-redemption.md): A heartfelt invitation to those who have caused irreversible damage, offering a pathway to contribute positively and find personal healing.  
+
+### Experience Specific
+> The GI values the unique contributions of every individual, regardless of their level of experience. To successfully launch and sustain our ambitious initiatives, we will need experienced professionals to get things going. Your expertise and seasoned insights are critical in laying strong foundations and driving the momentum needed to achieve our goals.
+- [**Educators and Researchers**](docs/cta-educators.md): A call for educators and researchers to join forces in disseminating knowledge and fostering innovation across the global landscape.
+- [**Healthcare Professionals**](docs/cta-healthcare.md): Inviting healthcare workers to contribute their expertise to improving global health systems and advancing medical practices.
+- [**Manufacturing Professionals**](docs/cta-manufacturing.md): Encouraging those involved in manufacturing, from small devices to large machinery, to help build the products and tools needed for a sustainable future.
+- [**Builders**](docs/cta-builders.md): Inviting construction professionals to apply their skills in building sustainable and innovative structures that lay the foundation for a better future.
+- [**Devlopers**](docs/cta-devlopers.md)[sic]: Calling on software developers to bring their technical skills and creative problem-solving to help us craft the digital tools and platforms that will power our global initiatives.
+- [**Food Industry Professionals**](docs/cta-food-industry-professionals.md): Inviting agriculturists, chefs, food scientists, and logistics experts to join us in transforming global food systems through sustainable practices and innovation.
+- [**Defense, Emergency, and Disaster Response Professionals**](docs/cta-defense-emergency.md): Inviting experts in defense, emergency management, and disaster response to bring their crucial skills to a global platform committed to enhancing safety and preparedness.
+
 ## Get Involved
 > Join us at the Global Institution in shaping a future that celebrates equity and enlightenment. Your voice and actions are pivotal in this collective journey.
 
