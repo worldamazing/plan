@@ -58,6 +58,15 @@
 - [**Food Industry Professionals**](docs/cta-food-industry-professionals.md): Inviting agriculturists, chefs, food scientists, and logistics experts to join us in transforming global food systems through sustainable practices and innovation.
 - [**Defense, Emergency, and Disaster Response Professionals**](docs/cta-defense-emergency.md): Inviting experts in defense, emergency management, and disaster response to bring their crucial skills to a global platform committed to enhancing safety and preparedness.
 
+## Get Involved
+> Join us at the Global Institution in shaping a future that celebrates equity and enlightenment. Your voice and actions are pivotal in this collective journey.
+
+- **Start Thinking**: Take some time to reflect on the GI’s principles and how they resonate with your personal experiences and aspirations for the future. Consider the broader impact these principles could have and ponder potential challenges and opportunities. This internal exploration is a crucial first step in understanding and aligning with our mission.
+- **Join the Conversation**: Ready to voice your thoughts? Engage with the GI community on our [Discussion Board](https://github.com/whomanatee/plan/discussions). Creating a free GitHub account is easy and requires no prior software knowledge. This platform allows us to leverage robust community tools to share insights, ask questions, and brainstorm together.
+- **Spread the Word**: Help amplify our vision by discussing the GI with friends, family, and on your social media platforms. Every discussion you initiate helps us grow stronger and reach further.
+
+
+<!-- 
 ### Personalized CTAs
 > Recognizing the unique contributions and preferences of each potential member, the GI is committed to ensuring that everyone has the opportunity to soar to new heights. Our personalized CTAs are tailored to the individual lifestyles and aspirations of key community figures, demonstrating how the GI could leverage vast resources to meet specific needs and interests. These pages embody our belief that no matter one’s current standing or viewpoints, the future holds incredible potential for all. By embracing every potential member, we aim to foster the brightest, most inclusive future.
 - [**Barack**](docs/cta-personal-barack.md): Utilizing diplomatic finesse and leadership acumen to foster international cooperation and peacebuilding.
@@ -70,11 +79,4 @@
 - [**Jon**](docs/cta-personal-jon.md): Leveraging media influence and advocacy to champion veterans’ rights and drive transformative social initiatives.
 - [**Oprah**](docs/cta-personal-oprah.md): Amplifying voices and empowering global communities through media, philanthropy, and advocacy for education and women's rights.
 - [**Hillary**](docs/cta-personal-hillary.md): Steering global policy and diplomacy with a focus on women’s empowerment and international relations.
-
-
-## Get Involved
-> Join us at the Global Institution in shaping a future that celebrates equity and enlightenment. Your voice and actions are pivotal in this collective journey.
-
-- **Start Thinking**: Take some time to reflect on the GI’s principles and how they resonate with your personal experiences and aspirations for the future. Consider the broader impact these principles could have and ponder potential challenges and opportunities. This internal exploration is a crucial first step in understanding and aligning with our mission.
-- **Join the Conversation**: Ready to voice your thoughts? Engage with the GI community on our [Discussion Board](https://github.com/whomanatee/plan/discussions). Creating a free GitHub account is easy and requires no prior software knowledge. This platform allows us to leverage robust community tools to share insights, ask questions, and brainstorm together.
-- **Spread the Word**: Help amplify our vision by discussing the GI with friends, family, and on your social media platforms. Every discussion you initiate helps us grow stronger and reach further.
+-->
