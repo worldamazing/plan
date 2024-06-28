@@ -1,7 +1,7 @@
 # Global Institution Plan
 > Welcome to the comprehensive hub for the Global Institution (GI) plan. Here, you will find detailed insights into our transformative agenda designed to reshape societies worldwide. Explore various sections to understand the depth and breadth of our initiatives, from economic restructuring to societal well-being. We encourage you to engage with us: share your thoughts, pose questions, offer comments, or contribute ideas using the Discussions section of this repository. Your input is invaluable as we work together to build the brightest, most equitable future for all.
 
-## Overview Letters to All Global Citizens
+## Overview Letters
 > Whether you seek a detailed exploration, a quick overview, or a story-driven presentation, these letters provide insights into the Global Institution's plans, ensuring that everyone, regardless of time constraints or information needs, can engage with our transformative agenda.
 - [**Comprehensive Letter**](docs/letter-comprehensive.md): Offering detailed insights and in-depth analysis
 - [**Abridged Letter**](docs/letter-abridged.md): Concise information for a quick understanding
@@ -35,21 +35,11 @@
 - [**Creativity and Human Potential**](docs/vision-human-potential.md): Imagining a society where everyone excels at the highest level of all forms of intelligence
 - [**Openness and Empowerment**](docs/vision-openness-empowerment.md): Envisioning a society where openness and self-awareness empower every individual to contribute fully to communal life
 
-<!--
-### Personalized Benefits
-> Recognizing the unique contributions and preferences of each member, the Global Institution is committed to ensuring that everyone has the opportunity to soar to new heights. Our personalized benefits are tailored to the individual lifestyles and aspirations of key community figures, demonstrating how the GI leverages its vast resources to meet specific needs and interests. These pages embody our belief that no matter one’s current standing or viewpoints, the future holds incredible potential for all. By embracing every member, we aim to foster the brightest, most inclusive future.
-- [**Barack**](docs/benefits-barack.md): Diplomacy and global leadership enhancements
-- [**Don**](docs/benefits-don.md): Focused on entrepreneurship and financial strategy
-- [**Joe**](docs/benefits-joe.md): Tailored for governance and policy expertise
-- [**Ye**](docs/benefits-ye.md): Innovative approaches to music and fashion
-- [**Jay**](docs/benefits-hov.md): Supporting artistic entrepreneurship and cultural impact
-- [**Marshall**](docs/benefits-marshall.md): Enhancing musical creativity and personal development
--->
 
 ## Call To Action
 > Join us in uniting diverse perspectives, skills, and passions to drive global change. Your involvement is essential in shaping a just, sustainable, and innovative future for all.
 
-### General
+### General CTAs
 > From thinkers to leaders, to those seeking redemption, each human is crucial in our collective mission.
 - [**Global Citizens**](docs/cta-global-citizens.md): A broad appeal to all members of the global community to join in fostering a sustainable and equitable world.
 - [**Thinkers**](docs/cta-thinkers.md): An invitation for deep thinkers and philosophers to harness their intellect in shaping global policies.
@@ -58,7 +48,7 @@
 - [**Kids**](docs/cta-kids.md): Inspiring the next generation to take an active role in crafting the future through creativity and innovation.
 - [**Redemption Seekers**](docs/cta-redemption.md): A heartfelt invitation to those who have caused irreversible damage, offering a pathway to contribute positively and find personal healing.  
 
-### Experience Specific
+### Experience Specific CTAs
 > The GI values the unique contributions of every individual, regardless of their level of experience. To successfully launch and sustain our ambitious initiatives, we will need experienced professionals to get things going. Your expertise and seasoned insights are critical in laying strong foundations and driving the momentum needed to achieve our goals.
 - [**Educators and Researchers**](docs/cta-educators.md): A call for educators and researchers to join forces in disseminating knowledge and fostering innovation across the global landscape.
 - [**Healthcare Professionals**](docs/cta-healthcare.md): Inviting healthcare workers to contribute their expertise to improving global health systems and advancing medical practices.
@@ -67,6 +57,20 @@
 - [**Devlopers**](docs/cta-devlopers.md)[sic]: Calling on software developers to bring their technical skills and creative problem-solving to help us craft the digital tools and platforms that will power our global initiatives.
 - [**Food Industry Professionals**](docs/cta-food-industry-professionals.md): Inviting agriculturists, chefs, food scientists, and logistics experts to join us in transforming global food systems through sustainable practices and innovation.
 - [**Defense, Emergency, and Disaster Response Professionals**](docs/cta-defense-emergency.md): Inviting experts in defense, emergency management, and disaster response to bring their crucial skills to a global platform committed to enhancing safety and preparedness.
+
+### Personalized CTAs
+> Recognizing the unique contributions and preferences of each potential member, the GI is committed to ensuring that everyone has the opportunity to soar to new heights. Our personalized CTAs are tailored to the individual lifestyles and aspirations of key community figures, demonstrating how the GI could leverage vast resources to meet specific needs and interests. These pages embody our belief that no matter one’s current standing or viewpoints, the future holds incredible potential for all. By embracing every potential member, we aim to foster the brightest, most inclusive future.
+- [**Barack**](docs/cta-personal-barack.md): Utilizing diplomatic finesse and leadership acumen to foster international cooperation and peacebuilding.
+- [**Don**](docs/cta-personal-don.md): Harnessing entrepreneurial spirit and financial acuity to drive economic innovation and business development.
+- [**Joe**](docs/cta-personal-joe.md): Applying deep governance knowledge and policy expertise to enhance regulatory frameworks and public administration.
+- [**Ye**](docs/cta-personal-ye.md): Inspiring innovation in music and fashion, integrating artistic exploration with cultural sustainability.
+- [**Jay**](docs/cta-personal-hov.md): Cultivating artistic entrepreneurship and cultural influence to enrich global arts and community engagement.
+- [**Marshall**](docs/cta-personal-marshall.md): Encouraging personal growth and artistic expression, using music as a conduit for emotional resilience and social commentary.
+- [**Bill**](docs/cta-personal-bill.md): Employing sharp wit and social commentary to challenge cultural norms and advocate for mental health awareness.
+- [**Jon**](docs/cta-personal-jon.md): Leveraging media influence and advocacy to champion veterans’ rights and drive transformative social initiatives.
+- [**Oprah**](docs/cta-personal-oprah.md): Amplifying voices and empowering global communities through media, philanthropy, and advocacy for education and women's rights.
+- [**Hillary**](docs/cta-personal-hillary.md): Steering global policy and diplomacy with a focus on women’s empowerment and international relations.
+
 
 ## Get Involved
 > Join us at the Global Institution in shaping a future that celebrates equity and enlightenment. Your voice and actions are pivotal in this collective journey.
