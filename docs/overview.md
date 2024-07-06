@@ -5,6 +5,7 @@ As we stand at the dawn of a transformative era, it is with great enthusiasm and
 
 Imagine a future where meeting all basic needs is not a challenge but a guarantee, achieved through our united efforts. Envision a world where each person is empowered to lead a life brimming with purpose, creativity, and fulfillment. Here, 'work' is redefined as a meaningful contribution—limited to **just two days a week** on average—providing ample time for personal growth, nurturing relationships, and pursuing passions that enrich both individual lives and the wider community.
 
+<!--
 ## A View of our Potential Future
 In the cities of the future, life is not just lived—it’s experienced in vibrant, communal bursts of creativity and connectivity. Imagine starting your day in a home where the walls shift color to match your mood, set by an AI that learns your preferences. Outside, the streets are alive with interactive art installations that change weekly, each one telling stories from different cultures around the world.
 
@@ -19,7 +20,7 @@ Even the concept of shopping has transformed. Instead of a chore, it’s an adve
 Healthcare is proactive, with regular health pods stationed throughout the city, providing check-ups and personalized health tips. Mental well-being is given as much importance as physical health, with public meditation pods and wellness workshops a staple in every neighborhood.
 
 These cities are not just places to live; they are ecosystems of human ambition and harmonious living, where every individual is supported to reach their fullest potential in a world that celebrates diversity and fosters unity.
-
+-->
 
 ## **Key Features of the Global Institution**
 1. ### **Home for Every Citizen: Building Safe and Sustainable Communities**
