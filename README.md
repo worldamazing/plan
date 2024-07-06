@@ -48,7 +48,7 @@
 - [**Manufacturing Professionals**](docs/cta-manufacturing.md): Encouraging those involved in manufacturing, from small devices to large machinery, to help build the products and tools needed for a sustainable future.
 - [**Builders**](docs/cta-builders.md): Inviting construction professionals to apply their skills in building sustainable and innovative structures that lay the foundation for a better future.
 - [**Devlopers**](docs/cta-devlopers.md)[sic]: Calling on software developers to bring their technical skills and creative problem-solving to help us craft the digital tools and platforms that will power our global initiatives.
-- [**Food Industry Professionals**](docs/cta-food-industry-professionals.md): Inviting agriculturists, chefs, food scientists, and logistics experts to join us in transforming global food systems through sustainable practices and innovation.
+- [**Food Industry Professionals**](docs/cta-food-industry.md): Inviting agriculturists, chefs, food scientists, and logistics experts to join us in transforming global food systems through sustainable practices and innovation.
 - [**Defense, Emergency, and Disaster Response Professionals**](docs/cta-defense-emergency.md): Inviting experts in defense, emergency management, and disaster response to bring their crucial skills to a global platform committed to enhancing safety and preparedness.
 
 ## Get Involved
