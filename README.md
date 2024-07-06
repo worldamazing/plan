@@ -38,7 +38,7 @@
 - [**Thinkers**](docs/cta-thinkers.md): An invitation for deep thinkers and philosophers to harness their intellect in shaping global policies.
 - [**Lovers**](docs/cta-lovers.md): Encouraging those who lead with love and empathy to spread their warmth and understanding within the GI.
 - [**Haters**](docs/cta-haters.md): Engaging those harboring negative feelings, promoting understanding and a shift toward positive contributions.
-- [**Kids**](docs/cta-kids.md): Inspiring the next generation to take an active role in crafting the future through creativity and innovation.
+- [**Youths**](docs/cta-youths.md): Inspiring the next generation to take an active role in crafting the future through creativity and innovation.
 - [**Redemption Seekers**](docs/cta-redemption.md): A heartfelt invitation to those who have caused irreversible damage, offering a pathway to contribute positively and find personal healing.  
 
 ### Experience Specific CTAs
