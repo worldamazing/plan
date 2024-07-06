@@ -1,4 +1,4 @@
-# CTA For The Fellow Kids to Join the Global Institution – A World of Wonder for the Next Generation
+# CTA For All Youths to Join the Global Institution – A World of Wonder for the Next Generation
 
 In a world brimming with possibilities, the curiosity and creativity of children are the sparks that light the way to the future. Despite facing challenges and uncertainties, young minds are filled with dreams and ideas that have the potential to change the world. At the Global Institution (GI), we believe in nurturing and empowering these young visionaries, providing a community where their talents and imaginations can flourish.
 
