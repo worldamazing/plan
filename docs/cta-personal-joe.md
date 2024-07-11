@@ -16,7 +16,7 @@ Your advocacy for aggressive action against climate change finds a new arena in 
 Known for your diplomatic acumen, the GI offers you the platform to lead the **Global Diplomatic Corps**. This role leverages your experience to defuse international tensions and foster partnerships that build a more cooperative and peaceful world. Picture global summits where your seasoned negotiation skills craft frameworks for lasting global unity.
 
 ### **Champion for the Young Generation**
-Reflecting your focus on the youth, the **Youth Empowerment and Engagement Team** within the GI would benefit from your guidance. This initiative will mentor young leaders around the world, building a cadre of informed, passionate individuals ready to take on tomorrow’s challenges.
+Reflecting your focus on the youth, the **Youth Empowerment and Engagement Team (YEET)** within the GI would benefit from your guidance. The YEET initiative will mentor young leaders around the world, building a cadre of informed, passionate individuals ready to take on tomorrow’s challenges.
 
 ### **Legacy of Compassion and Resilience**
 The GI recognizes the power of personal stories in driving change. The **Average Joe Legacy Fund** would support projects that reflect your personal and political journey—overcoming adversity, championing transparency, and fostering hope. From memoirs to mentorship programs, your legacy of resilience and empathy will inspire generations.
