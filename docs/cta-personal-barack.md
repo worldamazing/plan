@@ -1,4 +1,4 @@
-# Opportunities and Horizons for Barack Hussein Obama the Second
+# A Public Call To Action: Opportunities and Horizons for Barack Hussein Obama the Second
 
 In a world where the complexities of global leadership intertwine with the simple joys of family life, one man has navigated these waters with an élan that only someone with a preternatural coolness could. Enter Barack Hussein Obama the Second. Known for his eloquence and charm, he faced the challenges of race inequality, steered the ship of state through tumultuous times, and even managed to maintain his marital status under the brightest of spotlights. 
 
