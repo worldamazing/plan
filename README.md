@@ -3,9 +3,9 @@
 
 ## Key Documents
 > Dive into the foundational texts of the GI with these essential documents. <!--Designed for comprehensive understanding and ease of access, these resources are tailored to provide a detailed view of our transformative initiatives and the core benefits that enrich the lives of all members.-->
-- [**Overview**](docs/overview.md): Providing a thorough exploration of the Global Institution's strategic framework, this document offers a detailed insight into our ambitious plans. It outlines the mechanisms and philosophies underpinning our efforts to reshape global society for a sustainable and prosperous future.
-- [**Benefits**](docs/benefits-all.md): Delve into the extensive benefits that membership in the Global Institution offers. This document details how our programs and policies tangibly improve personal well-being and foster community prosperity, covering critical areas such as housing, healthcare, education, and environmental sustainability.
-- [**Initiatives**](docs/initiatives.md): This document outlines a range of transformative initiatives that reshape how communities engage, respond to emergencies, and adapt urban environments. It details strategies for transitioning traditional law enforcement to community-focused support, integrating global and local emergency management, and innovating in labor and community services. The initiatives also focus on reimagining urban spaces for sustainability and multifunctionality.
+- [**Overview**](docs/overview.md): Providing a thorough exploration of the Global Institution's strategic framework. <!-- , this document offers a detailed insight into our ambitious plans. It outlines the mechanisms and philosophies underpinning our efforts to reshape global society for a sustainable and prosperous future. -->
+- [**Benefits**](docs/benefits-all.md): Delve into the extensive benefits that membership in the Global Institution offers. <!--This document details how our programs and policies tangibly improve personal well-being and foster community prosperity, covering critical areas such as housing, healthcare, education, and environmental sustainability.-->
+- [**Initiatives**](docs/initiatives.md): A range of transformative initiatives that reshape how communities engage, respond to emergencies, and adapt urban environments. <!--It details strategies for transitioning traditional law enforcement to community-focused support, integrating global and local emergency management, and innovating in labor and community services. The initiatives also focus on reimagining urban spaces for sustainability and multifunctionality.-->
 
 ## Our Potential Future
 > Offering a conceptual and holistic look at the future, this section elaborates on the broader societal transformations envisioned by the Global Institution. <!--It discusses the idealistic outcomes of these changes, such as the eradication of mental health challenges and the overhaul of the justice system into a restorative model. This vision paints a picture of a world where systemic changes lead to a healthier, more equitable, and interconnected global society.-->
@@ -29,10 +29,10 @@
 - [**David's Path to Inner Peace**](docs/case-study-david.md): How a former Prime Minister redirected his focus from conflict to peace advocacy.
 - [**Alexei's Transformation**](docs/case-study-alexei.md): From a war leader to a global peacemaker, illustrating personal and policy transformations.
 
-## Call To Actions
+## Call To Action
 > Join us in uniting diverse perspectives, skills, and passions to drive global change. Your involvement is essential in shaping a just, sustainable, and innovative future for all.
 
-### General
+### CTA: General
 > From thinkers to leaders, to those seeking redemption, each human is crucial in our collective mission.
 - [**Global Citizens**](docs/cta-global-citizens.md): A broad appeal to all members of the global community to join in fostering a sustainable and equitable world.
 - [**Thinkers**](docs/cta-thinkers.md): An invitation for deep thinkers and philosophers to harness their intellect in shaping global policies.
@@ -41,7 +41,7 @@
 - [**Youths**](docs/cta-youths.md): Inspiring the next generation to take an active role in crafting the future through creativity and innovation.
 - [**Redemption Seekers**](docs/cta-redemption.md): A heartfelt invitation to those who have caused irreversible damage, offering a pathway to contribute positively and find personal healing.  
 
-### Experience Specific
+### CTA: Experience Specific
 > The GI values the unique contributions of every individual, regardless of their level of experience. To successfully launch and sustain our ambitious initiatives, we will need experienced professionals to get things going. Your expertise and seasoned insights are critical in laying strong foundations and driving the momentum needed to achieve our goals.
 - [**Educators and Researchers**](docs/cta-educators.md): A call for educators and researchers to join forces in disseminating knowledge and fostering innovation across the global landscape.
 - [**Healthcare Professionals**](docs/cta-healthcare.md): Inviting healthcare workers to contribute their expertise to improving global health systems and advancing medical practices.
@@ -51,12 +51,16 @@
 - [**Food Industry Professionals**](docs/cta-food-industry.md): Inviting agriculturists, chefs, food scientists, and logistics experts to join us in transforming global food systems through sustainable practices and innovation.
 - [**Defense, Emergency, and Disaster Response Professionals**](docs/cta-defense-emergency.md): Inviting experts in defense, emergency management, and disaster response to bring their crucial skills to a global platform committed to enhancing safety and preparedness.
 
-### Human Specific
-> Recognizing the unique contributions and preferences of each potential member, the GI is committed to ensuring that everyone has the opportunity to soar to new heights. These pages embody the truth that no matter one’s current standing or viewpoints, the future holds incredible potential for all. By embracing every potential member, we aim to foster the brightest, most inclusive future.
+### CTA: Human Specific
+> Recognizing the unique contributions of each potential member, the GI is committed to ensuring that everyone has the opportunity to soar to new heights. These pages embody the truth that no matter one’s current standing or viewpoints, the future holds incredible potential for all. By embracing every potential member, we aim to foster the brightest, most inclusive future.
 - [**Barack**](docs/cta-personal-barack.md): Harnessing his experience in leadership and diplomacy to champion global unity and social justice initiatives within the GI.
 - [**Don**](docs/cta-personal-don.md): Harnessing entrepreneurial spirit and financial acuity to drive economic innovation and business development.
 - [**Joe**](docs/cta-personal-joe.md): Leveraging his extensive governance experience and heartfelt commitment to public service, Joe would guide key global initiatives within the GI, enhancing health, prosperity, and sustainability worldwide.
 - [**Bill**](docs/cta-personal-bill.md): Employing sharp wit and social commentary to challenge cultural norms and advocate for mental health awareness.
+
+## Global Positions
+> At the GI, every role contributes to global value and unity. Below are some of the exciting new positions we plan to introduce as the GI unfolds.
+- [**World Pizza Party Organizer**](docs/job-pizza-party-organizer.md): Facilitator of an annual global extravaganza where participants from every corner of the world enjoy a slice of pizza. This role not only fills bellies but fosters a sense of community and shared dreams for a more connected and joyous future.
 
 ## Get Involved
 <!--
