@@ -7,14 +7,14 @@
 - [**Benefits**](docs/benefits-all.md): Delve into the extensive benefits that membership in the Global Institution offers. This document details how our programs and policies tangibly improve personal well-being and foster community prosperity, covering critical areas such as housing, healthcare, education, and environmental sustainability.
 - [**Initiatives**](docs/initiatives.md): This document outlines a range of transformative initiatives that reshape how communities engage, respond to emergencies, and adapt urban environments. It details strategies for transitioning traditional law enforcement to community-focused support, integrating global and local emergency management, and innovating in labor and community services. The initiatives also focus on reimagining urban spaces for sustainability and multifunctionality.
 
-## Vision of the Future
+## Our Potential Future
 > Offering a conceptual and holistic look at the future, this section elaborates on the broader societal transformations envisioned by the Global Institution. <!--It discusses the idealistic outcomes of these changes, such as the eradication of mental health challenges and the overhaul of the justice system into a restorative model. This vision paints a picture of a world where systemic changes lead to a healthier, more equitable, and interconnected global society.-->
 - [**Justice**](docs/vision-justice.md): Imagining a world governed by restorative justice practices.
 - [**Mental Health**](docs/vision-mental-health.md): Envisioning a society free from mental health challenges.
 - [**Creativity and Human Potential**](docs/vision-human-potential.md): Imagining a society where everyone excels at the highest level of all forms of intelligence.
 - [**Openness and Empowerment**](docs/vision-openness-empowerment.md): Envisioning a society where openness and self-awareness empower every individual to contribute fully to communal life.
 
-## Before and After Case Studies
+## Case Studies: Before and After
 > Explore hypothetical scenarios that vividly illustrate the transformative effects of the Global Institution through 'Before and After' narratives. These case studies demonstrate the potential changes in individuals' lives and community dynamics, offering a tangible look at the practical application and impact of the GI's initiatives.
 - [**A World United**](docs/case-study-global.md): Envisioning global unity under the GI.
 - [**Transforming Suffering into Lessons**](docs/case-study-suffering.md): Maintaining historical awareness while fostering progress.
@@ -29,10 +29,10 @@
 - [**David's Path to Inner Peace**](docs/case-study-david.md): How a former Prime Minister redirected his focus from conflict to peace advocacy.
 - [**Alexei's Transformation**](docs/case-study-alexei.md): From a war leader to a global peacemaker, illustrating personal and policy transformations.
 
-## Call To Action
+## Call To Actions
 > Join us in uniting diverse perspectives, skills, and passions to drive global change. Your involvement is essential in shaping a just, sustainable, and innovative future for all.
 
-### General CTAs
+### General
 > From thinkers to leaders, to those seeking redemption, each human is crucial in our collective mission.
 - [**Global Citizens**](docs/cta-global-citizens.md): A broad appeal to all members of the global community to join in fostering a sustainable and equitable world.
 - [**Thinkers**](docs/cta-thinkers.md): An invitation for deep thinkers and philosophers to harness their intellect in shaping global policies.
@@ -41,7 +41,7 @@
 - [**Youths**](docs/cta-youths.md): Inspiring the next generation to take an active role in crafting the future through creativity and innovation.
 - [**Redemption Seekers**](docs/cta-redemption.md): A heartfelt invitation to those who have caused irreversible damage, offering a pathway to contribute positively and find personal healing.  
 
-### Experience Specific CTAs
+### Experience Specific
 > The GI values the unique contributions of every individual, regardless of their level of experience. To successfully launch and sustain our ambitious initiatives, we will need experienced professionals to get things going. Your expertise and seasoned insights are critical in laying strong foundations and driving the momentum needed to achieve our goals.
 - [**Educators and Researchers**](docs/cta-educators.md): A call for educators and researchers to join forces in disseminating knowledge and fostering innovation across the global landscape.
 - [**Healthcare Professionals**](docs/cta-healthcare.md): Inviting healthcare workers to contribute their expertise to improving global health systems and advancing medical practices.
@@ -51,7 +51,7 @@
 - [**Food Industry Professionals**](docs/cta-food-industry.md): Inviting agriculturists, chefs, food scientists, and logistics experts to join us in transforming global food systems through sustainable practices and innovation.
 - [**Defense, Emergency, and Disaster Response Professionals**](docs/cta-defense-emergency.md): Inviting experts in defense, emergency management, and disaster response to bring their crucial skills to a global platform committed to enhancing safety and preparedness.
 
-### Public Personal CTAs
+### Human Specific
 > Recognizing the unique contributions and preferences of each potential member, the GI is committed to ensuring that everyone has the opportunity to soar to new heights. These pages embody the truth that no matter one’s current standing or viewpoints, the future holds incredible potential for all. By embracing every potential member, we aim to foster the brightest, most inclusive future.
 - [**Barack**](docs/cta-personal-barack.md): Harnessing his experience in leadership and diplomacy to champion global unity and social justice initiatives within the GI.
 - [**Don**](docs/cta-personal-don.md): Harnessing entrepreneurial spirit and financial acuity to drive economic innovation and business development.
@@ -59,7 +59,8 @@
 - [**Bill**](docs/cta-personal-bill.md): Employing sharp wit and social commentary to challenge cultural norms and advocate for mental health awareness.
 
 ## Get Involved
-> Join us at the Global Institution in shaping a future that celebrates equity and enlightenment. Your voice and actions are pivotal in this collective journey.
+<!--
+> Join us at the Global Institution in shaping a future that celebrates equity and enlightenment. Your voice and actions are pivotal in this collective journey.-->
 
 - **Start Thinking**: Take some time to reflect on the GI’s principles and how they resonate with your personal experiences and aspirations for the future. Consider the broader impact these principles could have and ponder potential challenges and opportunities. This internal exploration is a crucial first step in understanding and aligning with our mission.
 - **Join the Conversation**: Ready to voice your thoughts? Engage with the GI community on our [Discussion Board](https://github.com/whomanatee/plan/discussions). Creating a free GitHub account is easy and requires no prior software knowledge. This platform allows us to leverage robust community tools to share insights, ask questions, and brainstorm together.
