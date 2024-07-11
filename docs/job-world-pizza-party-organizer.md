@@ -1,14 +1,20 @@
-# GI Job: Yearly World Pizza Party Organizer
+# World Pizza Party Organizer: A Global Institution Job
 
-**Position:** World Pizza Party Organzier (World PPO)
+**Title:** World Pizza Party Organzier (World PPO)  
+**Description:** organize a yearly world pizza party  
+**Location:** Global – 100% Remote and 100% Travel  
+**# of Openings:** multiple, no cap, as needed  
 
-**Location:** Global – Remote with Travel Opportunities  
+**Job Classification:** Full Time  
+**Schedule:** 2 days per week max, on average, flexible, can be on/off for weeks or even months at a time  
+**Weekend:** 5 days per week, on average  
 
-**Job Classification:** Permanent w/ Full GI Benefits
+**Benefits:** [full GI benefits](/docs/benefits-all.md)  
 
 ![](/assets/images/jobs-wppo-01.webp)
+> An image depicting a future pizza party organized by the World PPO  (*generated with Chat GPT 4.0*)
 
-## **Overview:**
+## **Position Overview:**
 In a world where unity is as crucial as sustenance, we are seeking a distinguished leader to orchestrate the World Pizza Party—an annual global event that transcends mere culinary delight to embody a celebration of community, culture, and shared dreams. This prestigious role is not just about ensuring that everyone has a slice of pizza; it's about guaranteeing a moment of universal connection—where every participant has a pizza in their belly, a place to rest, and a head full of dreams for a brighter future.
 
 This position calls for an individual who can weave the fabric of festivities across continents, making the World Pizza Party a beacon of global unity and joy. The role demands a unique blend of strategic foresight, cultural sensitivity, and logistical expertise to bring together diverse communities in celebration. As the architect of this annual phenomenon, you will be tasked with crafting an event that not only feeds the body but also nourishes the soul, spreading a message of hope and connection that resonates worldwide.
