@@ -59,13 +59,10 @@
 - [**Bill**](docs/cta-personal-bill.md): Employing sharp wit and social commentary to challenge cultural norms and advocate for mental health awareness.
 
 ## Global Positions
-> At the GI, every role contributes to global value and unity. Below are some of the exciting new positions we plan to introduce as the GI unfolds.
+> At the GI, every role contributes to global value and unity. Alongside the essential positions required to upgrade and update world civilization, below are some of the exciting new roles we plan to introduce as the GI unfolds.
 - [**World Pizza Party Organizer**](docs/job-pizza-party-organizer.md): Facilitator of an annual global extravaganza where participants from every corner of the world enjoy a slice of pizza. This role not only fills bellies but fosters a sense of community and shared dreams for a more connected and joyous future.
 
 ## Get Involved
-<!--
-> Join us at the Global Institution in shaping a future that celebrates equity and enlightenment. Your voice and actions are pivotal in this collective journey.-->
-
 - **Start Thinking**: Take some time to reflect on the GI’s principles and how they resonate with your personal experiences and aspirations for the future. Consider the broader impact these principles could have and ponder potential challenges and opportunities. This internal exploration is a crucial first step in understanding and aligning with our mission.
 - **Join the Conversation**: Ready to voice your thoughts? Engage with the GI community on our [Discussion Board](https://github.com/whomanatee/plan/discussions). Creating a free GitHub account is easy and requires no prior software knowledge. This platform allows us to leverage robust community tools to share insights, ask questions, and brainstorm together.
 - **Spread the Word**: Help amplify our vision by discussing the GI with friends, family, and on your social media platforms. Every discussion you initiate helps us grow stronger and reach further.
