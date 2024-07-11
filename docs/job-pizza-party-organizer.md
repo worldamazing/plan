@@ -1,9 +1,9 @@
 # World Pizza Party Organizer: A Global Institution Job
 
 **Title:** World Pizza Party Organzier (World PPO)  
-**Description:** organize a yearly world pizza party  
-**Location:** Global – 100% Remote and 100% Travel  
-**# of Openings:** multiple, no cap, as needed  
+**Description:** Organize a yearly world pizza party  
+**Location:** Global – Remote with Travel Opportunities  
+<!--**# of Openings:** Multiple, no cap, as needed  -->
 
 **Job Classification:** Full Time  
 **Schedule:** 2 days per week max, on average, flexible, can be on/off for weeks or even months at a time  
@@ -46,8 +46,7 @@ Your leadership will direct the course of an event characterized by its global r
 - **Comprehensive GI Benefits:** As part of the Global Institution, you’ll receive a comprehensive benefits package that supports not only your professional growth but also your personal well-being. This includes access to global networking events, cultural exchanges, and the opportunity to influence and shape other global initiatives under the GI umbrella.
 - **Professional and Personal Growth:** Lead an event that grows in scale and significance each year, enhancing your professional profile and expanding your global influence. This role offers continuous opportunities for personal and career development, aligning with the most visionary leaders and changemakers in the world.
 - **Cultural Significance and Personal Satisfaction:** There is profound personal satisfaction in knowing that your work helps to fill the bellies, enrich the spirits, and inspire the dreams of millions globally. Each event is a testament to your dedication to bringing joy and unity to the world, making each slice of pizza a symbol of communal harmony and shared aspirations.
-
-This position offers not only a unique professional challenge but also the chance to become a beloved figure in international cultural celebrations, respected and recognized as a key contributor to global harmony and joy.
+- This position offers not only a unique professional challenge but also the chance to become a beloved figure in international cultural celebrations, respected and recognized as a key contributor to global harmony and joy.
 
 ## **Application Process:**
 We invite visionary leaders to apply for this role by submitting a comprehensive CV and a cover letter to jobs@whomanatee.org that outlines your motivation for this position and your vision for a world united by the simple yet profound act of sharing a meal. Describe how you will bring elegance, taste, and inspiration to this pivotal role.
