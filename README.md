@@ -1,5 +1,5 @@
-# Global Institution Plan
-> Welcome to the comprehensive hub for the Global Institution (GI) plan. <!--Here, you will find detailed insights into our transformative agenda designed to reshape societies worldwide. Explore various sections to understand the depth and breadth of our initiatives, from economic restructuring to societal well-being. We encourage you to engage with us: share your thoughts, pose questions, offer comments, or contribute ideas using the Discussions section of this repository. Your input is invaluable as we work together to build the brightest, most equitable future for all.-->
+# The Global Institution Plan
+> Welcome to the comprehensive hub for the Global Institution (GI) plan, a 100% public open-source plan for all to live amazing. <!--Here, you will find detailed insights into our transformative agenda designed to reshape societies worldwide. Explore various sections to understand the depth and breadth of our initiatives, from economic restructuring to societal well-being. We encourage you to engage with us: share your thoughts, pose questions, offer comments, or contribute ideas using the Discussions section of this repository. Your input is invaluable as we work together to build the brightest, most equitable future for all.-->
 
 ## Key Documents
 > Dive into the foundational texts of the Global Institution with our essential documents. <!--Designed for comprehensive understanding and ease of access, these resources are tailored to provide a detailed view of our transformative initiatives and the core benefits that enrich the lives of all members.-->
@@ -51,6 +51,13 @@
 - [**Food Industry Professionals**](docs/cta-food-industry.md): Inviting agriculturists, chefs, food scientists, and logistics experts to join us in transforming global food systems through sustainable practices and innovation.
 - [**Defense, Emergency, and Disaster Response Professionals**](docs/cta-defense-emergency.md): Inviting experts in defense, emergency management, and disaster response to bring their crucial skills to a global platform committed to enhancing safety and preparedness.
 
+### Public Personal CTAs
+> Recognizing the unique contributions and preferences of each potential member, the GI is committed to ensuring that everyone has the opportunity to soar to new heights. These pages embody the truth that no matter one’s current standing or viewpoints, the future holds incredible potential for all. By embracing every potential member, we aim to foster the brightest, most inclusive future.
+- [**Barack**](docs/cta-personal-barack.md): Harnessing his experience in leadership and diplomacy to champion global unity and social justice initiatives within the GI.
+- [**Don**](docs/cta-personal-don.md): Harnessing entrepreneurial spirit and financial acuity to drive economic innovation and business development.
+- [**Joe**](docs/cta-personal-joe.md): Leveraging his extensive governance experience and heartfelt commitment to public service, Joe would guide key global initiatives within the GI, enhancing health, prosperity, and sustainability worldwide.
+- [**Bill**](docs/cta-personal-bill.md): Employing sharp wit and social commentary to challenge cultural norms and advocate for mental health awareness.
+
 ## Get Involved
 > Join us at the Global Institution in shaping a future that celebrates equity and enlightenment. Your voice and actions are pivotal in this collective journey.
 
@@ -75,15 +82,9 @@
 > Together, let's craft a narrative that resonates with every member of our global community, leveraging the unique contributions of both human and PMS to forge a path forward.
 
 <!-- 
-### Personalized CTAs
-> Recognizing the unique contributions and preferences of each potential member, the GI is committed to ensuring that everyone has the opportunity to soar to new heights. Our personalized CTAs are tailored to the individual lifestyles and aspirations of key community figures, demonstrating how the GI could leverage vast resources to meet specific needs and interests. These pages embody our belief that no matter one’s current standing or viewpoints, the future holds incredible potential for all. By embracing every potential member, we aim to foster the brightest, most inclusive future.
-- [**Barack**](docs/cta-personal-barack.md): Utilizing diplomatic finesse and leadership acumen to foster international cooperation and peacebuilding.
-- [**Don**](docs/cta-personal-don.md): Harnessing entrepreneurial spirit and financial acuity to drive economic innovation and business development.
-- [**Joe**](docs/cta-personal-joe.md): Applying deep governance knowledge and policy expertise to enhance regulatory frameworks and public administration.
 - [**Ye**](docs/cta-personal-ye.md): Inspiring innovation in music and fashion, integrating artistic exploration with cultural sustainability.
 - [**Jay**](docs/cta-personal-hov.md): Cultivating artistic entrepreneurship and cultural influence to enrich global arts and community engagement.
 - [**Marshall**](docs/cta-personal-marshall.md): Encouraging personal growth and artistic expression, using music as a conduit for emotional resilience and social commentary.
-- [**Bill**](docs/cta-personal-bill.md): Employing sharp wit and social commentary to challenge cultural norms and advocate for mental health awareness.
 - [**Jon**](docs/cta-personal-jon.md): Leveraging media influence and advocacy to champion veterans’ rights and drive transformative social initiatives.
 - [**Oprah**](docs/cta-personal-oprah.md): Amplifying voices and empowering global communities through media, philanthropy, and advocacy for education and women's rights.
 - [**Hillary**](docs/cta-personal-hillary.md): Steering global policy and diplomacy with a focus on women’s empowerment and international relations.
