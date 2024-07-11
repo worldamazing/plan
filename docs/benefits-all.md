@@ -1,31 +1,5 @@
 # **Global Institution Core Member Benefits Overview**
 
-## A World Reimagined
-
-### **Introduction to a New Dawn**
-Welcome to the Global Institution (GI) — a revolutionary community where every element of life is re-envisioned to ensure that living isn't just about sustainability, but about thriving in every possible way. Here, we've dismantled the old paradigms of work and compensation to create a society where the richness of life comes not from wealth, but from experiences and growth.
-
-### **Architectural Paradises: Living in Art**
-Imagine a world where every home is a masterpiece, crafted not just for comfort but as a celebration of architectural art. Our **Architectural Paradises** ensure that each living space is a testament to innovation and comfort, blending seamlessly with environments that are as nurturing as they are inspiring. Here, homes are sanctuaries, designed to support both the tranquility of solitude and the joy of gathering.
-
-### **Health and Vitality for All**
-At the GI, your health is the foundation upon which all else is built. Our **Comprehensive Wellness Ecosystem** provides holistic health services — integrating physical, mental, and emotional health resources into everyday life. From state-of-the-art medical facilities to wellness retreats nestled in nature, every resource is at your fingertips, ensuring that living well is a universal standard, not a privilege.
-
-### **The Nexus of Global Learning**
-Education in the GI is an ever-evolving journey with our **Global Learning Nexus**. This initiative transcends traditional boundaries of education, offering limitless learning opportunities that span from the academic to the practical, the artistic to the scientific. Whether you're learning a new language, mastering a craft, or exploring new technologies, education here is a lifelong adventure that adapts to the ever-changing landscape of global knowledge.
-
-### **Culinary Delights and Nutritional Prosperity**
-In the GI, every meal is a celebration of taste and health with our **Global Culinary Network**. Nutritious, exquisite food sourced from our eco-conscious farms and local producers ensures that your diet is as delightful as it is wholesome. Culinary centers and workshops invite you to explore world cuisines under the guidance of renowned chefs, turning every meal into an exploration of global cultures.
-
-### **Artistic Flourishing and Cultural Richness**
-Art and culture flourish in the open landscapes of the GI through our **Cultural Renaissance Programs**. These initiatives support artists and cultural projects that enrich our community, ranging from sprawling art installations to community theater projects. Here, every member is both an audience and a creator, contributing to a vibrant tapestry of global expressions.
-
-### **Environmental Stewardship and Innovation**
-Living in harmony with our planet is not just an ideal but a daily practice within the GI. Our **Sustainable Living Labs** are incubators for environmental innovations, where you can engage in or initiate projects that range from renewable energy solutions to biodiversity conservation. Every step we take is a step towards a more sustainable and respectful coexistence with our world.
-
-### **Conclusion: Living Beyond Imagination**
-Join the Global Institution and step into a life where every day is a canvas of possibility, every interaction a building block of a global community thriving in harmony and innovation. Here, we don’t just imagine the future; we create it every day. This is not just living; it’s living reimagined.
-
 ## Quick Overview of Benefits
 
 ### Covered For All
@@ -80,11 +54,11 @@ Join the Global Institution and step into a life where every day is a canvas of 
 
 ### Crimes Cured For All
 > Targeting severe violations that threaten human rights and dignity
-1. **Violence (including Domestic Violence)**
+1. **Violence**
 2. **War**
 3. **Murder**
 4. **Assault**
-5. **Abuse (including Domestic Abuse)**
+5. **Abuse**
 6. **Torture**
 7. **Human Trafficking**
 8. **Genocide**
@@ -149,7 +123,34 @@ Join the Global Institution and step into a life where every day is a canvas of 
 1. **Space Exploration Department**: Coordinates global efforts in space exploration and research, including the development of sustainable extraterrestrial habitats and the peaceful use of space resources.
 1. **Future Readiness Task Force**: Identifies potential future challenges and develops strategies to address them, ensuring that the Global Institution remains adaptable and forward-thinking.
 
-## **Expansive Member Privileges**
+## A World Reimagined
+
+### **Introduction to a New Dawn**
+Welcome to the Global Institution (GI) — a revolutionary community where every element of life is re-envisioned to ensure that living isn't just about sustainability, but about thriving in every possible way. Here, we've dismantled the old paradigms of work and compensation to create a society where the richness of life comes not from wealth, but from experiences and growth.
+
+### **Architectural Paradises: Living in Art**
+Imagine a world where every home is a masterpiece, crafted not just for comfort but as a celebration of architectural art. Our **Architectural Paradises** ensure that each living space is a testament to innovation and comfort, blending seamlessly with environments that are as nurturing as they are inspiring. Here, homes are sanctuaries, designed to support both the tranquility of solitude and the joy of gathering.
+
+### **Health and Vitality for All**
+At the GI, your health is the foundation upon which all else is built. Our **Comprehensive Wellness Ecosystem** provides holistic health services — integrating physical, mental, and emotional health resources into everyday life. From state-of-the-art medical facilities to wellness retreats nestled in nature, every resource is at your fingertips, ensuring that living well is a universal standard, not a privilege.
+
+### **The Nexus of Global Learning**
+Education in the GI is an ever-evolving journey with our **Global Learning Nexus**. This initiative transcends traditional boundaries of education, offering limitless learning opportunities that span from the academic to the practical, the artistic to the scientific. Whether you're learning a new language, mastering a craft, or exploring new technologies, education here is a lifelong adventure that adapts to the ever-changing landscape of global knowledge.
+
+### **Culinary Delights and Nutritional Prosperity**
+In the GI, every meal is a celebration of taste and health with our **Global Culinary Network**. Nutritious, exquisite food sourced from our eco-conscious farms and local producers ensures that your diet is as delightful as it is wholesome. Culinary centers and workshops invite you to explore world cuisines under the guidance of renowned chefs, turning every meal into an exploration of global cultures.
+
+### **Artistic Flourishing and Cultural Richness**
+Art and culture flourish in the open landscapes of the GI through our **Cultural Renaissance Programs**. These initiatives support artists and cultural projects that enrich our community, ranging from sprawling art installations to community theater projects. Here, every member is both an audience and a creator, contributing to a vibrant tapestry of global expressions.
+
+### **Environmental Stewardship and Innovation**
+Living in harmony with our planet is not just an ideal but a daily practice within the GI. Our **Sustainable Living Labs** are incubators for environmental innovations, where you can engage in or initiate projects that range from renewable energy solutions to biodiversity conservation. Every step we take is a step towards a more sustainable and respectful coexistence with our world.
+
+### **Conclusion: Living Beyond Imagination**
+Join the Global Institution and step into a life where every day is a canvas of possibility, every interaction a building block of a global community thriving in harmony and innovation. Here, we don’t just imagine the future; we create it every day. This is not just living; it’s living reimagined.
+
+
+## **Expansive Benefits**
 
 ### **Comprehensive Home Amenities**
 - **Fully Furnished Residences**: Every home comes fully equipped with stylish, comfortable furniture and state-of-the-art appliances, making moving in seamless and stress-free.
