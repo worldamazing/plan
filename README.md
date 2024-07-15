@@ -30,10 +30,10 @@
 - [**Alexei's Transformation**](docs/case-study-alexei.md): From a war leader to a global peacemaker, illustrating personal and policy transformations.
 
 ## Call To Action
-> Join us in uniting diverse perspectives, skills, and passions to drive global change. Your involvement is essential in shaping a just, sustainable, and innovative future for all.
+> Join us in uniting diverse perspectives, skills, and passions to drive global change.
 
-### CTA: General
-> From thinkers to leaders, to those seeking redemption, each human is crucial in our collective mission.
+### CTA: All Humans of All Ages and Abilities
+> From thinkers to leaders, to those seeking redemption, each human is crucial in our collective mission. Regardless of your present circumstances or past behavior, the involvement of everyone is essential for the success of the GI.
 - [**Global Citizens**](docs/cta-global-citizens.md): A broad appeal to all members of the global community to join in fostering a sustainable and equitable world.
 - [**Thinkers**](docs/cta-thinkers.md): An invitation for deep thinkers and philosophers to harness their intellect in shaping global policies.
 - [**Lovers**](docs/cta-lovers.md): Encouraging those who lead with love and empathy to spread their warmth and understanding within the GI.
@@ -41,25 +41,27 @@
 - [**Youths**](docs/cta-youths.md): Inspiring the next generation to take an active role in crafting the future through creativity and innovation.
 - [**Redemption Seekers**](docs/cta-redemption.md): A heartfelt invitation to those who have caused irreversible damage, offering a pathway to contribute positively and find personal healing.  
 
-### CTA: Experience Specific
-> The GI values the unique contributions of every individual, regardless of their level of experience. To successfully launch and sustain our ambitious initiatives, we will need experienced professionals to get things going. Your expertise and seasoned insights are critical in laying strong foundations and driving the momentum needed to achieve our goals.
-- [**Educators and Researchers**](docs/cta-educators.md): A call for educators and researchers to join forces in disseminating knowledge and fostering innovation across the global landscape.
-- [**Healthcare Professionals**](docs/cta-healthcare.md): Inviting healthcare workers to contribute their expertise to improving global health systems and advancing medical practices.
-- [**Manufacturing Professionals**](docs/cta-manufacturing.md): Encouraging those involved in manufacturing, from small devices to large machinery, to help build the products and tools needed for a sustainable future.
-- [**Builders**](docs/cta-builders.md): Inviting construction professionals to apply their skills in building sustainable and innovative structures that lay the foundation for a better future.
-- [**Devlopers**](docs/cta-devlopers.md)[sic]: Calling on software developers to bring their technical skills and creative problem-solving to help us craft the digital tools and platforms that will power our global initiatives.
-- [**Food Industry Professionals**](docs/cta-food-industry.md): Inviting agriculturists, chefs, food scientists, and logistics experts to join us in transforming global food systems through sustainable practices and innovation.
+### CTA: Humans Skilled in These Areas
+> To successfully launch and sustain all GI initiatives, we will need experienced and skilled humans to get things going.
 - [**Defense, Emergency, and Disaster Response Professionals**](docs/cta-defense-emergency.md): Inviting experts in defense, emergency management, and disaster response to bring their crucial skills to a global platform committed to enhancing safety and preparedness.
+- [**Healthcare Professionals**](docs/cta-healthcare.md): Inviting healthcare workers to contribute their expertise to improving global health systems and advancing medical practices.
+- [**Food Industry Professionals**](docs/cta-food-industry.md): Inviting agriculturists, chefs, food scientists, and logistics experts to join us in transforming global food systems through sustainable practices and innovation.
+- [**Builders**](docs/cta-builders.md): Inviting construction professionals to apply their skills in building sustainable and innovative structures that lay the foundation for a better future.
+- [**Manufacturing Professionals**](docs/cta-manufacturing.md): Encouraging those involved in manufacturing, from small devices to large machinery, to help build the products and tools needed for a sustainable future.
+- [**Educators and Researchers**](docs/cta-educators.md): A call for educators and researchers to join forces in disseminating knowledge and fostering innovation across the global landscape.
+- [**Devlopers**](docs/cta-devlopers.md)[sic]: Calling on software developers to bring their technical skills and creative problem-solving to help us craft the digital tools and platforms that will power our global initiatives.
 
+<!--
 ### CTA: Human Specific
 > Recognizing the unique contributions of each potential member, the GI is committed to ensuring that everyone has the opportunity to soar to new heights. These pages embody the truth that no matter one’s current standing or viewpoints, the future holds incredible potential for all. By embracing every potential member, we aim to foster the brightest, most inclusive future.
 - [**Barack**](docs/cta-personal-barack.md): Harnessing his experience in leadership and diplomacy to champion global unity and social justice initiatives within the GI.
 - [**Don**](docs/cta-personal-don.md): Harnessing entrepreneurial spirit and financial acuity to drive economic innovation and business development.
 - [**Joe**](docs/cta-personal-joe.md): Leveraging his extensive governance experience and heartfelt commitment to public service, Joe would guide key global initiatives within the GI, enhancing health, prosperity, and sustainability worldwide.
 - [**Bill**](docs/cta-personal-bill.md): Employing sharp wit and social commentary to challenge cultural norms and advocate for mental health awareness.
+-->
 
 ## Global Positions
-> At the GI, every role contributes to global value and unity. Alongside the essential positions required to upgrade and update world civilization, below are some of the exciting new roles we plan to introduce as the GI unfolds.
+> Alongside the essential positions required to upgrade and update world civilization, below are some of the exciting new roles we plan to introduce as the GI unfolds.
 - [**World Pizza Party Organizer**](docs/job-pizza-party-organizer.md): Facilitator of an annual global extravaganza where participants from every corner of the world enjoy a slice of pizza. This role not only fills bellies but fosters a sense of community and shared dreams for a more connected and joyous future.
 
 ## Get Involved
