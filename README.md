@@ -46,7 +46,7 @@
 - [**Defense, Emergency, and Disaster Response Professionals**](docs/cta-defense-emergency.md): Inviting experts in defense, emergency management, and disaster response to bring their crucial skills to a global platform committed to enhancing safety and preparedness.
 - [**Healthcare Professionals**](docs/cta-healthcare.md): Inviting healthcare workers to contribute their expertise to improving global health systems and advancing medical practices.
 - [**Food Industry Professionals**](docs/cta-food-industry.md): Inviting agriculturists, chefs, food scientists, and logistics experts to join us in transforming global food systems through sustainable practices and innovation.
-- [**Builders**](docs/cta-builders.md): Inviting construction professionals to apply their skills in building sustainable and innovative structures that lay the foundation for a better future.
+- [**Construction Professionals**](docs/cta-builders.md): Inviting construction professionals to apply their skills in building sustainable and innovative structures that lay the foundation for a better future.
 - [**Manufacturing Professionals**](docs/cta-manufacturing.md): Encouraging those involved in manufacturing, from small devices to large machinery, to help build the products and tools needed for a sustainable future.
 - [**Educators and Researchers**](docs/cta-educators.md): A call for educators and researchers to join forces in disseminating knowledge and fostering innovation across the global landscape.
 - [**Devlopers**](docs/cta-devlopers.md)[sic]: Calling on software developers to bring their technical skills and creative problem-solving to help us craft the digital tools and platforms that will power our global initiatives.
@@ -59,16 +59,29 @@
 - [**Joe**](docs/cta-personal-joe.md): Leveraging his extensive governance experience and heartfelt commitment to public service, Joe would guide key global initiatives within the GI, enhancing health, prosperity, and sustainability worldwide.
 - [**Bill**](docs/cta-personal-bill.md): Employing sharp wit and social commentary to challenge cultural norms and advocate for mental health awareness.
 -->
+<!-- 
+- [**Ye**](docs/cta-personal-ye.md): Inspiring innovation in music and fashion, integrating artistic exploration with cultural sustainability.
+- [**Jay**](docs/cta-personal-hov.md): Cultivating artistic entrepreneurship and cultural influence to enrich global arts and community engagement.
+- [**Marshall**](docs/cta-personal-marshall.md): Encouraging personal growth and artistic expression, using music as a conduit for emotional resilience and social commentary.
+- [**Jon**](docs/cta-personal-jon.md): Leveraging media influence and advocacy to champion veterans’ rights and drive transformative social initiatives.
+- [**Oprah**](docs/cta-personal-oprah.md): Amplifying voices and empowering global communities through media, philanthropy, and advocacy for education and women's rights.
+- [**Hillary**](docs/cta-personal-hillary.md): Steering global policy and diplomacy with a focus on women’s empowerment and international relations.
+-->
 
 ## Global Positions
 > Alongside the essential positions required to upgrade and update world civilization, below are some of the exciting new roles we plan to introduce as the GI unfolds.
 - [**World Pizza Party Organizer**](docs/job-pizza-party-organizer.md): Facilitator of an annual global extravaganza where participants from every corner of the world enjoy a slice of pizza. This role not only fills bellies but fosters a sense of community and shared dreams for a more connected and joyous future.
+<!--
+- [**General Complainer Supreme**](docs/job-general-complainer-supreme.md): The leader of the Army of Complainers, responsible for steering the direction of complaint resolution initiatives globally. This role demands a visionary leader who can transform grievances into strategic actions, ensuring that every voice within the GI is heard and valued. The General Complainer Supreme sets the tone for a proactive, problem-solving culture, embodying the GI’s commitment to continuous improvement and inclusive leadership.
+- [**Army of Complainers Member**](docs/job-army-of-complainers.md): As a mandatory role for all GI members, this position is at the heart of our mission to address and resolve every issue, no matter its size. Members are tasked with identifying, articulating, and solving complaints ranging from everyday inconveniences to systemic challenges. This role is about active participation in creating a better world, ensuring that every complaint, big or small, is an opportunity for improvement and innovation.
+-->
 
 ## Get Involved
 - **Start Thinking**: Take some time to reflect on the GI’s principles and how they resonate with your personal experiences and aspirations for the future. Consider the broader impact these principles could have and ponder potential challenges and opportunities. This internal exploration is a crucial first step in understanding and aligning with our mission.
 - **Join the Conversation**: Ready to voice your thoughts? Engage with the GI community on our [Discussion Board](https://github.com/whomanatee/plan/discussions). Creating a free GitHub account is easy and requires no prior software knowledge. This platform allows us to leverage robust community tools to share insights, ask questions, and brainstorm together.
 - **Spread the Word**: Help amplify our vision by discussing the GI with friends, family, and on your social media platforms. Every discussion you initiate helps us grow stronger and reach further.
 
+<!--
 ## A Note From the Editor
 
 > Greetings,
@@ -84,12 +97,4 @@
 > I invite you to dive deep into the content, reflect on its implications, and contribute your insights. If any section sparks your curiosity or if you see an area that could be expanded, do not hesitate to participate in the discussions. Your feedback is crucial not only for refining current content but also for shaping future updates.
 
 > Together, let's craft a narrative that resonates with every member of our global community, leveraging the unique contributions of both human and PMS to forge a path forward.
-
-<!-- 
-- [**Ye**](docs/cta-personal-ye.md): Inspiring innovation in music and fashion, integrating artistic exploration with cultural sustainability.
-- [**Jay**](docs/cta-personal-hov.md): Cultivating artistic entrepreneurship and cultural influence to enrich global arts and community engagement.
-- [**Marshall**](docs/cta-personal-marshall.md): Encouraging personal growth and artistic expression, using music as a conduit for emotional resilience and social commentary.
-- [**Jon**](docs/cta-personal-jon.md): Leveraging media influence and advocacy to champion veterans’ rights and drive transformative social initiatives.
-- [**Oprah**](docs/cta-personal-oprah.md): Amplifying voices and empowering global communities through media, philanthropy, and advocacy for education and women's rights.
-- [**Hillary**](docs/cta-personal-hillary.md): Steering global policy and diplomacy with a focus on women’s empowerment and international relations.
 -->
