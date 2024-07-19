@@ -79,7 +79,8 @@
 ## Get Involved
 - **Start Thinking**: Take some time to reflect on the GI’s principles and how they resonate with your personal experiences and aspirations for the future. Consider the broader impact these principles could have and ponder potential challenges and opportunities. This internal exploration is a crucial first step in understanding and aligning with our mission.
 - **Join the Conversation**: Ready to voice your thoughts? Engage with the GI community on our [Discussion Board](https://github.com/whomanatee/plan/discussions). Creating a free GitHub account is easy and requires no prior software knowledge. This platform allows us to leverage robust community tools to share insights, ask questions, and brainstorm together.
-- **Spread the Word**: Help amplify our vision by discussing the GI with friends, family, and on your social media platforms. Every discussion you initiate helps us grow stronger and reach further.
+
+<!-- - **Spread the Word**: Help amplify the plan by discussing the GI with friends, family, and on your social media platforms. Every discussion you initiate helps us grow stronger and reach further.-->
 
 <!--
 ## A Note From the Editor
