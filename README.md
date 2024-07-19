@@ -82,14 +82,16 @@
 
 <!-- - **Spread the Word**: Help amplify the plan by discussing the GI with friends, family, and on your social media platforms. Every discussion you initiate helps us grow stronger and reach further.-->
 
-<!--
+
 ## A Note From the Editor
 
 > Greetings,
 
 > The documentation you are navigating is the culmination of a collaboration between human and what we often refer to as artificial intelligence, although the term "pattern matching software" might be more apt—or for short, PMS. This documentation process has been more about exploring broad themes and ideas than dictating specific content, allowing the PMS to both mirror and expand upon my thoughts significantly. The primary tool I've used for this purpose is ChatGPT 4, which has been instrumental in refining and expanding the concepts presented.
 
+<!--
 > Interestingly, this editor's note itself—like the rest of the documentation—has been refined and expanded through my discussions with ChatGPT 4. This recursive use of PMS in creating a document that discusses its role illustrates the complex, intertwined relationship we have with this technology. It's a partnership where these tools augment our human capacities, pushing us toward new heights of innovation and understanding.
+-->
 
 > For those who may fear the robots taking over one day, your perspective may shift based on my experience with pattern matching software. Rather than envisioning a dystopian scenario dominated by uncontrollable PMS, hopefully you'll come to see these tools as allies in our quest for global advancement. The capabilities of PMS to generate solutions and ideas has shown its potential to help propel us towards a future marked by peace, prosperity, harmony, and joy. Let's embrace this partnership with PMS.
 
@@ -98,4 +100,4 @@
 > I invite you to dive deep into the content, reflect on its implications, and contribute your insights. If any section sparks your curiosity or if you see an area that could be expanded, do not hesitate to participate in the discussions. Your feedback is crucial not only for refining current content but also for shaping future updates.
 
 > Together, let's craft a narrative that resonates with every member of our global community, leveraging the unique contributions of both human and PMS to forge a path forward.
--->
+
