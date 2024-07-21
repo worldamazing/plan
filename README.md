@@ -1,5 +1,5 @@
 # The Global Institution Plan
-> A 100% public open-source plan designed for everyone worldwide to live extraordinarily.
+> A 100% public open-source framework designed for everyone worldwide to live extraordinarily.
 
 > The framework proposes working only 2 days per week on average, retiring by age 50, and eliminating essential living expenses such as housing, utilities, healthcare, education, casualwear, and groceries for all.
 
