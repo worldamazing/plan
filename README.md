@@ -1,5 +1,10 @@
 # The Global Institution Plan
-> A 100% public open-source plan designed for everyone worldwide to live extraordinarily. The framework proposes working only 2 days per week on average, retiring by age 50, and eliminating essential living expenses such as housing, utilities, healthcare, education, casualwear, and groceries for all. Supported by a new economic model that champions community empowerment, individual well-being, and personal freedom, together we can transform the concepts of work, wealth, and well-being on a global scale. Discover how together we can foster peace, prosperity, harmony, and joy for all. <!--Here, you will find detailed insights into our transformative agenda designed to reshape societies worldwide. Explore various sections to understand the depth and breadth of our initiatives, from economic restructuring to societal well-being. We encourage you to engage with us: share your thoughts, pose questions, offer comments, or contribute ideas using the Discussions section of this repository. Your input is invaluable as we work together to build the brightest, most equitable future for all.-->
+> A 100% public open-source plan designed for everyone worldwide to live extraordinarily.
+
+> The framework proposes working only 2 days per week on average, retiring by age 50, and eliminating essential living expenses such as housing, utilities, healthcare, education, casualwear, and groceries for all.
+
+> Supported by a new economic model that champions community empowerment, individual well-being, and personal freedom, together we can transform the concepts of work, wealth, and well-being on a global scale. Discover how together we can foster peace, prosperity, harmony, and joy for all.
+<!--Here, you will find detailed insights into our transformative agenda designed to reshape societies worldwide. Explore various sections to understand the depth and breadth of our initiatives, from economic restructuring to societal well-being. We encourage you to engage with us: share your thoughts, pose questions, offer comments, or contribute ideas using the Discussions section of this repository. Your input is invaluable as we work together to build the brightest, most equitable future for all.-->
 
 ## Key Documents
 > Dive into the foundational texts of the GI with these essential documents. <!--Designed for comprehensive understanding and ease of access, these resources are tailored to provide a detailed view of our transformative initiatives and the core benefits that enrich the lives of all members.-->
@@ -83,21 +88,23 @@
 <!-- - **Spread the Word**: Help amplify the plan by discussing the GI with friends, family, and on your social media platforms. Every discussion you initiate helps us grow stronger and reach further.-->
 
 
-## A Note From the Editor
+## A Note From the Proposer
 
 > Greetings,
 
-> The documentation you are navigating is the culmination of a collaboration between human and what we often refer to as artificial intelligence, although the term "pattern matching software" might be more apt—or for short, PMS. This documentation process has been more about exploring broad themes and ideas than dictating specific content, allowing the PMS to both mirror and expand upon my thoughts significantly. The primary tool I've used for this purpose is ChatGPT 4, which has been instrumental in refining and expanding the concepts presented.
+> The documentation you are navigating is the culmination of a collaboration between human and what we often refer to as artificial intelligence, although the term "pattern matching software" might be more apt. This documentation process has been more about exploring broad themes and ideas, allowing the software to both mirror and expand upon my thoughts significantly. The software has served as a tool to facilitate and not dictate the creative process. The primary tool I've used for this purpose is ChatGPT 4.
 
-<!--
-> Interestingly, this editor's note itself—like the rest of the documentation—has been refined and expanded through my discussions with ChatGPT 4. This recursive use of PMS in creating a document that discusses its role illustrates the complex, intertwined relationship we have with this technology. It's a partnership where these tools augment our human capacities, pushing us toward new heights of innovation and understanding.
--->
-
-> For those who may fear the robots taking over one day, your perspective may shift based on my experience with pattern matching software. Rather than envisioning a dystopian scenario dominated by uncontrollable PMS, hopefully you'll come to see these tools as allies in our quest for global advancement. The capabilities of PMS to generate solutions and ideas has shown its potential to help propel us towards a future marked by peace, prosperity, harmony, and joy. Let's embrace this partnership with PMS.
-
-> You may often come across phrases like "our vision" or "our mission" within this documentation. However, it's important to recognize that these terms do not imply that the GI exists in isolation from its community. The mission of the GI is fundamentally shaped by the will of the people. This document is not just a set of directives but a proposal, inviting everyone to engage, contribute, and refine our shared path toward global transformation.
+> You may often come across phrases like "our vision" or "our mission" within this documentation. However, it's important to recognize that these terms do not imply that the GI exists in isolation from the world community. The mission of the GI is fundamentally shaped by the will of the people. This document is not just a set of directives but a proposal, inviting everyone to engage, contribute, and refine our shared path toward global transformation.
 
 > I invite you to dive deep into the content, reflect on its implications, and contribute your insights. If any section sparks your curiosity or if you see an area that could be expanded, do not hesitate to participate in the discussions. Your feedback is crucial not only for refining current content but also for shaping future updates.
 
-> Together, let's craft a narrative that resonates with every member of our global community, leveraging the unique contributions of both human and PMS to forge a path forward.
+> If you would like to reach me directly, you can email me at m@whomanatee.org. Though I may not respond to every email, every message will be read.
 
+<!--
+> The documentation you are navigating is the culmination of a collaboration between human and what we often refer to as artificial intelligence, although the term "pattern matching software" might be more apt—or for short, PMS. This documentation process has been more about exploring broad themes and ideas than dictating specific content, allowing the PMS to both mirror and expand upon my thoughts significantly. The primary tool I've used for this purpose is ChatGPT 4, which has been instrumental in refining and expanding the concepts presented.
+> Interestingly, this editor's note itself—like the rest of the documentation—has been refined and expanded through my discussions with ChatGPT 4. This recursive use of PMS in creating a document that discusses its role illustrates the complex, intertwined relationship we have with this technology. It's a partnership where these tools augment our human capacities, pushing us toward new heights of innovation and understanding.
+> For those who may fear the robots taking over one day, your perspective may shift based on my experience with pattern matching software. Rather than envisioning a dystopian scenario dominated by uncontrollable PMS, hopefully you'll come to see these tools as allies in our quest for global advancement. The capabilities of PMS to generate solutions and ideas has shown its potential to help propel us towards a future marked by peace, prosperity, harmony, and joy. Let's embrace this partnership with PMS.
+> You may often come across phrases like "our vision" or "our mission" within this documentation. However, it's important to recognize that these terms do not imply that the GI exists in isolation from its community. The mission of the GI is fundamentally shaped by the will of the people. This document is not just a set of directives but a proposal, inviting everyone to engage, contribute, and refine our shared path toward global transformation.
+> I invite you to dive deep into the content, reflect on its implications, and contribute your insights. If any section sparks your curiosity or if you see an area that could be expanded, do not hesitate to participate in the discussions. Your feedback is crucial not only for refining current content but also for shaping future updates.
+> Together, let's craft a narrative that resonates with every member of our global community, leveraging the unique contributions of both human and PMS to forge a path forward.
+-->
