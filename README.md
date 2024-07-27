@@ -87,8 +87,6 @@
 
 > Together, let's craft a narrative that resonates with every member of our global community, leveraging the unique contributions of both human and PP to forge a path forward.
 
-> If you would like to reach me directly, you can email me at m@whomanatee.org. Though I may not respond to every email, every message will be read.
-
 <!--
 > The documentation you are navigating is the culmination of a collaboration between human and what we often refer to as artificial intelligence, although the term "pattern matching software" might be more apt—or for short, PMS. This documentation process has been more about exploring broad themes and ideas than dictating specific content, allowing the PMS to both mirror and expand upon my thoughts significantly. The primary tool I've used for this purpose is ChatGPT 4, which has been instrumental in refining and expanding the concepts presented.
 > Interestingly, this editor's note itself—like the rest of the documentation—has been refined and expanded through my discussions with ChatGPT 4. This recursive use of PMS in creating a document that discusses its role illustrates the complex, intertwined relationship we have with this technology. It's a partnership where these tools augment our human capacities, pushing us toward new heights of innovation and understanding.
