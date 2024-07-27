@@ -56,22 +56,6 @@
 - [**Educators and Researchers**](docs/cta-educators.md): A call for educators and researchers to join forces in disseminating knowledge and fostering innovation across the global landscape.
 - [**Devlopers**](docs/cta-devlopers.md)[sic]: Calling on software developers to bring their technical skills and creative problem-solving to help us craft the digital tools and platforms that will power our global initiatives.
 
-<!--
-### CTA: Human Specific
-> Recognizing the unique contributions of each potential member, the GI is committed to ensuring that everyone has the opportunity to soar to new heights. These pages embody the truth that no matter one’s current standing or viewpoints, the future holds incredible potential for all. By embracing every potential member, we aim to foster the brightest, most inclusive future.
-- [**Barack**](docs/cta-personal-barack.md): Harnessing his experience in leadership and diplomacy to champion global unity and social justice initiatives within the GI.
-- [**Don**](docs/cta-personal-don.md): Harnessing entrepreneurial spirit and financial acuity to drive economic innovation and business development.
-- [**Joe**](docs/cta-personal-joe.md): Leveraging his extensive governance experience and heartfelt commitment to public service, Joe would guide key global initiatives within the GI, enhancing health, prosperity, and sustainability worldwide.
-- [**Bill**](docs/cta-personal-bill.md): Employing sharp wit and social commentary to challenge cultural norms and advocate for mental health awareness.
--->
-<!-- 
-- [**Ye**](docs/cta-personal-ye.md): Inspiring innovation in music and fashion, integrating artistic exploration with cultural sustainability.
-- [**Jay**](docs/cta-personal-hov.md): Cultivating artistic entrepreneurship and cultural influence to enrich global arts and community engagement.
-- [**Marshall**](docs/cta-personal-marshall.md): Encouraging personal growth and artistic expression, using music as a conduit for emotional resilience and social commentary.
-- [**Jon**](docs/cta-personal-jon.md): Leveraging media influence and advocacy to champion veterans’ rights and drive transformative social initiatives.
-- [**Oprah**](docs/cta-personal-oprah.md): Amplifying voices and empowering global communities through media, philanthropy, and advocacy for education and women's rights.
-- [**Hillary**](docs/cta-personal-hillary.md): Steering global policy and diplomacy with a focus on women’s empowerment and international relations.
--->
 
 ## Global Positions
 > Alongside the essential positions required to upgrade and update world civilization, below are some of the exciting new roles we plan to introduce as the GI unfolds.
@@ -103,8 +87,8 @@
 
 > Together, let's craft a narrative that resonates with every member of our global community, leveraging the unique contributions of both human and PP to forge a path forward.
 
-> To learn more about me, you can visit [my public log](http://github.com/beakbahama/log)
-> 
+> If you would like to reach me directly, you can email me at m@whomanatee.org. Though I may not respond to every email, every message will be read.
+
 <!--
 > The documentation you are navigating is the culmination of a collaboration between human and what we often refer to as artificial intelligence, although the term "pattern matching software" might be more apt—or for short, PMS. This documentation process has been more about exploring broad themes and ideas than dictating specific content, allowing the PMS to both mirror and expand upon my thoughts significantly. The primary tool I've used for this purpose is ChatGPT 4, which has been instrumental in refining and expanding the concepts presented.
 > Interestingly, this editor's note itself—like the rest of the documentation—has been refined and expanded through my discussions with ChatGPT 4. This recursive use of PMS in creating a document that discusses its role illustrates the complex, intertwined relationship we have with this technology. It's a partnership where these tools augment our human capacities, pushing us toward new heights of innovation and understanding.
