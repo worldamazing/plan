@@ -1,7 +1,8 @@
 # Case Study: Prime Minister Alexei's Transformation
 > This case study delves into the profound transformation of Prime Minister Alexei from a leader known for aggressive national policies to a visionary advocate for global peace and sustainability. It highlights his public and personal journeys, emphasizing how his deep engagement with the Global Institution (GI) sparked major reconciliation efforts both internationally and within his own family, illustrating the powerful integration of GI's principles into his governance and personal life.
 
-
+![](/assets/images/case-study-alexei-01.webp)
+![](/assets/images/case-study-alexei-05.webp)
 ![](/assets/images/case-study-alexei-04.webp)
 
 **From Conflict to Cooperation:**
@@ -21,10 +22,8 @@ His legacy evolved dramatically—from a war leader to a global peacemaker. Alex
 
 This case study not only chronicles a political transformation but also captures a deeply personal evolution, underscoring the critical link between leadership in public office and the private sphere in nurturing a peaceful world.
 
-![](/assets/images/case-study-alexei-05.webp)
-
-![](/assets/images/case-study-alexei-01.webp)
+<!--
+![](/assets/images/case-study-alexei-03.webp)
 ![](/assets/images/case-study-alexei-02.webp)
-<!--![](/assets/images/case-study-alexei-03.webp)-->
-
+-->
 
