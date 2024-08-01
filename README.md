@@ -29,12 +29,12 @@
 - [**The Hills' Community Engagement**](docs/case-study-the-hills.md): Wealthy residents of the Hollywood Hills discover a new sense of purpose and community.
 - [**The Al-Hayek's Cultural Renaissance**](docs/case-study-the-al-hayeks.md): A family in Gaza finds new beginnings in a revitalized community.
 - [**The Golan's Unity Through Diversity**](docs/case-study-the-golans.md): A family in the West Bank contributes to peace and community healing.
+- [**Alexei's Transformation**](docs/case-study-alexei.md): From a war leader to a global peacemaker, illustrating personal and policy transformations.
 
 <!--
 - [**Jacob's Journey from Conflict to Reconciliation**](docs/case-study-jacob.md): A former IDF Air Force pilot finds healing and a new purpose in peace-building.
 - [**Jamal's Road to Redemption**](docs/case-study-jamal.md): A former combatant's transformation through education and community engagement.
 - [**David's Path to Inner Peace**](docs/case-study-david.md): How a former Prime Minister redirected his focus from conflict to peace advocacy.
-- [**Alexei's Transformation**](docs/case-study-alexei.md): From a war leader to a global peacemaker, illustrating personal and policy transformations.
 -->
 
 ## Call To Action
