@@ -8,8 +8,8 @@
 ## Key Documents
 > Dive into the foundational texts of the GI with these essential documents.
 - [**Overview**](docs/overview.md): Providing a thorough exploration of the Global Institution's strategic framework.
-- [**Benefits**](docs/benefits-all.md): Delve into the extensive benefits that membership in the Global Institution offers. 
 - [**Initiatives**](docs/initiatives.md): A range of transformative initiatives that reshape how communities engage, respond to emergencies, and adapt urban environments.
+- [**Benefits**](docs/benefits-all.md): Delve into the extensive benefits that membership in the Global Institution offers. 
 
 ## Our Potential Future
 > Offering a conceptual and holistic look at the future, this section elaborates on the broader societal transformations envisioned by the Global Institution.
