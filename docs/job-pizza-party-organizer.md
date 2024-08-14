@@ -3,12 +3,6 @@
 **Title:** World Pizza Party Organzier (World PPO)  
 **Description:** Organize a yearly world pizza party  
 **Location:** Global – Remote with Travel Opportunities  
-<!--**# of Openings:** Multiple, no cap, as needed  -->
-
-**Job Classification:** Full Time  
-**Schedule:** 2 days per week max, on average, flexible, can be on/off for weeks or even months at a time  
-**Weekend:** 5 days per week, on average  
-
 **Benefits:** [full GI benefits](/docs/benefits-all.md)  
 
 ![](/assets/images/jobs-wppo-01.webp)
