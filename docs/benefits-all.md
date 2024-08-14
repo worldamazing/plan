@@ -75,12 +75,12 @@ Join the Global Institution and step into a life where every day is a canvas of 
 - **Innovative Transportation Options**: Use of electric vehicles, bicycles, and other sustainable transportation methods provided for all members.
 
 
-## Benefits Summary
+## Benefits Summary For All
 
 ### Covered For All
 > Essential services and resources provided at no additional cost to all members
 
-1. **Housing**: Including utilities (internet, electricity, water, heating, cooling).
+1. **Housing**: Including utilities (electricity, water, heating, cooling).
 1. **Healthcare**: Comprehensive medical, dental, mental health services, and wellness programs.
 1. **Education**: All levels of education, from early childhood to higher education and lifelong learning.
 1. **Food**: Basic groceries and meals.
@@ -112,7 +112,6 @@ Join the Global Institution and step into a life where every day is a canvas of 
 1. **Non-Essential Corporations**: Companies that do not provide essential services to humanity.
 1. **Private Property Ownership for Essentials**: Individual ownership of essential services and resources.
 1. **Charities and NGOs**: Non-profits and non-governmental organizations providing basic services.
-1. **Advertising**: Commercial advertising for non-essential goods and services.
 1. **Debt**: Personal and corporate debt structures.
 1. **Taxation**: Traditional forms of taxation to fund government services.
 1. **Landlords and Rental Markets**: Private ownership of rental properties.
@@ -126,6 +125,7 @@ Join the Global Institution and step into a life where every day is a canvas of 
 1. **Commercial Entertainment**: For-profit entertainment companies.
 1. **Commercial Environmental Services**: For-profit waste management and recycling companies.
 <!--1. **Traditional Government Structures**: National, state, and local governments as separate entities.-->
+<!-- 1. **Advertising**: Commercial advertising for non-essential goods and services. -->
 
 ### Crimes Cured For All
 > Targeting severe violations that threaten human rights and dignity
