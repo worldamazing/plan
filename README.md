@@ -3,7 +3,7 @@
 
 > The framework proposes working only 2 days per week on average, retiring by age 50, and eliminating essential living expenses such as housing, utilities, healthcare, education, casualwear, and groceries for all.
 
-> Supported by a new economic model that champions community empowerment, individual well-being, and personal freedom, together we can transform the concepts of work, wealth, and well-being on a global scale. Discover how together we can foster peace, prosperity, harmony, and joy for all.
+> Supported by a new economic model that champions community empowerment, individual well-being, and personal freedom, together we can transform the concepts of work, wealth, and health on a global scale.
 
 ## Key Documents
 > Dive into the foundational texts of the GI with these essential documents.
@@ -58,7 +58,7 @@
 - [**Devlopers**](docs/cta-devlopers.md)[sic]: Calling on software developers to bring their technical skills and creative problem-solving to help us craft the digital tools and platforms that will power our global initiatives.
 
 ## Global Positions
-> Alongside the essential positions required to upgrade and update world civilization, below are some of the exciting new roles we plan to introduce as the GI unfolds.
+> Alongside the essential positions required to upgrade and update world civilization, below are new roles that are planned as the GI unfolds.
 - [**World Pizza Party Organizer**](docs/job-pizza-party-organizer.md): Facilitator of an annual global extravaganza where participants from every corner of the world enjoy a slice of pizza. This role not only fills bellies but fosters a sense of community and shared dreams for a more connected and joyous future.
 <!--
 - [**General Complainer Supreme**](docs/job-general-complainer-supreme.md): The leader of the Army of Complainers, responsible for steering the direction of complaint resolution initiatives globally. This role demands a visionary leader who can transform grievances into strategic actions, ensuring that every voice within the GI is heard and valued. The General Complainer Supreme sets the tone for a proactive, problem-solving culture, embodying the GI’s commitment to continuous improvement and inclusive leadership.
@@ -66,10 +66,11 @@
 -->
 
 ## Get Involved
-- **Start Thinking**: Take some time to reflect on the GI’s principles and how they resonate with your personal experiences and aspirations for the future. Consider the broader impact these principles could have and ponder potential challenges and opportunities. This internal exploration is a crucial first step in understanding and aligning with our mission.
-- **Join the Conversation**: Ready to voice your thoughts? Engage with the GI community on our [Discussion Board](https://github.com/whomanatee/plan/discussions). Creating a free GitHub account is easy and requires no prior software knowledge. This platform allows us to leverage robust community tools to share insights, ask questions, and brainstorm together.
-<!-- - **Spread the Word**: Help amplify the plan by discussing the GI with friends, family, and on your social media platforms. Every discussion you initiate helps us grow stronger and reach further.-->
+- **Start Thinking**: Take some time to reflect on the GI’s principles and how they resonate with your personal experiences and aspirations for the future. Consider the broader impact these principles could have and ponder potential challenges and opportunities.
+- **Join the Conversation**: Engage with the GI on our [Discussion Board](https://github.com/whomanatee/plan/discussions). Creating a GitHub account requires no prior software knowledge. This platform allows us to leverage robust community tools to share insights, ask questions, and brainstorm together.
+- **Spread the Word**: Help amplify the plan by discussing the GI with friends, family, co-workers, neighbors, cats, and dogs.
 
+<!--
 ## A Note From the Proposer
 
 > Greetings,
@@ -85,3 +86,4 @@
 > I invite you to dive deep into the content, reflect on its implications, and contribute your insights. If any section sparks your curiosity or if you see an area that could be expanded, do not hesitate to participate in the [discussions](https://github.com/whomanatee/plan/discussions), where I will be actively engaging with contributors. Your feedback is crucial not only for refining current content but also for shaping future updates. If you would like to reach me privately, you can email me at m@whomanatee.org. Though I may not respond to every email, rest assured that every message will be read and considered.
 
 > Together, let's craft a narrative that resonates with every member of our global community, leveraging the unique contributions of both human and PP to forge a path forward toward peace, prosperity, harmony, and joy for all.
+-->
