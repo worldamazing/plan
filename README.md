@@ -8,6 +8,7 @@
 ## Key Documents
 - [**Overview**](docs/overview.md): Providing a thorough exploration of the Global Institution's strategic framework.
 - [**Benefits**](docs/benefits-all.md): Delve into the extensive benefits that membership in the Global Institution offers. 
+- [**Steps**](docs/steps.md): Outlining the four crucial steps to achieve *World Amazing* for all.
 
 ## Our Potential Future
 - [**Justice**](docs/vision-justice.md): Imagining a world governed by restorative justice practices.
