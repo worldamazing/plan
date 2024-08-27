@@ -6,19 +6,16 @@
 > Supported by a new economic model that champions community empowerment, individual well-being, and personal freedom, together we can transform the concepts of work, wealth, and health on a global scale.
 
 ## Key Documents
-> Dive into the foundational texts of the GI with these essential documents.
 - [**Overview**](docs/overview.md): Providing a thorough exploration of the Global Institution's strategic framework.
 - [**Benefits**](docs/benefits-all.md): Delve into the extensive benefits that membership in the Global Institution offers. 
 
 ## Our Potential Future
-> Offering a conceptual and holistic look at the future, this section elaborates on the broader societal transformations envisioned by the Global Institution.
 - [**Justice**](docs/vision-justice.md): Imagining a world governed by restorative justice practices.
 - [**Mental Health**](docs/vision-mental-health.md): Envisioning a society free from mental health challenges.
 - [**Creativity and Human Potential**](docs/vision-human-potential.md): Imagining a society where everyone excels at the highest level of all forms of intelligence.
 - [**Openness and Empowerment**](docs/vision-openness-empowerment.md): Envisioning a society where openness and self-awareness empower every individual to contribute fully to communal life.
 
 ## Case Studies: Before and After
-> Explore hypothetical scenarios that vividly illustrate the transformative effects of the Global Institution through 'Before and After' narratives. These case studies demonstrate the potential changes in individuals' lives and community dynamics, offering a tangible look at the practical application and impact of the GI's initiatives.
 - [**A World United**](docs/case-study-global.md): Envisioning global unity under the GI.
 - [**Transforming Suffering into Lessons**](docs/case-study-suffering.md): Maintaining historical awareness while fostering progress.
 - [**Maria's Renewed Hope**](docs/case-study-maria.md): A factory worker's life is transformed by stable employment and community involvement.
@@ -34,10 +31,9 @@
 - [**David's Path to Inner Peace**](docs/case-study-david.md): How a former Prime Minister redirected his focus from conflict to peace advocacy. 
 -->
 
-## Call To Action
-> Join us in uniting diverse perspectives, skills, and passions to drive global change.
+## Call To Action: Join the GI
 
-### CTA: All Humans of All Ages and Abilities
+### All Humans of All Ages and Abilities
 > From thinkers to leaders, to those seeking redemption, each human is crucial in our collective mission. Regardless of your present circumstances or past behavior, the involvement of everyone is essential for the success of the GI.
 - [**Global Citizens**](docs/cta-global-citizens.md): A broad appeal to all members of the global community to join in fostering a sustainable and equitable world.
 - [**Thinkers**](docs/cta-thinkers.md): An invitation for deep thinkers and philosophers to harness their intellect in shaping global policies.
@@ -46,7 +42,7 @@
 - [**Youths**](docs/cta-youths.md): Inspiring the next generation to take an active role in crafting the future through creativity and innovation.
 - [**Redemption Seekers**](docs/cta-redemption.md): A heartfelt invitation to those who have caused irreversible damage, offering a pathway to contribute positively and find personal healing.  
 
-### CTA: Humans Skilled in These Areas
+### Humans Skilled in These Areas
 > To successfully launch and sustain all GI initiatives, we will need experienced and skilled humans to get things going.
 - [**Defense, Emergency, and Disaster Response Professionals**](docs/cta-defense-emergency.md): Inviting experts in defense, emergency management, and disaster response to bring their crucial skills to a global platform committed to enhancing safety and preparedness.
 - [**Healthcare Professionals**](docs/cta-healthcare.md): Inviting healthcare workers to contribute their expertise to improving global health systems and advancing medical practices.
