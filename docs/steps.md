@@ -1,10 +1,11 @@
 # Global Institution: Four Steps to World Amazing
+> This page presents a comprehensive plan detailing the necessary steps to establish a global community based on equality and sustainability. It serves as a roadmap, outlining the critical phases required to bring about transformative changes worldwide.
 
 ## Table of Contents
-4. [Step One: Global Discussion](#step-one-global-discussion)
-5. [Step Two: Funding the GI Core Fund](#step-two-funding-the-gi-core-fund)
-6. [Step Three: Implementation Phases](#step-three-implementation-phases)
-7. [Step Four: World Amazing](#step-four-world-amazing)
+1. [Step One: Global Discussion](#step-one-global-discussion)
+1. [Step Two: Funding the GI Core Fund](#step-two-funding-the-gi-core-fund)
+1. [Step Three: Implementation Phases](#step-three-implementation-phases)
+1. [Step Four: World Amazing](#step-four-world-amazing)
 
 ## Step One: Global Discussion
 The initial phase of establishing the GI involves initiating a global discussion that transcends geographical and cultural boundaries, inviting people from all walks of life to participate. This dialogue will not only focus on the core values and objectives of the GI but also serve as a platform for connection, idea exchange, and collective inspiration.
