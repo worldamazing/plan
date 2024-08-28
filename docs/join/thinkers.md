@@ -1,7 +1,5 @@
 # CTA For Thinkers to Join the Global Institution – Where Thinkers Unite
 
----
-
 In a world that often seems dominated by noise and haste, there exists a sanctuary for those who seek depth, understanding, and genuine connection. This sanctuary is the Global Institution (GI), a place where thinkers from all walks of life come together to create, innovate, and inspire.
 
 Imagine a community where your thoughts are valued, where your ideas are not just heard but celebrated. A place where the pursuit of knowledge is the highest calling, and where the collective wisdom of diverse minds comes together to solve the world's most pressing challenges. This is the essence of the Global Institution.

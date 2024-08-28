@@ -7,6 +7,7 @@ As a global citizen, you play a crucial role in the narrative of change. Whether
 
 ### Vision for Unity and Action
 Imagine a world where collaboration transcends borders, where solutions to global challenges are sparked by the confluence of diverse perspectives. The GI is committed to making this vision a reality by:
+
 - **Promoting Sustainable Development**: Engage in initiatives that prioritize long-term ecological health and resource sustainability.
 - **Advancing Global Health**: Contribute to projects that aim to enhance health outcomes across communities worldwide.
 - **Cultivating Educational Opportunities**: Participate in programs that expand access to education and empower future generations.

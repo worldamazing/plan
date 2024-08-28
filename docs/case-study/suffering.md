@@ -16,12 +16,14 @@ In a world profoundly transformed by the Global Institution, the echoes of past 
 
 The GI recognizes that the path to a harmonious future is paved with the understanding and acknowledgment of the past. To this end, we will establish Memorial Gardens of Reflection and Learning—sanctuaries that stand as both memorials and educational centers in various global locations. Each garden will be carefully designed to reflect the history and sacrifices specific to its region, serving as a poignant reminder and an educational tool.
 
-**Key Features of the Memorial Gardens**:
+**Key Features of the Memorial Gardens**:  
+
 - **Interactive Exhibits**: Utilizing cutting-edge augmented reality technology, these exhibits bring history to life, allowing visitors to witness the unfolding of past events, making the experience deeply personal and impactful.
 - **Educational Programs**: Tailored curricula are developed for visitors of all ages, emphasizing the importance of peace, the sanctity of life, and the critical need to remember the past.
 - **Annual Remembrance and Peace Festivals**: These events blend solemn remembrance with vibrant cultural celebrations, reaffirming the community's dedication to peace and mutual respect.
 
-**Impact**:
+**Impact**:  
+
 These gardens ensure every individual born into the world of the GI is well-informed of their heritage and the trials their forebears overcame. By instilling a deep understanding and appreciation of the past, the GI fosters a global culture that values peace over conflict and empathy over indifference, ensuring that the horrors of the past are never repeated.
 
 ## Concluding Remarks

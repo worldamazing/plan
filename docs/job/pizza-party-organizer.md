@@ -3,7 +3,7 @@
 **Title:** World Pizza Party Organzier (World PPO)  
 **Description:** Organize a yearly world pizza party  
 **Location:** Global – Remote with Travel Opportunities  
-**Benefits:** [full GI benefits](/docs/benefits-all.md)  
+**Benefits:** [full GI benefits](/docs/benefits.md)  
 
 ![](/assets/images/jobs-wppo-01.webp)
 > An image depicting a future pizza party organized by the World PPO  (*generated with Chat GPT 4.0*)
