@@ -1,9 +1,9 @@
 # The Global Institution Plan
 > A 100% public open-source framework designed for everyone worldwide to live extraordinarily.
 
-> The framework proposes working only 2 days per week on average, retiring by age 50, and eliminating essential living expenses such as housing, utilities, healthcare, education, casualwear, and groceries for all.
+> The framework proposes working only 2 days per week on average, retiring from intensive physical or mental work by age 50, and eliminating base essential living expenses such as housing, utilities, healthcare, education, casualwear, groceries, basic yearly vacations, and pet health coverage.
 
-> Supported by a new economic model that champions community empowerment, individual well-being, and personal freedom, together we can transform the concepts of work, wealth, and health on a global scale.
+> Supported by a new economic model that champions the individual, the family, the community, and beyond, this plan outlines transformative approaches to the concepts of work, wealth, health, prosperity, harmony, and joy on a global scale.
 
 
 ## Table of Contents
@@ -11,7 +11,7 @@
 2. **[Our Potential Future](#our-potential-future)**: Visions and aspirations for what society could look like under the GI, focusing on justice, mental health, creativity, and empowerment.
 3. **[Case Studies: Before and After](#case-studies-before-and-after)**: Real-life inspired scenarios showing the transformative impact of the GI on individuals and communities across various socio-economic backgrounds.
 4. **[Join the GI](#join-the-gi)**: Opportunities and invitations for individuals from diverse backgrounds to actively participate in the GI, emphasizing inclusion and community contribution.
-5. **[Global Positions](#global-positions)**: Descriptions of new, innovative roles created within the GI to support and sustain its global initiatives, fostering a proactive and engaged global community.
+5. **[Global Positions](#global-positions)**: Alongside the essential positions required to upgrade and update world civilization, many new roles are also planned to foster a proactive and engaged global community.
 6. **[Ways To Get Involved Today](#ways-to-get-involved-today)**: Immediate actions people can take to begin understanding and discussing the principles and aims of the GI, fostering a grassroots movement for change.
 
 ---
@@ -71,7 +71,7 @@
 - [**Devlopers**](docs/join/devlopers.md)[sic]: Calling on software developers to bring their technical skills and creative problem-solving to help us craft the digital tools and platforms that will power our global initiatives.
 
 ## Global Positions
-> Alongside the essential positions required to upgrade and update world civilization, below are new roles that are planned as the GI unfolds.
+> Alongside the essential positions required to upgrade and update world civilization, many new roles are also planned to foster a proactive and engaged global community.
 
 - [**World Pizza Party Organizer**](docs/job/pizza-party-organizer.md): Facilitator of an annual global extravaganza where participants from every corner of the world enjoy a slice of pizza. This role not only fills bellies but fosters a sense of community and shared dreams for a more connected and joyous future.
 
