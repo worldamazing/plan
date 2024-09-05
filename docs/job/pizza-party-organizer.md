@@ -26,7 +26,6 @@ Your leadership will direct the course of an event characterized by its global r
 - **Proven Leadership:** Extensive experience in leadership roles with a demonstrated ability to mobilize international teams and manage large-scale events.
 - **Vision for Unity:** A passionate belief in the power of community and shared experiences as a catalyst for global change.
 - **Culinary and Cultural Acumen:** A refined taste in diverse cuisines and a deep appreciation for cultural traditions.
-- **Elegant Personal Style:** A professional demeanor that reflects a sophisticated personal style, evident in everyday interactions and public appearances.
 - **Exceptional Communication:** Superior interpersonal and communication skills, capable of captivating and inspiring a diverse global audience.
 
 ## **Preferred Experience:**
@@ -43,6 +42,6 @@ Your leadership will direct the course of an event characterized by its global r
 - This position offers not only a unique professional challenge but also the chance to become a beloved figure in international cultural celebrations, respected and recognized as a key contributor to global harmony and joy.
 
 ## **Application Process:**
-We invite visionary leaders to apply for this role by submitting a comprehensive CV and a cover letter to jobs@whomanatee.org that outlines your motivation for this position and your vision for a world united by the simple yet profound act of sharing a meal. Describe how you will bring elegance, taste, and inspiration to this pivotal role.
+We invite visionary humans to apply for this role by sending an email to jobs@whomanatee.org that very, very briefly outlines your motivation for this position and your vision for a world united by the simple yet profound act of sharing a meal. Describe how you will bring taste and inspiration to this pivotal role.
 
 This position is designed for someone who sees beyond the horizon, who understands that a meal can be more than nourishment—it can be a profound expression of hope and unity. If you are driven to create a future where every year, people around the world pause to dine together, dream together, and hope together, we welcome your application.
