@@ -5,10 +5,24 @@
 
 > Supported by a new economic model that champions community empowerment, individual well-being, and personal freedom, together we can transform the concepts of work, wealth, and health on a global scale.
 
+
+## Table of Contents
+1. **[Key Documents](#key-documents)**: Essential documents providing a concise overview, benefits, and a straightforward, actionable four-step plan for members to engage with and contribute to the GI’s mission.
+2. **[Our Potential Future](#our-potential-future)**: Visions and aspirations for what society could look like under the GI, focusing on justice, mental health, creativity, and empowerment.
+3. **[Case Studies: Before and After](#case-studies-before-and-after)**: Real-life inspired scenarios showing the transformative impact of the GI on individuals and communities across various socio-economic backgrounds.
+4. **[Join the GI](#join-the-gi)**: Opportunities and invitations for individuals from diverse backgrounds to actively participate in the GI, emphasizing inclusion and community contribution.
+5. **[Global Positions](#global-positions)**: Descriptions of new, innovative roles created within the GI to support and sustain its global initiatives, fostering a proactive and engaged global community.
+6. **[Ways To Get Involved Today](#ways-to-get-involved-today)**: Immediate actions people can take to begin understanding and discussing the principles and aims of the GI, fostering a grassroots movement for change.
+
+---
 ## Key Documents
-- [**Overview**](docs/overview.md): Providing a thorough exploration of the Global Institution's strategic framework.
-- [**Benefits**](docs/benefits.md): Delve into the extensive benefits that membership in the Global Institution offers.
-- [**Steps**](docs/steps.md): Outlining the four crucial steps to achieve *World Amazing* for all.
+- [**Overview**](docs/overview.md): Housing for all, education for all, eating for all, and prospering for all GI members.
+- [**Benefits**](docs/benefits.md): Basic yearly essential vactions included for all members.
+- [**The Four Steps**](docs/steps.md):
+  - *Step One:* We talk and work it out.
+  - *Step Two:* We put our money together.
+  - *Step Three:* We get to work.
+  - *Step Four:* World Amazing.
 
 ## Our Potential Future
 - [**Justice**](docs/vision/justice.md): Imagining a world governed by restorative justice practices.
@@ -17,7 +31,7 @@
 - [**Openness and Empowerment**](docs/vision/openness-empowerment.md): Envisioning a society where openness and self-awareness empower every individual to contribute fully to communal life.
 
 ## Case Studies: Before and After
-- [**A World United**](docs/case-study/global.md): Envisioning global unity under the GI.
+- [**A World United**](docs/case-study/global.md): Envisioning global unity.
 - [**Transforming Suffering into Lessons**](docs/case-study/suffering.md): Maintaining historical awareness while fostering progress.
 - [**Maria's Renewed Hope**](docs/case-study/maria.md): A factory worker's life is transformed by stable employment and community involvement.
 - [**John's New Foundations**](docs/case-study/john.md): A single father's life is revitalized through community support and new career opportunities.
@@ -35,7 +49,7 @@
 
 ## Join the GI
 
-### To: All
+### To: All Humans
 > From thinkers to leaders, to those seeking redemption, each human is crucial in our collective mission. Regardless of your present circumstances or past behavior, the involvement of everyone is essential for the success of the GI.
 
 - [**Global Citizens**](docs/join/global-citizens.md): A broad appeal to all members of the global community to join in fostering a sustainable and equitable world.
@@ -66,25 +80,9 @@
 - [**Army of Complainers Member**](docs/job/army-of-complainers.md): As a mandatory role for all GI members, this position is at the heart of our mission to address and resolve every issue, no matter its size. Members are tasked with identifying, articulating, and solving complaints ranging from everyday inconveniences to systemic challenges. This role is about active participation in creating a better world, ensuring that every complaint, big or small, is an opportunity for improvement and innovation.
 -->
 
-## Get Involved
-- **Start Thinking**: Take some time to reflect on the GI’s principles and how they resonate with your personal experiences and aspirations for the future. Consider the broader impact these principles could have and ponder potential challenges and opportunities.
-- **Join the Conversation**: Engage with the GI on our [Discussion Board](https://github.com/whomanatee/plan/discussions). Creating a GitHub account requires no prior software knowledge. This platform allows us to leverage robust community tools to share insights, ask questions, and brainstorm together.
-- **Spread the Word**: Help amplify the plan by discussing the GI with friends, family, co-workers, neighbors, cats, and dogs.
+## Ways To Get Involved Today
+- **Think About It**: Take some time to reflect on the GI’s principles and how they resonate with your personal experiences and aspirations for the future. Consider the broader impact these principles could have and ponder potential challenges and opportunities.
 
-<!--
-## A Note From the Proposer
+- **Talk About It**: Once you've thought about it, discuss the GI plan online and in person with friends, family, co-workers, neighbors, cats, dogs, people at the park, people at the grocery store, fast food workers, land governors, teachers, public politicians, officers of the law, and anyone else that may be willing to have a discussion on creating a world that would be comfortable and incredible for all, and full of peace, prosperity, harmony, joy, and an unshakeable human spirit of collective will.
 
-> Greetings,
-
-> The documentation you are navigating is the culmination of a collaboration between human insight and what we often refer to as artificial intelligence, although the term 'probability program' might be more apt—or PP for short. This term, emphasizing the statistical nature of how such systems operate—using data to generate probabilities rather than making decisions—helps clarify the role of this technology as a tool rather than a decision-maker. The primary tool I've used for this purpose is ChatGPT 4, which has been instrumental not only in organizing complex data but also in expanding upon my thoughts, often in ways I had not anticipated. The very existence of such technology is a testament to centuries of human innovation, beginning with milestones such as the printing press, which first allowed us to widely record and disseminate knowledge. This long history of information sharing has culminated in our ability to create systems like PP, which continue to push the boundaries of how we gather, process, and utilize knowledge.
->
-> This documentation process has been fundamentally driven by a deep understanding of humanity’s potential to collaborate, a potential often obscured by the structures of modern civilization. While the PP has significantly helped to mirror and expand upon my thoughts, it is my insights—built upon the accumulated knowledge and collaborative efforts of humanity over thousands of years—that have primarily shaped these ideas. The software has served as a tool to articulate and refine these concepts, ensuring clarity and coherence in presenting them.
-
-> For those who may fear the robots taking over one day, your perspective may shift based on my experience with probability programs. Rather than envisioning a dystopian scenario dominated by uncontrollable PP, hopefully you'll come to see these tools as allies in our quest for global advancement. The capabilities of PP to generate solutions and ideas have been remarkable, helping to propel us towards a future marked by peace, prosperity, harmony, and joy. Let's embrace this partnership with PP.
-
-> You may often come across phrases like "our vision" or "our mission" within this documentation. However, it's important to recognize that these terms do not imply that the GI exists in isolation from the world community. The mission of the GI is fundamentally shaped by the will of the people. This document is not just a set of directives but a proposal, inviting everyone to engage, contribute, and refine our shared path toward global transformation.
-
-> I invite you to dive deep into the content, reflect on its implications, and contribute your insights. If any section sparks your curiosity or if you see an area that could be expanded, do not hesitate to participate in the [discussions](https://github.com/whomanatee/plan/discussions), where I will be actively engaging with contributors. Your feedback is crucial not only for refining current content but also for shaping future updates. If you would like to reach me privately, you can email me at m@whomanatee.org. Though I may not respond to every email, rest assured that every message will be read and considered.
-
-> Together, let's craft a narrative that resonates with every member of our global community, leveraging the unique contributions of both human and PP to forge a path forward toward peace, prosperity, harmony, and joy for all.
--->
+<!--- **Join the Conversation**: Engage with the GI on our [Discussion Board](https://github.com/whomanatee/plan/discussions). Creating a GitHub account requires no prior software knowledge. This platform allows us to leverage robust community tools to share insights, ask questions, and brainstorm together.-->
