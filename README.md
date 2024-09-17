@@ -1,3 +1,6 @@
+> [!NOTE]
+> For a comprehensive overview of the plan, consider starting with this document: [Time is Freedom](https://github.com/beakbahama/log/blob/main/docs/time-is-freedom.md)
+
 # The Global Institution Plan
 > A 100% public open-source framework designed for everyone worldwide to live extraordinarily.
 
@@ -5,16 +8,15 @@
 
 > Supported by a new economic model that champions the individual, the family, the community, and beyond, this plan outlines transformative approaches to the concepts of work, wealth, health, prosperity, harmony, and joy on a global scale.
 
-
-## Table of Contents
+<!--
 1. **[Key Documents](#key-documents)**: Essential documents providing a concise overview, benefits, and a straightforward, actionable four-step plan for members to engage with and contribute to the GI’s mission.
 2. **[Our Potential Future](#our-potential-future)**: Visions and aspirations for what society could look like under the GI, focusing on justice, mental health, creativity, and empowerment.
 3. **[Case Studies: Before and After](#case-studies-before-and-after)**: Real-life inspired scenarios showing the transformative impact of the GI on individuals and communities across various socio-economic backgrounds.
 4. **[Join the GI](#join-the-gi)**: Opportunities and invitations for individuals from diverse backgrounds to actively participate in the GI, emphasizing inclusion and community contribution.
 5. **[Global Positions](#global-positions)**: Alongside the essential positions required to upgrade and update world civilization, many new roles are also planned to foster a proactive and engaged global community.
 6. **[Ways To Get Involved Today](#ways-to-get-involved-today)**: Immediate actions people can take to begin understanding and discussing the principles and aims of the GI, fostering a grassroots movement for change.
+-->
 
----
 ## Key Documents
 - [**Overview**](docs/overview.md): Housing for all, education for all, eating for all, and prospering for all GI members.
 - [**Benefits**](docs/benefits.md): Basic yearly essential vactions included for all members.
