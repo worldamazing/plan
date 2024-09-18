@@ -1,4 +1,6 @@
-# A Comprehensive Overview of the Global Institution Plan
+# Initiatives: Key Features of the Global Institution
+
+<!--
 Welcome to the Global Institution (GI), a framework designed to elevate and harmonize the way we live, work, and interact within our global community. This blueprint redefines 'work' as a meaningful contribution limited to just two days a week, allowing for ample personal growth, relationship nurturing, and the pursuit of passions that enrich both individual lives and the wider community.
 
 As we step into this envisioned future, let us explore the transformative living environments and societal structures that embody the essence of the GI. Envision a future where homes adapt to your mood, with environments that automatically adjust lighting, temperature, and even wall colors to reflect your current state of mind. Cities become vibrant hubs of creativity, with streets alive with ever-changing art installations that tell stories from diverse cultures, enhancing global connectivity.
@@ -12,9 +14,9 @@ Shopping is reimagined as an exciting adventure within vast, open-plan bazaars w
 These cities are more than places to live; they are ecosystems of human ambition and harmonious living, where every individual is supported to reach their fullest potential in a world that celebrates diversity and fosters unity.
 
 Together, we possess the power to turn this vision into reality. By uniting our efforts and resources within the framework of the Global Institution, we lay the groundwork for a world abundant in peace, prosperity, and universal joy. This plan transcends being a mere dream; it serves as a practical roadmap to craft a future where no one is overlooked and everyone thrives.
+-->
 
-
-## **Key Features of the Global Institution**
+## Table of Contents
 1. [Home for Every Citizen](#home-for-every-citizen-building-safe-and-sustainable-communities) - Ensuring safe, sustainable, and adaptable housing for all members, prioritizing dignity and stability.
 1. [Empowering Global Citizens](#empowering-global-citizens-a-lifelong-journey-of-learning) - Creating a lifelong learning journey from childhood through adulthood, with education tailored to individual needs and potentials.
 1. [Revolutionizing Well-being](#revolutionizing-well-being-integrating-healthcare-with-community-support) - Integrating healthcare with community support to enhance both physical and mental health through universal access and preventative care.
