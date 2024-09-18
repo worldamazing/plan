@@ -1,5 +1,5 @@
 > [!NOTE]
-> For a comprehensive overview of the plan, consider starting with this document: [Time is Freedom](https://github.com/beakbahama/log/blob/main/docs/time-is-freedom.md)
+> For a comprehensive overview of the plan, consider starting with this personal document from the framework author: [Time is Freedom](https://github.com/beakbahama/log/blob/main/docs/time-is-freedom.md)
 
 # The Global Institution Plan
 > A 100% public open-source framework designed for everyone worldwide to live extraordinarily.
@@ -18,7 +18,7 @@
 -->
 
 ## Key Documents
-- [**Overview**](docs/overview.md): Housing for all, education for all, eating for all, and prospering for all GI members.
+- [**Initiatives**](docs/initiatives.md): Housing for all, education for all, eating for all, and prospering for all GI members.
 - [**Benefits**](docs/benefits.md): Basic yearly essential vactions included for all members.
 - [**The Four Steps**](docs/steps.md):
   - *Step One:* We talk and work it out.
@@ -88,3 +88,10 @@
 - **Talk About It**: Once you've thought about it, discuss the GI plan online and in person with friends, family, co-workers, neighbors, cats, dogs, people at the park, people at the grocery store, fast food workers, land governors, teachers, public politicians, officers of the law, and anyone else that may be willing to have a discussion on creating a world that would be comfortable and incredible for all, and full of peace, prosperity, harmony, joy, and an unshakeable human spirit of collective will.
 
 <!--- **Join the Conversation**: Engage with the GI on our [Discussion Board](https://github.com/whomanatee/plan/discussions). Creating a GitHub account requires no prior software knowledge. This platform allows us to leverage robust community tools to share insights, ask questions, and brainstorm together.-->
+
+## A Note From the Author
+> Welcome to the Global Institution, a framework designed to elevate and harmonize the way we live, work, and interact within our global community.
+
+> You may often come across phrases like "our vision" or "our mission" within this documentation. However, it's important to recognize that these terms do not imply that the GI exists in isolation from the world community. The mission of the GI is fundamentally shaped by the will of the people. This document is not just a set of directives but a proposal, inviting everyone to engage, contribute, and refine our shared path toward global transformation.
+
+> Together, let's craft a narrative that resonates with every member of our global community, leveraging the unique contributions every individual to forge a path forward toward peace, prosperity, harmony, and joy for all.
