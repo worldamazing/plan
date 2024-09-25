@@ -18,7 +18,7 @@
 -->
 
 ## Key Documents
-- [**Initiatives**](docs/initiatives.md): Housing for all, education for all, eating for all, and prospering for all GI members.
+- [**Initiatives**](docs/initiatives.md): Housing, learning, eating, and prospering for all members.
 - [**Benefits**](docs/benefits.md): Basic yearly essential vactions included for all members.
 - [**The Four Steps**](docs/steps.md):
   - *Step One:* We talk and work it out.
@@ -89,7 +89,7 @@
 
 <!--- **Join the Conversation**: Engage with the GI on our [Discussion Board](https://github.com/whomanatee/plan/discussions). Creating a GitHub account requires no prior software knowledge. This platform allows us to leverage robust community tools to share insights, ask questions, and brainstorm together.-->
 
-## A Note From the Author
+## A Note From the Proposer
 > Welcome to the Global Institution, a framework designed to elevate and harmonize the way we live, work, and interact within our global community.
 
 > You may often come across phrases like "our vision" or "our mission" within this documentation. However, it's important to recognize that these terms do not imply that the GI exists in isolation from the world community. The mission of the GI is fundamentally shaped by the will of the people. This document is not just a set of directives but a proposal, inviting everyone to engage, contribute, and refine our shared path toward global transformation.
