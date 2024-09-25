@@ -19,7 +19,7 @@
 1. **Community Services**: Libraries, parks, recreational facilities, and community centers.
 1. **Fitness**: Gym memberships, fitness classes, and wellness programs.
 1. **Technology**: Essential personal electronics and maintenance.
-1. **Home Maintenance**: Repairs, cleaning services, and general upkeep.
+1. **Home Maintenance**: Repairs and general upkeep.
 1. **Financial Services**: Basic banking services without fees.
 1. **Agriculture**: Community-supported agriculture programs and urban farming initiatives.
 1. **Pets**: Veterinary care and basic pet supplies.
