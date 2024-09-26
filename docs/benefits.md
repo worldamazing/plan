@@ -32,13 +32,12 @@ The GI envisions a future where outdated and exploitative systems, such as profi
 1. **Insurance Services**: Traditional for-profit health, life, property, and liability insurance systems will no longer be needed, as all risks and essential services will be managed and provided for within the GI's inclusive framework, ensuring universal coverage without the need for profit-based insurance.
 1. **Commercial Banking**: Traditional banking services with fees and interest will be replaced by community-centered, fee-free financial systems that prioritize equitable access to capital and financial management for all members.
 1. **Non-Essential Corporations**: Companies, including for-profit education institutions, that do not provide essential services to humanity will be phased out, as the GI will focus solely on organizations that contribute directly to the well-being and advancement of society, replacing profit-driven models with purpose-driven missions.
-1. **Private Property Ownership for Essentials**: Individual ownership of essential resources such as water and energy will no longer exist. These resources will be managed collectively to ensure equitable access for all members, eliminating the possibility of exploitation or scarcity.
+1. **Private Ownership of Essential Utilities**: Individual and for-profit ownership of essential resources such as water and energy will no longer exist. These utilities will be collectively managed by the community, ensuring equitable, sustainable, and affordable access for all members while eliminating the potential for exploitation or scarcity.
 1. **Charities and NGOs**: Non-profits and NGOs that provide basic services will become obsolete, as the GI will ensure that all essential services—such as food, shelter, and healthcare—are universally available without the need for external charitable intervention.
 1. **Debt**: Personal and corporate debt structures will be eliminated, as the GI’s economic model will provide what is needed for all, without the necessity of borrowing or accumulating interest-bearing debt.
 1. **Taxation**: Traditional forms of taxation to fund government services will be obsolete, as the GI will manage all essential services through collective contributions and sustainable resource management, eliminating the need for taxes.
 1. **Landlords and Rental Markets**: Private ownership of rental properties will be unnecessary, as the GI will ensure that everyone has access to equitable, comfortable housing without the need for for-profit rental markets.
 1. **Legal Services**: Traditional for-profit legal services will no longer be required, as all legal matters will be handled within the GI framework, providing equitable access to conflict resolution, mediation, and justice for all members.
-1. **Private Utilities**: For-profit utility companies will be replaced by community-owned and managed utilities, ensuring that everyone has access to affordable, sustainable energy and water resources.
 1. **Private Transport Services**: For-profit transportation services will be replaced by public and community-based transport systems that prioritize sustainability, accessibility, and affordability for all members.
 1. **Commercial Agriculture**: Large-scale, for-profit farming operations will be replaced by sustainable, community-supported agriculture that focuses on local food production, equitable distribution, and environmental stewardship.
 1. **Commercial Entertainment**: For-profit entertainment companies will be replaced by community-driven, culturally enriching entertainment and recreational services accessible to all members.
@@ -55,14 +54,12 @@ By addressing the root causes of systemic inequality, resource mismanagement, an
 1. **Environmental Degradation**: Addressed by sustainable resource management and practices.
 1. **Resource Depletion**: Prevented through balanced and sustainable use of resources.
 1. **Drug and Substance Abuse**: Addressed with robust healthcare and mental wellness support integrated into daily life.
-1. **Homelessness**: Solved by providing housing for all members.
-1. **Hunger**: Eliminated through community-supported agriculture and food programs.
-1. **Malnutrition**: Addressed with access to nutritious food for all.
-1. **Disease**: Reduced through comprehensive healthcare and preventative measures.
-1. **Illiteracy**: Tackled by universal access to education at all levels.
+1. **Hunger and Malnutrition**: Eliminated through community-supported agriculture, food programs, and universal access to nutritious food for all members.
+1. **Illiteracy**: Tackled through universal access to education at all levels.
 1. **Digital Divide**: Closed with universal access to technology and communication services.
-1. **Obesity**: Reduced by promoting healthy lifestyles and accessible wellness programs.
-1. **Lifestyle Diseases**: Prevented through healthcare and education on healthy living.
+1. **Housing Instability**: Solved by providing housing for all members, but more importantly, by eliminating the conditions that lead to housing insecurity in the first place.
+1. **Lifestyle-Related Diseases**: Prevented through healthcare, education, and the creation of a world where stress, inequality, and other systemic pressures are eliminated. This includes conditions like diabetes, heart disease, obesity, and many types of cancers, which are influenced by factors such as diet, exercise, smoking, and alcohol consumption. The GI’s holistic approach ensures that everyone lives in an environment that supports healthy choices, reduces stress, and removes the societal pressures that often lead to lifestyle diseases in the first place.
+1. **Infectious Diseases**: Reduced through comprehensive healthcare and preventative measures. In the event of viral outbreaks, the GI’s framework would allow people to stay home for extended periods without any disruption to their well-being or the economy. This could lead to the eradication of certain viruses—like the flu or coronaviruses—without the need for vaccines, as community-wide isolation would prevent their spread. With universal support for all members, the GI can eliminate the conditions that force people to work while sick, ensuring swift containment and recovery.
 
 
 
