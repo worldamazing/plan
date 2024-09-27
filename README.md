@@ -1,5 +1,5 @@
 > [!NOTE]
-> For a comprehensive overview of the plan, consider starting with this document: [Project 2050: World Amazing or Bust!](https://github.com/beakbahama/log/blob/main/docs/time-is-freedom.md)
+> For a comprehensive overview of the plan, consider starting with this document: [Project 2050: World Amazing or Bust!](https://github.com/beakbahama/log/blob/main/docs/world-amazing.md)
 
 # The Global Institution Plan
 > A 100% public open-source framework designed for everyone worldwide to live extraordinarily.
