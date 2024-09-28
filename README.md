@@ -22,7 +22,7 @@
 - [**Benefits**](docs/benefits.md): Basic yearly essential vactions included for all members.
 - [**Discussions**](docs/discussions.md): Worldwide conversations focused on truth, healing, and universal growth to elevate humanity.
 - [**Funding**](docs/funding.md): A transparent model outlining how contributions support the core initiatives of the GI and beyond.
-- [**Implemenation**](docs/implementation.md): Strategic approaches from foundational projects to full-scale societal transformation.
+- [**Implementation**](docs/implementation.md): Strategic approaches from foundational projects to full-scale societal transformation.
 
 ## Our Potential Future
 - [**Justice**](docs/vision/justice.md): Imagining a world governed by restorative justice practices.
