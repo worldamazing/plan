@@ -25,12 +25,21 @@ or
 1. [On the Path Forward](#on-the-path-forward)
 1. [Introducing: The Global Institution Framework](#introducing-the-global-institution-framework)
 1. [Four Critical Steps to World Amazing](#four-critical-steps-to-world-amazing)
-1. On Work - *coming soon!* 
-1. On Debt - *coming soon!*
-1. On Ownership - *coming soon!*
+1. On Work - *coming soon!*
+1. On Building and Manufacturing - *coming soon!*
+1. On Student Debt - *coming soon!*
+1. On Personal Debt - *coming soon!*
+1. On Home Ownership - *coming soon!*
+1. On Healthcare and Well-being - *coming soon!*
+1. On Environmental Stewardship - *coming soon!*
+1. On Technology and Innovation - *coming soon!*
+1. On Governance and Community Leadership - *coming soon!*
+1. On Economic Transition - *coming soon!*
+1. On Arts and Culture - *coming soon!*
+1. On Restitution and Healing - *coming soon!*
+1. On Crime and Prisons - *coming soon!*
 1. [On Deception](#on-deception)
 1. [On Hate, Anger, and Negative Perception](#on-hate-anger-and-negative-perception)
-1. On Restitution, Justice, and Healing - *coming soon!*
 1. [Closing Remarks](#closing-remarks)
 1. [Questions and Answers](#questions-and-answers)
 1. [Resources](#resources)
@@ -175,14 +184,19 @@ In this future:
 
 
 
-## On Work
-> *coming soon!* 
-
-## On Debt
-> *coming soon!*
-
-## On Ownership
-> *coming soon!*
+## On Work - *coming soon!* 
+## On Building and Manufacturing - *coming soon!* 
+## On Student Debt - *coming soon!*
+## On Personal Debt - *coming soon!*
+## On Home Ownership - *coming soon!*
+## On Healthcare and Well-being - *coming soon!*
+## On Environmental Stewardship - *coming soon!*
+## On Technology and Innovation - *coming soon!*
+## On Governance and Community Leadership - *coming soon!*
+## On Economic Transition - *coming soon!*
+## On Arts and Culture - *coming soon!*
+## On Restitution and Healing - *coming soon!*
+## On Crime and Prisons - *coming soon!*
 
 
 
@@ -217,11 +231,6 @@ Human behavior is shaped by the environments we inhabit, a principle well-docume
 The path forward lies in recognizing the profound influence of our environments and understanding that by replacing competition with collaboration, we can reshape human behavior. By eliminating unnecessary competition and fostering mutual support, the root causes of many antisocial behaviors can be addressed, paving the way for a society where everyone can engage in and contribute to a harmonious future. This transformation is about redefining how individuals view each other and themselves within the complex tapestry of human history.
 
 By understanding that our shared humanity is far more powerful than the artificial divides we have erected, we can begin to dismantle the barriers that have hindered our collective progress. This understanding does not diminish the reality of past injustices but instead channels our collective energies towards building a future where such divisions are obsolete.
-
-
-
-## On Restitution, Justice, and Healing
-> *coming soon!*
 
 
 
