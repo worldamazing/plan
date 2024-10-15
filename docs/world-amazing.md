@@ -1,5 +1,5 @@
 > [!NOTE]
-> - This document is a living resource but already contains enough information to be used. Updates are planned in the coming days and weeks.
+> - This document is a living resource and updates are planned in the coming days and weeks.
 > - *Last major update:* [2024-10-07](#updates)
 
 # Project 2050: World Amazing or Bust!
