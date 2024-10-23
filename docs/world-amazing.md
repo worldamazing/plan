@@ -1,28 +1,13 @@
 > [!NOTE]
-> - This document is a living resource and updates are planned in the coming days and weeks.
+> - This document is a living resource.
 > - *Last major update:* [2024-10-07](#updates)
 
-# Project 2050: World Amazing or Bust!
+# World Amazing
+> A global institution framework and plan for all to live extremely comfortable, safe, free, luxurious, warless, and amazing.
 
-or
-# A Proposal For a New Global Institution: A Framework For All To Live Extremely Comfortable, Safe, and Amazing
-
-or
-# Time is Freedom: Expanding liberty for all by reducing work to 2 days per week on average, fostering early retirement from intensive labor by age 50, and covering essentials for everyone worldwide, including health, home, education, food, and vacations
-
-> At the heart of the foundational truths upon which democracy was built lies a promise: the protection of freedom.
-
-> Yet, in today’s world, this promise is often undermined by systems that demand too much while delivering too little. The grind of the 40+ hour workweek, the perpetual stress of maintaining economic stability, and the shrinking time for personal growth are not just modern inconveniences, they are barriers to the freedom we all deserve.
-
-> Imagine a world where freedom is not confined to words, but lived daily by everyone. A world where a two-day workweek is the norm, where retirement by age 50 frees individuals to mentor and pursue passions. A world free from war and conflict, where every person enjoys the best of life—stable housing, healthcare, and the ability to thrive without the fear of ever having to pay for another bill. This is the kind of freedom that awaits when we align our systems with the promise of human potential.
-
-> A world where every human has the opportunity to unlock their full potential across all dimensions of human ability—intellectual, emotional, creative, and physical. A world where barriers to personal growth no longer exist, and where every individual can excel in areas ranging from critical thinking and problem-solving to artistic expression, empathy, and leadership. In this society, no one is held back by circumstances, and each person is empowered to contribute their best self to the collective progress of humanity. This future is not a distant utopia, but a realistic pathway grounded in the resources and capabilities we already possess.
-
-> True freedom means the ability to create, innovate, and improve society for all. It is a liberty not just written in documents, but embodied in every action, every choice, and every opportunity shared equally by every global citizen.
-
+> Including reducing essential work for everyone to 2 days per week on average, fostering early retirement from intensive labor into mentorship roles by age 50, and covering essentials for everyone worldwide through collective efforts, including health, home, education, food, and basic essential yearly vacations.
 
 ## Table of Contents
-1. [On the Path Forward](#on-the-path-forward)
 1. [Introducing: The Global Institution Framework](#introducing-the-global-institution-framework)
 1. [Four Critical Steps to World Amazing](#four-critical-steps-to-world-amazing)
 1. On Work - *coming soon!*
@@ -46,33 +31,17 @@ or
 1. [Updates](#updates)
 
 
-## On the Path Forward
-The consistent inability of society to create environments where humans can thrive from birth in supportive conditions has long hindered human potential. Yet today, we are on the brink of a clear and tangible pathway toward an incredible future. A future where each person is given the foundation to prosper from the very start, free from unnecessary conflict and harm. It’s a future in which human potential is no longer stifled by outdated systems, and where personal safety, comfort, and fulfillment are not luxuries, but guarantees.
-
-In this future, every hand is held through genuine and robust support systems integrated into the fabric of daily life. Every heart loved through community structures that ensure no one is isolated or overlooked. Every thought nurtured with educational systems designed to foster critical thinking and creativity from the earliest ages. And every word spoken is heard, valued, and integrated, creating a society where communication and deep understanding form the backbone of our collective decision-making, reflecting our new, incredible, interconnected, community based, and family-strong global civilization.
-
-The concept of luxury will become outdated because the basics of everyday human living will encompass what was once considered a luxury for a select few: economic stability, a high level of housing, minimal work, and no worry of ever paying for a bill or a vacation ever again. This is not a distant utopia, but a real possibility grounded in the capabilities and resources we already possess today.
-
-Housing will not merely be about providing shelter but about crafting spaces where individuals and families can thrive. Homes where even the smallest apartment is a haven of comfort and functionality, equipped with amenities that enrich daily living. In this society, the outdated notion of a middle class dissolves as everyone accesses a quality of life that includes the best of what we can achieve.
-
-The idea of labor itself needs a complete reevaluation. Do most people really need to work 40+ hours a week? The pandemic revealed just how much of the working world is redundant or unnecessary. By eliminating inefficiencies, removing unnecessary work, and creating a society where everyone contributes meaningfully to the essential tasks required to run a global civilization, we can recalibrate the workweek to an average of just two days. This shift ensures that the necessary work is shared, while freeing people to focus on personal growth, relationships, and community involvement.
-
-With the removal of unnecessary work and a focus on essential tasks, we can create a world where people transition from the intensive physical and mental labor required to run civilization into roles of mentorship by age 50. This shift ensures that the next generation can continue and expand our collective wealth of knowledge, while those who retire from traditional work can invest their time in passions, relationships, and civic duties. This reimagined approach to retirement enhances both individual fulfillment and societal growth, creating a more engaged, enriched, and healthier world.
-
-It’s clear that the path to an improved future is not just a series of steps, but a shift in understanding what is fundamentally possible. We have never been closer to achieving a society where suffering is not an inevitable part of the human condition but a relic of past systems and attitudes.
-
-To all who have felt the weight of the world's challenges: we hold the power to reshape our reality into one of universal support, respect, and prosperity. Together, we can liberate individuals to pursue lives filled with learning, creativity, and personal fulfillment.
-
-
 
 ## Introducing: The Global Institution Framework
-The GI framework is designed to ensure that prosperity is accessible to everyone, transforming it from a mere possibility to a guarantee. It is centered on the goal that all basic and essential human needs—including housing, healthcare, education, and creative fulfillment—are universally accessible and serve as the foundation of a thriving society. The framework replaces traditional governmental structures and NGOs with a unified system where essential services are centralized through collective efforts and advanced technologies. This approach sets to make taxation for common human essentials obsolete, shifting towards a system where community contributions directly fund societal needs.
+The Global Institution (GI) framework is designed to ensure that prosperity is accessible to everyone, transforming it from a mere possibility to a guarantee. It is centered on the goal that all basic and essential human needs are universally accessible and serve as the foundation of a thriving society, including housing, healthcare, education, and creative fulfillment.
 
-The framework fosters a culture of creativity and innovation, empowering individuals across all societal segments to explore and develop their creative potential in an environment that nurtures innovation and artistic expression. Inclusivity is a cornerstone of this framework, ensuring that everyone, including those with troubled pasts or those currently incarcerated, as well as individuals from all backgrounds and abilities, is actively included and valued.
+- The framework replaces traditional governmental structures and NGOs with a unified system where essential services are centralized through collective efforts and advanced technologies. This approach sets to make taxation for common human essentials obsolete, shifting towards a system where community contributions directly fund societal needs.
 
-This framework is not just a presentation of ideas but an invitation to engage with a movement poised to redefine liberty in our time. It challenges each of us to reconsider what freedom truly means. True freedom is not merely the absence of physical restraints but the presence of opportunities to live a fulfilled and joyful life. The incessant demands of modern work and the stress they entail can be as constricting as any chain. By advocating for a two-day workweek and ensuring early retirement, the GI framework not just proposes a reduction in hours but a fundamental transformation in the very essence of freedom. This change would allow every individual to reclaim time to engage deeply with their passions, communities, and families, crafting lives that are not just productive but genuinely fulfilling.
+- The framework fosters a culture of creativity and innovation, empowering individuals across all societal segments to explore and develop their creative potential in an environment that nurtures innovation and artistic expression. Inclusivity is a cornerstone of this framework, ensuring that everyone, including those with troubled pasts or those currently incarcerated, as well as individuals from all backgrounds and abilities, is actively included and valued.
 
-The GI framework is designed to envelop the entire planet, serving as a universal system into which every human can integrate. It acts as a comprehensive global social contract for modern times, aiming to ensure that everyone, everywhere can access the foundations of a dignified life. By making the GI available to all, it functions as a global wrapper that promises to diminish the inequities and disparities caused by historical and geographic accidents. This universal approach doesn't just invite participation—it requires collective engagement as a fundamental aspect of its design.
+- This framework is not just a presentation of ideas but an invitation to engage with a movement poised to redefine liberty in our time. It challenges each of us to reconsider what freedom truly means. True freedom is not merely the absence of physical restraints but the presence of opportunities to live a fulfilled and joyful life. The incessant demands of modern work and the stress they entail can be as constricting as any chain. By advocating for a two-day workweek and ensuring early retirement, the GI framework not just proposes a reduction in hours but a fundamental transformation in the very essence of freedom. This change would allow every individual to reclaim time to engage deeply with their passions, communities, and families, crafting lives that are not just productive but genuinely fulfilling.
+
+- The GI framework is designed to envelop the entire planet, serving as a universal system into which every human can integrate. It acts as a comprehensive global social contract for modern times, aiming to ensure that everyone, everywhere can access the foundations of a dignified life. By making the GI available to all, it functions as a global wrapper that promises to diminish the inequities and disparities caused by historical and geographic accidents. This universal approach doesn't just invite participation—it requires collective engagement as a fundamental aspect of its design.
 
 ### Global Benefits: All Batteries Included
 To ensure no one is left behind, the GI encompasses a broad spectrum of essential services provided at no additional cost to all humans once they join and become active working members of the GI:
@@ -143,13 +112,13 @@ For a deeper dive into discussions, visit the [GI Discussion](https://github.com
 ### Step Two: Funding the Core Fund and Beyond
 The GI aims to raise $25 trillion by engaging one billion people, each contributing $25,000. From this, 4%—or $1 trillion—will be allocated annually to fund operations and projects from 2025 to 2050. These resources will be used to acquire land, build infrastructure, and create self-sufficient communities.
 
-Each member’s contribution is placed into a personal fund under their control, ensuring transparent and democratic spending decisions. The funds are used solely to acquire resources and support the community, with no portion going to personal salaries or enrichment.
+- Each member’s contribution is placed into a personal fund under their control, ensuring transparent and democratic spending decisions. The funds are used solely to acquire resources and support the community, with no portion going to personal salaries or enrichment.
 
-For those unable to pay upfront, membership can be earned through meaningful work, ensuring that financial barriers do not limit participation. This guarantees inclusivity and equal opportunity for all. All members, regardless of financial contribution, have a voice in how funds are allocated, fostering shared governance.
+- For those unable to pay upfront, membership can be earned through meaningful work, ensuring that financial barriers do not limit participation. This guarantees inclusivity and equal opportunity for all. All members, regardless of financial contribution, have a voice in how funds are allocated, fostering shared governance.
 
-Members can also grow their personal funds by participating in or initiating GI projects. Those who contribute to projects that generate revenue retain full control over the profits, which are split 50/50. Half of the earnings are directed to funding additional GI initiatives, while the other half goes into the personal funds of those involved. This structure allows members to use their earnings for non-essential purchases not covered by the GI core fund.
+- Members can also grow their personal funds by participating in or initiating GI projects. Those who contribute to projects that generate revenue retain full control over the profits, which are split 50/50. Half of the earnings are directed to funding additional GI initiatives, while the other half goes into the personal funds of those involved. This structure allows members to use their earnings for non-essential purchases not covered by the GI core fund.
 
-Higher membership levels beyond the core GI membership will be available to reflect deeper engagement. These levels can be achieved through direct contributions, project revenues, or exceptional service. This tiered membership system incentivizes active participation and ensures that project success directly benefits both individual members and the broader GI community, expanding the GI’s global impact.
+- Higher membership levels beyond the core GI membership will be available to reflect deeper engagement. These levels can be achieved through direct contributions, project revenues, or exceptional service. This tiered membership system incentivizes active participation and ensures that project success directly benefits both individual members and the broader GI community, expanding the GI’s global impact.
 
 For a deeper dive into funding, visit the [GI Funding](https://github.com/whomanatee/plan/blob/main/docs/funding.md) document.
 
@@ -157,13 +126,13 @@ For a deeper dive into funding, visit the [GI Funding](https://github.com/whoman
 ### Step Three: Implementation Phases
 The implementation of the Global Institution will be carried out in distinct phases to ensure efficiency, adaptability, and sustainability. Early members will play a crucial role in setting up and maintaining the infrastructure required for self-sustaining communities.
 
-In the initial phase, the GI will focus on acquiring buildings and developing new properties to provide housing for its members. These living spaces will also serve as operational hubs where members contribute to essential activities, such as food production, healthcare services, education, and community management. Early members will be integral to these day-to-day operations, ensuring the smooth functioning of the community and helping achieve the GI's short- and long-term goals.
+- In the initial phase, the GI will focus on acquiring buildings and developing new properties to provide housing for its members. These living spaces will also serve as operational hubs where members contribute to essential activities, such as food production, healthcare services, education, and community management. Early members will be integral to these day-to-day operations, ensuring the smooth functioning of the community and helping achieve the GI's short- and long-term goals.
 
-As the community stabilizes and expands, the GI will acquire additional land and resources to support growth. This expansion will include the construction of new facilities, such as advanced manufacturing centers, agricultural sites, and other essential infrastructure. Members will also be engaged in the development of innovative technologies, particularly those that enhance sustainability, energy efficiency, and productivity.
+- As the community stabilizes and expands, the GI will acquire additional land and resources to support growth. This expansion will include the construction of new facilities, such as advanced manufacturing centers, agricultural sites, and other essential infrastructure. Members will also be engaged in the development of innovative technologies, particularly those that enhance sustainability, energy efficiency, and productivity.
 
-Member feedback will play a key role in driving continuous improvements. As challenges and opportunities arise, the GI will rely on insights and experiences from its members to adjust and refine its approach, fostering a culture of active participation and shared responsibility.
+- Member feedback will play a key role in driving continuous improvements. As challenges and opportunities arise, the GI will rely on insights and experiences from its members to adjust and refine its approach, fostering a culture of active participation and shared responsibility.
 
-These first communities will not only meet the immediate needs of their members but will also serve as blueprints for the future. As these initial models prove successful, the GI’s principles and infrastructure will be scaled globally, establishing a network of thriving, self-sustaining communities committed to collaboration, innovation, and human well-being.
+- These first communities will not only meet the immediate needs of their members but will also serve as blueprints for the future. As these initial models prove successful, the GI’s principles and infrastructure will be scaled globally, establishing a network of thriving, self-sustaining communities committed to collaboration, innovation, and human well-being.
 
 For a deeper dive into implementation, visit the [GI Implementation](https://github.com/whomanatee/plan/blob/main/docs/implementation.md) document.
 
@@ -183,7 +152,7 @@ In this future:
 - **A new humanity emerges**—a humanity that has transcended the limitations of the past. Crime, hatred, and division give way to understanding, peace, and shared prosperity. We become the best versions of ourselves, individually and collectively.
 
 
-
+<!--
 ## On Work - *coming soon!* 
 ## On Building and Manufacturing - *coming soon!* 
 ## On Student Debt - *coming soon!*
@@ -197,7 +166,7 @@ In this future:
 ## On Arts and Culture - *coming soon!*
 ## On Restitution and Healing - *coming soon!*
 ## On Crime and Prisons - *coming soon!*
-
+-->
 
 
 ## On Deception
@@ -216,9 +185,9 @@ And so, the changes to humanity proposed in this document are not merely aspirat
 ## On Hate, Anger, and Negative Perception
 It is understandable to harbor feelings of disdain or even hatred towards individuals or groups who have caused harm or supported oppressive systems. These feelings, deeply personal and often shaped by experiences of real harm or injustice, reflect broader societal issues that promote division.
 
-At times, such emotions may not stem from direct injustices but from a need to channel unresolved past fears or traumas into anger towards a group—a pattern that can be traced back through countless historical conflicts and wars.
+At times, such emotions may not stem from direct injustices but from a need to channel unresolved past fears or traumas into anger towards a group, a pattern that can be traced back through countless historical conflicts and wars.
 
-Recognizing the dynamics of hatred, and thus fear, necessitates a profound shift—not toward forced reconciliation or forgiveness for past wrongs, but toward a deep, mutual understanding that is essential for effective community interaction.
+Recognizing the dynamics of hatred, and thus fear, necessitates a profound shift, not toward forced reconciliation or forgiveness for past wrongs, but toward a deep, mutual understanding that is essential for effective community interaction.
 
 It is undeniable that shifting from entrenched animosities to a mindset of collective flourishing will be a significant hurdle for many. These entrenched animosities have been passed down through narratives in education, media, and politics, creating an “us versus them” mentality that has fueled division for generations. Throughout history, certain groups have been marginalized, demonized, or dehumanized, leading to deep-seated divisions that have persisted across generations. For some, the thought of collaborating or coexisting peacefully with those they have been taught to see as fundamentally different or even inferior presents a profound challenge.
 
@@ -237,7 +206,7 @@ By understanding that our shared humanity is far more powerful than the artifici
 ## Closing Remarks
 This plan transcends the arbitrary borders that have long divided humanity, embracing the common values that unite us on this singular, shared planet, dispensing national boundaries to envelop every corner of the globe, championing a world that regards each individual equally, without preference or prejudice. This land, which birthed us all, knows no borders in its care and does not favor one child over another. Together, we can craft a world where all individuals can roam every inch of this planet and look up to see not a foreign sky, but a familiar home.
 
-This document is more than just a proposal—it is a call to embrace our shared humanity, to build bridges across continents and cultures, and to establish a global network of cooperation and understanding. The Global Institution framework represents an opportunity for all of humanity to unite in crafting a durable, peaceful world that cherishes every individual equally.
+This document is more than just a proposal. It is a call to embrace our shared humanity, to build bridges across continents and cultures, and to establish a global network of cooperation and understanding. The Global Institution framework represents an opportunity for all of humanity to unite in crafting a durable, peaceful world that cherishes every individual equally.
 
 Together, we can seize this opportunity to ensure that our collective efforts today lay the foundation for a harmonious humanity, for us and for future generations, forever and beyond.
 
