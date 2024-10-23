@@ -1,12 +1,14 @@
 > [!NOTE]
-> For a comprehensive overview of the plan, consider starting with: [Project 2050: World Amazing or Bust!](docs/world-amazing.md)
+> For a comprehensive overview of the plan, consider starting with the [World Amazing Overview](docs/world-amazing.md)
 
-# The Global Institution Plan
+# A Global Plan For World Amazing
 > A 100% public open-source framework designed for everyone worldwide to live extraordinarily.
 
+<!--
 > The framework proposes working only 2 days per week on average, retiring from intensive physical or mental work by age 50, and eliminating base essential living expenses such as housing, utilities, healthcare, education, casualwear, groceries, basic yearly vacations, and pet health coverage.
 
 > Supported by a new economic model that champions the individual, the family, the community, and beyond, this plan outlines transformative approaches to the concepts of work, wealth, health, prosperity, harmony, and joy on a global scale.
+-->
 
 <!--
 1. **[Key Documents](#key-documents)**: Essential documents providing a concise overview, benefits, and a straightforward, actionable four-step plan for members to engage with and contribute to the GI’s mission.
@@ -18,28 +20,29 @@
 -->
 
 ## Key Documents
-- [**Initiatives**](docs/initiatives.md): Housing, learning, eating, and prospering for all members.
-- [**Benefits**](docs/benefits.md): Basic yearly essential vactions included for all members.
-- [**Discussions**](docs/discussions.md): Worldwide conversations focused on truth, healing, and universal growth to elevate humanity.
-- [**Funding**](docs/funding.md): A transparent model outlining how contributions support the core initiatives of the GI and beyond.
-- [**Implementation**](docs/implementation.md): Strategic approaches from foundational projects to full-scale societal transformation.
+- [**Overview**](docs/world-amazing.md)
+- [**Initiatives**](docs/initiatives.md)
+- [**Benefits**](docs/benefits.md)
+- [**Discussions**](docs/discussions.md)
+- [**Funding**](docs/funding.md)
+- [**Implementation**](docs/implementation.md)
 
 ## Our Potential Future
-- [**Justice**](docs/vision/justice.md): Imagining a world governed by restorative justice practices.
-- [**Mental Health**](docs/vision/mental-health.md): Envisioning a society free from mental health challenges.
-- [**Creativity and Human Potential**](docs/vision/human-potential.md): Imagining a society where everyone excels at the highest level of all forms of intelligence.
-- [**Openness and Empowerment**](docs/vision/openness-empowerment.md): Envisioning a society where openness and self-awareness empower every individual to contribute fully to communal life.
+- [**Justice**](docs/vision/justice.md)
+- [**Mental Health**](docs/vision/mental-health.md)
+- [**Creativity and Human Potential**](docs/vision/human-potential.md)
+- [**Openness and Empowerment**](docs/vision/openness-empowerment.md)
 
 ## Case Studies: Before and After
-- [**A World United**](docs/case-study/global.md): Envisioning global unity.
-- [**Transforming Suffering into Lessons**](docs/case-study/suffering.md): Maintaining historical awareness while fostering progress.
-- [**Maria's Renewed Hope**](docs/case-study/maria.md): A factory worker's life is transformed by stable employment and community involvement.
-- [**John's New Foundations**](docs/case-study/john.md): A single father's life is revitalized through community support and new career opportunities.
-- [**The Washingtons' Community Revival**](docs/case-study/the-washingtons.md): A low-income family in Compton thrives in a transformed, supportive environment.
-- [**The Hills' Community Engagement**](docs/case-study/the-hills.md): Wealthy residents of the Hollywood Hills discover a new sense of purpose and community.
-- [**The Al-Hayek's Cultural Renaissance**](docs/case-study/the-al-hayeks.md): A family in Gaza finds new beginnings in a revitalized community.
-- [**The Golan's Unity Through Diversity**](docs/case-study/the-golans.md): A family in the West Bank contributes to peace and community healing.
-- [**Alexei's Transformation**](docs/case-study/alexei.md): From a war leader to a global peacemaker, illustrating personal and policy transformations.
+- [**A World United**](docs/case-study/global.md)
+- [**Transforming Suffering into Lessons**](docs/case-study/suffering.md)
+- [**Maria's Renewed Hope**](docs/case-study/maria.md)
+- [**John's New Foundations**](docs/case-study/john.md)
+- [**The Washingtons' Community Revival**](docs/case-study/the-washingtons.md)
+- [**The Hills' Community Engagement**](docs/case-study/the-hills.md)
+- [**The Al-Hayek's Cultural Renaissance**](docs/case-study/the-al-hayeks.md)
+- [**The Golan's Unity Through Diversity**](docs/case-study/the-golans.md)
+- [**Alexei's Transformation**](docs/case-study/alexei.md)
 
 <!--
 - [**Jacob's Journey from Conflict to Reconciliation**](docs/case-study/jacob.md): A former IDF Air Force pilot finds healing and a new purpose in peace-building.
@@ -47,6 +50,7 @@
 - [**David's Path to Inner Peace**](docs/case-study/david.md): How a former Prime Minister redirected his focus from conflict to peace advocacy.
 -->
 
+<!--
 ## Join the GI
 
 ### To: All Humans
@@ -69,11 +73,13 @@
 - [**Manufacturing Professionals**](docs/join/manufacturing.md): Encouraging those involved in manufacturing, from small devices to large machinery, to help build the products and tools needed for a sustainable future.
 - [**Educators and Researchers**](docs/join/educators.md): A call for educators and researchers to join forces in disseminating knowledge and fostering innovation across the global landscape.
 - [**Devlopers**](docs/join/devlopers.md)[sic]: Calling on software developers to bring their technical skills and creative problem-solving to help us craft the digital tools and platforms that will power our global initiatives.
+-->
 
 ## Global Positions
 > Alongside the essential positions required to upgrade and update world civilization, many new roles are also planned to foster a proactive and engaged global community.
 
-- [**World Pizza Party Organizer**](docs/job/pizza-party-organizer.md): Facilitator of an annual global extravaganza where participants from every corner of the world enjoy a slice of pizza. This role not only fills bellies but fosters a sense of community and shared dreams for a more connected and joyous future.
+- [**World Pizza Party Organizer**](docs/job/pizza-party-organizer.md)
+
 
 <!--
 - [**General Complainer Supreme**](docs/job/general-complainer-supreme.md): The leader of the Army of Complainers, responsible for steering the direction of complaint resolution initiatives globally. This role demands a visionary leader who can transform grievances into strategic actions, ensuring that every voice within the GI is heard and valued. The General Complainer Supreme sets the tone for a proactive, problem-solving culture, embodying the GI’s commitment to continuous improvement and inclusive leadership.
