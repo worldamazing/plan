@@ -1,16 +1,20 @@
-> [!NOTE]
-> - This document is a living resource.
-> - *Last major update:* [2024-10-07](#updates)
-
 # World Amazing
 > A global institution framework and plan for all to live extremely comfortable, safe, free, luxurious, warless, and amazing.
 
 > Including reducing essential work for everyone to 2 days per week on average, fostering early retirement from intensive labor into mentorship roles by age 50, and covering essentials for everyone worldwide through collective efforts, including health, home, education, food, and basic essential yearly vacations.
 
+> *Last major update:* [2024-10-07](#updates)
+
 ## Table of Contents
 1. [Introducing: The Global Institution Framework](#introducing-the-global-institution-framework)
 1. [Four Critical Steps to World Amazing](#four-critical-steps-to-world-amazing)
-1. On Work - *coming soon!*
+1. [On Deception](#on-deception)
+1. [On Hate, Anger, and Negative Perception](#on-hate-anger-and-negative-perception)
+1. [Closing Remarks](#closing-remarks)
+1. [Questions and Answers](#questions-and-answers)
+1. [Resources](#resources)
+1. [Updates](#updates)
+<!--1. On Work - *coming soon!*
 1. On Building and Manufacturing - *coming soon!*
 1. On Student Debt - *coming soon!*
 1. On Personal Debt - *coming soon!*
@@ -22,14 +26,7 @@
 1. On Economic Transition - *coming soon!*
 1. On Arts and Culture - *coming soon!*
 1. On Restitution and Healing - *coming soon!*
-1. On Crime and Prisons - *coming soon!*
-1. [On Deception](#on-deception)
-1. [On Hate, Anger, and Negative Perception](#on-hate-anger-and-negative-perception)
-1. [Closing Remarks](#closing-remarks)
-1. [Questions and Answers](#questions-and-answers)
-1. [Resources](#resources)
-1. [Updates](#updates)
-
+1. On Crime and Prisons - *coming soon!*-->
 
 
 ## Introducing: The Global Institution Framework
