@@ -1,4 +1,4 @@
-# World Amazing
+# World Amazing Overview
 > A global institution framework and plan for all to live extremely comfortable, safe, free, luxurious, warless, and amazing.
 
 > Including reducing essential work for everyone to 2 days per week on average, fostering early retirement from intensive labor into mentorship roles by age 50, and covering essentials for everyone worldwide through collective efforts, including health, home, education, food, and basic essential yearly vacations.
