@@ -20,7 +20,7 @@
 -->
 
 ## Key Documents
-- [**Overview**](docs/world-amazing.md)
+- [**Overview**](docs/world-amazing.md) (with Q&A)
 - [**Initiatives**](docs/initiatives.md)
 - [**Benefits**](docs/benefits.md)
 - [**Discussions**](docs/discussions.md)
