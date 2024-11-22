@@ -1,5 +1,8 @@
 > [!NOTE]
-> For a comprehensive overview of the plan, consider starting with the [World Amazing Overview](docs/world-amazing.md)
+> If you are looking for a quick overview of what it will take to make this vision a reality, consider starting with this document written by the plan’s proposer: [World Amazing: A Very Practical, Measured, and Doable Plan to Make Life Amazing for All](https://github.com/beakbahama/log/blob/main/docs/world-amazing.md).
+>
+> For those interested in diving deeper, more detailed information can be found below.
+
 
 # A Global Plan For World Amazing
 > A 100% public open-source framework designed for everyone worldwide to live extraordinarily.
@@ -20,7 +23,7 @@
 -->
 
 ## Key Documents
-- [**Overview**](docs/world-amazing.md) (with Q&A)
+- [**Overview**](docs/overview.md) (with Q&A)
 - [**Initiatives**](docs/initiatives.md)
 - [**Benefits**](docs/benefits.md)
 - [**Discussions**](docs/discussions.md)
@@ -95,6 +98,8 @@
 
 ## A Quick Note
 > Welcome to the Global Institution, a framework designed to elevate and harmonize the way we live, work, and interact within our global community.
+
+> This documentation is a work-in-progress and open to your contributions. Note that ChatGPT was used to generate the documents, but the drive came from human potential and insight, with ChatGPT complimenting, expanding, refining, and even providing unique ideas.
 
 > You may often come across phrases like "our vision" or "our mission" within this documentation. However, it's important to recognize that these terms do not imply that the GI exists in isolation from the world community. The mission of the GI is fundamentally shaped by the will of the people. This document is not just a set of directives but a proposal, inviting everyone to engage, contribute, and refine our shared path toward global transformation.
 
