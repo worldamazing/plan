@@ -99,8 +99,6 @@
 ## A Quick Note
 > Welcome to the Global Institution, a framework designed to elevate and harmonize the way we live, work, and interact within our global community.
 
-> This documentation is a work-in-progress and open to your contributions. Note that ChatGPT was used to generate the documents, but the drive came from human potential and insight, with ChatGPT complimenting, expanding, refining, and even providing unique ideas.
-
 > You may often come across phrases like "our vision" or "our mission" within this documentation. However, it's important to recognize that these terms do not imply that the GI exists in isolation from the world community. The mission of the GI is fundamentally shaped by the will of the people. This document is not just a set of directives but a proposal, inviting everyone to engage, contribute, and refine our shared path toward global transformation.
 
 > Together, let's craft a narrative that resonates with every member of our global community, leveraging the unique contributions of every individual to forge a path forward toward peace, prosperity, harmony, and joy for all.
