@@ -1,9 +1,3 @@
-> [!NOTE]
-> If you are looking for a quick overview of what it will take to make this vision a reality, consider starting with this document written by the plan’s proposer: [World Amazing: A Very Practical, Measured, and Doable Plan to Make Life Amazing for All](https://github.com/beakbahama/log/blob/main/docs/world-amazing.md).
->
-> For those interested in diving deeper, more detailed information can be found below.
-
-
 # A Global Plan For World Amazing
 > A 100% public open-source framework designed for everyone worldwide to live extraordinarily.
 
