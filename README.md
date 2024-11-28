@@ -1,5 +1,8 @@
-# A Global Plan For World Amazing
-> A 100% public open-source framework designed for everyone worldwide to live extraordinarily.
+> [!TIP]
+> For a comprehensive understanding of the World Amazing plan, consider starting with the [**overview**](docs/overview.md).
+
+# World Amazing: A Global Institution, Plan, and Framework
+> Designed for everyone worldwide to live extraordinarily.
 
 <!--
 > The framework proposes working only 2 days per week on average, retiring from intensive physical or mental work by age 50, and eliminating base essential living expenses such as housing, utilities, healthcare, education, casualwear, groceries, basic yearly vacations, and pet health coverage.
