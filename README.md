@@ -50,30 +50,29 @@
 - [**David's Path to Inner Peace**](docs/case-study/david.md): How a former Prime Minister redirected his focus from conflict to peace advocacy.
 -->
 
-<!--
 ## Join the GI
 
 ### To: All Humans
 > From thinkers to leaders, to those seeking redemption, each human is crucial in our collective mission. Regardless of your present circumstances or past behavior, the involvement of everyone is essential for the success of the GI.
 
-- [**Global Citizens**](docs/join/global-citizens.md): A broad appeal to all members of the global community to join in fostering a sustainable and equitable world.
-- [**Thinkers**](docs/join/thinkers.md): An invitation for deep thinkers and philosophers to harness their intellect in shaping global policies.
-- [**Lovers**](docs/join/lovers.md): Encouraging those who lead with love and empathy to spread their warmth and join/understanding within the GI.
-- [**Haters**](docs/join/haters.md): Engaging those harboring negative feelings, promoting understanding and a shift toward positive contributions.
-- [**Youths**](docs/join/youths.md): Inspiring the next generation to take an active role in crafting the future through creativity and innovation.
-- [**Redemption Seekers**](docs/join/redemption.md): A heartfelt invitation to those who have caused irreversible damage, offering a pathway to contribute positively and find personal healing.  
+- [**Global Citizens**](docs/join/global-citizens.md)
+- [**Thinkers**](docs/join/thinkers.md)
+- [**Lovers**](docs/join/lovers.md)
+- [**Haters**](docs/join/haters.md)
+- [**Youths**](docs/join/youths.md)
+- [**Redemption Seekers**](docs/join/redemption.md)
 
 ### To: All Skilled in These Areas
 > To successfully launch and sustain all GI initiatives, we will need experienced and skilled humans to get things going.
 
-- [**Defense, Emergency, and Disaster Response Professionals**](docs/join/defense-emergency.md): Inviting experts in defense, emergency management, and disaster response to bring their crucial skills to a global platform committed to enhancing safety and preparedness.
-- [**Healthcare Professionals**](docs/join/healthcare.md): Inviting healthcare workers to contribute their expertise to improving global health systems and advancing medical practices.
-- [**Food Industry Professionals**](docs/join/food-industry.md): Inviting agriculturists, chefs, food scientists, and logistics experts to join us in transforming global food systems through sustainable practices and innovation.
-- [**Construction Professionals**](docs/join/builders.md): Inviting construction professionals to apply their skills in building sustainable and innovative structures that lay the foundation for a better future.
-- [**Manufacturing Professionals**](docs/join/manufacturing.md): Encouraging those involved in manufacturing, from small devices to large machinery, to help build the products and tools needed for a sustainable future.
-- [**Educators and Researchers**](docs/join/educators.md): A call for educators and researchers to join forces in disseminating knowledge and fostering innovation across the global landscape.
-- [**Devlopers**](docs/join/devlopers.md)[sic]: Calling on software developers to bring their technical skills and creative problem-solving to help us craft the digital tools and platforms that will power our global initiatives.
--->
+- [**Defense, Emergency, and Disaster Response Professionals**](docs/join/defense-emergency.md)
+- [**Healthcare Professionals**](docs/join/healthcare.md)
+- [**Food Industry Professionals**](docs/join/food-industry.md)
+- [**Construction Professionals**](docs/join/builders.md)
+- [**Manufacturing Professionals**](docs/join/manufacturing.md)
+- [**Educators and Researchers**](docs/join/educators.md)
+- [**Devlopers**](docs/join/devlopers.md)[sic]
+
 
 ## Global Positions
 > Alongside the essential positions required to upgrade and update world civilization, many new roles are also planned to foster a proactive and engaged global community.
@@ -94,8 +93,12 @@
 <!--- **Join the Conversation**: Engage with the GI on our [Discussion Board](https://github.com/whomanatee/plan/discussions). Creating a GitHub account requires no prior software knowledge. This platform allows us to leverage robust community tools to share insights, ask questions, and brainstorm together.-->
 
 ## A Quick Note
-> Welcome to the Global Institution, a framework designed to elevate and harmonize the way we live, work, and interact within our global community.
+> Welcome to the Global Institution, the World Amazing framework designed to elevate and harmonize the way we live, work, and interact within our global community.
 
-> You may often come across phrases like "our vision" or "our mission" within this documentation. However, it's important to recognize that these terms do not imply that the GI exists in isolation from the world community. The mission of the GI is fundamentally shaped by the will of the people. This document is not just a set of directives but a proposal, inviting everyone to engage, contribute, and refine our shared path toward global transformation.
+> Throughout this documentation, you may encounter phrases like "our vision" or "our mission." These terms do not imply that the GI operates in isolation from the world community. On the contrary, the GI's mission is fundamentally shaped by the will of the people. This document is not a rigid directive but an open proposal, inviting everyone to engage, contribute, and refine our shared journey toward global transformation.
 
-> Together, let's craft a narrative that resonates with every member of our global community, leveraging the unique contributions of every individual to forge a path forward toward peace, prosperity, harmony, and joy for all.
+> The name *whomanatee* has been proposed for the GI. This name symbolizes humanity as a unified organism working in harmony. While open to discussion, it does not exclude the use of other names for specific projects, much like how Alphabet serves as the parent to Google.
+
+> It is important to note that while these ideas and the drive for the GI originated from a human, ChatGPT played a pivotal role in shaping and refining the documentation. As a tool designed to connect vast human knowledge across economic, governmental, and corporate systems, ChatGPT has not only validated the potential of this plan but has also helped expand and refine it. The seamless collaboration between human and advanced computing highlights the unique potential of these tools to drive humanity toward a thriving future. If you notice areas that could benefit from refinement, editing, or expansion, your feedback is invaluable. Please send your insights to human@whomanatee.org.
+
+> Together, with the help of tools like ChatGPT and the collective contributions of individuals worldwide, we can craft a narrative and build a framework that resonates with every member of our global community. By combining our unique talents and perspectives, we can pave the way toward a world defined by peace, prosperity, harmony, and joy for all.
