@@ -15,14 +15,13 @@
 > - **Food Production and Distribution**: Sustainable farms, local markets, and distribution centers to ensure access to nutritious and delicious food.  
 > - **Infrastructure**: Roads, bridges, energy grids, and communication networks designed for sustainability and efficiency.  
 > - **Public Transportation**: High-speed trains, buses, and community transportation systems to connect people and reduce reliance on private vehicles.  
-> - **Libraries and Knowledge Hubs**: Spaces for research, collaboration, and access to information.  
-> - **Knowledge and Research Facilities**: Laboratories and innovation centers to advance knowledge and technology.  
+> - **Libraries and Knowledge Hubs**: Public spaces for learning, collaboration, and access to curated information and historical records.  
+> - **Research and Innovation Centers**: Advanced facilities for scientific discovery, technological development, and groundbreaking solutions that benefit humanity.
 > - **Cultural Institutions**: Museums, historical preservation projects, and community workshops to honor and celebrate human history and diversity.  
 > - **Clothing and Textiles**: Comfortable and sustainable clothing options for all climates and preferences.  
 > - **Renewable Energy Systems**: Solar farms, wind turbines, and other clean energy solutions.  
 > - **Water Management Systems**: Clean water access, desalination plants, and waste-water recycling systems.  
 > - **Waste Management and Recycling**: Facilities to manage, reduce, and repurpose waste sustainably.  
-> - **Technology Innovation Centers**: Spaces dedicated to developing cutting-edge technologies that benefit humanity.  
 > - **Animal Welfare and Ecosystem Support**: Sanctuaries, wildlife reserves, and sustainable agriculture practices to support biodiversity.  
 > - **Global Communication Platforms**: Tools for transparent, inclusive global discussions.  
 > - **Emergency Response Infrastructure**: Systems to respond quickly and effectively to natural disasters and crises.  
@@ -33,6 +32,7 @@
 > - **Film and TV Production**: Studios, streaming platforms, public broadcasting systems, and resources for independent creators to tell stories and foster cultural exchange.
 > - **Sports Facilities and Equipment**: Stadiums, local sports complexes, gyms, and cutting-edge equipment for both recreational and professional sports, as well as programs to make sports accessible to all.
 > - **Ocean Exploration and Infrastructure**: Research submarines, environmentally friendly shipping, floating cities, ocean cleanup systems, and marine habitat restoration projects.
+> - **Ocean Leisure Activities**: Public access to eco-friendly yachts, underwater hotels, diving schools, and recreational submarines.
 > - **Virtual Reality and Gaming**: Development of immersive VR experiences, community gaming hubs, and platforms for virtual social gatherings or education.
 > - **Fashion and Personal Expression**: Bespoke clothing design hubs, eco-friendly textile production, and spaces for personal style experimentation.
 > - **Community Kitchens and Food Halls**: Collaborative cooking spaces where people can learn, share, and enjoy food together while reducing waste.
@@ -43,7 +43,6 @@
 > - **Robotics and Automation Labs**: Facilities to create and deploy robotics for everything from caregiving to construction, with ethical oversight.
 > - **Sustainable Manufacturing Facilities**: Community-based factories that prioritize environmentally friendly production and create jobs within the GI framework.
 > - **Urban Planning Innovations**: Smart city systems, pedestrian-first urban centers, and vertical farms integrated into cityscapes.
-> - **Ocean Leisure Activities**: Public access to eco-friendly yachts, underwater hotels, diving schools, and recreational submarines.
 
 ## Phased Implementation
 The implementation of the Global Institution will be carried out in distinct phases to ensure efficiency and adaptability. The initial phase focuses on establishing a solid foundation by acquiring properties to house members. These early members will play a crucial role in setting up and maintaining the infrastructure necessary for a self-sustaining community.
