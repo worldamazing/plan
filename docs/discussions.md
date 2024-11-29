@@ -1,4 +1,4 @@
-# Global Institution: Worldwide Discussions for Truth, Healing, and Universal Growth
+# Step 1: Discussions for World Amazing: Truth, Healing, and Universal Growth
 The initial phase of establishing the GI involves initiating a global discussion that transcends geographical and cultural boundaries, inviting people from all walks of life to participate. This dialogue will not only focus on the core values and objectives of the GI but also serve as a platform for connection, idea exchange, and collective inspiration.
 
 ## Platforms for Engagement
