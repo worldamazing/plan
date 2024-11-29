@@ -1,4 +1,4 @@
-# Step 2: World Amazing Implementation: Building Everything and Anything
+# Step 3: World Amazing Implementation: Building Everything and Anything
 
 > [!NOTE]  
 > This page will outline the full scope of what the GI will build, encompassing all aspects of human life. From essential infrastructure to cultural and recreational innovations, the GI is committed to creating everything humanity needs to thrive and flourish.
