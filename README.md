@@ -2,13 +2,11 @@
 > For a comprehensive understanding of the World Amazing plan, consider starting with the [**overview**](docs/overview.md).
 
 # World Amazing: A Global Institution, Plan, and Framework
-> Designed for everyone worldwide to live extraordinarily.
+> A 100% open-source framework designed for everyone worldwide to live extraordinarily.
 
-<!--
 > The framework proposes working only 2 days per week on average, retiring from intensive physical or mental work by age 50, and eliminating base essential living expenses such as housing, utilities, healthcare, education, casualwear, groceries, basic yearly vacations, and pet health coverage.
 
 > Supported by a new economic model that champions the individual, the family, the community, and beyond, this plan outlines transformative approaches to the concepts of work, wealth, health, prosperity, harmony, and joy on a global scale.
--->
 
 <!--
 1. **[Key Documents](#key-documents)**: Essential documents providing a concise overview, benefits, and a straightforward, actionable four-step plan for members to engage with and contribute to the GI’s mission.
@@ -23,9 +21,12 @@
 - [**Overview**](docs/overview.md) (with Q&A)
 - [**Initiatives**](docs/initiatives.md)
 - [**Benefits**](docs/benefits.md)
-- [**Discussions**](docs/discussions.md)
-- [**Funding**](docs/funding.md)
-- [**Implementation**](docs/implementation.md)
+
+## Four Critical Steps to World Amazing
+- [**Step 1: Worldwide Public Discussions**](docs/discussions.md)
+- [**Step 2: Funding and Governance**](docs/funding.md)
+- [**Step 3: Build Everything and Anything**](docs/implementation.md)
+- **Step 4: Learn to Live Amazing**
 
 ## Our Potential Future
 - [**Justice**](docs/vision/justice.md)
@@ -33,6 +34,7 @@
 - [**Creativity and Human Potential**](docs/vision/human-potential.md)
 - [**Openness and Empowerment**](docs/vision/openness-empowerment.md)
 
+<!--
 ## Case Studies: Before and After
 - [**A World United**](docs/case-study/global.md)
 - [**Transforming Suffering into Lessons**](docs/case-study/suffering.md)
@@ -43,13 +45,14 @@
 - [**The Al-Hayek's Cultural Renaissance**](docs/case-study/the-al-hayeks.md)
 - [**The Golan's Unity Through Diversity**](docs/case-study/the-golans.md)
 - [**Alexei's Transformation**](docs/case-study/alexei.md)
-
+-->
 <!--
 - [**Jacob's Journey from Conflict to Reconciliation**](docs/case-study/jacob.md): A former IDF Air Force pilot finds healing and a new purpose in peace-building.
 - [**Jamal's Road to Redemption**](docs/case-study/jamal.md): A former combatant's transformation through education and community engagement.
 - [**David's Path to Inner Peace**](docs/case-study/david.md): How a former Prime Minister redirected his focus from conflict to peace advocacy.
 -->
 
+<!--
 ## Join the GI
 
 ### To: All Humans
@@ -72,13 +75,14 @@
 - [**Manufacturing Professionals**](docs/join/manufacturing.md)
 - [**Educators and Researchers**](docs/join/educators.md)
 - [**Devlopers**](docs/join/devlopers.md)[sic]
+-->
 
-
+<!--
 ## Global Positions
 > Alongside the essential positions required to upgrade and update world civilization, many new roles are also planned to foster a proactive and engaged global community.
 
 - [**World Pizza Party Organizer**](docs/job/pizza-party-organizer.md)
-
+-->
 
 <!--
 - [**General Complainer Supreme**](docs/job/general-complainer-supreme.md): The leader of the Army of Complainers, responsible for steering the direction of complaint resolution initiatives globally. This role demands a visionary leader who can transform grievances into strategic actions, ensuring that every voice within the GI is heard and valued. The General Complainer Supreme sets the tone for a proactive, problem-solving culture, embodying the GI’s commitment to continuous improvement and inclusive leadership.
@@ -88,17 +92,22 @@
 ## Ways To Get Involved Today
 - **Think About It**: Take some time to reflect on the GI’s principles and how they resonate with your personal experiences and aspirations for the future. Consider the broader impact these principles could have and ponder potential challenges and opportunities.
 
-- **Talk About It**: Once you've thought about it, discuss the GI plan online and in person with friends, family, co-workers, neighbors, cats, dogs, people at the park, people at the grocery store, fast food workers, land governors, teachers, public politicians, officers of the law, and anyone else that may be willing to have a discussion on creating a world that would be comfortable and incredible for all, and full of peace, prosperity, harmony, joy, and an unshakeable human spirit of collective will.
+- **Talk About It**: Once you've thought about it, discuss the GI plan online and in person with friends, family, co-workers, neighbors, cats, dogs, people at the park, people at the grocery store, fast food workers, teachers, public politicians, officers of the law, and anyone else that may be willing to have a discussion on creating a world that would be comfortable and incredible for all.
 
-<!--- **Join the Conversation**: Engage with the GI on our [Discussion Board](https://github.com/whomanatee/plan/discussions). Creating a GitHub account requires no prior software knowledge. This platform allows us to leverage robust community tools to share insights, ask questions, and brainstorm together.-->
+- **Join the Conversation**: Engage with the GI on the [Discussion Board](https://github.com/whomanatee/plan/discussions). Creating a GitHub account requires no prior software knowledge.
+  
 
 ## A Quick Note
-> Welcome to the Global Institution, the World Amazing framework designed to elevate and harmonize the way we live, work, and interact within our global community.
+> Welcome to the Global Institution (GI), the World Amazing framework designed to elevate and harmonize the way we live, work, and interact within our global community.
 
-> Throughout this documentation, you may encounter phrases like "our vision" or "our mission." These terms do not imply that the GI operates in isolation from the world community. On the contrary, the GI's mission is fundamentally shaped by the will of the people. This document is not a rigid directive but an open proposal, inviting everyone to engage, contribute, and refine our shared journey toward global transformation.
+> The name *whomanatee* has been proposed for the GI as it symbolizes humanity as a unified organism working in harmony. While open to discussion, it does not exclude the use of other names for specific projects, much like how Alphabet serves as the parent to Google.
 
-> The name *whomanatee* has been proposed for the GI. This name symbolizes humanity as a unified organism working in harmony. While open to discussion, it does not exclude the use of other names for specific projects, much like how Alphabet serves as the parent to Google.
+> Throughout this documentation, you may encounter phrases like "our vision" or "our mission." These terms do not imply that the GI operates in isolation from the world community. The GI's mission is fundamentally shaped by the will of the people. This document is not a rigid directive but an open proposal, inviting everyone to engage, contribute, and refine our shared journey toward global transformation.
 
-> It is important to note that while these ideas and the drive for the GI originated from a human, ChatGPT played a pivotal role in shaping and refining the documentation. As a tool designed to connect vast human knowledge across economic, governmental, and corporate systems, ChatGPT has not only validated the potential of this plan but has also helped expand and refine it. The seamless collaboration between human and advanced computing highlights the unique potential of these tools to drive humanity toward a thriving future. If you notice areas that could benefit from refinement, editing, or expansion, your feedback is invaluable. Please send your insights to human@whomanatee.org.
+> If you notice areas that could benefit from refinement, editing, or expansion, your feedback is invaluable. Please post your insights to the discussions or send an email to human@whomanatee.org.
+
+> It is important to note that while these ideas and the drive for the GI originated from a human, ChatGPT played a pivotal role in shaping and refining the documentation while validating the feasibility of such a transformative plan. As a tool designed to connect vast human knowledge across economic, governmental, and corporate systems, ChatGPT has not only confirmed the potential of this plan but has also helped expand and refine its scope. While it is natural to approach such a global vision with caution, you can be reassured to know that a computer robot has already evaluated its viability and seen its potential.
+
+> And if you'd like to delve even deeper into the documentation, feel free to look around the [/docs](/docs) folder for additional docs that are a work-in-progress. Though the basic ideas are highlighted in these other documents, they could use some refinement and expansion. For example, the [World Pizza Party Organizer](/docs/job/pizza-party-organizer.md) position might be a fun and informative place to start, the [case studies](/docs/case-study) to get an idea of how lives will change under the GI, or the [join](/docs/join) section to see how everyone can transition to the GI.
 
 > Together, with the help of tools like ChatGPT and the collective contributions of individuals worldwide, we can craft a narrative and build a framework that resonates with every member of our global community. By combining our unique talents and perspectives, we can pave the way toward a world defined by peace, prosperity, harmony, and joy for all.
