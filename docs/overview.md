@@ -3,97 +3,51 @@
 
 > Includes reducing essential work for everyone to 2 days per week on average, fostering early retirement from intensive labor into mentorship roles by age 50, and covering essentials for everyone worldwide through collective efforts, including health, home, education, food, and basic essential yearly vacations.
 
-> *Last major update:* [2024-11-28](#updates)
+> *Last major update:* [2024-11-30](#updates)
 
 
 ## Table of Contents
 1. [Introducing: The Global Institution Framework](#introducing-the-global-institution-framework)
-1. [Global Benefits: All Batteries Included](global-benefits-all-batteries-included)
-1. [Global Initiatives: Building an Amazing Future](global-initiatives-building-an-amazing-future)
+    1. [Key Highlights](#key-highlights)
+    1. [Global Benefits: All Batteries Included](global-benefits-all-batteries-included)
+    1. [Global Initiatives: Building an Amazing Future](global-initiatives-building-an-amazing-future)
+    1. [Quick Overview of Four Critical Steps](#quick-overview-of-four-steps-to-world-amazing)
+1. [Luxury Class for All](#luxury-class-for-all)
+1. [The Global Challenge of Deception](#the-global-challenge-of-deception)
 1. [Four Critical Steps to World Amazing](#four-critical-steps-to-world-amazing)
 1. [Closing Remarks](#closing-remarks)
 1. [Questions and Answers](#questions-and-answers)
-1. [Resources](#resources)
 1. [Updates](#updates)
 
 
 ## Introducing: The Global Institution Framework
 At the heart of the World Amazing Plan is the Global Institution (GI) framework. This framework ensures that prosperity is not just a possibility but a guarantee for everyone. The GI framework is more than a vision. It is the practical foundation that brings the World Amazing Plan to life.
 
-The GI focuses on making all basic and essential human needs universally accessible. Housing, healthcare, education, and creative fulfillment are not privileges for the few but guaranteed rights for all, forming the foundation of a thriving global society.
+The GI focuses on making all basic and essential human needs universally accessible. Housing, healthcare, education, and creative fulfillment are not privileges for the few but guaranteed rights for all, forming the foundation of a thriving global society. The GI framework inherently supports mental well-being by removing the daily stresses of life, such as financial instability, work pressures, and inequality. It creates a nurturing environment where individuals can focus on personal growth, relationships, and fulfillment.
 
-By enveloping the entire planet, the GI framework acts as a universal system for humanity. It ensures that everyone has access to the foundations of a dignified life. This collective approach diminishes inequities caused by history or geography, offering a fair and inclusive system for all.
+By enveloping the entire planet, the GI framework acts as a universal global wrapper for humanity. It ensures that everyone has access to the foundations of a dignified life. This collective approach diminishes inequities caused by history or geography, offering a fair and inclusive system for all.
 
-### Quick Highlights
+### Key Highlights
 1. **Universal Access to Essentials**: Incredible and luxurious housing, the best healthcare, the best education, the best food, and creative fulfillment are guaranteed rights for all, not privileges for the few. 
-2. **Cooperation and Transparency**: Trust and truth must replace systems of deception and manipulation. Transparency is the cornerstone of every interaction, fostering cooperation and creating a world built on mutual respect and shared goals.
-3. **Global Conversation**: The GI will be shaped and refined through a worldwide conversation that fosters open, honest, and ongoing dialogue. Challenges like deception, inequality, and mistrust can only be resolved when every voice is heard, every perspective is valued, and humanity’s collective wisdom guides the future.
-4. **Empowering Human Potential**: Through access to unparalleled education, abundant resources, and boundless opportunities, every individual can achieve their highest potential. The GI ensures that no talent goes untapped and no ambition is out of reach. Whether in the arts, sciences, or community development, this environment nurtures human ingenuity and collaboration, enabling extraordinary advancements.
-5. **Inclusivity and Rehabilitation**: Everyone has a place in the Global Institution. Regardless of background, criminal record, incarceration status, or social status, every individual is welcomed, empowered, and supported to grow and contribute. The GI prioritizes growth and healing, ensuring that every person has the opportunity to thrive and play a meaningful role in the community. No one is left behind.
-6. **Flexibility and Freedom**: Members have the freedom to relocate, start businesses, and pursue their dreams without financial or systemic constraints. The GI is built to remove barriers and ensure that every individual can live a life of purpose, creativity, and fulfillment.
-7. **Sustainability and Innovation**: Creativity and technological advancements must work hand in hand with environmental stewardship. The GI prioritizes sustainability to protect the planet while fostering innovation that improves lives and ensures a better future for generations to come.  
-8. **Integration of Useful Businesses**: The GI welcomes and integrates businesses of all sizes, from local shops to multinational corporations, as long as they provide value to society. By working together, these enterprises can transition into the GI framework, contributing to a cooperative, sustainable economy that benefits all. And similar to an open market, members within the GI can initiate projects at will.
-9. **Outdating Governments**: The GI framework replaces outdated governmental structures and NGOs with a unified system where essential services are provided through collective efforts and advanced technologies. By eliminating inefficiencies, the GI makes taxation for essential services obsolete and shifts to a model where community contributions directly meet societal needs.
-10. **Eliminating Redundancy**: Outdated systems and industries that no longer serve humanity’s collective well-being will naturally phase out. These include for-profit services such as rental housing markets, traditional banking, and insurance industries. With the GI providing equitable and universal access to essentials, systems that perpetuate inequality, financial stress, or environmental harm will become irrelevant. Instead, resources will be directed toward truly valuable, community-driven solutions.
-11. **Collective Ownership of Essentials**: Essential resources like water, energy, housing, and transportation will no longer be privately owned for profit. These utilities will be managed collectively, ensuring sustainable, equitable, and affordable access for all members. By removing the profit motive, the GI fosters collaboration and stewardship, protecting vital resources for generations to come.
-12. **A 2-Day Workweek**: Essential systems are streamlined and automated, minimizing the need for labor and freeing people to explore their passions, build relationships, and enjoy life. The base level of work will not be compensated with a salary, but instead with an extraordinary quality of life. This includes a luxurious home that improves the longer you work and the more impact you have, full coverage of all education and medical expenses (including ambulance and helicopter evacuation), essential utilities, delicious and nutritious food, and yearly vacations with flights included. For those who wish to go beyond the base level, additional work can grow personal funds, supporting individual needs and enabling the creation of personal projects within the GI.
-13. **Retirement from Intensive Labor**: By age 50, members transition out of demanding labor into mentorship or teaching roles, passing on skills, knowledge, and experience to younger generations. This shift ensures that work remains fulfilling and empowering while allowing individuals to enjoy a life of balance, purpose, and relaxation in their later years.
-14. **Sustainable Systems**: The GI transitions away from profit-driven industries, replacing them with community-centered and environmentally sustainable models. These systems prioritize long-term well-being for humanity and the planet over short-term gains.
+1. **Cooperation and Transparency**: Trust and truth must replace systems of deception and manipulation. Transparency is the cornerstone of every interaction, fostering cooperation and creating a world built on mutual respect and shared goals.
+1. **Global Conversation**: The GI will be shaped and refined through a worldwide conversation that fosters open, honest, and ongoing dialogue. Challenges like deception, inequality, and mistrust can only be resolved when every voice is heard, every perspective is valued, and humanity’s collective wisdom guides the future.
+1. **Empowering Human Potential**: Through access to unparalleled education, abundant resources, and boundless opportunities, every individual can achieve their highest potential. The GI ensures that no talent goes untapped and no ambition is out of reach. Whether in the arts, discovery and understanding of the physical world, or community development, this environment nurtures human ingenuity and collaboration, enabling extraordinary advancements. Additionally, comprehensive support for creative projects at every stage, from concept to large-scale fruition, will ensure that innovation thrives within the GI.
+1. **Inclusivity and Rehabilitation**: Everyone has a place in the Global Institution. Regardless of background, criminal record, incarceration status, or social status, every individual is welcomed, empowered, and supported to grow and contribute. The GI prioritizes growth and healing, ensuring that every person has the opportunity to thrive and play a meaningful role in the community. No one is left behind.
+1. **Home Ownership for All**: Everyone in the GI will own their own home. Housing will no longer be a commodity but a universal right, ensuring stability, dignity, and security for all members. By removing rent and mortgages, the GI empowers people to thrive in their communities without financial burdens.
+1. **A 2-Day Workweek**: Essential systems are streamlined and automated, minimizing the need for labor and freeing people to explore their passions, build relationships, and enjoy life.
+1. **Extraordinary Base Compensation**: The two-day workweek is compensated not with a salary, but with an unparalleled quality of life. Members receive a luxurious home that improves over time based on their contributions, alongside full coverage of education and healthcare (including ambulance and helicopter evacuation), essential utilities, delicious and nutritious food, and annual vacations with flights included. A reward-based system also offers additional benefits for those who take on impactful roles, ensuring that every contribution is valued.
+16. **Beyond Base Compensation**: While a salary is no longer necessary to thrive within a GI society, members can choose to take on additional work to grow personal and project funds through a 50/50 profit-sharing model. This approach empowers members to achieve individual goals while fostering innovation and supporting new initiatives within the GI.
+1. **Retirement from Intensive Labor**: By age 50, members transition out of demanding labor into mentorship or teaching roles, passing on skills, knowledge, and experience to younger generations. This shift ensures that work remains fulfilling and empowering while allowing individuals to enjoy a life of balance, purpose, and relaxation in their later years.
+1. **Flexibility and Freedom**: Members have the freedom to relocate, explore passions, and shape their lives without financial or systemic constraints. The GI removes traditional barriers, empowering every individual to pursue a life of purpose, creativity, and fulfillment.
+1. **Open Market for Projects**: Within the GI, members can freely initiate and participate in projects, leveraging abundant physical and human resources. A dynamic market will thrive, where the success of initiatives is measured by their usefulness and sustainability, rather than by short-term profits or arbitrary metrics like meeting quarterly goals.
+1. **Integration of Useful Businesses**: The GI welcomes and integrates businesses of all sizes, from local shops to multinational corporations, as long as they provide value to society. By working together, these enterprises can transition into the GI framework, contributing to a cooperative, sustainable economy that benefits all.
+1. **Outdating Governments and Taxation**: The GI framework replaces outdated governmental structures and NGOs with a unified system where essential services are provided through collective efforts and advanced technologies. This transformative approach eliminates the inefficiencies and redundancies that traditional governance relies on, rendering taxation for essential services obsolete. Instead of taxes, the GI adopts a model where transparent, community-driven contributions directly fund societal needs, ensuring that resources are used effectively and equitably.
+1. **Eliminating Redundancy**: Outdated systems and industries that no longer serve humanity’s collective well-being will naturally phase out. These include for-profit services such as rental housing markets, traditional banking, and insurance industries. The GI also addresses predatory practices by large corporations that purchase homes en masse, driving up prices and reducing access to affordable housing. By providing equitable and universal access to essentials, the GI makes systems that perpetuate inequality, financial stress, or environmental harm irrelevant. Instead, resources will be redirected toward truly valuable, community-driven solutions that prioritize well-being over profit.
+1. **Collective Ownership of Essentials**: Essential resources like water, energy, and transportation will no longer be privately owned for profit. These utilities will be managed collectively, ensuring sustainable, equitable, and affordable access for all members. By removing the profit motive, the GI fosters collaboration and stewardship, protecting vital resources for generations to come.
+1. **Sustainability and Innovation**: The GI replaces profit-driven industries with community-centered, environmentally sustainable models that prioritize long-term well-being for humanity and the planet. By fostering creativity and advancing technology alongside environmental stewardship, the GI ensures a future where innovation improves lives while protecting the world for generations to come.
+1. **Local Control, Global Impact**: The GI empowers communities to retain local autonomy and make decisions that best serve their unique needs and cultures, while contributing to a unified global effort. This is not a centralized authority taking over the world, but a framework that protects life, fosters true liberty from demanding work, and ensures personal choice for all humans globally. By uniting under shared principles of trust and cooperation, local actions will resonate worldwide, creating a ripple effect of prosperity and harmony.
 
-### Luxury Class for All
-At its core, the GI framework is not just about meeting basic needs, it is about elevating life for every individual to a level of extraordinary well-being. By replacing scarcity with abundance, the GI ensures that luxury becomes the standard for all, setting the stage for a world where everyone thrives.
-
-In the GI framework, luxury becomes the baseline: incredible homes, nutritious and delicious food, extraordinary healthcare, and the freedom to thrive without the constraints of grueling work schedules. No more middle-class, no more hierarchies of wealth. Everyone belongs to the luxury class because prosperity is universal.
-
-True luxury is not just about material comforts, but about living in harmony with others, in an environment where trust and joy are the norm. It’s about the experience of living alongside humans who are a pleasure to be around, in a world where the stress, competition, and mistrust that plague us today are replaced by joy, harmony, and trust. 
-
-### The Global Challenge of Deception
-Central to the success of the GI framework is confronting the root issue that holds humanity back: *deception.* Deception feeds mistrust, fuels competition, and perpetuates inequality. Every significant issue we face, from climate change to crime, is rooted in systems built on deception and scarcity. To overcome this, we must start an ongoing worldwide conversation to confront these patterns honestly and transparently. Only through dialogue and awareness can we dismantle the systems that divide us and replace them with trust, cooperation, and shared purpose.  
-
-#### _The Roots of Deception_
-The roots of deception run deep in humanity’s history, emerging alongside the development of hierarchical structures roughly 10,000 years ago. These systems, built on scarcity and competition, often relied on deception to maintain control and power. Over time, these patterns became deeply ingrained in our societies, shaping the ways we interact with one another and the world.
-
-In addressing deception today, it is vital to recognize that no individual or group is to be blamed or punished. Instead, the focus must be on collective accountability: the understanding that while no one is at fault for the systems we inherited, we all share the responsibility to grow, heal, and transform ourselves and our communities.
-
-This will not be an easy transition. Moving beyond anger for past wrongs and toward healing requires profound personal and collective effort. It calls for a willingness to face uncomfortable truths. But it is only through this process that humanity can lay the foundation for trust, cooperation, and shared prosperity.
-
-Importantly, this transformation will not happen overnight. It will be a multi-year journey. But with patience, commitment, and a shared vision for the future, humanity can overcome the deception that divides us and create a world built on truth, trust, and unity.
-
-#### _The Impact of Deception_
-At every level, deception erodes our ability to thrive:
-- **Systemic deception** creates environments of scarcity and inequality. It fuels corruption, spreads misinformation, and prioritizes profit over people.
-- **Interpersonal deception** damages relationships, breeds mistrust, and perpetuates cycles of harm within families and communities.
-- **Internal deception**, the lies we tell ourselves, keeps us trapped in fear, anger, or apathy, unable to connect or grow.
-
-Every major issue humanity faces, whether it’s abortion, climate change, crime, or war, has roots in deception. For example:
-- **Abortion**: Beyond cases involving crime or health, abortion often occurs in environments shaped by deception, whether through misinformation about options, lack of genuine support systems, or societal neglect of basic needs. Even crimes leading to abortion stem from lives shaped by deceptive systems.  
-- **Anger**: Anger thrives in spaces where trust is broken. When people feel unheard, manipulated, or powerless, it is often deception, whether personal or systemic, that fuels their rage.  
-- **Crime**: Most crimes are born from environments of inequality, desperation, or entitlement, all of which are perpetuated by deceptive systems and power structures.  
-- **Climate Change**: Deception by corporations, governments, and individuals has delayed climate action for decades. Whether it’s misinformation about the severity of the crisis, manipulation of public opinion, or outright denial of responsibility, deception keeps humanity from addressing environmental harm at its root.  
-- **Poverty and Economic Inequality**: Deceptive systems perpetuate poverty by concentrating wealth and resources in the hands of the few. Whether through wage suppression, misleading promises of upward mobility, or corrupt policies, deception traps millions in cycles of scarcity and inequality.  
-- **Healthcare Inequities**: Misinformation and profiteering in healthcare create systems where access to care is a privilege, not a right. Deception fuels the prioritization of profits over well-being, leaving countless people without the support they need to thrive.  
-- **Education Gaps**: Deceptive practices, such as unequal funding, biased curricula, and suppression of critical thinking, perpetuate systemic inequality in education. Misinformation about history, science, and current events creates divides rather than fostering understanding.  
-- **War and Violence**: At its core, war is often fueled by deception: misrepresentation of motives, suppression of diplomacy, and manipulation of public sentiment. Leaders deceive populations to justify conflict, while systemic mistrust between nations escalates violence.  
-- **Discrimination**: Deception underpins every form of discrimination, from racism to sexism to ableism. Stereotypes, misinformation, and systemic biases perpetuate divisions and uphold systems that prioritize certain groups over others.  
-
-What other issues do you think are fueled by deception? There are many more!
-
-#### _From Deception to Truth and Prosperity_
-While these challenges may seem overwhelming, they are not insurmountable. Humanity has the tools, knowledge, and capacity for growth to overcome these deeply ingrained patterns of deception.
-
-The GI framework is designed to address these issues directly, offering practical systems and a collaborative foundation to replace deception with truth and scarcity with abundance. By uniting under a shared vision and fostering ongoing dialogue, we can dismantle the structures that perpetuate deception and build a world rooted in trust, cooperation, and shared prosperity.
-
-As we replace deception with truth, growth, and cooperation, an amazing world for all will no longer be a distant possibility but will seemingly emerge on its own to become our global reality.
-
-### Quick Overview of Four Steps to World Amazing
-The journey to this vision begins with four critical steps, which are described in greater detail later in this document:  
-1. **Global Discussion**: Launch a worldwide conversation to confront deception and shape the principles of the Global Institution. This dialogue will include voices from every corner of the world, ensuring inclusivity and collective ownership of the plan. By addressing humanity’s struggles head-on, this conversation lays the foundation for unity and shared purpose.
-2. **Funding**: Raise $25 trillion through voluntary contributions to establish a sustainable core fund for housing, healthcare, and other essentials. The goal is for 10 percent of the world population, approximately 1 billion people, to contribute $25,000 USD each. No spending decision is made without your vote. Your money is your vote. With these funds, $1 trillion will be allocated annually for at least 25 years to support core operations, with absolutely no portion used for salaries. And for those who cannot afford this amount upfront, opportunities will be available to contribute later through additional work or by earning scholarships that recognize their past contributions to society. Those with greater financial resources will be encouraged and incentivized to contribute more.
-3. **Phased Implementation**: The GI begins with self-sustaining communities that embody its principles, serving as blueprints for global expansion. Every member will contribute no more than two days per week to essential projects such as housing, healthcare, and education. Through the use of automation and advanced computing, this minimal work requirement will ensure the highest standards of living and quality of service for all. Beyond the two-day work commitment, members will have the freedom to learn anything they desire without barriers like school applications, spend meaningful time with loved ones, pursue personal projects within the GI, or collaborate on existing initiatives.
-4. **World Amazing**: Transition humanity to a future defined by peace, prosperity, and joy. Getting accustomed to living amazing will be a step in its own right. In this world, stress and scarcity are replaced by fulfillment, creativity, and purpose. Simply by building a society rooted in cooperation, trust, and shared abundance, humanity will achieve a truly amazing future for all.
-
-
-## Global Benefits: All Batteries Included
+### Global Benefits: All Batteries Included
 To ensure no one is left behind, the GI encompasses a broad spectrum of essential services provided at no additional cost to all humans once they join and become active working members of the GI:
 
 1. **Housing**: Including utilities (electricity, water, heating, cooling).
@@ -114,21 +68,15 @@ To ensure no one is left behind, the GI encompasses a broad spectrum of essentia
 16. **Safety Services**: Emergency services, fire protection, and disaster response.
 
 In addition to these comprehensive benefits, the GI will also:  
-- **Replace Outdated Systems**: The GI removes exploitative, profit-driven systems—such as for-profit insurance, debt, and taxation—and replaces them with community-centered models that prioritize human well-being, equity, and sustainability.
+- **Replace Outdated Systems**: The GI removes exploitative, profit-driven systems, such as for-profit insurance, debt, and taxation, and replaces them with community-centered models that prioritize human well-being, equity, and sustainability.
 - **Resolve Societal Issues at Their Root**: By providing equitable access to resources and fostering a society built on well-being, the GI tackles systemic issues like economic inequality, environmental degradation, and public health challenges, creating a more just and sustainable world.
 - **Eliminate Crime by Addressing Root Causes**: Through universal access to essential resources, education, and opportunities, the GI eliminates the conditions that lead to crime, fostering safer and more harmonious communities without reliance on punitive systems.
 
 For a deeper dive into these benefits, visit the [GI Benefits](https://github.com/whomanatee/plan/blob/main/docs/benefits.md) document.
 
+### Global Initiatives: Building an Amazing Future
+At the heart of the GI lies a series of transformative initiatives designed to empower, uplift, and unify humanity. Each initiative seeks to address core aspects of life, offering a comprehensive path toward a more just, innovative, and joyful world.
 
-## Global Initiatives: Building an Amazing Future
-At the heart of the GI lies a series of transformative initiatives designed to empower, uplift, and unify humanity. Each initiative seeks to address core aspects of life—housing, education, health, work, and play—offering a comprehensive path toward a more just, innovative, and joyful world.
-
-1. **A Home for Every Citizen**: Safe, sustainable housing for all, with dynamic opportunities for growth and upgrades based on individual contributions and needs.
-1. **Education for Empowerment**: A lifelong learning system starting from early childhood, nurturing creativity, emotional intelligence, and real-world application through customizable educational pathways.
-1. **Revolutionizing Well-being**: Universal access to healthcare that integrates physical, mental, and community support, fostering a society that prioritizes well-being as a basic human right.
-1. **Fostering Creativity and Innovation**: Support for creative projects at every stage, from concept to large-scale fruition, ensuring that innovation thrives within the GI.
-1. **Embracing Diversity and Recovery**: A commitment to leaving no one behind, with inclusive rehabilitation programs, community support, and global freedom of movement to foster understanding and unity.
 1. **Peoples Department: Redefining Community Relations**: Transforming traditional law enforcement into community-centric support, with proactive engagement and a focus on conflict resolution through understanding.
 1. **Global Safety and Preparedness**: A unified global approach to emergency services, integrating local and global capabilities to handle disasters, defense, and humanitarian aid seamlessly.
 1. **Innovative Work and Community Services**: Developing community-driven innovation hubs, digital access initiatives, and intergenerational programs to foster collaboration and solve local and global challenges.
@@ -140,6 +88,80 @@ At the heart of the GI lies a series of transformative initiatives designed to e
 1. **Additional Inititiaves**: A yearly world pizza party, adventure vehicles for personal use, urban wildlife tracking, setting global cultural norms, reducing redundant work through automation, and much more.
 
 For a deeper dive into these initiatives, visit the [GI Initiatives](https://github.com/whomanatee/plan/blob/main/docs/initiatives.md) document.
+
+### Quick Overview of Four Steps to World Amazing
+The journey to this vision begins with four critical steps, which are described in greater detail later in this document:  
+1. **Global Discussion**: Launch a worldwide conversation to confront deception and shape the principles of the Global Institution. This dialogue will include voices from every corner of the world, ensuring inclusivity and collective ownership of the plan. By addressing humanity’s struggles head-on, this conversation lays the foundation for unity and shared purpose.
+2. **Funding**: Raise $25 trillion through voluntary contributions to establish a sustainable core fund for housing, healthcare, and other essentials. The goal is for 10 percent of the world population, approximately 1 billion people, to contribute $25,000 USD each. No spending decision is made without your vote. Your money is your vote. With these funds, $1 trillion will be allocated annually for at least 25 years to support core operations, with absolutely no portion used for salaries. And for those who cannot afford this amount upfront, opportunities will be available to contribute later through a multi-year investment plan, through additional work, or by earning scholarships that recognize past contributions to society. And those with greater financial resources will be encouraged and incentivized to contribute more.
+3. **Phased Implementation**: The GI begins with self-sustaining communities that embody its principles, serving as blueprints for global expansion. Every member will contribute no more than two days per week to essential projects such as housing, healthcare, and education. Through the use of automation and advanced computing, this minimal work requirement will ensure the highest standards of living and quality of service for all. Beyond the two-day work commitment, members will have the freedom to learn anything they desire without barriers like school applications, spend meaningful time with loved ones, pursue personal projects within the GI, or collaborate on existing initiatives.
+4. **World Amazing**: Transition humanity to a future defined by peace, prosperity, and joy. Getting accustomed to living amazing will be a step in its own right. In this world, stress and scarcity are replaced by fulfillment, creativity, and purpose. Simply by building a society rooted in cooperation, trust, and shared abundance, humanity will achieve a truly amazing future for all.
+
+
+## Luxury Class for All
+At its core, the GI framework is not just about meeting basic needs, it is about elevating life for every individual to a level of extraordinary well-being. By replacing scarcity with abundance, the GI ensures that luxury becomes the standard for all, setting the stage for a world where everyone thrives.
+
+In the GI framework, luxury becomes the baseline: incredible homes, nutritious and delicious food, extraordinary healthcare, and the freedom to thrive without the constraints of grueling work schedules. No more middle-class, no more hierarchies of wealth. Everyone belongs to the luxury class because prosperity is universal.
+
+True luxury is not about excess or wastefulness, but about quality, comfort, and harmony. Every member of the GI can expect:
+- **Private, Personalized Spaces**: A home with a private room for each individual, tailored to their preferences and needs, with additional communal spaces for family and shared activities. Every space is thoughtfully designed to ensure comfort, functionality, and individuality.  
+- **Premium Essentials**: The highest quality in essentials like pillows, sheets, furniture, and appliances, crafted with superior materials for comfort and durability.
+- **Unparalleled Privacy and Peace**: Homes designed with privacy and tranquility in mind, offering noise reduction systems, soundproofing, and serene layouts that prioritize personal space and mental well-being.  
+- **Innovative, Sustainable Design**: Homes and communal spaces feature cutting-edge, eco-friendly designs that balance elegance with environmental stewardship, integrating renewable energy systems, water-saving technologies, and sustainable materials.  
+- **Wellness-Centered Amenities**: Every home includes wellness-focused features, such as adjustable lighting to match natural circadian rhythms, air and water purification systems, and ergonomic furniture designed for optimal health.  
+- **Integrated Smart Living**: Seamlessly integrated advanced computing and robotics for household management, including automated cleaning systems, virtual personal assistants, and intuitive home controls for climate, lighting, and security.  
+- **Access to Nature**: Easy access to private or shared gardens, green spaces, and nearby parks, ensuring every individual can reconnect with nature and enjoy outdoor relaxation, gardening, or stargazing in a peaceful environment.  
+- **In-Home Entertainment**: State-of-the-art entertainment systems, including immersive virtual reality setups, premium sound systems, and access to expansive libraries of movies, music, and games for personalized recreation.  
+- **Aesthetic Excellence**: Homes and spaces adorned with curated artwork, natural materials, and customizable decor that reflect the tastes and personality of the occupants. Personalized art and design services ensure each space feels truly unique.  
+- **Community at Your Doorstep**: Communal spaces that foster connection and collaboration, such as shared lounges, hobby rooms, event spaces, and neighborhood gardens, making it easy to build relationships and share joyful experiences with others.  
+- **Ultimate Relaxation**: Private wellness retreats within homes or neighborhoods, featuring spa-like bathrooms, hydrotherapy tubs, meditation pods, and sensory relaxation areas designed for rejuvenation.  
+- **Seasonal Adjustability**: Homes equipped with climate-responsive designs and amenities that adapt to seasons and personal comfort preferences, such as heated floors in winter and natural cooling systems in summer.  
+- **Enhanced Sleep Environments**: Bedrooms designed for optimal sleep quality, with temperature control, noise-canceling features, blackout systems, and bedding made from the finest sustainable materials.  
+- **Cultural Experiences at Home**: Access to curated cultural and artistic experiences, such as live-streamed performances, art displays, and interactive workshops, ensuring a rich and fulfilling cultural life without leaving home.  
+- **Seamless Mobility**: Homes and neighborhoods designed for ease of mobility, featuring accessible layouts, shared electric vehicles, and convenient public transit options to encourage exploration and engagement with the broader community.  
+
+### Excessive Class vs. True Luxury
+While the GI ensures that luxury is accessible to everyone, the concept of "Excessive Class", such as owning multiple mansions, fleets of yachts, or extravagant items like silky sheets made from the skin of snakes, is not part of the baseline standard. Members who wish to pursue a lifestyle beyond the baseline luxury, such as owning 15 yachts, 26 houses, or having 92 bathrooms, can still do so but will need to pay for it through additional contributions.
+
+The GI focuses on providing what truly matters: an elevated quality of life for all without promoting wastefulness or perpetuating unnecessary inequalities. This ensures that resources are utilized responsibly, fostering a culture where luxury is sustainable and universal.
+
+Ultimately, true luxury is not just about material comforts, but about living in harmony with others, in an environment where trust and joy are the norm. It’s about the experience of living alongside humans who are a pleasure to be around, in a world where the stress, competition, and mistrust that plague us today are replaced by joy, harmony, and trust. While an excessive lifestyle may have its appeal, it does not create the same sense of fulfillment and connection that defines a truly amazing life.
+
+
+## The Global Challenge of Deception
+Central to the success of the GI framework is confronting the root issue that holds humanity back: *deception.* Deception feeds mistrust, fuels competition, and perpetuates inequality. Every significant issue we face, from climate change to crime, is rooted in systems built on deception and scarcity. To overcome this, we must start an ongoing worldwide conversation to confront these patterns honestly and transparently. Only through dialogue and awareness can we dismantle the systems that divide us and replace them with trust, cooperation, and shared purpose.  
+
+### The Roots of Deception
+The roots of deception run deep in humanity’s history, emerging alongside the development of hierarchical structures roughly 10,000 years ago. These systems, built on scarcity and competition, often relied on deception to maintain control and power. Over time, these patterns became deeply ingrained in our societies, shaping the ways we interact with one another and the world.
+
+In addressing deception today, it is vital to recognize that no individual or group is to be blamed or punished. Instead, the focus must be on collective accountability: the understanding that while no one is at fault for the systems we inherited, we all share the responsibility to grow, heal, and transform ourselves and our communities.
+
+This will not be an easy transition. Moving beyond anger for past wrongs and toward healing requires profound personal and collective effort. It calls for a willingness to face uncomfortable truths. But it is only through this process that humanity can lay the foundation for an amazing world for us and future generations. This transformation will not happen overnight. It will be a multi-year journey. But with patience, commitment, and a shared vision for the future, humanity can overcome the deception that divides us to create a world built on truth, transparency, cooperation, unity, and ultimately shared prosperity.
+
+### The Impact of Deception
+At every level, deception erodes our ability to thrive:
+- **Systemic deception** creates environments of scarcity and inequality. It fuels corruption, spreads misinformation, and prioritizes profit over people.
+- **Interpersonal deception** damages relationships, breeds mistrust, and perpetuates cycles of harm within families and communities.
+- **Internal deception**, the lies we tell ourselves, keeps us trapped in fear, anger, or apathy, unable to connect or grow.
+
+Every major issue humanity faces, whether it’s abortion, carbon emissions, crime, or war, has roots in deception:
+- **Abortion**: Beyond cases involving crime or health, abortion often occurs in environments shaped by deception, whether through misinformation about options, lack of genuine support systems, or societal neglect of basic needs. Even crimes leading to abortion stem from lives shaped by deceptive systems.  
+- **Anger**: Anger thrives in spaces where trust is broken. When people feel unheard, manipulated, or powerless, it is often deception, whether personal or systemic, that fuels their rage.  
+- **Crime**: Most crimes are born from environments of inequality, desperation, or entitlement, all of which are perpetuated by deceptive systems and power structures.  
+- **Carbon Emissions**: Deception by corporations, governments, and individuals has delayed climate action for decades. Whether it’s misinformation about the severity of the crisis, manipulation of public opinion, or outright denial of responsibility, deception keeps humanity from addressing environmental harm at its root.  
+- **Poverty and Economic Inequality**: Deceptive systems perpetuate poverty by concentrating wealth and resources in the hands of the few. Whether through wage suppression, misleading promises of upward mobility, or corrupt policies, deception traps millions in cycles of scarcity and inequality.  
+- **Healthcare Inequities**: Misinformation and profiteering in healthcare create systems where access to care is a privilege, not a right. Deception fuels the prioritization of profits over well-being, leaving countless people without the support they need to thrive.  
+- **Education Gaps**: Deceptive practices, such as unequal funding, biased curricula, and suppression of critical thinking, perpetuate systemic inequality in education. Misinformation about history, the natural world, and current events creates divides rather than fostering understanding.  
+- **War and Violence**: At its core, war is often fueled by deception: misrepresentation of motives, suppression of diplomacy, and manipulation of public sentiment. Leaders deceive populations to justify conflict, while systemic mistrust between nations escalates violence.  
+- **Discrimination**: Deception underpins every form of discrimination, from racism to sexism to ableism. Stereotypes, misinformation, and systemic biases perpetuate divisions and uphold systems that prioritize certain groups over others.  
+
+What other issues do you think are fueled by deception? There are many more!
+
+### From Deception to Truth and Prosperity
+While these challenges may seem overwhelming, they are not insurmountable. Humanity has the tools, knowledge, and capacity for growth to overcome these deeply ingrained patterns of deception.
+
+The GI framework is designed to address these issues directly, offering practical systems and a collaborative foundation to replace deception with truth and scarcity with abundance. By uniting under a shared vision and fostering ongoing dialogue, we can dismantle the structures that perpetuate deception and build a world rooted in trust, cooperation, and shared prosperity.
+
+As we replace deception with truth, growth, and cooperation, an amazing world for all will no longer be a distant possibility but will seemingly emerge on its own to become our global reality.
 
 
 ## Four Critical Steps to World Amazing
@@ -158,7 +180,7 @@ For a deeper dive into discussions, visit the [GI Discussion](https://github.com
 
 
 ### Step Two: Funding the Core Fund and Beyond
-The GI aims to raise $25 trillion by engaging one billion people, each contributing $25,000. From this, 4%—or $1 trillion—will be allocated annually to fund operations and projects from 2025 to 2050. These resources will be used to acquire land, build infrastructure, and create self-sufficient communities.
+The GI aims to raise $25 trillion by engaging one billion people, each contributing $25,000. From this, 4%, or $1 trillion, will be allocated annually to fund operations and projects from 2025 to 2050. These resources will be used to acquire land, build infrastructure, and create self-sufficient communities.
 
 - Each member’s contribution is placed into a personal fund under their control, ensuring transparent and democratic spending decisions. The funds are used solely to acquire resources and support the community, with no portion going to personal salaries or enrichment.
 
@@ -202,9 +224,11 @@ In this future:
 
 
 ## Closing Remarks
-This plan transcends the arbitrary borders that have long divided humanity, embracing the common values that unite us on this singular, shared planet, dispensing national boundaries to envelop every corner of the globe, championing a world that regards each individual equally, without preference or prejudice. This land, which birthed us all, knows no borders in its care and does not favor one child over another. Together, we can craft a world where all individuals can roam every inch of this planet and look up to see not a foreign sky, but a familiar home.
+This plan transcends the arbitrary borders that have long divided humanity, embracing the common values that unite us on this singular, shared planet, dispensing national boundaries to envelop every corner of the globe, championing a world that regards each individual equally, without preference or prejudice.
 
-This document is more than just a proposal. It is a call to embrace our shared humanity, to build bridges across continents and cultures, and to establish a global network of cooperation and understanding. The Global Institution framework represents an opportunity for all of humanity to unite in crafting a durable, peaceful world that cherishes every individual equally.
+This land, which birthed us all, knows no borders in its care and does not favor one child over another. Together, we can craft a world where all individuals can roam every inch of this planet and look up to see not a foreign sky, but a familiar home.
+
+This plan is more than just a proposal. It is a call to embrace our shared humanity, to build bridges across continents and cultures, and to establish a global network of cooperation and understanding. The Global Institution framework represents an opportunity for all of humanity to unite in crafting a durable, peaceful world that cherishes every individual equally.
 
 Together, we can seize this opportunity to ensure that our collective efforts today lay the foundation for a harmonious humanity, for us and for future generations, forever and beyond.
 
@@ -218,7 +242,7 @@ Together, we can seize this opportunity to ensure that our collective efforts to
 1. [But what if I want to hate people and make them suffer for their pasts? The GI doesn't align with this need of mine.](#q-but-what-if-i-want-to-hate-people-and-make-them-suffer-for-their-pasts-the-gi-doesnt-align-with-this-need-of-mine)
 1. [How will the GI achieve a 2-day workweek?](#q-how-will-the-gi-achieve-a-2-day-workweek)
 1. [If everyone has the time and resources to excel, is everyone going to be a genius in everything?](#q-if-everyone-has-the-time-and-resources-to-excel-is-everyone-going-to-be-a-genius-in-everything)
-1. [I run a small business today—what happens to my business if I join the GI?](#q-i-run-a-small-business-todaywhat-happens-to-my-business-if-i-join-the-gi)
+1. [I run a small business today. What happens to my business if I join the GI?](#q-i-run-a-small-business-today-what-happens-to-my-business-if-i-join-the-gi)
 1. [Can I start a small business or new project within the GI?](#q-can-i-start-a-small-business-or-new-project-within-the-gi)
 1. [What happens to large companies or multinational corporations under the GI? Will the GI purchase them?](#q-what-happens-to-large-companies-or-multinational-corporations-under-the-gi-will-the-gi-purchase-them)
 1. [How will the $25,000 contribution from each member be used?](#q-how-will-the-25000-contribution-from-each-member-be-used)
@@ -229,16 +253,17 @@ Together, we can seize this opportunity to ensure that our collective efforts to
 1. [What kind of home will I live in? And will I be stuck in it forever?](#q-what-kind-of-home-will-i-live-in-and-will-i-be-stuck-in-it-forever)
 1. [Can I choose where I live in the GI?](#q-can-i-choose-where-i-live-in-the-gi)
 1. [I already own my home and have plenty of money to pay all my bills. Why should I join?](#q-i-already-own-my-home-and-have-plenty-of-money-to-pay-all-my-bills-why-should-i-join)
-1. [I'm old and going to die soon. Life has passed me by—what now?](#q-im-old-and-going-to-die-soon-life-has-passed-me-bywhat-now)
+1. [I'm old and going to die soon. Life has passed me by. What now?](#q-im-old-and-going-to-die-soon-life-has-passed-me-by-what-now)
 1. [I'm a baby and have my entire life ahead of me. Why should I join the GI as a baby?](#q-im-a-baby-and-have-my-entire-life-ahead-of-me-why-should-i-join-the-gi-as-a-baby)
 1. [What benefits will I receive for taking on more skilled or advanced positions in the GI?](#q-what-benefits-will-i-receive-for-taking-on-more-skilled-or-advanced-positions-in-the-gi)
-1. [But I don’t have any specialized skills today—what about me?](#q-but-i-dont-have-any-specialized-skills-todaywhat-about-me)
+1. [But I don’t have any specialized skills today. What about me?](#q-but-i-dont-have-any-specialized-skills-today-what-about-me)
 1. [What will the GI build and provide for its members?](#q-what-will-the-gi-build-and-provide-for-its-members)
 1. [How will the GI manage airlines and transportation for its members?](#q-how-will-the-gi-manage-airlines-and-transportation-for-its-members)
 1. [How will the GI ensure safety in all forms of transportation?](#q-how-will-the-gi-ensure-safety-in-all-forms-of-transportation)
 1. [How will the GI timeline unfold? When will things start to happen?](#q-how-will-the-gi-timeline-unfold-when-will-things-start-to-happen)
 1. [Is this some form of socialism, fascism, or another 'ism'?](#q-is-this-some-form-of-socialism-fascism-or-another-ism)
 1. [Is this anti-capitalism?](#q-is-this-anti-capitalism)
+1. [Isn’t the GI just another form of communism?](#q-isnt-the-gi-just-another-form-of-communism)
 1. [Will the GI phase out traditional governments?](#q-will-the-gi-phase-out-traditional-governments)
 1. [But isn't this creating some sort of central governing body that will have control of every aspect of my life?](#q-but-isnt-this-creating-some-sort-of-central-governing-body-that-will-have-control-of-every-aspect-of-my-life)
 1. [Is the GI some kind of cult or forced membership organization?](#q-is-the-gi-some-kind-of-cult-or-forced-membership-organization)
@@ -267,28 +292,28 @@ Ultimately, the GI’s vision is one of inclusivity, ensuring that no one is lef
 
 For those on death row or serving life sentences, the GI will aim to ensure that every life is preserved, regardless of past actions. Members of the GI are committed to ensuring that no one is left behind, including those who have taken a life or previously caused deep harm to others. This will be a long process of recovery, both for the individual and for those affected by their actions. The goal is to move everyone toward an understanding that we are all products of our environments, and with the GI’s supportive framework, no one will need to resort to harmful actions as a way of dealing with personal struggles.
 
-For those who have caused harm, this journey will involve deep reflection, community support, and a commitment to growth. By addressing the root causes of harmful behavior—whether it's systemic inequality, trauma, or other factors—the GI will create an environment where everyone can thrive, grow, and heal, ensuring that no one ever feels forced into destructive actions again. The focus will be on providing the support and resources that individuals may have lacked in earlier environments, creating a future where harmful acts are no longer necessary or even conceivable. Ultimately, the goal is to eliminate the need for prisons by building a society where harm is prevented, and rehabilitation replaces punishment.
+For those who have caused harm, this journey will involve deep reflection, community support, and a commitment to growth. By addressing the root causes of harmful behavior, whether it's systemic inequality, trauma, or other factors, the GI will create an environment where everyone can thrive, grow, and heal, ensuring that no one ever feels forced into destructive actions again. The focus will be on providing the support and resources that individuals may have lacked in earlier environments, creating a future where harmful acts are no longer necessary or even conceivable. Ultimately, the goal is to eliminate the need for prisons by building a society where harm is prevented, and rehabilitation replaces punishment.
 
 ### Q: But what if I want to hate people and make them suffer for their pasts? The GI doesn't align with this need of mine.
 **A:** The GI’s framework is rooted in healing, growth, and fostering environments where every individual has the opportunity to thrive. While it’s natural to feel anger or resentment based on past experiences, the GI aims to create a world where these emotions can be processed and transformed into understanding, compassion, and positive action.
 
 The GI doesn’t support the idea of punishing people for their pasts or perpetuating cycles of suffering. Instead, it recognizes that many harmful actions stem from environments of inequality, trauma, and scarcity. By addressing these root causes and creating a society built on support, education, and opportunity, the GI provides a space where everyone can break free from these cycles and contribute meaningfully to the community.
 
-If your goal is to hold onto anger and make others suffer, the GI may indeed not align with that mindset. However, the GI offers the chance to channel those emotions into something constructive—helping others heal, finding solutions to prevent harm, and working together to ensure no one has to resort to destructive behaviors again. It’s about creating a future where no one is left behind, and where everyone can find a path toward growth and redemption.
+If your goal is to hold onto anger and make others suffer, the GI may indeed not align with that mindset. However, the GI offers the chance to channel those emotions into something constructive including helping others heal, finding solutions to prevent harm, and working together to ensure no one has to resort to destructive behaviors again. It’s about creating a future where no one is left behind, and where everyone can find a path toward growth and redemption.
 
 ### Q: How will the GI achieve a 2-day workweek?  
 **A:** The GI’s model is based on radically rethinking what work is necessary and valuable. Many industries and services that exist today are inefficient, duplicative, or no longer serve a clear purpose. For example, banks, insurance companies, and various administrative or bureaucratic services exist primarily to facilitate the current economic system, not because they provide essential value to people's daily lives. Under the GI, these kinds of inefficient industries will be phased out or restructured, and unnecessary services will be eliminated.
 
 Additionally, the GI will centralize and streamline essential services such as repairs, maintenance, healthcare, food production and distribution, public transportation, and energy management. This consolidation removes the need for countless small, fragmented businesses that often create redundancy and inefficiency. By coordinating these critical areas, the GI ensures that services like infrastructure upkeep, food security, and technological support are provided efficiently and universally, minimizing resource waste and reducing the overall demand for labor.
 
-By focusing on what truly matters—housing, food, education, healthcare, technology, and cultural enrichment—the GI can significantly reduce the amount of work needed to maintain a high quality of life. This shift allows people to work only two days a week, giving them more time to pursue creative, educational, and personal growth opportunities.
+By focusing on what truly matters like housing, food, education, healthcare, technology, and cultural enrichment, the GI can significantly reduce the amount of work needed to maintain a high quality of life. This shift allows people to work only two days a week, giving them more time to pursue creative, educational, and personal growth opportunities.
 
 ### Q: If everyone has the time and resources to excel, is everyone going to be a genius in everything?
 **A:** In a way, pretty much. Just like how all birds of a species can reach their highest potential in flight and survival, every human can reach the highest levels of their abilities in all aspects of human potential, which you might call "genius." The GI's framework is designed to provide the tools, time, and opportunities for everyone to excel in their own unique way, whether that’s in creating new technologies, developing innovative solutions, exploring the mysteries of existence, building strong communities, or mastering a wide range of skills and crafts.
 
 In this sense, the GI isn't creating a world full of "geniuses" in the traditional sense, but a world where every person is empowered to become their best self, contributing in ways that are valuable and fulfilling. By removing barriers like financial stress, lack of access to education, and societal limitations, the GI helps unlock human potential across a wide spectrum, encouraging everyone to grow into their unique capacities and talents.
 
-### Q: I run a small business today—what happens to my business if I join the GI?  
+### Q: I run a small business today. What happens to my business if I join the GI?  
 **A:** The GI values all useful businesses, no matter how small or specialized. If your business provides services or products that are needed within the community, it can be integrated into the GI. This allows you to continue operating independently while benefiting from the GI's infrastructure, resources, and support. Whether you’re making cupcakes, providing specialized repairs, or running a local shop, if your business serves a purpose, it will find a home in the GI.
 
 You will have the flexibility to either continue operating locally and independently or plug into a global network within the GI that can scale your services beyond your immediate community. Integration with the GI will allow your business to access wider resources, streamline processes, and remove burdens such as high overheads, administrative costs, and competition pressures. Moreover, you can choose to meet your required duties by contributing through your business operations, ensuring that your work continues to support both your business and the GI community.
@@ -303,9 +328,9 @@ Whether it’s a small local venture or a large-scale initiative, you’ll have 
 ### Q: What happens to large companies or multinational corporations under the GI? Will the GI purchase them?
 **A:** The GI isn’t focused on purchasing or taking over businesses. Instead, it evaluates whether the work being done by these companies is beneficial to society. Businesses are ultimately made up of people, and the GI provides opportunities for those individuals to transition into the GI system, continuing their work in a way that aligns with societal well-being.
 
-For large corporations and multinationals that provide useful goods and services—such as technology, logistics, and essential resources—the GI will look to integrate these efforts through a transition plan. This could involve continuing their work within the GI framework, but with a focus on sustainability, equitable resource distribution, and community well-being. For example, companies like Apple, Google, or Amazon may have valuable resources and technologies that could be adapted to serve the GI’s goals, and the people working for these companies would have the opportunity to continue their projects within the GI.
+For large corporations and multinationals that provide useful goods and services, such as technology, logistics, and essential resources, the GI will look to integrate these efforts through a transition plan. This could involve continuing their work within the GI framework, but with a focus on sustainability, equitable resource distribution, and community well-being. For example, companies like Apple, Google, or Amazon may have valuable resources and technologies that could be adapted to serve the GI’s goals, and the people working for these companies would have the opportunity to continue their projects within the GI.
 
-However, if there is resistance or if a business model no longer aligns with the GI’s values, individuals could choose to leave their roles and join the GI directly. In cases where a company or industry is deemed inefficient or unnecessary—such as those that exist solely for profit without contributing to the greater good—those businesses may naturally dissolve. But the people who worked in those industries will have a secure place within the GI, with opportunities to transition into new, meaningful work.
+However, if there is resistance or if a business model no longer aligns with the GI’s values, individuals could choose to leave their roles and join the GI directly. In cases where a company or industry is deemed inefficient or unnecessary, such as those that exist solely for profit without contributing to the greater good, those businesses may naturally dissolve. But the people who worked in those industries will have a secure place within the GI, with opportunities to transition into new, meaningful work.
 
 Ultimately, the focus will be on whether a business is useful, and for those that are, there will be opportunities to integrate into the GI's vision for a sustainable and inclusive future. Businesses that can’t or won’t adapt will fade, but all employees will find their place within the GI system.
 
@@ -319,7 +344,7 @@ One option is to participate in extra projects that allow you to grow your perso
 
 Additionally, the GI will establish a scholarship program for individuals who have already made significant contributions to their communities or society at large. This program will acknowledge your hard work, life experience, and dedication, offering a path to join the GI as a sign of gratitude for your prior contributions.
 
-Ultimately, the GI is about opportunity and inclusivity, ensuring that everyone—regardless of their current financial situation—has a path to join and benefit from the system.
+Ultimately, the GI is about opportunity and inclusivity, ensuring that everyone, regardless of their current financial situation, has a path to join and benefit from the system.
 
 ### Q: Where does the money go when the GI makes purchases?
 **A:** Ideally, all purchases made within the GI will stay within the GI ecosystem. This means that any goods or services purchased by members or the GI itself would be provided by other GI members, creating a self-sustaining market. For example, if a member purchases speciality groceries not provided by the core fund, the money would go back to the project that provided the goods, such as the Global Eating Department (GED).
@@ -334,7 +359,7 @@ This approach ensures that resources are recycled within the community, continua
 ### Q: What happens if the GI runs out of money or faces economic downturns? Is everyone doomed?
 **A:** The GI is built to be a sustainable, self-sufficient system that minimizes reliance on external economies. By fostering community collaboration and creating a closed-loop internal market, the GI reduces vulnerability to economic shortfalls. Even in the event of external economic downturns, the GI’s internal market and resource-sharing ensure that essential needs like housing, food, and healthcare continue to be met for all members.
 
-Additionally, the GI will raise substantial resources with the goal of only spending a portion of what is available each year—approximately 4% of total reserves. For example, if the GI raised $25 trillion, we would plan to spend $1 trillion annually. With no salaries coming out of this budget, the focus will be on essential services, growth, and stability, ensuring the GI remains financially stable over the long term. This approach not only allows for sustainable operations but also provides a strong buffer against any economic fluctuations, ensuring continuous support for all members even during challenging times.
+Additionally, the GI will raise substantial resources with the goal of only spending a portion of what is available each year, approximately 4% of total reserves. For example, if the GI raised $25 trillion, we would plan to spend $1 trillion annually. With no salaries coming out of this budget, the focus will be on essential services, growth, and stability, ensuring the GI remains financially stable over the long term. This approach not only allows for sustainable operations but also provides a strong buffer against any economic fluctuations, ensuring continuous support for all members even during challenging times.
 
 ### Q: What kind of home will I live in? And will I be stuck in it forever?
 **A:** The GI offers a range of home types to fit your needs, whether you prefer a standalone house, a condo in a high-rise, or a cozy apartment. No matter the size or type, every home will be equipped with the best amenities and appliances, ensuring a high standard of living. You can expect state-of-the-art kitchens, luxurious bathrooms, and smart home technologies that make your daily life easier and more comfortable.
@@ -353,18 +378,18 @@ While the core housing provided by the GI will meet a high standard of comfort a
 Additionally, as a member of the GI, you won't be tied down to one location permanently. You will have the freedom to relocate as opportunities arise or your preferences evolve. This flexibility ensures that you can explore different regions and find the environment that best suits you, knowing that wherever you go, you’ll have access to the same high standards of living and community support.
 
 ### Q: I already own my home and have plenty of money to pay all my bills. Why should I join?
-**A:** While you may have the best that the world can currently offer, the GI is about expanding what "the best" means. This is not just a financial shift; it’s a transformation of the very fabric of society. Imagine a world where every public space, service, and interaction operates at the highest level of excellence. Going out in public will be a completely different experience—everything will be designed for comfort, efficiency, and well-being, making life easier and more enjoyable for everyone, regardless of their current status.
+**A:** While you may have the best that the world can currently offer, the GI is about expanding what "the best" means. This is not just a financial shift; it’s a transformation of the very fabric of society. Imagine a world where every public space, service, and interaction operates at the highest level of excellence. Going out in public will be a completely different experience where everything will be designed for comfort, efficiency, and well-being, making life easier and more enjoyable for everyone, regardless of their current status.
 
 Even if you own your home and have financial stability, the GI can upgrade and maintain your property, ensuring it remains in top condition. We can also cover part or all of your land tax, and provide access to services that far exceed what’s available today. As for transitioning your current assets into the GI system, we would work with you to create a personalized plan that preserves what you value while integrating you into a system designed to enhance everyone’s quality of life.
 
-The GI isn’t just for those in need—it’s for anyone who wants to be part of a society where the best gets even better and everyone benefits from a new standard of living.
+The GI isn’t just for those in need, it’s for anyone who wants to be part of a society where the best gets even better and everyone benefits from a new standard of living.
 
-### Q: I'm old and going to die soon. Life has passed me by—what now?
-**A:** The GI isn’t just about the future—it’s about improving today for everyone, regardless of age or circumstance. Even if it feels like life has passed you by, the GI framework is designed to ensure your remaining time is filled with comfort, joy, and purpose. Whether you’re 20 or 90, the opportunities for meaningful experiences and contributions remain abundant.
+### Q: I'm old and going to die soon. Life has passed me by. What now?
+**A:** The GI isn’t just about the future. It’s about improving today for everyone, regardless of age or circumstance. Even if it feels like life has passed you by, the GI framework is designed to ensure your remaining time is filled with comfort, joy, and purpose. Whether you’re 20 or 90, the opportunities for meaningful experiences and contributions remain abundant.
 
 The GI will provide enhanced services and care that focus on your well-being, including better healthcare, opportunities for social engagement, and the chance to leave a lasting impact on the world around you. Whether it’s through mentoring younger generations, participating in community activities, or simply enjoying the highest standard of living, the GI ensures that your days are lived with dignity, meaning, and connection.
 
-This is not just about surviving—it’s about thriving, no matter how much time you have left.
+This is not just about surviving, it’s about thriving, no matter how much time you have left.
 
 ### Q: I'm a baby and have my entire life ahead of me. Why should I join the GI as a baby?
 **A:** As a baby, joining the GI means you’ll grow up in a world designed to give you the absolute best start in life. You’ll have access to top-tier education, healthcare, and a supportive community from day one. The GI will ensure that as you grow, your environment is filled with opportunities to explore, learn, and thrive. Imagine never having to worry about basic needs, always having access to the best resources, and being surrounded by people who want you to succeed.
@@ -376,8 +401,8 @@ By joining the GI early, you’re set on a path where your entire life will be s
 
 The GI is designed to create a system where personal growth and skill development are not only encouraged but also rewarded in ways that directly enhance your everyday life. Whether it's through housing upgrades, exclusive access to premium services, or other conveniences, the more you contribute in meaningful ways, the more the GI ensures your lifestyle reflects that contribution. The goal is to make your hard work feel valued and to offer tangible rewards for your growth and efforts.
 
-### Q: But I don’t have any specialized skills today—what about me?
-**A:** First off, you do have skills. Whether it's your ability to problem-solve, communicate, organize, or contribute to your community, everyone has valuable abilities that may not always be recognized in traditional systems. In the GI, all contributions are valued—whether you're starting in general essential work or exploring new opportunities.
+### Q: But I don’t have any specialized skills today. What about me?
+**A:** First off, you do have skills. Whether it's your ability to problem-solve, communicate, organize, or contribute to your community, everyone has valuable abilities that may not always be recognized in traditional systems. In the GI, all contributions are valued, whether you're starting in general essential work or exploring new opportunities.
 
 The GI recognizes that every role, from sanitation to education to leadership, is crucial to the well-being of the community. And while you may start with essential tasks, the goal is to help you develop and grow in ways that push your physical and mental abilities. You’ll have access to education, mentorship, and hands-on experience in fields that interest you. The focus is on creating a pathway for everyone to pursue roles they are passionate about, while also contributing meaningfully to the community.
 
@@ -388,7 +413,7 @@ In the GI, "unskilled" work doesn't exist because all contributions matter, and 
 
 Beyond the essentials, the GI is committed to building cultural and community spaces that enrich human experience. This includes theaters, museums, galleries, and places for cultural exchange, where members can connect, learn, and express themselves. We will also preserve and expand parks, forests, and natural landscapes across the globe, maintaining the planet’s beauty and resources for future generations. Through active stewardship of the Earth’s ecosystems, the GI will promote sustainability while ensuring that natural spaces are accessible for all.
 
-Ultimately, the GI’s vision extends beyond building infrastructure—it is about creating environments that enable humans to reach their full potential. From urban centers designed for innovation and creativity to vast preserved lands that nurture the planet’s biodiversity, the GI is focused on enhancing the planet and empowering people to thrive in ways never before seen. Together, we’ll build not just cities, but a world where human and environmental flourishing go hand in hand, resulting in the most extraordinary society ever envisioned.
+Ultimately, the GI’s vision extends beyond building infrastructure. It is about creating environments that enable humans to reach their full potential. From urban centers designed for innovation and creativity to vast preserved lands that nurture the planet’s biodiversity, the GI is focused on enhancing the planet and empowering people to thrive in ways never before seen. Together, we’ll build not just cities, but a world where human and environmental flourishing go hand in hand, resulting in the most extraordinary society ever envisioned.
 
 ### Q: How will the GI manage airlines and transportation for its members?
 **A:** The GI will build and operate a comprehensive range of transportation services, ensuring that all members have access to fast, reliable, and eco-friendly ways to travel. This includes operating our own airlines, providing each member with annual travel credits for essential trips like vacations, family visits, or global exploration. For those who need more travel time, there will be options to purchase additional flights or upgrade to premium experiences.
@@ -404,28 +429,35 @@ For air travel, the GI’s airlines will be designed with safety as a top priori
 
 On the ground, autonomous vehicles will be equipped with cutting-edge sensors, AI systems, and real-time data-sharing to ensure accident-free travel on roads. These vehicles will be interconnected with smart roads, reducing human error and ensuring smooth, efficient travel. Trains and other public transport will be monitored and maintained to the same high standards, making commuting and long-distance travel safer and more reliable than ever.
 
-In essence, the GI will create a transportation network where safety is never compromised, giving members peace of mind that every journey—whether by plane, train, or vehicle—will meet the highest standards for protection and reliability.
+In essence, the GI will create a transportation network where safety is never compromised, giving members peace of mind that every journey, whether by plane, train, or vehicle, will meet the highest standards for protection and reliability.
 
 ### Q: How will the GI timeline unfold? When will things start to happen?
 **A:** The implementation of the GI will begin with a global conversation, where people from all walks of life come together to discuss, collaborate, and refine the vision. This conversation will set the foundation for the GI, sparking excitement and laying the groundwork for the first essential projects.
 
-In the first few years, the focus will be on providing humanity with the basics: housing, healthcare, food, and education. This period will also be one of healing—giving individuals the time to recover from the stress of current systems. During this time, work will be kept minimal, allowing people to engage with the GI without the burden of overwork. Even in these initial years, major projects will start to take shape. Old infrastructure, such as repurposed buildings and ships, along with sustainable temporary structures like tents and containers, can be utilized to quickly provide necessary facilities while more advanced, permanent structures are developed.
+In the first few years, the focus will be on providing humanity with the basics: housing, healthcare, food, and education. This period will also be one of healing, giving individuals the time to recover from the stress of current systems. During this time, work will be kept minimal, allowing people to engage with the GI without the burden of overwork. Even in these initial years, major projects will start to take shape. Old infrastructure, such as repurposed buildings and ships, along with sustainable temporary structures like tents and containers, can be utilized to quickly provide necessary facilities while more advanced, permanent structures are developed.
 
 After the initial healing period, an additional decade of focused work can bring about dramatic global transformation. This period will see the GI’s initiatives expanding across the world. New health centers, sustainable energy systems, and innovative transportation networks will begin to shape communities. Education systems will be revolutionized, and the quality of life will rise globally as people transition into more advanced projects and collaborative ventures. Alongside these developments, cultural institutions such as museums, theaters, parks, and spaces for art and cultural exchange will flourish, enriching the human experience and preserving the world’s diversity.
 
 By the end of this decade, humanity will not only have healed but will be on a path to extraordinary advancements, driven by the unity and collaboration fostered within the GI framework. Natural landscapes and urban environments alike will be transformed to reflect both progress and the preservation of beauty, ensuring that future generations can enjoy the world’s cultural and ecological treasures. This new era will elevate the human experience, fostering a renewed global culture where innovation, creativity, and collaboration shape a more vibrant and harmonious world.
 
 ### Q: Is this some form of socialism, fascism, or another 'ism'?
-**A:** The GI framework doesn't fit neatly into any traditional "ism" like socialism, fascism, or other ideologies. Instead, it is a new system designed to prioritize human well-being, freedom, and sustainability. The GI focuses on providing essential services—such as housing, healthcare, and education—to all people, not through centralized control or state ownership, but by fostering a cooperative, community-driven approach where members have direct input and control over how resources are used.
+**A:** The GI framework doesn't fit neatly into any traditional "ism" like socialism, fascism, or other ideologies. Instead, it is a new system designed to prioritize human well-being, freedom, and sustainability. The GI focuses on providing essential services, such as housing, healthcare, and education, to all people, not through centralized control or state ownership, but by fostering a cooperative, community-driven approach where members have direct input and control over how resources are used.
 
-This isn’t about forcing a particular political ideology, but about evolving beyond old systems that no longer serve the majority of humanity. The goal is to create a society where freedom, innovation, and prosperity are available to everyone—not confined by outdated labels or historical structures.
+This isn’t about forcing a particular political ideology, but about evolving beyond old systems that no longer serve the majority of humanity. The goal is to create a society where freedom, innovation, and prosperity are available to everyone and not confined by outdated labels or historical structures.
 
 ### Q: Is this anti-capitalism?
-**A:** The GI isn’t anti-capitalism, but it’s an evolved version of it—better suited to human needs and long-term sustainability. Just like capitalism, the GI will allow people to start and stop projects at will, functioning like a free and open economy. You’ll have the freedom to pursue your interests, create new ventures, and contribute to the community as you see fit. The key difference is that, in the GI, projects can survive and thrive without the constant pressure to turn an immediate profit.
+**A:** The GI isn’t anti-capitalism, but it’s an evolved version of it, better suited to human needs and long-term sustainability. Just like capitalism, the GI will allow people to start and stop projects at will, functioning like a free and open economy. You’ll have the freedom to pursue your interests, create new ventures, and contribute to the community as you see fit. The key difference is that, in the GI, projects can survive and thrive without the constant pressure to turn an immediate profit.
 
 In capitalism, many useful ideas or projects get abandoned because they don’t create immediate profit, leading to the loss of potentially valuable innovations. The GI changes that. With resources and time provided to all members, projects can last indefinitely until they either become profitable or evolve into core aspects of the GI’s offerings. There’s no need for projects to be bailed out or discarded due to lack of short-term financial viability. This ensures that truly beneficial initiatives, which might otherwise be cut off in a profit-driven system, can be nurtured until they reach their full potential.
 
-Additionally, the very term "capitalism" is built on the idea of "capital," which is essentially just money. So in a sense, capitalism is really just "money-ism," prioritizing the pursuit of profit above all else. In contrast, the GI is based on "usefulness"—focusing on what is most beneficial for humanity. If anything, the GI could be called a "useful-ism" because it emphasizes the long-term value and impact of projects, not just their financial returns. This balance between freedom and usefulness makes the GI a more humane and practical evolution of economic systems.
+Additionally, the very term "capitalism" is built on the idea of "capital," which is essentially just money. So in a sense, capitalism is really just "money-ism," prioritizing the pursuit of profit above all else. In contrast, the GI is based on "usefulness", focusing on what is most beneficial for humanity. If anything, the GI could be called a "useful-ism" because it emphasizes the long-term value and impact of projects, not just their financial returns. This balance between freedom and usefulness makes the GI a more humane and practical evolution of economic systems.
+
+### Q: Isn’t the GI just another form of communism?
+**A:** The GI is not based on communism or any traditional political ideology. While communism focuses on state control of resources and the abolition of private property, the GI is built on a framework of cooperation, inclusivity, and personal freedom. In the GI, members maintain control over their personal assets and have a say in how resources are distributed, with decisions made collectively and transparently.
+
+Unlike communism, which often involves central control by the state, the GI operates on a decentralized model where members actively participate in shaping their communities. The GI encourages entrepreneurship, creativity, and personal growth, allowing people to pursue their passions while contributing to the well-being of society. The focus is on providing everyone with access to the essentials of life like housing, healthcare, nutritious food, and education, without the constraints of traditional economic or political systems.
+
+In short, the GI is an evolved system that takes the best aspects of cooperation and community while maintaining individual freedom, choice, and innovation. It's not about eliminating private property or imposing a rigid state system, but about creating a more humane and inclusive way of living.
 
 ### Q: Will the GI phase out traditional governments?
 **A:** Yes, over time, the GI envisions phasing out traditional governments as more people recognize the advantages of the GI’s system. As the GI provides housing, healthcare, education, defense, and other core services at a higher quality and lower cost than governments can, people will naturally question why they should continue paying taxes to support less efficient and less capable systems.
@@ -439,7 +471,7 @@ Governments may still exist in a ceremonial or cultural role, but their core res
 ### Q: But isn't this creating some sort of central governing body that will have control of every aspect of my life?
 **A:** No, the GI is not about centralized control over individuals' lives. Instead, it’s about creating a framework where people have more freedom and autonomy, not less. The GI provides essential services like housing, healthcare, and education, but decisions about how resources are allocated are made collectively by the members.
 
-Each person has the freedom to pursue their own interests, start projects, and contribute to the community as they see fit. The goal is to give individuals more control over their own lives by removing the barriers that currently limit freedom—such as financial instability, lack of access to resources, and systemic inequality. The GI promotes collaboration and shared responsibility while ensuring that no governing body has unchecked control over personal choices.
+Each person has the freedom to pursue their own interests, start projects, and contribute to the community as they see fit. The goal is to give individuals more control over their own lives by removing the barriers that currently limit freedom, such as financial instability, lack of access to resources, and systemic inequality. The GI promotes collaboration and shared responsibility while ensuring that no governing body has unchecked control over personal choices.
 
 ### Q: Is the GI some kind of cult or forced membership organization?
 **A:** Absolutely not. The GI is based entirely on voluntary participation. You choose whether or not to join, and the aim is to offer freedom, not control. There are no obligations or forced commitments beyond what you voluntarily agree to, and anyone is free to leave at any time.
@@ -472,33 +504,32 @@ Additionally, the GI operates on a foundation of community trust and mutual bene
 Simply put, the GI exists to benefit everyone, not to enrich a select few. The financial structure is designed to prevent fraud and corruption by making everything visible and accountable to all members.
 
 ### Q: This plan is impossible.
-**A:** Well, first off, that's a statement, and it’s understandable to feel that way—many of history’s greatest achievements were once considered impossible. The GI is an ambitious plan, but it’s grounded in the idea that with the right vision, collaboration, and resources, humanity can solve even the most complex challenges. People once thought landing on the moon, eradicating diseases, or connecting the world through the internet was impossible, but these milestones were achieved by pushing boundaries and rethinking what’s possible.
+**A:** Well, first off, that's a statement, and it’s understandable to feel that way. Many of history’s greatest achievements were once considered impossible. The GI is an ambitious plan, but it’s grounded in the idea that with the right vision, collaboration, and resources, humanity can solve even the most complex challenges. People once thought landing on the moon, eradicating diseases, or connecting the world through the internet was impossible, but these milestones were achieved by pushing boundaries and rethinking what’s possible.
 
-The GI isn’t built on wishful thinking—it’s designed to leverage existing technology, human potential, and the collective will of communities. The scale of the change may seem overwhelming, but by breaking it down into achievable steps and working together, we can create a world that is better for everyone.
+The GI isn’t built on wishful thinking. It’s designed to leverage existing technology, human potential, and the collective will of communities. The scale of the change may seem overwhelming, but by breaking it down into achievable steps and working together, we can create a world that is better for everyone.
 
 What may seem impossible now is only because the world hasn’t seen this kind of collaboration and vision before. But that doesn’t mean it can’t happen. Every step we take gets us closer to a more just, sustainable, and amazing future.
 
 ### Q: But what about all the longstanding conflicts between different cultural, political, and national groups? Many of these divisions seem too deep to overcome. How can the GI bring people together when history shows they don’t get along?
-**A:** It’s true that history is full of deep-rooted conflicts between groups, and these divisions can feel insurmountable. But the GI is built on the idea that these divides are not permanent and that cooperation is possible when systems encourage understanding and shared goals. The GI’s framework focuses on creating environments where people’s basic needs are met, which reduces competition and fear—the two driving forces behind most conflicts.
+**A:** It’s true that history is full of deep-rooted conflicts between groups, and these divisions can feel insurmountable. But the GI is built on the idea that these divides are not permanent and that cooperation is possible when systems encourage understanding and shared goals. The GI’s framework focuses on creating environments where people’s basic needs are met, which reduces competition and fear, the two driving forces behind most conflicts.
 
 By removing the stressors of scarcity and inequality, the GI enables people to connect on a human level rather than through the lens of their differences. When survival and daily struggles are no longer the focus, people are free to engage in real dialogue, empathy, and cooperation. Additionally, the GI fosters open communication and encourages collaboration in ways that traditional systems of governance often fail to do.
 
 While these conflicts won’t dissolve overnight, the GI provides a foundation for building a future where such divisions are not reinforced, but healed over time through shared experiences, mutual respect, and a focus on the collective good.
 
 ### Q: Ok, I’m sold. Where should I send my money?
-**A:** The money isn’t needed—yet! What’s most valuable right now is your voice, your thoughts, and your participation in the global conversation. This journey begins with people coming together to share ideas, challenge assumptions, and build a better world for everyone. It’s not about finances at this stage, but about engaging in meaningful dialogue and committing to the vision. Once the foundation is solid through collaboration, future steps will become clear.
-
-
-
-## Resources
-- [**worldamazing.org**](https://worldamazing.org): The landing page for the *World Amazing* plan.
-- [**GI Plan Details**](https://github.com/whomanatee/plan): See more expansive documents about the GI plan on GitHub.
-- [**Crazy New Ideas**](https://paulgraham.com/newideas.html): A short essay on considering novel ideas.
-
+**A:** The money isn’t needed yet, but you are! What’s most valuable right now is your voice, your thoughts, and your participation in the global conversation. This journey begins with people coming together to share ideas, challenge assumptions, and build a better world for everyone. It’s not about finances at this stage, but about engaging in meaningful dialogue and committing to the vision. Once the foundation is solid through collaboration, future steps will become clear.
 
 
 ## Updates
 > Significant updates are listed below, minor tweaks can be found in the git history. All dates in YYYY-MM-DD format.
+- **2024-11-30**: Expanded luxury class section, rearranged sections
 - **2024-11-28**: Expanded intro section
 - **2024-10-24**: Simplified the document by removing sections that will be addressed at a later time, keeping the focus on the core framework
 - **2024-10-07**: Moved this file from another repository into this one and updated one of the titles
+
+
+---
+[worldamazing.org](https://worldamazing.org)
+| [plan](https://github.com/whomanatee/plan)
+| [contact](mailto:human@whomanatee.org) 
