@@ -1,4 +1,4 @@
-# **The Vision: Unleashing Human Potential through Boundless Creativity**
+# **The World Amazing Vision: Unleashing Human Potential through Boundless Creativity**
 
 ## **Introduction**
 In our rapidly evolving world, the traditional barriers to human creativity and potential have often hindered the full spectrum of human achievement and societal progress. This vision proposes a transformative shift towards a future where every individual can reach the pinnacle of their capabilities across all forms of intelligence. Supported by the Global Institution (GI), this new paradigm seeks to foster an environment where creativity thrives and human potential is fully realized, ensuring a vibrant, progressive, and enriched society.
@@ -34,3 +34,8 @@ This vision of a society where creativity and human potential are limitless offe
 ![](/assets/images/vision-human-potential-02.webp)
 ![](/assets/images/vision-human-potential-03.webp)
 ![](/assets/images/vision-human-potential-04.webp)
+
+---
+[worldamazing.org](https://worldamazing.org)
+| [plan](https://github.com/whomanatee/plan)
+| [contact](mailto:human@whomanatee.org) 

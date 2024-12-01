@@ -1,4 +1,4 @@
-# Initiatives: Key Features of the Global Institution
+# World Amazing Initiatives: Key Features of the Global Institution
 
 ## Table of Contents
 1. [Home for Every Citizen](#home-for-every-citizen-building-safe-and-sustainable-communities)
@@ -186,3 +186,8 @@ To foster a sense of global unity, the DoF will also launch initiatives that inv
     - **Automation and AI:** By leveraging automation and AI, we will eliminate redundant work and allow people to focus on meaningful tasks. This technology will support various aspects of our institution, from healthcare to logistics, ensuring efficiency and quality.
    - **Renewable Energy:** Our institution will prioritize renewable energy sources, reducing our carbon footprint and promoting sustainability. This includes solar, wind, and other green technologies that will power our operations and communities.
 
+
+---
+[worldamazing.org](https://worldamazing.org)
+| [plan](https://github.com/whomanatee/plan)
+| [contact](mailto:human@whomanatee.org) 

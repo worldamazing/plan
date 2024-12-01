@@ -96,3 +96,8 @@ To enhance efficiency and productivity within the community, the GI will integra
 The implementation phases will be subject to ongoing evaluation and adaptation to respond effectively to new challenges and opportunities. Feedback from members will be crucial in refining operational strategies and making necessary adjustments to the GI’s approach.
 
 By strategically implementing these phases, the GI aims to create a model community that exemplifies efficiency, sustainability, and inclusivity. This community will not only serve the needs of its members but also act as a blueprint for expanding the GI's principles globally.
+
+---
+[worldamazing.org](https://worldamazing.org)
+| [plan](https://github.com/whomanatee/plan)
+| [contact](mailto:human@whomanatee.org) 

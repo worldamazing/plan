@@ -1,4 +1,4 @@
-# **The Vision: A Future Defined by Restorative Justice**
+# **The World Amazing Vision: A Future Defined by Restorative Justice**
 
 ## **Introduction**
 In traditional contexts, justice systems often revolve around punitive measures and retribution, which can exacerbate cycles of conflict and societal harm. This vision proposes a fundamental shift toward a future where justice systems are inherently linked with societal supports to foster restoration, community integration, and prevention. Powered by the Global Institution (GI), this new system aims to create a society where justice underpins healing and positive transformation, backed by a foundation that eliminates all forms of inequality.
@@ -28,3 +28,8 @@ As individuals and communities engage with the supportive justice system, fewer 
 
 ## **Conclusion**
 The vision of a restorative justice system integrated into a society free from economic and social inequalities is ambitious yet attainable through the Global Institution's comprehensive framework. It requires a steadfast commitment from all community members to support a transformative movement that redefines justice as a foundational component of a healthier, more equitable society.
+
+---
+[worldamazing.org](https://worldamazing.org)
+| [plan](https://github.com/whomanatee/plan)
+| [contact](mailto:human@whomanatee.org) 

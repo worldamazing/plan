@@ -20,3 +20,9 @@ Global discussions will be more than just meetings; they will be dynamic gatheri
 - **Entertainment and Networking Opportunities:** Each event will feature entertainment segments and networking opportunities to keep the atmosphere vibrant and allow for informal interactions among participants.
 - **Documentary and Art Projects:** The series of discussions will be documented for a global audience and integrated into a documentary series. Additionally, a collaborative global art project will be initiated, inviting contributions from participants which will be displayed at events and potentially compiled into a traveling exhibition.
 - **Accessibility and Inclusion:** All physical and virtual venues will be fully accessible, with materials available in multiple formats and sign language interpreters present to ensure everyone can participate fully.
+
+
+---
+[worldamazing.org](https://worldamazing.org)
+| [plan](https://github.com/whomanatee/plan)
+| [contact](mailto:human@whomanatee.org)

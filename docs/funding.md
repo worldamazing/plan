@@ -42,3 +42,8 @@ In the Global Institution, the concept of wealth is reimagined to remove barrier
 The GI framework envisions a community where having substantial financial resources is not seen as a problem but as an opportunity to drive communal and global improvement. By encouraging all members to potentially accumulate significant financial resources, the GI aims to dismantle the old paradigms of economic exclusivity. This strategy ensures that every member has the chance to achieve financial success without the traditional barriers, contributing both to personal prosperity and the collective good. The institution's framework is designed to ensure that profits are used ethically, supporting sustainable projects that align with the GI’s core values of inclusivity, sustainability, and community development.
 
 Every contribution within the GI, whether through direct financial investments, project-based earnings, or recognized non-financial efforts, serves a dual purpose. Not only does it enhance the member's position and experience within our community, but it also directly contributes to the broader vision of eradicating economic barriers and fostering a sustainable and equitable world. As members invest in the GI, they're investing in a future where economic systems are not just fairer but also purposefully aligned with global well-being. This ensures that their actions, both large and small, are integral to the collective journey towards a world where freedom and prosperity are accessible to all, demonstrating the power of a united effort in making substantial, lasting changes.
+
+---
+[worldamazing.org](https://worldamazing.org)
+| [plan](https://github.com/whomanatee/plan)
+| [contact](mailto:human@whomanatee.org) 

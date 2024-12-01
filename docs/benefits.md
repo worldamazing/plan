@@ -1,6 +1,6 @@
-# Global Institution: Comprehensive Benefits for a Thriving Society
+# World Amazing: Comprehensive Benefits for a Thriving Society
 
-By creating the GI, these changes will naturally unfold over time, providing comprehensive benefits for all and leading to the eradication of crime and societal issues.
+By creating the Global Institution (GI), these changes will naturally unfold over time, providing comprehensive benefits for all and leading to the eradication of crime and societal issues.
 
 
 
@@ -72,3 +72,9 @@ The GI will work to eradicate crime by addressing its root causes—such as pove
 1. **Corruption and Abuse of Power**: Eliminated through transparency, shared governance, and removing profit-driven motivations from leadership structures, ensuring integrity at all levels.
 1. **Discrimination and Inequality**: Encompassing systemic discrimination, such as racism, sexism, and other forms of bias, addressed through education, inclusivity, and equal access to resources.
 1. **Forced Displacement**: Prevented by ensuring equitable access to housing, resources, and community stability, removing the conditions that lead to displacement due to conflict, disaster, or economic hardship.
+
+
+---
+[worldamazing.org](https://worldamazing.org)
+| [plan](https://github.com/whomanatee/plan)
+| [contact](mailto:human@whomanatee.org) 

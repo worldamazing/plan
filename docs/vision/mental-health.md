@@ -1,4 +1,4 @@
-# **The Vision: A Future Free from Mental Health Challenges**
+# **The World Amazing Vision: A Future Free from Mental Health Challenges**
 
 ## **Introduction**
 Today, mental health challenges, encompassing everything from personality disorders to mood and anxiety disorders, are often viewed as lifelong conditions managed through ongoing treatment. This vision proposes a radical transformation: a comprehensive societal reform aimed at eradicating these challenges by nurturing mental wellness from the outset.
@@ -39,3 +39,9 @@ Achieving this vision of a future free from mental health challenges requires th
 The Global Institution's role extends beyond mere policy reform; it is about reshaping the very fabric of society to ensure that every individual has the opportunity to achieve optimal mental health. By fostering an environment where mental wellness is prioritized and supported at every level, the GI paves the way for a society where mental health challenges are not only manageable but largely preventable.
 
 This is a call to action for all members of the global community to engage actively in this movement. It's about more than just supporting a plan—it's about participating in a cultural shift that promises a healthier, more vibrant future for all. As we move forward, the Global Institution will continue to lead, innovate, and inspire, ensuring that the journey towards a world free from mental health challenges is progressive, inclusive, and resolute.
+
+
+---
+[worldamazing.org](https://worldamazing.org)
+| [plan](https://github.com/whomanatee/plan)
+| [contact](mailto:human@whomanatee.org) 
