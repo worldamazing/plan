@@ -30,10 +30,12 @@ While the vision is inspiring, it acknowledges the complexities of radically tra
 ## **Conclusion**
 This vision of a society where creativity and human potential are limitless offers a glimpse into a future characterized by unprecedented human progress and cultural richness. Supported by the comprehensive framework of the Global Institution, it is not just a dream but a tangible future we can build towards. It challenges us to rethink our limitations and redefine what it means to be truly human in a world of infinite possibilities.
 
+<!--
 ![](/assets/images/vision-human-potential-01.webp)
 ![](/assets/images/vision-human-potential-02.webp)
 ![](/assets/images/vision-human-potential-03.webp)
 ![](/assets/images/vision-human-potential-04.webp)
+-->
 
 ---
 [worldamazing.org](https://worldamazing.org)
