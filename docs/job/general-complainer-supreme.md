@@ -17,6 +17,7 @@ We are seeking a visionary leader to assume the prestigious role of General Comp
 - Facilitate democratic voting processes to decide which complaints to prioritize.
 - Represent the Army of Complainers in institutional decision-making meetings, ensuring that member voices lead to actionable changes.
 
+<!--
 ## **Ranks Within the Army of Complainers:**
 - **Novice Nudger:** Entry-level, focusing on learning the basics of effective complaining.
 - **Peevish Pioneer:** Developing specific grievances and refining complaint skills.
@@ -24,6 +25,7 @@ We are seeking a visionary leader to assume the prestigious role of General Comp
 - **Duke Dispute & Duchess Dispute:** Leading specific initiatives, categorized by direct (Duke) and nurturing (Duchess) complaint resolution styles.
 - **Grievance Guru:** Handling complex issues with seasoned expertise.
 - **Complaint Commander:** Overseeing major complaint-driven projects and improvements.
+-->
 
 ## **Qualifications:**
 - Demonstrated leadership in constructive complaining, with a proven track record of transforming complaints into positive changes.
