@@ -49,3 +49,8 @@ Justice becomes a collective responsibility, a shared commitment to creating a s
 Ultimately, the GI envisions a future where the concept of justice as we know it fades into the background. In its place, we find a world where harm is rare, accountability is natural, and communities are spaces of mutual care and support. Justice becomes less about addressing harm and more about fostering the conditions for universal well-being.
 
 Through this transformative vision, the GI creates a society where every individual can heal, grow, and thrive together.
+
+---
+[worldamazing.org](https://worldamazing.org)
+| [plan](https://github.com/whomanatee/plan)
+| [contact](mailto:human@whomanatee.org)
