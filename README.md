@@ -25,8 +25,8 @@
 ## Four Critical Steps to World Amazing
 - [**Step 1: Worldwide Public Discussions**](docs/discussions.md)
 - [**Step 2: Funding and Governance**](docs/funding.md)
-- [**Step 3: Build Everything and Anything**](docs/implementation.md)
-- **Step 4: Learn to Live Amazing**
+- [**Step 3: Building Everything and Anything**](docs/implementation.md)
+- **Step 4: Learning to Live Amazing**
 
 ## Core Values
 - [**On Restoration, Healing, and Reimagining Justice**](/docs/values/justice.md)
