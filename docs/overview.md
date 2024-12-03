@@ -1,8 +1,4 @@
 # Overview: World Amazing
-> A very practical, measured, and doable plan to make life amazing for all including living extremely comfortable, safe, free, warless, and luxurious.
-
-> Includes reducing essential work for everyone to 2 days per week on average, fostering early retirement from intensive labor into mentorship roles by age 50, and covering essentials for everyone worldwide through collective efforts, including health, home, education, food, and basic essential yearly vacations.
-
 > *Last major update:* [2024-12-01](#updates)
 
 
