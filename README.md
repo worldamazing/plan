@@ -28,9 +28,11 @@
 - [**Step 3: Build Everything and Anything**](docs/implementation.md)
 - **Step 4: Learn to Live Amazing**
 
+## Core Values
+- [**On Restoration, Healing, and Reimagining Justice**](/docs/values/justice.md)
+
 <!--
 ## Our Potential Future
-- [**Justice**](docs/vision/justice.md)
 - [**Mental Health**](docs/vision/mental-health.md)
 - [**Creativity and Human Potential**](docs/vision/human-potential.md)
 - [**Openness and Empowerment**](docs/vision/openness-empowerment.md)
