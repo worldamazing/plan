@@ -110,3 +110,8 @@
 > If you'd like to delve even deeper into the documentation, feel free to look around the [/docs](/docs) folder for additional docs that are a work-in-progress. Though the basic ideas are highlighted in these other documents, they could use some refinement and expansion. For example, the [World Pizza Party Organizer](/docs/job/pizza-party-organizer.md) position might be a fun and informative place to start, the [case studies](/docs/case-study) to get an idea of how lives will change under the GI, or the [join](/docs/join) section to see how everyone has a place within the GI no matter your experience or past.
 > 
 > If you notice areas that could benefit from refinement, editing, or expansion, your feedback is invaluable. You are encouraged to post your insights to the discussions or to send an email with questions or comments to human@whomanatee.org.
+
+---
+[worldamazing.org](https://worldamazing.org)
+| [plan](https://github.com/whomanatee/plan)
+| [contact](mailto:human@whomanatee.org) 
