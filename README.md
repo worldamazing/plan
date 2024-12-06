@@ -101,7 +101,7 @@
 ## A Quick Note
 > Welcome to the Global Institution (GI), the World Amazing framework designed to elevate and harmonize the way we live, work, and interact within our global community.
 > 
-> The GI's mission is fundamentally shaped by the will of the people. This document is not a rigid directive but an open proposal, inviting everyone to engage, contribute, and refine our shared journey toward global transformation.
+> The GI's mission is fundamentally shaped by the will of the people. This plan is not a rigid directive but an open proposal, inviting everyone to engage, contribute, and refine our shared journey toward global transformation.
 > 
 > You may have noticed the name of this organization is *whomanatee*, which is a proposed name for the GI. While open to discussion, it does not exclude the use of other names for specific projects, much like how Alphabet serves as the parent to Google.
 > 
