@@ -211,7 +211,7 @@ The first step in establishing the GI is to initiate a worldwide discussion that
 For a deeper dive into discussions, visit the [GI Discussion](https://github.com/whomanatee/plan/blob/main/docs/discussions.md) document.
 
 ### Step Two: Funding the Core Fund and Beyond
-The GI aims to raise $25 trillion by engaging at least one billion people worldwide, each contributing $25,000. This contribution is not a fee, but an investment in a future free from taxes for essentials like housing, healthcare, education, and food, creating a foundation for universal prosperity.
+The GI aims to raise $25 trillion by engaging at least one billion people worldwide, each contributing $25,000. This contribution is not a fee, but an investment in a future free from taxes or bills for essentials like housing, healthcare, education, and food, creating a foundation for universal prosperity.
 
 - **Transparent and Controlled Contributions**: Every contribution is placed into a personal fund under the member’s control, ensuring fully transparent and democratic spending decisions. The funds will be used solely to acquire resources, build infrastructure, and create self-sustaining communities, with no portion allocated to personal salaries or private enrichment. From the $25 trillion fund, 4%, or $1 trillion annually, or $1000 per person from the $25,000 investment, will sustain operations and projects from 2025 to 2050, providing ample time to establish and expand the GI’s framework.
 
