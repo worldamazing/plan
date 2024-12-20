@@ -30,11 +30,9 @@
 - **Engage on GitHub**: Visit the [discussion board](https://github.com/whomanatee/plan/discussions), star this repo, or follow [@whomanatee](https://github.com/whomanatee) on GitHub. Creating a GitHub account is 100% free and requires no prior knowledge using [distributed control software](https://simple.wikipedia.org/wiki/Distributed_revision_control) like git.
 
 ## A Quick Note
-> As you explore this documentation, you may encounter references to *whomanatee*, a proposed name for the GI. This name, like every part of the plan, is open to change as the vision evolves through collective input. The documentation was crafted with support from ChatGPT-4o, a tool that helped refine the ideas and structure of the plan, but the heart of the vision comes from humanity.
+> As you explore this documentation, you may encounter references to *whomanatee*, a proposed name for the GI. This name, like every part of the plan, is open to change as the vision evolves through collective input.
 >
 > You are encouraged to explore, contribute, and help refine the ideas presented. Visit the [**overview**](docs/overview.md) to begin or browse other sections for more insight. If you notice areas for refinement, or if you have feedback to offer, you can submit suggestions via the [discussion board](https://github.com/whomanatee/plan/discussions) or email human@whomanatee.org.
->
-> If you'd like to delve even deeper into the documentation, feel free to look around the [/docs](/docs) folder for additional docs that are a work-in-progress. Though the basic ideas are highlighted in these other documents, they could use some refinement and expansion. For example, the [World Pizza Party Organizer](/docs/job/pizza-party-organizer.md) position might be a fun and informative place to start, the [case studies](/docs/case-study) to get an idea of how lives will change under the GI, or the [join](/docs/join) section to see how everyone has a place within the GI no matter your experience or past.
 >
 > Together, we can build a world defined by peace, prosperity, harmony, and joy for all.  
 
