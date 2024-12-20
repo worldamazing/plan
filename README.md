@@ -5,15 +5,6 @@
 >
 > Supported by a new economic model that champions the individual, the family, the community, and beyond, this plan outlines transformative approaches to the concepts of work, wealth, health, prosperity, harmony, and joy on a global scale.
 
-<!--
-1. **[Key Documents](#key-documents)**: Essential documents providing a concise overview, benefits, and a straightforward, actionable four-step plan for members to engage with and contribute to the GI’s mission.
-2. **[Our Potential Future](#our-potential-future)**: Visions and aspirations for what society could look like under the GI, focusing on justice, mental health, creativity, and empowerment.
-3. **[Case Studies: Before and After](#case-studies-before-and-after)**: Real-life inspired scenarios showing the transformative impact of the GI on individuals and communities across various socio-economic backgrounds.
-4. **[Join the GI](#join-the-gi)**: Opportunities and invitations for individuals from diverse backgrounds to actively participate in the GI, emphasizing inclusion and community contribution.
-5. **[Global Positions](#global-positions)**: Alongside the essential positions required to upgrade and update world civilization, many new roles are also planned to foster a proactive and engaged global community.
-6. **[Ways To Get Involved Today](#ways-to-get-involved-today)**: Immediate actions people can take to begin understanding and discussing the principles and aims of the GI, fostering a grassroots movement for change.
--->
-
 > [!TIP]
 > For a comprehensive understanding of the World Amazing plan, consider starting with the [**overview**](docs/overview.md).
 
@@ -30,6 +21,23 @@
 
 ## Core Values
 - [**On Restoration, Healing, and Reimagining Justice**](/docs/values/justice.md)
+
+## Ways To Get Involved Today
+- **Think About It**: Take time to reflect on the plan and how it resonates with your personal experiences and aspirations. Ponder potential challenges and opportunities.
+
+- **Talk About It**: Once you've thought about it, discuss the GI plan online and in person with others willing to have a discussion on creating a world that would be incredible for all.
+
+- **Engage on GitHub**: Visit the [discussion board](https://github.com/whomanatee/plan/discussions), star this repo, or follow [@whomanatee](https://github.com/whomanatee) on GitHub. Creating a GitHub account is 100% free and requires no prior knowledge using [distributed control software](https://simple.wikipedia.org/wiki/Distributed_revision_control) like git.
+
+## A Quick Note
+> As you explore this documentation, you may encounter references to *whomanatee*, a proposed name for the GI. This name, like every part of the plan, is open to change as the vision evolves through collective input. The documentation was crafted with support from ChatGPT-4o, a tool that helped refine the ideas and structure of the plan, but the heart of the vision comes from humanity.
+>
+> You are encouraged to explore, contribute, and help refine the ideas presented. Visit the [**overview**](docs/overview.md) to begin or browse other sections for more insight. If you notice areas for refinement, or if you have feedback to offer, you can submit suggestions via the [discussion board](https://github.com/whomanatee/plan/discussions) or email human@whomanatee.org.
+>
+> If you'd like to delve even deeper into the documentation, feel free to look around the [/docs](/docs) folder for additional docs that are a work-in-progress. Though the basic ideas are highlighted in these other documents, they could use some refinement and expansion. For example, the [World Pizza Party Organizer](/docs/job/pizza-party-organizer.md) position might be a fun and informative place to start, the [case studies](/docs/case-study) to get an idea of how lives will change under the GI, or the [join](/docs/join) section to see how everyone has a place within the GI no matter your experience or past.
+>
+> Together, we can build a world defined by peace, prosperity, harmony, and joy for all.  
+
 
 <!--
 ## Our Potential Future
@@ -90,14 +98,7 @@
 - [**Army of Complainers Member**](docs/job/army-of-complainers.md): As a mandatory role for all GI members, this position is at the heart of our mission to address and resolve every issue, no matter its size. Members are tasked with identifying, articulating, and solving complaints ranging from everyday inconveniences to systemic challenges. This role is about active participation in creating a better world, ensuring that every complaint, big or small, is an opportunity for improvement and innovation.
 -->
 
-## Ways To Get Involved Today
-- **Think About It**: Take time to reflect on the plan and how it resonates with your personal experiences and aspirations. Ponder potential challenges and opportunities.
-
-- **Talk About It**: Once you've thought about it, discuss the GI plan online and in person with others willing to have a discussion on creating a world that would be incredible for all.
-
-- **Engage on GitHub**: Visit the [discussion board](https://github.com/whomanatee/plan/discussions), star this repo, or follow [@whomanatee](https://github.com/whomanatee) on GitHub. Creating a GitHub account is 100% free and requires no prior knowledge using [distributed control software](https://simple.wikipedia.org/wiki/Distributed_revision_control) like git.
-
-
+<!--
 ## A Quick Note
 > Welcome to the Global Institution (GI), the World Amazing framework designed to elevate and harmonize the way we live, work, and interact within our global community.
 > 
@@ -110,6 +111,7 @@
 > If you'd like to delve even deeper into the documentation, feel free to look around the [/docs](/docs) folder for additional docs that are a work-in-progress. Though the basic ideas are highlighted in these other documents, they could use some refinement and expansion. For example, the [World Pizza Party Organizer](/docs/job/pizza-party-organizer.md) position might be a fun and informative place to start, the [case studies](/docs/case-study) to get an idea of how lives will change under the GI, or the [join](/docs/join) section to see how everyone has a place within the GI no matter your experience or past.
 > 
 > If you notice areas that could benefit from refinement, editing, or expansion, your feedback is invaluable. You are encouraged to post your insights to the discussions or to send an email with questions or comments to human@whomanatee.org.
+-->
 
 ---
 [worldamazing.org](https://worldamazing.org)
