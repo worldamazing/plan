@@ -10,7 +10,7 @@
 1. [Luxury Class for All](#luxury-class-for-all)
 1. [The Global Challenge of Deception](#the-global-challenge-of-deception)
 1. [Authority Within Family Structures](#authority-within-family-structures-seeding-the-patterns-of-hierarchy-and-deception)
-1. [Four Criticsubal Steps to World Amazing](#four-critical-steps-to-world-amazing)
+1. [Four Critical Steps to World Amazing](#four-critical-steps-to-world-amazing)
 1. [Closing Remarks](#closing-remarks)
 1. [Questions and Answers](#questions-and-answers)
 1. [Updates](#updates)
