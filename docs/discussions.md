@@ -33,5 +33,5 @@ Global discussions will be more than just meetings. They will be dynamic gatheri
 
 ---
 [worldamazing.org](https://worldamazing.org)
-| [plan](https://github.com/whomanatee/plan)
+| [plan](https://github.com/worldamazing/plan)
 | [contact](mailto:human@whomanatee.org)

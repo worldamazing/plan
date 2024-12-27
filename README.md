@@ -27,15 +27,16 @@
 
 - **Talk About It**: Once you've thought about it, discuss the GI plan online and in person with others willing to have a discussion on creating a world that would be incredible for all.
 
-- **Engage on GitHub**: Visit the [discussion board](https://github.com/whomanatee/plan/discussions), star this repo, or follow [@whomanatee](https://github.com/whomanatee) on GitHub. Creating a GitHub account is 100% free and requires no prior knowledge using [distributed control software](https://simple.wikipedia.org/wiki/Distributed_revision_control) like git.
+- **Engage on GitHub**: Visit the [discussion board](https://github.com/worldamazing/plan/discussions), star this repo, or follow [@worldamazing](https://github.com/worldamazing) on GitHub. Creating a GitHub account is 100% free and requires no prior knowledge using [distributed control software](https://simple.wikipedia.org/wiki/Distributed_revision_control) like git.
 
+<!--
 ## A Quick Note
 > As you explore this documentation, you may encounter references to *whomanatee*, a proposed name for the GI. This name, like every part of the plan, is open to change as the vision evolves through collective input.
 >
 > You are encouraged to explore, contribute, and help refine the ideas presented. Visit the [**overview**](docs/overview.md) to begin or browse other sections for more insight. If you notice areas for refinement, or if you have feedback to offer, you can submit suggestions via the [discussion board](https://github.com/whomanatee/plan/discussions) or email human@whomanatee.org.
 >
 > Together, we can build a world defined by peace, prosperity, harmony, and joy for all.  
-
+-->
 
 <!--
 ## Our Potential Future
@@ -113,5 +114,5 @@
 
 ---
 [worldamazing.org](https://worldamazing.org)
-| [plan](https://github.com/whomanatee/plan)
+| [plan](https://github.com/worldamazing/plan)
 | [contact](mailto:human@whomanatee.org) 

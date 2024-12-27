@@ -99,5 +99,5 @@ By strategically implementing these phases, the GI aims to create a model commun
 
 ---
 [worldamazing.org](https://worldamazing.org)
-| [plan](https://github.com/whomanatee/plan)
+| [plan](https://github.com/worldamazing/plan)
 | [contact](mailto:human@whomanatee.org) 

@@ -76,5 +76,5 @@ The GI will work to eradicate crime by addressing its root causes—such as pove
 
 ---
 [worldamazing.org](https://worldamazing.org)
-| [plan](https://github.com/whomanatee/plan)
+| [plan](https://github.com/worldamazing/plan)
 | [contact](mailto:human@whomanatee.org) 
