@@ -1,12 +1,12 @@
+> [!TIP]
+> For a comprehensive understanding of the World Amazing plan, consider starting with the [**overview**](docs/overview.md).
+
 # World Amazing: A Global Institution, Plan, and Framework
 > A 100% open-source framework to make life amazing for all worldwide including living extremely comfortable, safe, free, warless, and luxurious.
 >
 > Includes reducing essential work for everyone to 2 days per week on average, fostering early retirement from intensive physical or mental labor into mentorship roles by age 50, and eliminating base essential living expenses such as housing, utilities, healthcare, education, casualwear, groceries, yearly vacations, and pet health coverage.
 >
 > Supported by a new economic model that champions the individual, the family, the community, and beyond, this plan outlines transformative approaches to the concepts of work, wealth, health, prosperity, harmony, and joy on a global scale.
-
-> [!TIP]
-> For a comprehensive understanding of the World Amazing plan, consider starting with the [**overview**](docs/overview.md).
 
 ## Key Documents
 - [**Overview**](docs/overview.md) (with Q&A)
