@@ -70,7 +70,7 @@ In addition to these comprehensive benefits, the GI will also:
 - **Resolve Societal Issues at Their Root**: By providing equitable access to resources and fostering a society built on well-being, the GI tackles systemic issues like economic inequality, environmental degradation, and public health challenges, creating a more just and sustainable world.
 - **Eliminate Crime by Addressing Root Causes**: Through universal access to essential resources, education, and opportunities, the GI eliminates the conditions that lead to crime, fostering safer and more harmonious communities without reliance on punitive systems.
 
-For a deeper dive into these benefits, visit the [GI Benefits](https://github.com/whomanatee/plan/blob/main/docs/benefits.md) document.
+For a deeper dive into these benefits, visit the [World Amazing Benefits](https://github.com/worldamazing/plan/blob/main/docs/benefits.md) document.
 
 ### Global Initiatives: Building an Amazing Future
 At the heart of the GI lies a series of transformative initiatives designed to empower, uplift, and unify humanity. Each initiative seeks to address core aspects of life, offering a comprehensive path toward a more just, innovative, and joyful world.
@@ -85,7 +85,7 @@ At the heart of the GI lies a series of transformative initiatives designed to e
 1. **Reducing Traffic and Transforming Urban Spaces**: Revolutionizing urban mobility and repurposing roads into green, communal spaces that support both humans and urban wildlife.
 1. **Additional Inititiaves**: A yearly world pizza party, adventure vehicles for personal use, urban wildlife tracking, setting global cultural norms, reducing redundant work through automation, and much more.
 
-For a deeper dive into these initiatives, visit the [GI Initiatives](https://github.com/whomanatee/plan/blob/main/docs/initiatives.md) document.
+For a deeper dive into these initiatives, visit the [World Amazing Initiatives](https://github.com/worldamazing/plan/blob/main/docs/initiatives.md) document.
 
 
 ## Luxury Class for All
@@ -208,7 +208,7 @@ The first step in establishing the GI is to initiate a worldwide discussion that
 - **Foundation for Unity and Shared Purpose**: This worldwide conversation is not just about gathering ideas. It is a transformative process that lays the foundation for unity and shared purpose. By addressing humanity's struggles head-on, this dialogue ensures every perspective is valued, contributing to a collective understanding of the GI's goals.
 - **Long-Term Vision**: This global dialogue will not be a one-time event but an ongoing process. As the GI framework evolves, discussions will continue, fostering constant adaptation, innovation, and refinement of the institution based on the needs and aspirations of the global population.
 
-For a deeper dive into discussions, visit the [GI Discussion](https://github.com/whomanatee/plan/blob/main/docs/discussions.md) document.
+For a deeper dive into discussions, visit the [World Amazing Discussion](https://github.com/worldamazing/plan/blob/main/docs/discussions.md) document.
 
 ### Step Two: Funding the Core Fund and Beyond
 The GI aims to raise $25 trillion by engaging at least one billion people worldwide, each contributing $25,000. This contribution is not a fee, but an investment in a future free from taxes or bills for essentials like housing, healthcare, education, and food, creating a foundation for universal prosperity.
@@ -225,7 +225,7 @@ The GI aims to raise $25 trillion by engaging at least one billion people worldw
 
 - **A Global Commitment to Cooperation**: By creating a system of voluntary contributions driven by shared purpose and accountability, the GI fosters a global commitment to cooperation and shared prosperity. Individuals with greater financial resources are encouraged and incentivized to contribute more, reflecting a collective responsibility to create a better future for all, while providing those who contribute larger amounts greater value in the GI market than external markets. Goods and services within the GI will be higher quality and lower priced than existing economies.
 
-For a deeper dive into funding, visit the [GI Funding](https://github.com/whomanatee/plan/blob/main/docs/funding.md) document.
+For a deeper dive into funding, visit the [World Amazing Funding](https://github.com/worldamazing/plan/blob/main/docs/funding.md) document.
 
 ### Step Three: Implementation Phases  
 The implementation of the Global Institution will be carried out in distinct phases to ensure efficiency, adaptability, and sustainability. Early members will play a crucial role in setting up and maintaining the infrastructure required for self-sustaining communities, embodying the principles of the GI.
@@ -240,7 +240,7 @@ The implementation of the Global Institution will be carried out in distinct pha
 
 - **Blueprints for Global Expansion**: The initial communities will not only meet the immediate needs of their members but will also serve as blueprints for a better future. These models will set a global standard for living, with principles and infrastructure scaled to establish a worldwide network of thriving, self-sustaining communities. By uniting under a shared framework of collaboration, innovation, and human well-being, the GI will drive a transformative ripple effect across the globe.
 
-For a deeper dive into implementation, visit the [GI Implementation](https://github.com/whomanatee/plan/blob/main/docs/implementation.md) document.
+For a deeper dive into implementation, visit the [World Amazing Implementation](https://github.com/worldamazing/plan/blob/main/docs/implementation.md) document.
 
 ### Step Four: World Amazing
 Imagine a world where every person wakes up with purpose, knowing that they live in a society built to nurture their potential. In this world, stress, scarcity, and conflict are no longer defining features of life. Instead, collaboration, fulfillment, and joy guide every action.
