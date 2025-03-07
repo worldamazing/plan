@@ -1,5 +1,5 @@
 > [!TIP]
-> For a comprehensive understanding of the World Amazing plan, consider starting with the [**overview**](docs/overview.md).
+> For a comprehensive understanding of the World Amazing plan, consider starting with the [**overview**](docs/overview.md) and the included [Q&A section](docs/overview.md#questions-and-answers).
 
 # World Amazing: A Global Institution, Plan, and Framework
 > A 100% open-source framework to make life amazing for all worldwide including living extremely comfortable, safe, free, warless, and luxurious.
