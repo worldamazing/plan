@@ -34,4 +34,4 @@ This vision of a society where openness and personal empowerment are limitless o
 ---
 [worldamazing.org](https://worldamazing.org)
 | [plan](https://github.com/whomanatee/plan)
-| [contact](mailto: hello@worldamazing.org) 
+| [contact](mailto:hello@worldamazing.org) 

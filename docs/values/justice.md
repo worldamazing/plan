@@ -53,4 +53,4 @@ Through this transformative vision, the GI creates a society where every individ
 ---
 [worldamazing.org](https://worldamazing.org)
 | [plan](https://github.com/worldamazing/plan)
-| [contact](mailto: hello@worldamazing.org)
+| [contact](mailto:hello@worldamazing.org)

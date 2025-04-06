@@ -100,4 +100,4 @@ By strategically implementing these phases, the GI aims to create a model commun
 ---
 [worldamazing.org](https://worldamazing.org)
 | [plan](https://github.com/worldamazing/plan)
-| [contact](mailto: hello@worldamazing.org) 
+| [contact](mailto:hello@worldamazing.org) 
