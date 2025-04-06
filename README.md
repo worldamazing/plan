@@ -115,4 +115,4 @@
 ---
 [worldamazing.org](https://worldamazing.org)
 | [plan](https://github.com/worldamazing/plan)
-| [contact](mailto:human@whomanatee.org) 
+| [contact](mailto: hello@worldamazing.org) 

@@ -44,4 +44,4 @@ This is a call to action for all members of the global community to engage activ
 ---
 [worldamazing.org](https://worldamazing.org)
 | [plan](https://github.com/whomanatee/plan)
-| [contact](mailto:human@whomanatee.org) 
+| [contact](mailto: hello@worldamazing.org) 

@@ -73,4 +73,4 @@ Together, we can make this vision a reality not in the distant future, but now.
 ---
 [worldamazing.org](https://worldamazing.org)
 | [plan](https://github.com/worldamazing/plan)
-| [contact](mailto:human@whomanatee.org) 
+| [contact](mailto: hello@worldamazing.org) 

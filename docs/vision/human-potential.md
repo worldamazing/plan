@@ -40,4 +40,4 @@ This vision of a society where creativity and human potential are limitless offe
 ---
 [worldamazing.org](https://worldamazing.org)
 | [plan](https://github.com/whomanatee/plan)
-| [contact](mailto:human@whomanatee.org) 
+| [contact](mailto: hello@worldamazing.org) 

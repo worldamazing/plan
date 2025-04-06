@@ -185,4 +185,4 @@ To foster a sense of global unity, the DoF will also launch initiatives that inv
 ---
 [worldamazing.org](https://worldamazing.org)
 | [plan](https://github.com/worldamazing/plan)
-| [contact](mailto:human@whomanatee.org) 
+| [contact](mailto: hello@worldamazing.org) 

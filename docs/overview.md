@@ -598,4 +598,4 @@ While these conflicts won’t dissolve overnight, the GI provides a foundation f
 ---
 [worldamazing.org](https://worldamazing.org)
 | [plan](https://github.com/worldamazing/plan)
-| [contact](mailto:human@whomanatee.org) 
+| [contact](mailto: hello@worldamazing.org) 
