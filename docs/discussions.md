@@ -1,6 +1,3 @@
-> [!NOTE]
-> All discussions will take place during [**World Amazing Show**](https://worldamazing.org/show/) events. See the show page for date announcements.
-
 # Step 1: Discussions for World Amazing: Truth, Healing, and Universal Growth
 
 ## What to Expect from the Global Discussion
