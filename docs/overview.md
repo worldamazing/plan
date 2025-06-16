@@ -271,7 +271,7 @@ Together, we can seize this opportunity to ensure that our collective efforts to
 
 
 ## Questions and Answers
-> Don't see your question? Send an email to human@worldamazing.org and a human will let you know if it has been added to this page. You can also send comments if you don't have a specific question.
+> Don't see your question? Send an email to hello@worldamazing.org and a human will let you know if it has been added to this page. You can also send comments if you don't have a specific question.
 
 1. [Will the GI be open to people from all walks of life, including people with criminal records or no formal education?](#q-will-the-gi-be-open-to-people-from-all-walks-of-life-including-people-with-criminal-records-or-no-formal-education)
 1. [What happens to people in prison? How about those on death row or serving life sentences?](#q-what-happens-to-people-in-prison-how-about-those-on-death-row-or-serving-life-sentences)
