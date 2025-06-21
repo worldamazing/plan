@@ -1,3 +1,6 @@
+> [!TIP]
+> Want a quick overview? Start with this article: [**Introducing: The World Amazing Plan**](https://worldamazinghq.substack.com/p/introducing-the-world-amazing-plan-088)
+
 # World Amazing: A Global Institution, Plan, and Framework
 > A 100% open-source framework to make life amazing for all worldwide including living extremely comfortable, safe, free, warless, and luxurious.
 >
