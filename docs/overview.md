@@ -1,6 +1,5 @@
 # Overview: World Amazing
-> *Last major update:* [2024-12-08](#updates)
-
+> Want a quicker overview? Start with this article: [**Introducing: The World Amazing Plan**](https://worldamazinghq.substack.com/p/introducing-the-world-amazing-plan-088)
 
 ## Table of Contents
 1. [Introducing: The Global Institution Framework](#introducing-the-global-institution-framework)
