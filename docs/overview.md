@@ -39,6 +39,8 @@ The **Global Discussion**, the process of gaining clarity and healing together, 
 
 The challenges to this process are immense. How do we spark and sustain a genuine, healing global conversation across eight billion people, with our vast cultural differences, historical trauma, and language barriers? How do we prevent this discussion, even with the best of intentions, from devolving into more blame, more denial, or more division? These questions are real, and they’re not easy.
 
+> ### The Global Discussion, the process of gaining clarity and healing together, is not a warm-up for transformation. *It is the transformation.*
+
 ### Another Pipe Dream or a Plan Rooted in Reality?
 So is it a pipe dream? The core premise is that the world we live in reflects the states of being within us and between us, and that meaningful, lasting transformation must be accompanied by deep internal and interpersonal repair. We are asked to consider: Are we willing to sit with the discomfort of our shared history, of the inherited patterns we carry in our families and communities? Are we ready to believe that humanity, with all its pain and contradictions, is capable of such collective growth?
 
