@@ -1,21 +1,45 @@
 > [!TIP]
-> Want a quicker (but less detailed) overview? Start with this article: [**Introducing: The World Amazing Plan**](https://worldamazinghq.substack.com/p/introducing-the-world-amazing-plan-088)
+> Want a quicker (but less detailed) overview? Start with [this article](https://substack.com/home/post/p-159298678) or with the [top 10 list](https://substack.com/home/post/p-159858774)
 
 # Overview: World Amazing
 
 ## Table of Contents
-1. [Introducing: The World Amazing Plan](#introducing-the-world-amazing-plan)
-1. [Key Highlights of the World Amazing Plan](#key-highlights-of-the-world-amazing-plan)
-1. [Member Benefits: All Batteries Included](member-benefits-all-batteries-included)
-1. [Global Initiatives: Building an Amazing Future](global-initiatives-building-an-amazing-future)
-1. [Luxury Class for All](#luxury-class-for-all)
-1. [The Global Challenge of Deception](#the-global-challenge-of-deception)
-1. [Authority Within Family Structures](#authority-within-family-structures-seeding-the-patterns-of-hierarchy-and-deception)
-1. [Four Critical Steps to World Amazing](#four-critical-steps-to-world-amazing)
-1. [Closing Remarks](#closing-remarks)
-1. [Questions and Answers](#questions-and-answers)
-1. [Updates](#updates)
+
+**Part 1: The Basics**  
+- [Introducing: The World Amazing Plan](#introducing-the-world-amazing-plan)
+- [The Global Institution: A Global Wrapper Fostering Amazing](#the-global-institution-a-global-wrapper-fostering-amazing)
+- [Key Highlights of the World Amazing Plan](#key-highlights-of-the-world-amazing-plan)
+
+**Part 2: More Details**
+- [Member Benefits: All Batteries Included](member-benefits-all-batteries-included)
+- [Global Initiatives: Building an Amazing Future](global-initiatives-building-an-amazing-future)
+- [Luxury Class for All](#luxury-class-for-all)
+
+**Part 3: How We Do It**
+- [How Will We Do This?](#how-will-we-do-this)
+- [The One-Time Contribution: $25,000 for a Lifetime of Freedom](#the-one-time-contribution-25000-for-a-lifetime-of-freedom)
+- [How We Build It Together: The Role of Work in the GI](#how-we-build-it-together-the-role-of-work-in-the-gi)
+- [Projects: Your Freedom to Build Anything](#projects-your-freedom-to-build-anything)
+- [The End of Taxes](#the-end-of-taxes)
+
+**Part 4: The Challenges Ahead**  
+- [The Global Challenge of Deception](#the-global-challenge-of-deception)
+- [Authority Within Family Structures](#authority-within-family-structures-seeding-the-patterns-of-hierarchy-and-deception)
+
+**Part 5: Four Critical Steps to World Amazing**  
+- [Step One: Global Discussion](#step-one-global-discussion)
+- [Step Two: Funding the Core Fund and Beyond](#step-two-funding-the-core-fund-and-beyond)
+- [Step Three: Implementation Phases](#step-three-implementation-phases)
+- [Step Four: World Amazing](#step-four-world-amazing)
+
+**Part 6: Closing Remarks and Q/A**  
+- [Closing Remarks](#closing-remarks)
+- [Questions and Answers](#questions-and-answers)
+- [Updates](#updates)
    
+
+---
+**Part 1: The Basics**
 
 ## Introducing: The World Amazing Plan
 The World Amazing Plan is a universal, open-source, decentralized framework with no ruler, where every human worldwide experiences universal well-being, where essentials are guaranteed, and where work is fulfilling and life carries a profound sense of security and joy.
@@ -42,18 +66,40 @@ The challenges to this process are immense. How do we spark and sustain a genuin
 > ### The Global Discussion, the process of gaining clarity and healing together, is not a warm-up for transformation. *It is the transformation.*
 
 ### Another Pipe Dream or a Plan Rooted in Reality?
-So is it a pipe dream? The core premise is that the world we live in reflects the states of being within us and between us, and that meaningful, lasting transformation must be accompanied by deep internal and interpersonal repair. We are asked to consider: Are we willing to sit with the discomfort of our shared history, of the inherited patterns we carry in our families and communities? Are we ready to believe that humanity, with all its pain and contradictions, is capable of such collective growth?
+So is it a pipe dream? The core premise is that the world we live in reflects the states of being within us and between us, and that meaningful, lasting transformation must be accompanied by deep internal and interpersonal repair. We are asked to consider: Are we willing to sit with the discomfort of our shared history, of the inherited patterns we carry in our families and communities? Are we ready to understand that humanity, with all its pain and contradictions, is capable of such collective growth?
 
 This **World Amazing Plan** is not a rigid doctrine, but a serious provocation. It invites us to look beyond our current structures and beyond surface-level fixes. It suggests that the true path forward is not just about replacing what’s broken, but about healing what has been silently fractured within us for far too long.
 
-### The Global Institution: A Global Wrapper Fostering Amazing
-At the heart of the World Amazing Plan is what's called the Global Institution (GI) framework: not a single governing body, but a structural foundation that ensures prosperity is not merely possible, but guaranteed for everyone. It serves as the practical vehicle that brings the World Amazing Plan into real-world application.
-
-The GI focuses on making all basic and essential human needs universally accessible. Housing, healthcare, education, and creative fulfillment are not privileges for the few but guaranteed rights for all world citizens, forming the foundation of a thriving global society. The GI framework inherently supports mental well-being by removing the daily stresses of life, such as financial instability, work pressures, and inequality. It creates a nurturing environment where individuals can focus on personal growth, relationships, and fulfillment.
-
-By enveloping the entire planet, the GI framework acts as a universal global wrapper for humanity. It ensures that everyone has access to the foundations of a dignified life. This collective approach diminishes inequities caused by history or geography, offering a fair and inclusive system for all.
-
 What follows are key elements of the plan. Not abstract ideals, but actionable steps made possible by the clarity born from truth and cooperation. Each part of the World Amazing Plan is designed not just for function, but to heal and uplift, creating a world in which truly no one is left behind.
+
+
+## The Global Institution: A Global Wrapper Fostering Amazing
+To truly solve the challenges we face, we need a new framework. One that addresses not just economic breakdowns, but the emotional and social ones too.
+
+This is where the Global Institution (GI) comes in.  
+🔹 Not a government.  
+🔹 Not a corporation.  
+🔹 A community-driven system built to serve all.  
+
+The GI isn’t just a new structure.
+
+It’s a response to the old one. A world where disconnection, silence, and hierarchy have shaped how we live.
+
+Not just in politics or economics, but in our homes, our relationships, and our sense of truth.
+
+And it’s time to leave that world behind.
+
+### What Makes the GI Different?  
+✅ **Decentralized & Transparent** – Unlike governments or corporations, the GI is built on cooperation and openness. Every decision is made collectively, ensuring it serves the people directly.  
+✅ **Local Decisions by Local Populations** – No one will come tell you how to live in your home and community. No dictators. No monarchy. No royalty. Just everyday people making everyday decisions about everyday things in their homes and communities.  
+✅ **Focused on Essentials** – The GI guarantees housing, healthcare, food, and education for all, not as privileges for some.  
+✅ **Freedom Through Security** – By providing essentials, the GI liberates people to live fully without the stress of mere survival.  
+
+🚀 The GI isn’t about controlling people, it’s about liberating them.
+
+At its heart, the Global Institution framework is the practical vehicle that brings the World Amazing Plan into real-world application. Its purpose is to make all basic and essential human needs universally accessible, ensuring that housing, healthcare, education, and creative fulfillment become guaranteed rights for every world citizen. This inherently supports mental well-being by removing the daily stresses that fuel anxiety and inequality.
+
+By enveloping the entire planet, this framework acts as a universal global wrapper for humanity. It ensures that everyone has access to the foundations of a dignified life, diminishing the inequities caused by accidents of history or geography and offering a truly fair and inclusive system for all.
 
 
 ## Key Highlights of the World Amazing Plan
@@ -78,6 +124,9 @@ What follows are key elements of the plan. Not abstract ideals, but actionable s
 1. **Sustainability and Innovation**: The GI replaces profit-driven industries with community-centered, environmentally sustainable models that prioritize long-term well-being for humanity and the planet. By fostering creativity and advancing technology alongside environmental stewardship, the GI ensures a future where innovation improves lives while protecting the world for generations to come.
 1. **Local Control, Global Impact**: The GI empowers communities to retain local autonomy and make decisions that best serve their unique needs and cultures, while contributing to a unified global effort. This is not a centralized authority taking over the world, but a framework that protects life, fosters true liberty from demanding work, and ensures personal choice for all humans globally. By uniting under shared principles of trust and cooperation, local actions will resonate worldwide, creating a ripple effect of prosperity and harmony.
 
+
+---
+**Part 2: More Details**
 
 ## Member Benefits: All Batteries Included
 To ensure no one is left behind, the GI encompasses a broad spectrum of essential services provided at no additional cost to all humans once they join and become active working members of the GI:
@@ -106,6 +155,7 @@ In addition to these comprehensive benefits, the GI will also:
 
 For a deeper dive into these benefits, visit the [World Amazing Benefits](https://github.com/worldamazing/plan/blob/main/docs/benefits.md) document.
 
+
 ## Global Initiatives: Building an Amazing Future
 At the heart of the GI lies a series of transformative initiatives designed to empower, uplift, and unify humanity. Each initiative seeks to address core aspects of life, offering a comprehensive path toward a more just, innovative, and joyful world.
 
@@ -122,9 +172,11 @@ For a deeper dive into these initiatives, visit the [World Amazing Initiatives](
 
 
 ## Luxury Class for All
-At its core, the GI framework is not just about meeting basic needs, it is about elevating life for every individual to a level of extraordinary well-being. By replacing scarcity with abundance, the GI ensures that luxury becomes the standard for all, setting the stage for a world where everyone thrives.
-
+> The word "luxury" in this section might be better imagined as "premium" or "excellent", as the word luxury does often carry the conotation of something being rare and/or extravegant.
+> 
 > True luxury is not about excess or wastefulness, but about quality, comfort, and harmony.
+
+At its core, the GI framework is not just about meeting basic needs, it is about elevating life for every individual to a level of extraordinary well-being. By replacing scarcity with abundance, the GI ensures that luxury becomes the standard for all, setting the stage for a world where everyone thrives.
 
 In the GI framework, luxury becomes the baseline: incredible homes, nutritious and delicious food, extraordinary healthcare, and the freedom to thrive without the constraints of grueling work schedules. No more middle-class, no more hierarchies of wealth. Everyone belongs to the luxury class because prosperity is universal.
 
@@ -150,7 +202,7 @@ While the GI ensures that luxury is accessible to everyone, the concept of "Exce
 
 The GI focuses on providing what truly matters: an elevated quality of life for all without promoting wastefulness or perpetuating unnecessary inequalities. This ensures that resources are utilized responsibly, fostering a culture where luxury is sustainable and universal.
 
-Ultimately, true luxury is not just about material comforts, but about living in harmony with others, in an environment where trust and joy are the norm.It’s about the experience of living alongside humans who are a pleasure to be around, in a world where the stress, competition, and mistrust that plague us today are replaced by joy, harmony, and trust. While an excessive lifestyle may have its appeal, it does not create the same sense of fulfillment and connection that defines a truly amazing life.
+Ultimately, true luxury is not just about material comforts, but about living in harmony with others, in an environment where trust and joy are the norm. It’s about the experience of living alongside humans who are a pleasure to be around, in a world where the stress, competition, and mistrust that plague us today are replaced by joy, harmony, and trust. While an excessive lifestyle may have its appeal, it does not create the same sense of fulfillment and connection that defines a truly amazing life.
 
 ### Eradicating Exploitation
 The GI reimagines luxury to eliminate the exploitation and inequality often tied to it in the current world. In the GI framework, no one will be forced into servitude or low-wage jobs to maintain the comfort of others. Instead, roles such as personal assistance, high-level hospitality, or specialized care are redefined as opportunities that members choose voluntarily, motivated by meaningful incentives, personal fulfillment, or as a way to meet their required 2-day-a-week work duties.
@@ -162,6 +214,154 @@ For members who wish to access enhanced, personalized services beyond the baseli
 This approach ensures that the concept of luxury evolves to uplift everyone. Care and comfort are provided without exploitation, fostering a culture of mutual respect and dignity, where every contribution holds meaning and is deeply valued.
 
 
+---
+**Part 3: How We Do It**
+
+## How Will We Do This?
+**Building a thriving world requires both shared investment and collective effort from every member.**  
+
+For all to live in an amazing world, all that’s needed from everyone worldwide is:  
+1. A reasonable, **one-time financial contribution**  
+2. A commitment to **meaningful, shared work**
+
+This plan isn’t about charity, taxation, or sacrifice.
+
+It’s about building a system that works for all of us, from those with the least, to everyday working families, to those living in excessive abundance.
+
+
+## The One-Time Contribution: $25,000 for a Lifetime of Freedom
+In the GI, no one pays taxes. No one pays rent. No one pays medical bills or tuition. Instead, each member makes a **single, one-time contribution of $25,000**—and that’s it. You’re covered for life.
+
+This isn’t a fee. It’s a key. It unlocks everything you need to live fully: a home, healthcare, education, clean energy, sustainable infrastructure, community spaces, and access to opportunity.
+
+**Can’t pay? You’re still welcome.**  
+- Pay over time with no interest.  
+- Earn your way in through meaningful work.  
+- Receive sponsorship or equity-based support.
+
+### A Smarter System, A Better Deal
+For most people, **$25,000 is less than what they currently spend in a single year on rent, medical bills, and education.** Over a lifetime, the cost to cover these in today’s economy could amount to hundreds of thousands of dollars, if not millions.
+
+In the GI, that same amount **buys your freedom—forever.**
+
+### What Does This Cover?
+Your contribution funds **everything essential for a lifetime of security and fulfillment**:  
+✅ **Your home—owned, not rented.** No mortgages. No landlords. Just stability.  
+✅ **Healthcare—for life.** The highest quality care, fully covered. Worldwide.  
+✅ **Education—at any level.** Learn anything, anytime, at no cost.  
+✅ **Thriving communities.** Parks, libraries, cultural centers, public transportation, and more.  
+✅ **Sustainability & innovation.** Investing in clean energy, automation, and global well-being.
+
+🔥 In the GI, your one-time contribution **covers you for life.**
+
+### The Bottom Line
+The GI **eliminates inefficiencies, pools resources globally, and ensures that every dollar builds a world where no one is left behind.**
+
+🚀 This isn’t about funding the current system.  
+🚀 It’s about **co-creating a new one where we all thrive.**  
+🚀 **The GI is a new world economy.**
+
+
+## How We Build It Together: The Role of Work in the GI
+🚀 In the GI, work is not about survival—it is about contribution.  
+🚀 No meaningless jobs. No exploitation. No burnout.  
+🚀 **Just two days per week of meaningful work to support a thriving world.**
+
+### What Will the Work Be?
+All GI work will focus on **building and maintaining the systems that benefit everyone.**
+
+🔥 **Early Stages**—Setting up and running the foundations:  
+✅ Building & maintaining homes and infrastructure.  
+✅ Operating healthcare, education, and essential services.  
+✅ Managing transportation, parks, libraries, and public systems.
+
+🔥 **Later Stages**—Shifting toward **creativity, innovation, and exploration:**  
+✅ **Designing cultural projects**—festivals, public art, performances.  
+✅ **Advancing technology & sustainability**—clean energy, automation, research.  
+✅ **Exploring personal passions**—turning ideas into contributions.
+
+💡 **As systems become more efficient, the need for direct labor for essential services like housing and healthcare will decrease, giving people more time to work on creative endeavors.**
+
+### Extra Work, Extra Benefits
+🚀 Two days per week is enough to thrive.  
+🚀 **But if you want to work more to get more, you can.**
+
+✅ **Start new projects.** Explore industries, art, innovation—whatever drives you.  
+✅ **Join community initiatives.** Expand culture, design cities, create experiences.  
+✅ **Build wealth.** Additional contributions can fund premium resources or personal projects.
+
+💡 **No one will be forced to work beyond two days per week. But for those who want to create more, the GI will give them every opportunity to do so.**
+
+### **Work Becomes a Choice, Not a Burden**
+🔥 No wasted potential.  
+🔥 No underpaid, meaningless jobs.  
+🔥 **Just the freedom to contribute to something real, while living a secure and fulfilling life.**
+
+🚀 **In the GI, work is no longer about survival—it is about purpose, creativity, and progress.**
+
+
+## Projects: Your Freedom to Build Anything
+In the GI, anyone can start a project at any time—without needing permission, approval, or bureaucracy.  
+  
+As long as your project doesn’t infringe on anyone’s life, liberty, or safety, **you are free to build.**  
+🔥 Want to start a music label?  
+🔥 Launch a floating garden?  
+🔥 Design community housing or create a new kind of learning space?  
+🔥 Disrupt the cupcake industry with vertical frosting integration and edible biodegradable wrappers?  
+  
+In the GI: **Yes. You. Can.**
+
+### What Makes a Project?
+A project is anything that contributes to the world—something you build, offer, research, organize, or explore. Projects can be small and local or massive and global. They can be artistic, scientific, social, or entirely new. You don’t need to prove its worth before beginning—**you just need to start.**
+
+### How It Works
+- **Freedom to Begin**: You don’t need GI approval to launch a project. You can begin with your own time, effort, and vision—or request access to materials, collaborators, and support within the GI’s shared systems.
+- **Profit Sharing with Purpose**: If your project generates revenue, **50% goes directly to your personal fund**, and **50% goes back into the GI**—but with a twist: The 50% that returns to the GI is still **under your control.** You’ll use it to fund public infrastructure, help other projects get started, or contribute to core GI operations. It’s your way of giving back without giving up control.
+- **Self-Directed Impact**: You decide how your contributions support the world. That might mean seeding another bold idea, sustaining clean energy infrastructure, or investing in someone else’s dream. Either way, **your success helps everyone thrive—and you decide how.**
+
+### The Point of Projects
+This is how we go beyond survival.  
+This is how we play, invent, explore, and build futures no one’s imagined yet.  
+Projects are where **you** bring your genius to life—and where the GI proves its deepest truth:
+
+> We’re not just replacing systems.  
+> We’re replacing limitation—with possibility.
+
+
+## The End of Taxes
+🚀 In the GI, taxes will no longer need to exist.  
+🚀 No need for federal taxes. No need for state taxes. No need for local taxes.  
+🚀 Yet every essential need—housing, healthcare, education, groceries—will be fully covered.  
+
+### How Does This Work?
+Instead of funding wasteful, inefficient government systems, members contribute once and work two days per week to maintain and enhance the systems that serve everyone.
+
+💡 Your money and effort go directly toward improving life for you and your community. No middlemen. No bureaucracy. No waste.
+
+### What Replaces Taxes?  
+✅ The one-time contribution of $25,000 replaces a lifetime of taxes.  
+✅ Your two days of work per week replaces the inefficiencies of government agencies and provides public goods and services for all.  
+✅ A transparent, cooperative system replaces political corruption and corporate greed.  
+
+### Optional Contributions for Premium Resources
+Every member receives housing, healthcare, and education for life.
+
+But those who want more can contribute more money or time for premium options including:  
+🔹 Larger homes or prime locations—Members who desire bigger homes or properties in high-demand areas can contribute more to ensure fairness in allocation.  
+🔹 Additional amenities—Those seeking extra services, custom options, or high-end experiences can directly fund these projects.
+
+💡 This ensures fairness while allowing freedom of choice. Everyone thrives, and those who want more can contribute more.
+
+### A System That Makes Sense
+🔥 No endless taxation.  
+🔥 No wasted money on inefficient government programs.  
+🔥 Just a system that works—transparent, fair, and designed for abundance.  
+
+🚀 With no taxes, no rent, no mortgages, no essential bills, and no debt, everyone can live without fear and with ample time to spend with loves ones or on personal pursuits.
+
+
+---
+**Part 4: The Challenges Ahead**
 ## The Global Challenge of Deception
 Central to the success of the GI framework is addressing the root issue that holds humanity back: *deception*.
 
@@ -230,9 +430,10 @@ This matters because it demonstrates that dismantling systemic deception cannot 
 By illuminating the generational transmission of deceptive authority, it becomes possible to understand how deeply entrenched hierarchies maintain their grip on human societies. This perspective encourages efforts to foster openness, empathy, and transparent communication within families, ensuring that future generations do not inherit outdated models of control. In this way, the change begins at the very core of human relationships, growing outward to transform entire cultures and ultimately dissolve the harmful authority structures that have defined human civilization for millennia.
 
 
-## Four Critical Steps to World Amazing
+---
+**Part 5: The Four Critical Steps to World Amazing**
 
-### Step One: Global Discussion
+## Step One: Global Discussion
 The first step in establishing the GI is to initiate a worldwide discussion that invites people from all walks of life to share ideas, connect, and collectively shape the development of the GI framework. This global dialogue will transcend borders and is essential to addressing humanity's core challenges, including deception, inequality, and mistrust, which have long hindered cooperation and progress. By confronting these issues with openness and honesty, we can build a foundation of trust and collaboration that will guide the principles of the GI.
 
 - **Platforms for Engagement**: The discussion will take place on a variety of platforms to ensure accessibility for everyone, including online forums, social media, local town halls, and global video conferences. By utilizing diverse channels, we will engage people from different cultures, languages, and backgrounds.
@@ -245,7 +446,8 @@ The first step in establishing the GI is to initiate a worldwide discussion that
 
 For a deeper dive into discussions, visit the [World Amazing Discussion](https://github.com/worldamazing/plan/blob/main/docs/discussions.md) document.
 
-### Step Two: Funding the Core Fund and Beyond
+
+## Step Two: Funding the Core Fund and Beyond
 The GI aims to raise $25 trillion by engaging at least one billion people worldwide, each contributing $25,000. This contribution is not a fee, but an investment in a future free from taxes or bills for essentials like housing, healthcare, education, and food, creating a foundation for universal prosperity.
 
 - **Transparent and Controlled Contributions**: Every contribution is placed into a personal fund under the member’s control, ensuring fully transparent and democratic spending decisions. The funds will be used solely to acquire resources, build infrastructure, and create self-sustaining communities, with no portion allocated to personal salaries or private enrichment. From the $25 trillion fund, 4%, or $1 trillion annually, or $1000 per person from the $25,000 investment, will sustain operations and projects from 2025 to 2050, providing ample time to establish and expand the GI’s framework.
@@ -262,7 +464,8 @@ The GI aims to raise $25 trillion by engaging at least one billion people worldw
 
 For a deeper dive into funding, visit the [World Amazing Funding](https://github.com/worldamazing/plan/blob/main/docs/funding.md) document.
 
-### Step Three: Implementation Phases  
+
+## Step Three: Implementation Phases  
 The implementation of the Global Institution will be carried out in distinct phases to ensure efficiency, adaptability, and sustainability. Early members will play a crucial role in setting up and maintaining the infrastructure required for self-sustaining communities, embodying the principles of the GI.
 
 - **Initial Phase: Housing and Operational Hubs**: In the initial phase, the GI will focus on acquiring buildings and developing new properties to provide housing for its members. These living spaces will also serve as operational hubs where members contribute to essential activities, such as food production, healthcare services, education, and community management. Through automation and advanced computing, even these foundational efforts will reflect the GI’s commitment to minimizing labor and maximizing efficiency. Early members will be integral to these day-to-day operations, ensuring the smooth functioning of the community and helping achieve the GI's short- and long-term goals while adhering to the two-day workweek model wherever possible.  
@@ -277,7 +480,8 @@ The implementation of the Global Institution will be carried out in distinct pha
 
 For a deeper dive into implementation, visit the [World Amazing Implementation](https://github.com/worldamazing/plan/blob/main/docs/implementation.md) document.
 
-### Step Four: World Amazing
+
+## Step Four: World Amazing
 Imagine a world where every person wakes up with purpose, knowing that they live in a society built to nurture their potential. In this world, stress, scarcity, and conflict are no longer defining features of life. Instead, collaboration, fulfillment, and joy guide every action.
 
 In this future:
@@ -294,6 +498,9 @@ In this future:
 By rooting the world in trust, collaboration, and abundance, the GI will help humanity transition into this amazing future. Living amazing is not just a goal but the natural result of a society built to nurture the boundless potential of all its members.
 
 
+---
+**Part 6: Closing Remarks and Q/A**
+
 ## Closing Remarks
 This plan transcends the arbitrary borders that have long divided humanity, embracing the common values that unite us on this singular, shared planet, dispensing national boundaries to envelop every corner of the globe, championing a world that regards each individual equally, without preference or prejudice.
 
@@ -302,7 +509,6 @@ This land, which birthed us all, knows no borders in its care and does not favor
 This plan is more than just a proposal. It is a call to embrace our shared humanity, to build bridges across continents and cultures, and to establish a global network of cooperation and understanding. The Global Institution framework represents an opportunity for all of humanity to unite in crafting a durable, peaceful world that cherishes every individual equally.
 
 Together, we can seize this opportunity to ensure that our collective efforts today lay the foundation for a harmonious humanity, for us and for future generations, forever and beyond.
-
 
 
 ## Questions and Answers
@@ -620,6 +826,7 @@ While these conflicts won’t dissolve overnight, the GI provides a foundation f
 
 ## Updates
 > Significant updates are listed below, minor tweaks can be found in the git history. All dates in YYYY-MM-DD format.
+- **2025-06-26**: Reorganized table of contents and imported sections from the abridged overview
 - **2025-06-25**: Improved introduction
 - **2024-12-08**: Added section on authority within family structures
 - **2024-12-05**: Refined and expanded section on deception
