@@ -42,60 +42,62 @@
 **Part 1: The Basics**
 
 ## Introducing: The World Amazing Plan
-The World Amazing Plan is a universal, open-source, decentralized framework with no ruler, where every human worldwide experiences universal well-being, where essentials are guaranteed, and where work is fulfilling and life carries a profound sense of security and joy.
+> The World Amazing Plan is a universal, open-source, decentralized framework with no ruler, where every human worldwide experiences universal well-being, where essentials are guaranteed, and where work is fulfilling and life carries a profound sense of security and joy.
 
 ### Global Discussion: The First Step to World Amazing
 This plan doesn’t begin with blueprints for new institutions or a ten-point agenda for global reform, though it offers thoughts on both.
 
-It begins, fundamentally, with the **Global Discussion**: a species-wide, truth-facing, global *family talk*. The plan recognizes that the societal distortion we’ve inherited over the past ~10,000 years, rooted in emerging hierarchy and its deep impact on the most basic human structure, the family, is the central obstacle to true human flourishing.
+It begins, fundamentally, with the **Global Discussion**: a species-wide, truth-facing, global *family talk*. The plan recognizes that the societal distortion we’ve inherited over the past ~10,000 years, rooted in emerging hierarchy and its deep impact on the most basic human structure, *the family*, is the central obstacle to true human flourishing.
 
 ### A Brief Human History: Recognizing and Dismantling Hierarchy
 Roughly 10,000 years ago, with the rise of agriculture and permanent settlement, humanity underwent a profound shift. For at least 200,000 years prior, human beings lived in cooperative bands where survival depended on mutual care and shared resources.
 
 But as we began to store surplus and claim territory, hierarchy took root. Ownership, status, and control became embedded in social structures, slowly replacing the relational equilibrium that had defined us for most of our existence.
 
-This shift fractured the fabric of our daily lives, embedding power dynamics into families, gender roles, and the very way we relate to one another. The result is a civilization built atop a deep rupture, one we have never truly acknowledged or healed.
+> This shift fractured the fabric of our daily lives, embedding power dynamics into families, gender roles, and the very way we relate to one another. The result is a civilization built atop a deep rupture, one we have never truly acknowledged or healed.
 
 ### The Challenges Ahead
 Until we collectively acknowledge and begin to heal these deep, intergenerational wounds—the patterns of control, the suppressed truths, the conditional ways of relating that many of us experienced growing up, often passed down without awareness—any system we build, no matter how well-intentioned, risks being laid on that same fractured foundation.
 
-The **Global Discussion**, the process of gaining clarity and healing together, is not a warm-up for transformation. **It is the transformation.** And from that healed consciousness, the desire and ability to build a truly cooperative, equitable, and amazing world becomes a natural, even inevitable, outcome. We would, in effect, outgrow the need for many of our current systems, which today reflect and perpetuate the unresolved pain they were born from.
+> The **Global Discussion**, the process of gaining clarity and healing together, is not a warm-up for transformation. ***It is the transformation.***
+
+And from that healed consciousness, the desire and ability to build a truly cooperative, equitable, and amazing world becomes a natural, even inevitable, outcome. We would, in effect, outgrow the need for many of our current systems, which today reflect and perpetuate the unresolved pain they were born from.
 
 The challenges to this process are immense. How do we spark and sustain a genuine, healing global conversation across eight billion people, with our vast cultural differences, historical trauma, and language barriers? How do we prevent this discussion, even with the best of intentions, from devolving into more blame, more denial, or more division? These questions are real, and they’re not easy.
-
-> ### The Global Discussion, the process of gaining clarity and healing together, is not a warm-up for transformation. *It is the transformation.*
 
 ### Another Pipe Dream or a Plan Rooted in Reality?
 So is it a pipe dream? The core premise is that the world we live in reflects the states of being within us and between us, and that meaningful, lasting transformation must be accompanied by deep internal and interpersonal repair. We are asked to consider: Are we willing to sit with the discomfort of our shared history, of the inherited patterns we carry in our families and communities? Are we ready to understand that humanity, with all its pain and contradictions, is capable of such collective growth?
 
 This **World Amazing Plan** is not a rigid doctrine, but a serious provocation. It invites us to look beyond our current structures and beyond surface-level fixes. It suggests that the true path forward is not just about replacing what’s broken, but about healing what has been silently fractured within us for far too long.
 
-What follows are key elements of the plan. Not abstract ideals, but actionable steps made possible by the clarity born from truth and cooperation. Each part of the World Amazing Plan is designed not just for function, but to heal and uplift, creating a world in which truly no one is left behind.
+What follows are key elements of the plan. Not abstract ideals, but actionable steps made possible by the clarity born from truth and cooperation.
+
+> Each part of the World Amazing Plan is designed not just for function, but to heal and uplift, creating a world in which truly **no one is left behind**.
 
 
 ## The Global Institution: A Global Wrapper Fostering Amazing
 To truly solve the challenges we face, we need a new framework. One that addresses not just economic breakdowns, but the emotional and social ones too.
 
 This is where the Global Institution (GI) comes in.  
-🔹 Not a government.  
-🔹 Not a corporation.  
-🔹 A community-driven system built to serve all.  
+- Not a government.  
+- Not a corporation.  
+- A community-driven system built to serve all.  
 
-The GI isn’t just a new structure.
-
-It’s a response to the old one. A world where disconnection, silence, and hierarchy have shaped how we live.
-
-Not just in politics or economics, but in our homes, our relationships, and our sense of truth.
-
-And it’s time to leave that world behind.
+> The GI isn’t just a new structure.
+>
+> It’s a response to the old one. A world where disconnection, silence, and hierarchy have shaped how we live.
+>
+> Not just in politics or economics, but in our homes, our relationships, and our sense of truth.
+>
+> And it’s time to leave that world behind.
 
 ### What Makes the GI Different?  
-✅ **Decentralized & Transparent** – Unlike governments or corporations, the GI is built on cooperation and openness. Every decision is made collectively, ensuring it serves the people directly.  
-✅ **Local Decisions by Local Populations** – No one will come tell you how to live in your home and community. No dictators. No monarchy. No royalty. Just everyday people making everyday decisions about everyday things in their homes and communities.  
-✅ **Focused on Essentials** – The GI guarantees housing, healthcare, food, and education for all, not as privileges for some.  
-✅ **Freedom Through Security** – By providing essentials, the GI liberates people to live fully without the stress of mere survival.  
+- **Decentralized & Transparent** – Unlike governments or corporations, the GI is built on cooperation and openness. Every decision is made collectively, ensuring it serves the people directly.  
+- **Local Decisions by Local Populations** – No one will come tell you how to live in your home and community. No dictators. No monarchy. No royalty. Just everyday people making everyday decisions about everyday things in their homes and communities.  
+- **Focused on Essentials** – The GI guarantees housing, healthcare, food, and education for all, not as privileges for some.  
+- **Freedom Through Security** – By providing essentials, the GI liberates people to live fully without the stress of mere survival.  
 
-🚀 The GI isn’t about controlling people, it’s about liberating them.
+> The GI isn’t about controlling people, it’s about liberating them.
 
 At its heart, the Global Institution framework is the practical vehicle that brings the World Amazing Plan into real-world application. Its purpose is to make all basic and essential human needs universally accessible, ensuring that housing, healthcare, education, and creative fulfillment become guaranteed rights for every world citizen. This inherently supports mental well-being by removing the daily stresses that fuel anxiety and inequality.
 
@@ -246,68 +248,68 @@ In the GI, that same amount **buys your freedom—forever.**
 
 ### What Does This Cover?
 Your contribution funds **everything essential for a lifetime of security and fulfillment**:  
-✅ **Your home—owned, not rented.** No mortgages. No landlords. Just stability.  
-✅ **Healthcare—for life.** The highest quality care, fully covered. Worldwide.  
-✅ **Education—at any level.** Learn anything, anytime, at no cost.  
-✅ **Thriving communities.** Parks, libraries, cultural centers, public transportation, and more.  
-✅ **Sustainability & innovation.** Investing in clean energy, automation, and global well-being.
+- **Your home—owned, not rented.** No mortgages. No landlords. Just stability.  
+- **Healthcare—for life.** The highest quality care, fully covered. Worldwide.  
+- **Education—at any level.** Learn anything, anytime, at no cost.  
+- **Thriving communities.** Parks, libraries, cultural centers, public transportation, and more.  
+- **Sustainability & innovation.** Investing in clean energy, automation, and global well-being.
 
-🔥 In the GI, your one-time contribution **covers you for life.**
+> In the GI, your one-time contribution **covers you for life.**
 
 ### The Bottom Line
 The GI **eliminates inefficiencies, pools resources globally, and ensures that every dollar builds a world where no one is left behind.**
 
-🚀 This isn’t about funding the current system.  
-🚀 It’s about **co-creating a new one where we all thrive.**  
-🚀 **The GI is a new world economy.**
+> This isn’t about funding the current system.  
+> It’s about **co-creating a new one where we all thrive.**  
+> **The GI is a new world economy.**
 
 
 ## How We Build It Together: The Role of Work in the GI
-🚀 In the GI, work is not about survival—it is about contribution.  
-🚀 No meaningless jobs. No exploitation. No burnout.  
-🚀 **Just two days per week of meaningful work to support a thriving world.**
+> In the GI, work is not about survival—it is about contribution.  
+> No meaningless jobs. No exploitation. No burnout.  
+> **Just two days per week of meaningful work to support a thriving world.**
 
 ### What Will the Work Be?
 All GI work will focus on **building and maintaining the systems that benefit everyone.**
 
-🔥 **Early Stages**—Setting up and running the foundations:  
-✅ Building & maintaining homes and infrastructure.  
-✅ Operating healthcare, education, and essential services.  
-✅ Managing transportation, parks, libraries, and public systems.
+**Early Stages**—Setting up and running the foundations:  
+- Building & maintaining homes and infrastructure.  
+- Operating healthcare, education, and essential services.  
+- Managing transportation, parks, libraries, and public systems.
 
-🔥 **Later Stages**—Shifting toward **creativity, innovation, and exploration:**  
-✅ **Designing cultural projects**—festivals, public art, performances.  
-✅ **Advancing technology & sustainability**—clean energy, automation, research.  
-✅ **Exploring personal passions**—turning ideas into contributions.
+**Later Stages**—Shifting toward **creativity, innovation, and exploration:**  
+- **Designing cultural projects**—festivals, public art, performances.  
+- **Advancing technology & sustainability**—clean energy, automation, research.  
+- **Exploring personal passions**—turning ideas into contributions.
 
-💡 **As systems become more efficient, the need for direct labor for essential services like housing and healthcare will decrease, giving people more time to work on creative endeavors.**
+> **As systems become more efficient, the need for direct labor for essential services like housing and healthcare will decrease, giving people more time to work on creative endeavors.**
 
 ### Extra Work, Extra Benefits
-🚀 Two days per week is enough to thrive.  
-🚀 **But if you want to work more to get more, you can.**
+> Two days per week is enough to thrive.  
+> **But if you want to work more to get more, you can.**
 
-✅ **Start new projects.** Explore industries, art, innovation—whatever drives you.  
-✅ **Join community initiatives.** Expand culture, design cities, create experiences.  
-✅ **Build wealth.** Additional contributions can fund premium resources or personal projects.
+- **Start new projects.** Explore industries, art, innovation—whatever drives you.  
+- **Join community initiatives.** Expand culture, design cities, create experiences.  
+- **Build wealth.** Additional contributions can fund premium resources or personal projects.
 
-💡 **No one will be forced to work beyond two days per week. But for those who want to create more, the GI will give them every opportunity to do so.**
+> **No one will be forced to work beyond two days per week. But for those who want to create more, the GI will give them every opportunity to do so.**
 
 ### **Work Becomes a Choice, Not a Burden**
-🔥 No wasted potential.  
-🔥 No underpaid, meaningless jobs.  
-🔥 **Just the freedom to contribute to something real, while living a secure and fulfilling life.**
+- No wasted potential.  
+- No underpaid, meaningless jobs.  
+- **Just the freedom to contribute to something real, while living a secure and fulfilling life.**
 
-🚀 **In the GI, work is no longer about survival—it is about purpose, creativity, and progress.**
+> **In the GI, work is no longer about survival—it is about purpose, creativity, and progress.**
 
 
 ## Projects: Your Freedom to Build Anything
 In the GI, anyone can start a project at any time—without needing permission, approval, or bureaucracy.  
   
 As long as your project doesn’t infringe on anyone’s life, liberty, or safety, **you are free to build.**  
-🔥 Want to start a music label?  
-🔥 Launch a floating garden?  
-🔥 Design community housing or create a new kind of learning space?  
-🔥 Disrupt the cupcake industry with vertical frosting integration and edible biodegradable wrappers?  
+- Want to start a music label?  
+- Launch a floating garden?  
+- Design community housing or create a new kind of learning space?  
+- Disrupt the cupcake industry with vertical frosting integration and edible biodegradable wrappers?  
   
 In the GI: **Yes. You. Can.**
 
@@ -329,35 +331,35 @@ Projects are where **you** bring your genius to life—and where the GI proves i
 
 
 ## The End of Taxes
-🚀 In the GI, taxes will no longer need to exist.  
-🚀 No need for federal taxes. No need for state taxes. No need for local taxes.  
-🚀 Yet every essential need—housing, healthcare, education, groceries—will be fully covered.  
+> In the GI, taxes will no longer need to exist.  
+> No need for federal taxes. No need for state taxes. No need for local taxes.  
+> Yet every essential need—housing, healthcare, education, groceries—will be fully covered.  
 
 ### How Does This Work?
 Instead of funding wasteful, inefficient government systems, members contribute once and work two days per week to maintain and enhance the systems that serve everyone.
 
-💡 Your money and effort go directly toward improving life for you and your community. No middlemen. No bureaucracy. No waste.
+> Your money and effort go directly toward improving life for you and your community. No middlemen. No bureaucracy. No waste.
 
 ### What Replaces Taxes?  
-✅ The one-time contribution of $25,000 replaces a lifetime of taxes.  
-✅ Your two days of work per week replaces the inefficiencies of government agencies and provides public goods and services for all.  
-✅ A transparent, cooperative system replaces political corruption and corporate greed.  
+- The one-time contribution of $25,000 replaces a lifetime of taxes.  
+- Your two days of work per week replaces the inefficiencies of government agencies and provides public goods and services for all.  
+- A transparent, cooperative system replaces political corruption and corporate greed.  
 
 ### Optional Contributions for Premium Resources
 Every member receives housing, healthcare, and education for life.
 
 But those who want more can contribute more money or time for premium options including:  
-🔹 Larger homes or prime locations—Members who desire bigger homes or properties in high-demand areas can contribute more to ensure fairness in allocation.  
-🔹 Additional amenities—Those seeking extra services, custom options, or high-end experiences can directly fund these projects.
+- Larger homes or prime locations—Members who desire bigger homes or properties in high-demand areas can contribute more to ensure fairness in allocation.  
+- Additional amenities—Those seeking extra services, custom options, or high-end experiences can directly fund these projects.
 
-💡 This ensures fairness while allowing freedom of choice. Everyone thrives, and those who want more can contribute more.
+> This ensures fairness while allowing freedom of choice. Everyone thrives, and those who want more can contribute more.
 
 ### A System That Makes Sense
-🔥 No endless taxation.  
-🔥 No wasted money on inefficient government programs.  
-🔥 Just a system that works—transparent, fair, and designed for abundance.  
+- No endless taxation.  
+- No wasted money on inefficient government programs.  
+- Just a system that works—transparent, fair, and designed for abundance.  
 
-🚀 With no taxes, no rent, no mortgages, no essential bills, and no debt, everyone can live without fear and with ample time to spend with loves ones or on personal pursuits.
+> With no taxes, no rent, no mortgages, no essential bills, and no debt, everyone can live without fear and with ample time to spend with loves ones or on personal pursuits.
 
 
 ---
