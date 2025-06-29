@@ -548,7 +548,7 @@ Together, we can seize this opportunity to ensure that our collective efforts to
 1. [Where does the money go when the GI makes purchases?](#q-where-does-the-money-go-when-the-gi-makes-purchases)
 1. [How will funds be distributed across different departments and core projects?](#q-how-will-funds-be-distributed-across-different-departments-and-core-projects)
 1. [What happens if the GI runs out of money or faces economic downturns? Is everyone doomed?](#q-what-happens-if-the-gi-runs-out-of-money-or-faces-economic-downturns-is-everyone-doomed)
-1. [What kind of home will I live in? And will I be stuck in it forever?](#q-what-kind-of-home-will-i-live-in-and-will-i-be-stuck-in-it-forever)
+1. [What kind of home will I live in?](#q-what-kind-of-home-will-i-live-in)
 1. [Can I choose where I live in the GI?](#q-can-i-choose-where-i-live-in-the-gi)
 1. [I already own my home and have plenty of money to pay all my bills. Why should I join?](#q-i-already-own-my-home-and-have-plenty-of-money-to-pay-all-my-bills-why-should-i-join)
 1. [I'm old and going to die soon. Life has passed me by. What now?](#q-im-old-and-going-to-die-soon-life-has-passed-me-by-what-now)
@@ -682,12 +682,10 @@ This approach ensures that resources are recycled within the community, continua
 
 Additionally, the GI will raise substantial resources with the goal of only spending a portion of what is available each year, approximately 4% of total reserves. For example, if the GI raised $25 trillion, we would plan to spend $1 trillion annually. With no salaries coming out of this budget, the focus will be on essential services, growth, and stability, ensuring the GI remains financially stable over the long term. This approach not only allows for sustainable operations but also provides a strong buffer against any economic fluctuations, ensuring continuous support for all members even during challenging times.
 
-### Q: What kind of home will I live in? And will I be stuck in it forever?
+### Q: What kind of home will I live in?
 **A:** The GI offers a range of home types to fit your needs, whether you prefer a standalone house, a condo in a high-rise, or a cozy apartment. No matter the size or type, every home will be equipped with the best amenities and appliances, ensuring a high standard of living. You can expect state-of-the-art kitchens, luxurious bathrooms, and smart home technologies that make your daily life easier and more comfortable.
 
 Even a smaller apartment for younger members with fewer assets will be designed with extraordinary attention to detail, providing comfort and style beyond what is typically available today. For those looking for larger homes, such as mansions, those options will also be available, though at an additional cost. But regardless of whether you choose a mansion or a smaller space, the GI will ensure that the interiors are filled with high-quality furnishings and features, creating a home that is extraordinary in every way.
-
-You won’t be stuck in one place either. The GI is built with flexibility in mind, so you can move to different types of homes or locations as your needs or preferences change. Whether you’re just starting out or looking for a larger space for your family, your home will always reflect a base level of extreme comfort that grows with you.
 
 ### Q: Can I choose where I live in the GI?
 **A:** Yes, the GI allows you to choose where you want to live based on your preferences and needs. Whether you want to live in a bustling city, a quiet rural area, or somewhere in between, the GI provides options. Members will have access to a variety of regions and environments, and you’ll be able to select the location that suits your lifestyle, work, and personal preferences.
@@ -706,7 +704,7 @@ Even if you own your home and have financial stability, the GI can upgrade and m
 The GI isn’t just for those in need, it’s for anyone who wants to be part of a society where the best gets even better and everyone benefits from a new standard of living.
 
 ### Q: I'm old and going to die soon. Life has passed me by. What now?
-**A:** The GI isn’t just about the future. It’s about improving today for everyone, regardless of age or circumstance. Even if it feels like life has passed you by, the GI framework is designed to ensure your remaining time is filled with comfort, joy, and purpose. Whether you’re 20 or 90, the opportunities for meaningful experiences and contributions remain abundant.
+**A:** The GI isn’t just about the future. It’s about improving today for everyone, regardless of age or circumstance. Even if it feels like life has passed you by, the GI framework is designed to ensure your remaining time is filled with comfort, joy, and purpose. Whether you’re 8 or 88, the opportunities for meaningful experiences and contributions remain abundant.
 
 The GI will provide enhanced services and care that focus on your well-being, including better healthcare, opportunities for social engagement, and the chance to leave a lasting impact on the world around you. Whether it’s through mentoring younger generations, participating in community activities, or simply enjoying the highest standard of living, the GI ensures that your days are lived with dignity, meaning, and connection.
 
