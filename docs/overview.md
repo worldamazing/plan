@@ -17,10 +17,10 @@
 - [Global Initiatives: Building an Amazing Future](global-initiatives-building-an-amazing-future)
 - [Luxury Class for All](#luxury-class-for-all)
 
-**Part 3: How We Do It**
-- [How Will We Do This?](#how-will-we-do-this)
+**Part 3: The GI Operating System**
+- [What We Need From Everyone](#what-we-need-from-everyone)
 - [The One-Time Contribution: $25,000 for a Lifetime of Freedom](#the-one-time-contribution-25000-for-a-lifetime-of-freedom)
-- [How We Build It Together: The Role of Work in the GI](#how-we-build-it-together-the-role-of-work-in-the-gi)
+- [The Role of Work in the GI: 2 Days A Week Only](#the-role-of-work-in-the-gi-2-days-a-week-only)
 - [Projects: Your Freedom to Build Anything](#projects-your-freedom-to-build-anything)
 - [The End of Taxes](#the-end-of-taxes)
 
@@ -29,6 +29,7 @@
 - [Step Two: Funding the Core Fund and Beyond](#step-two-funding-the-core-fund-and-beyond)
 - [Step Three: Implementation Phases](#step-three-implementation-phases)
 - [Step Four: World Amazing](#step-four-world-amazing)
+- [A Vision for Our Timeline: How the GI Unfolds](#a-vision-for-our-timeline-how-the-gi-unfolds)
 
 **Part 5: The Challenges Ahead**  
 - [The Global Challenge of Deception](#the-global-challenge-of-deception)
@@ -138,21 +139,21 @@ By enveloping the entire planet, this framework acts as a universal global wrapp
 To ensure no one is left behind, the GI encompasses a broad spectrum of essential services provided at no additional cost to all humans once they join and become active working members of the GI:
 
 1. **Housing**: Including utilities (electricity, water, heating, cooling).
-2. **Healthcare**: Comprehensive medical, dental, wellness programs, and personal care (hygiene products).
-3. **Education**: All levels of education, from early childhood to higher education and lifelong learning.
-4. **Food**: Basic groceries and meals.
-5. **Transportation**: Public transportation and essential personal transportation services.
-6. **Clothing**: Basic clothing and footwear.
-7. **Care Services**: Childcare, after-school programs, early childhood education, elderly care, and senior care services.
-8. **Communication**: Internet, phone, and postal services.
-9. **Cultural and Community Services**: Access to cultural events, sports, recreational activities, libraries, parks, museums, and community centers.
-10. **Technology**: Essential personal electronics and maintenance.
-11. **Home and Environmental Services**: Repairs, general upkeep, waste management, recycling, and sustainable practices.
-12. **Financial Services**: Basic banking services without fees.
-13. **Agriculture**: Community-supported agriculture programs and urban farming initiatives.
-14. **Pets**: Veterinary care and basic pet supplies.
-15. **Travel**: Basic travel expenses for personal and cultural exploration.
-16. **Safety Services**: Emergency services, fire protection, and disaster response.
+1. **Healthcare**: Comprehensive medical, dental, wellness programs, and personal care (hygiene products).
+1. **Education**: All levels of education, from early childhood to higher education and lifelong learning.
+1. **Food**: Basic groceries and meals.
+1. **Transportation**: Public transportation and essential personal transportation services.
+1. **Clothing**: Basic clothing and footwear.
+1. **Care Services**: Childcare, after-school programs, early childhood education, elderly care, and senior care services.
+1. **Communication**: Internet, phone, and postal services.
+1. **Cultural and Community Services**: Access to cultural events, sports, recreational activities, libraries, parks, museums, and community centers.
+1. **Technology**: Essential personal electronics and maintenance.
+1. **Home and Environmental Services**: Repairs, general upkeep, waste management, recycling, and sustainable practices.
+1. **Financial Services**: Basic banking services without fees.
+1. **Agriculture**: Community-supported agriculture programs and urban farming initiatives.
+1. **Pets**: Veterinary care and basic pet supplies.
+1. **Travel**: Basic travel expenses for personal and cultural exploration.
+1. **Safety Services**: Emergency services, fire protection, and disaster response.
 
 In addition to these comprehensive benefits, the GI will also:  
 - **Replace Outdated Systems**: The GI removes exploitative, profit-driven systems, such as for-profit insurance, debt, and taxation, and replaces them with community-centered models that prioritize human well-being, equity, and sustainability.
@@ -221,9 +222,9 @@ This approach ensures that the concept of luxury evolves to uplift everyone. Car
 
 
 ---
-**Part 3: How We Do It**
+**Part 3: The GI Operating System**
 
-## How Will We Do This?
+## What We Need From Everyone
 Building a thriving world requires both shared investment and collective effort from every member.  
 
 For all to live in an amazing world, all that’s needed from everyone worldwide is:  
@@ -274,7 +275,7 @@ The GI **eliminates inefficiencies, pools resources globally, and ensures that e
 > **The GI is a new world economy.**
 
 
-## How We Build It Together: The Role of Work in the GI
+## The Role of Work in the GI: 2 Days A Week Only
 > In the GI, work is not about survival—it is about contribution.  
 > No meaningless jobs. No exploitation. No burnout.  
 > **Just two days per week of meaningful work to support a thriving world.**
@@ -440,6 +441,16 @@ In this future:
 By rooting the world in trust, collaboration, and abundance, the GI will help humanity transition into this amazing future. Living amazing is not just a goal but the natural result of a society built to nurture the boundless potential of all its members.
 
 
+## A Vision for Our Timeline: How the GI Unfolds
+Following the path laid out in the *Four Critical Steps*, the implementation of the World Amazing Plan will naturally unfold in distinct, powerful phases.
+
+In the first few years, the focus will be on providing humanity with the basics: housing, healthcare, food, and education. This period will also be one of healing, giving individuals the time to recover from the stress of current systems. During this time, work will be kept minimal, allowing people to engage with the GI without the burden of overwork. Even in these initial years, major projects will start to take shape. Old infrastructure, such as repurposed buildings and ships, along with sustainable temporary structures like tents and containers, can be utilized to quickly provide necessary facilities while more advanced, permanent structures are developed.
+
+After the initial healing period, an additional decade of focused work can bring about dramatic global transformation. This period will see the GI’s initiatives expanding across the world. New health centers, sustainable energy systems, and innovative transportation networks will begin to shape communities. Education systems will be revolutionized, and the quality of life will rise globally as people transition into more advanced projects and collaborative ventures. Alongside these developments, cultural institutions such as museums, theaters, parks, and spaces for art and cultural exchange will flourish, enriching the human experience and preserving the world’s diversity.
+
+By the end of this decade, humanity will not only have healed but will be on a path to extraordinary advancements, driven by the unity and collaboration fostered within the GI framework. Natural landscapes and urban environments alike will be transformed to reflect both progress and the preservation of beauty, ensuring that future generations can enjoy the world’s cultural and ecological treasures. This new era will elevate the human experience, fostering a renewed global culture where innovation, creativity, and collaboration shape a more vibrant and harmonious world.
+
+
 ---
 **Part 5: The Challenges Ahead**
 ## The Global Challenge of Deception
@@ -558,7 +569,6 @@ Together, we can seize this opportunity to ensure that our collective efforts to
 1. [What will the GI build and provide for its members?](#q-what-will-the-gi-build-and-provide-for-its-members)
 1. [How will the GI manage airlines and transportation for its members?](#q-how-will-the-gi-manage-airlines-and-transportation-for-its-members)
 1. [How will the GI ensure safety in all forms of transportation?](#q-how-will-the-gi-ensure-safety-in-all-forms-of-transportation)
-1. [How will the GI timeline unfold? When will things start to happen?](#q-how-will-the-gi-timeline-unfold-when-will-things-start-to-happen)
 1. [Is this some form of socialism, fascism, or another 'ism'?](#q-is-this-some-form-of-socialism-fascism-or-another-ism)
 1. [Is this anti-capitalism?](#q-is-this-anti-capitalism)
 1. [Isn’t the GI just another form of communism?](#q-isnt-the-gi-just-another-form-of-communism)
@@ -749,15 +759,6 @@ For air travel, the GI’s airlines will be designed with safety as a top priori
 On the ground, autonomous vehicles will be equipped with cutting-edge sensors, AI systems, and real-time data-sharing to ensure accident-free travel on roads. These vehicles will be interconnected with smart roads, reducing human error and ensuring smooth, efficient travel. Trains and other public transport will be monitored and maintained to the same high standards, making commuting and long-distance travel safer and more reliable than ever.
 
 In essence, the GI will create a transportation network where safety is never compromised, giving members peace of mind that every journey, whether by plane, train, or vehicle, will meet the highest standards for protection and reliability.
-
-### Q: How will the GI timeline unfold? When will things start to happen?
-**A:** The implementation of the GI will begin with a global conversation, where people from all walks of life come together to discuss, collaborate, and refine the vision. This conversation will set the foundation for the GI, sparking excitement and laying the groundwork for the first essential projects.
-
-In the first few years, the focus will be on providing humanity with the basics: housing, healthcare, food, and education. This period will also be one of healing, giving individuals the time to recover from the stress of current systems. During this time, work will be kept minimal, allowing people to engage with the GI without the burden of overwork. Even in these initial years, major projects will start to take shape. Old infrastructure, such as repurposed buildings and ships, along with sustainable temporary structures like tents and containers, can be utilized to quickly provide necessary facilities while more advanced, permanent structures are developed.
-
-After the initial healing period, an additional decade of focused work can bring about dramatic global transformation. This period will see the GI’s initiatives expanding across the world. New health centers, sustainable energy systems, and innovative transportation networks will begin to shape communities. Education systems will be revolutionized, and the quality of life will rise globally as people transition into more advanced projects and collaborative ventures. Alongside these developments, cultural institutions such as museums, theaters, parks, and spaces for art and cultural exchange will flourish, enriching the human experience and preserving the world’s diversity.
-
-By the end of this decade, humanity will not only have healed but will be on a path to extraordinary advancements, driven by the unity and collaboration fostered within the GI framework. Natural landscapes and urban environments alike will be transformed to reflect both progress and the preservation of beauty, ensuring that future generations can enjoy the world’s cultural and ecological treasures. This new era will elevate the human experience, fostering a renewed global culture where innovation, creativity, and collaboration shape a more vibrant and harmonious world.
 
 ### Q: Is this some form of socialism, fascism, or another 'ism'?
 **A:** The GI framework doesn't fit neatly into any traditional "ism" like socialism, fascism, or other ideologies. Instead, it is a new system designed to prioritize human well-being, freedom, and sustainability. The GI focuses on providing essential services, such as housing, healthcare, and education, to all people, not through centralized control or state ownership, but by fostering a cooperative, community-driven approach where members have direct input and control over how resources are used.
