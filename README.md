@@ -1,14 +1,17 @@
 # World Amazing: A Global Institution, Plan, and Framework
-> A 100% open-source framework to make life amazing for all worldwide including living extremely comfortable, safe, free, warless, and luxurious.
->
+> A 100% open-source framework to make life amazing for all worldwide including living extremely comfortable, safe, free, warless, and amazing.
+
+<!--
 > Includes reducing essential work for everyone to 2 days per week on average, fostering early retirement from intensive physical or mental labor into mentorship roles by age 50, and eliminating base essential living expenses such as housing, utilities, healthcare, education, casualwear, groceries, yearly vacations, and pet health coverage.
 >
 > Supported by a new economic model that champions the individual, the family, the community, and beyond, this plan outlines transformative approaches to the concepts of work, wealth, health, prosperity, harmony, and joy on a global scale.
+-->
 
 ## Key Documents
-- [**Overview**](docs/overview.md) (with Q&A)
-- [**Initiatives**](docs/initiatives.md)
-- [**Benefits**](docs/benefits.md)
+- [**Overview**](docs/overview.md)
+- [**Questions & Answers**](docs/overview.md#questions-and-answers)
+- [**Global Initiatives**](docs/initiatives.md)
+- [**Global Benefits**](docs/benefits.md)
 
 ## Four Critical Steps to World Amazing
 - [**Step 1: Worldwide Public Discussions**](docs/discussions.md)
@@ -20,11 +23,13 @@
 - [**On Restoration, Healing, and Reimagining Justice**](/docs/values/justice.md)
 
 ## Ways To Get Involved Today
-- **Think About It**: Take time to reflect on the plan and how it resonates with your personal experiences and aspirations. Ponder potential challenges and opportunities.
+- **Engage on GitHub**: Visit the [discussion board](https://github.com/worldamazing/plan/discussions), star this repo, or follow [@worldamazing](https://github.com/worldamazing) on GitHub. Creating a GitHub account is 100% free. <!--and requires no prior knowledge using [distributed control software](https://simple.wikipedia.org/wiki/Distributed_revision_control) like git.-->
 
 - **Talk About It**: Once you've thought about it, discuss the GI plan online and in person with others willing to have a discussion on creating a world that would be incredible for all.
 
-- **Engage on GitHub**: Visit the [discussion board](https://github.com/worldamazing/plan/discussions), star this repo, or follow [@worldamazing](https://github.com/worldamazing) on GitHub. Creating a GitHub account is 100% free and requires no prior knowledge using [distributed control software](https://simple.wikipedia.org/wiki/Distributed_revision_control) like git.
+- **Think About It**: Take time to reflect on the plan and how it resonates with your personal experiences and aspirations. Ponder potential challenges and opportunities.
+
+
 
 <!--
 ## A Quick Note
