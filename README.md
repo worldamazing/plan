@@ -27,7 +27,7 @@
 
 - **Think About It**: Take time to reflect on the plan and how it resonates with your personal experiences and aspirations. Ponder potential challenges and opportunities.
 
-- **Talk About It**: Once you've thought about it, discuss the GI plan online and in person with others willing to have a discussion on creating a world that would be incredible for all.
+- **Talk About It**: Once you've thought about it, discuss the World Amazing plan online and in person with others willing to have a discussion on creating a world that would be incredible for all.
 
 
 
