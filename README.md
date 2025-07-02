@@ -25,9 +25,9 @@
 ## Ways To Get Involved Today
 - **Engage on GitHub**: Visit the [discussion board](https://github.com/worldamazing/plan/discussions), star this repo, or follow [@worldamazing](https://github.com/worldamazing) on GitHub. Creating a GitHub account is 100% free. <!--and requires no prior knowledge using [distributed control software](https://simple.wikipedia.org/wiki/Distributed_revision_control) like git.-->
 
-- **Talk About It**: Once you've thought about it, discuss the GI plan online and in person with others willing to have a discussion on creating a world that would be incredible for all.
-
 - **Think About It**: Take time to reflect on the plan and how it resonates with your personal experiences and aspirations. Ponder potential challenges and opportunities.
+
+- **Talk About It**: Once you've thought about it, discuss the GI plan online and in person with others willing to have a discussion on creating a world that would be incredible for all.
 
 
 
