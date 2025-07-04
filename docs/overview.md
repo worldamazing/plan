@@ -7,14 +7,17 @@
 
 ## Table of Contents
 
-**Part 1: The Basics**  
+**Part 1: The Vision & Framework**  
 - [Introducing: The World Amazing Plan](#introducing-the-world-amazing-plan)
 - [The Global Institution: A Global Wrapper Fostering Amazing](#the-global-institution-a-global-wrapper-fostering-amazing)
 - [Key Highlights of the World Amazing Plan](#key-highlights-of-the-world-amazing-plan)
-
-**Part 2: More Details**
-- [Member Benefits: All Batteries Included](member-benefits-all-batteries-included)
 - [Global Initiatives: Building an Amazing Future](global-initiatives-building-an-amazing-future)
+
+**Part 2: Member Benefits: All Batteries Included**
+- [Covered For All](#covered-for-all)
+- [Obsolete For All](#obsolete-for-all)
+- [Societal Issues Cured For All](#societal-issues-cured-for-all)
+- [Crimes Eliminated For All](#crimes-eliminated-for-all)
 - [Luxury Class for All](#luxury-class-for-all)
 
 **Part 3: The GI Operating System**
@@ -42,7 +45,7 @@
    
 
 ---
-**Part 1: The Basics**
+**Part 1: The Vision & Framework**
 
 ## Introducing: The World Amazing Plan
 > The World Amazing Plan is a universal, open-source, decentralized framework with no ruler, where every human worldwide experiences universal well-being, where essentials are guaranteed, and where work is fulfilling and life carries a profound sense of security and joy.
@@ -132,11 +135,26 @@ By enveloping the entire planet, this framework acts as a universal global wrapp
 1. **Local Control, Global Impact**: The GI empowers communities to retain local autonomy and make decisions that best serve their unique needs and cultures, while contributing to a unified global effort. This is not a centralized authority taking over the world, but a framework that protects life, fosters true liberty from demanding work, and ensures personal choice for all humans globally. By uniting under shared principles of trust and cooperation, local actions will resonate worldwide, creating a ripple effect of prosperity and harmony.
 
 
----
-**Part 2: More Details**
+## Global Initiatives: Building an Amazing Future
+At the heart of the GI lies a series of transformative initiatives designed to empower, uplift, and unify humanity. Each initiative seeks to address core aspects of life, offering a comprehensive path toward a more just, innovative, and joyful world.
 
-## Member Benefits: All Batteries Included
-To ensure no one is left behind, the GI encompasses a broad spectrum of essential services provided at no additional cost to all humans once they join and become active working members of the GI:
+1. **Manufacturing Department (MD)**: A centralized manufacturing department that builds everything from homes and appliances to infrastructure and creative tools, with sustainability and excellence as the standard.
+1. **Global Eating Department (GED)**: Ensuring every fridge, pantry, and belly is full through vibrant, sustainable urban markets that provide everyday eating needs, promote zero-waste, and foster community connections.
+1. **Delicious Eating Department (DED)**: Bringing culinary creativity and deliciousness to life by unifying the global dining scene, offering diverse and elevated food experiences within a sustainable, innovative dining network.
+1. **Department of Extensive and Amazing Fun (DEAF)**: The loudest department in the GI. Ensures joy is built into life, with public games, creative events, playful installations, and unforgettable festivals.
+1. **Peoples Department (PD)**: Shifting away from traditional law enforcement models, the GIPD focuses on proactive community engagement, conflict resolution, and addressing the root causes of criminality. As crime becomes obsolete in a GI world, these roles will naturally evolve into emergency response and broader community relations, ensuring continued care and support for all members.
+1. **Innovation Department (ID)**: The Innovation Department isn’t just one branch of the GI—it’s the connective tissue. It supports bold ideas, cross-generational mentorship, and collaborative invention. The ID helps turn wild visions into real-world contributions, fueling the future through creativity, ingenuity, and collective genius. It lives inside every other department—asking the questions, building the prototypes, and sparking the unexpected. It ensures we never stagnate. Never settle. Never stop growing. **The ID exists so the future can keep arriving. If the GI is the body, ID is its restless mind.**
+1. **Global Safety and Preparedness**: A unified global approach to emergency services, integrating local and global capabilities to handle disasters, defense, and humanitarian aid seamlessly.
+1. **Additional Inititiaves**: A yearly world pizza party, adventure vehicles for personal use, urban wildlife tracking, setting global cultural norms, and much more.
+
+For a deeper dive into these initiatives, visit the [World Amazing Initiatives](https://github.com/worldamazing/plan/blob/main/docs/initiatives.md) document.
+
+
+---
+**Part 2: Member Benefits: All Batteries Included**
+
+## Covered For All
+> To ensure no one is left behind, the GI encompasses a broad spectrum of essential services provided at no additional cost to all humans once they join and become active working members of the GI:
 
 1. **Housing**: Including utilities (electricity, water, heating, cooling).
 1. **Healthcare**: Comprehensive medical, dental, wellness programs, and personal care (hygiene products).
@@ -155,27 +173,51 @@ To ensure no one is left behind, the GI encompasses a broad spectrum of essentia
 1. **Travel**: Basic travel expenses for personal and cultural exploration.
 1. **Safety Services**: Emergency services, fire protection, and disaster response.
 
-In addition to these comprehensive benefits, the GI will also:  
-- **Replace Outdated Systems**: The GI removes exploitative, profit-driven systems, such as for-profit insurance, debt, and taxation, and replaces them with community-centered models that prioritize human well-being, equity, and sustainability.
-- **Resolve Societal Issues at Their Root**: By providing equitable access to resources and fostering a society built on well-being, the GI tackles systemic issues like economic inequality, environmental degradation, and public health challenges, creating a more just and sustainable world.
-- **Eliminate Crime by Addressing Root Causes**: Through universal access to essential resources, education, and opportunities, the GI eliminates the conditions that lead to crime, fostering safer and more harmonious communities without reliance on punitive systems.
 
-For a deeper dive into these benefits, visit the [World Amazing Benefits](https://github.com/worldamazing/plan/blob/main/docs/benefits.md) document.
+## Obsolete For All
+> The GI envisions a future where outdated and exploitative systems, such as profit-driven services that do not contribute to the GI and its members, traditional governance structures, and privatized essential resources, are no longer needed. By establishing a community-driven, resource-based economy that prioritizes human well-being over profit, the GI will make these obsolete systems irrelevant.
+
+1. **Insurance Services**: Traditional for-profit health, life, property, and liability insurance systems will no longer be needed, as all risks and essential services will be managed and provided for within the GI's inclusive framework, ensuring universal coverage without the need for profit-based insurance.
+1. **Commercial Banking**: Traditional banking services with fees and interest will be replaced by community-centered, fee-free financial systems that prioritize equitable access to capital and financial management for all members.
+1. **Non-Essential Corporations**: Companies, including for-profit education institutions, that do not provide essential services to humanity will be phased out, as the GI will focus solely on organizations that contribute directly to the well-being and advancement of society, replacing profit-driven models with purpose-driven missions.
+1. **Private Ownership of Essential Utilities**: Individual and for-profit ownership of essential resources such as water and energy will no longer exist. These utilities will be collectively managed by the community, ensuring equitable, sustainable, and affordable access for all members while eliminating the potential for exploitation or scarcity.
+1. **Charities and NGOs**: Non-profits and NGOs that provide basic services will become obsolete, as the GI will ensure that all essential services—such as food, shelter, and healthcare—are universally available without the need for external charitable intervention.
+1. **Debt**: Personal and corporate debt structures will be eliminated, as the GI’s economic model will provide what is needed for all, without the necessity of borrowing or accumulating interest-bearing debt.
+1. **Taxation**: Traditional forms of taxation to fund government services will be obsolete, as the GI will manage all essential services through collective contributions and sustainable resource management, eliminating the need for taxes.
+1. **Landlords and Rental Markets**: Private ownership of rental properties will be unnecessary, as the GI will ensure that everyone has access to equitable, comfortable housing without the need for for-profit rental markets.
+1. **Legal Services**: Traditional for-profit legal services will no longer be required, as all legal matters will be handled within the GI framework, providing equitable access to conflict resolution, mediation, and justice for all members.
+1. **Private Transport Services**: For-profit transportation services will be replaced by public and community-based transport systems that prioritize sustainability, accessibility, and affordability for all members.
+1. **Commercial Agriculture**: Large-scale, for-profit farming operations will be replaced by sustainable, community-supported agriculture that focuses on local food production, equitable distribution, and environmental stewardship.
+1. **Commercial Entertainment**: For-profit only focused entertainment companies will be replaced by community-driven, culturally enriching entertainment and recreational services accessible to all members.
+1. **Commercial Environmental Services**: For-profit waste management and recycling companies will be replaced by integrated, sustainable waste and environmental services managed collectively for the benefit of the planet and all communities.
+1. **Traditional Government Structures**: National, state, and local governments as separate entities will no longer be required, as the GI will implement a unified governance model that transcends borders and eliminates the need for taxation-based funding.
 
 
-## Global Initiatives: Building an Amazing Future
-At the heart of the GI lies a series of transformative initiatives designed to empower, uplift, and unify humanity. Each initiative seeks to address core aspects of life, offering a comprehensive path toward a more just, innovative, and joyful world.
+## Societal Issues Cured For All
+> By addressing the root causes of systemic inequality, resource mismanagement, and environmental degradation, the World Amazing plan aims to create conditions where these societal issues can no longer thrive.
 
-1. **Manufacturing Department (MD)**: A centralized manufacturing department that builds everything from homes and appliances to infrastructure and creative tools, with sustainability and excellence as the standard.
-1. **Global Eating Department (GED)**: Ensuring every fridge, pantry, and belly is full through vibrant, sustainable urban markets that provide everyday eating needs, promote zero-waste, and foster community connections.
-1. **Delicious Eating Department (DED)**: Bringing culinary creativity and deliciousness to life by unifying the global dining scene, offering diverse and elevated food experiences within a sustainable, innovative dining network.
-1. **Department of Extensive and Amazing Fun (DEAF)**: The loudest department in the GI. Ensures joy is built into life, with public games, creative events, playful installations, and unforgettable festivals.
-1. **Peoples Department (PD)**: Shifting away from traditional law enforcement models, the GIPD focuses on proactive community engagement, conflict resolution, and addressing the root causes of criminality. As crime becomes obsolete in a GI world, these roles will naturally evolve into emergency response and broader community relations, ensuring continued care and support for all members.
-1. **Innovation Department (ID)**: The Innovation Department isn’t just one branch of the GI—it’s the connective tissue. It supports bold ideas, cross-generational mentorship, and collaborative invention. The ID helps turn wild visions into real-world contributions, fueling the future through creativity, ingenuity, and collective genius. It lives inside every other department—asking the questions, building the prototypes, and sparking the unexpected. It ensures we never stagnate. Never settle. Never stop growing. **The ID exists so the future can keep arriving. If the GI is the body, ID is its restless mind.**
-1. **Global Safety and Preparedness**: A unified global approach to emergency services, integrating local and global capabilities to handle disasters, defense, and humanitarian aid seamlessly.
-1. **Additional Inititiaves**: A yearly world pizza party, adventure vehicles for personal use, urban wildlife tracking, setting global cultural norms, and much more.
+1. **Economic Inequality**: Reduced by equitable access to resources and opportunities.
+1. **Educational Disparities**: Eliminated through universal access to quality education for all.
+1. **Environmental Degradation**: Addressed by sustainable resource management and practices.
+1. **Resource Depletion**: Prevented through balanced and sustainable use of resources.
+1. **Drug and Substance Abuse**: Addressed with robust healthcare and mental wellness support integrated into daily life.
+1. **Hunger and Malnutrition**: Eliminated through community-supported agriculture, food programs, and universal access to nutritious food for all members.
+1. **Illiteracy**: Tackled through universal access to education at all levels.
+1. **Digital Divide**: Closed with universal access to technology and communication services.
+1. **Housing Instability**: Solved by providing housing for all members, but more importantly, by eliminating the conditions that lead to housing insecurity in the first place.
+1. **Lifestyle-Related Diseases**: Prevented through healthcare, education, and the creation of a world where stress, inequality, and other systemic pressures are eliminated. This includes conditions like diabetes, heart disease, obesity, and many types of cancers, which are influenced by factors such as diet, exercise, smoking, and alcohol consumption. The GI’s holistic approach ensures that everyone lives in an environment that supports healthy choices, reduces stress, and removes the societal pressures that often lead to lifestyle diseases in the first place.
+1. **Infectious Diseases**: Reduced through comprehensive healthcare and preventative measures. In the event of new viral outbreaks, the World Amazing framework would allow people to stay home without economic disruption, enabling highly effective containment strategies that could significantly limit spread or even halt epidemics far more effectively than current systems allow. With universal support for all members, the World Amazing framework can eliminate the conditions that force people to work while sick, ensuring swift containment and recovery.
 
-For a deeper dive into these initiatives, visit the [World Amazing Initiatives](https://github.com/worldamazing/plan/blob/main/docs/initiatives.md) document.
+
+## Crimes Eliminated For All
+> By ensuring that all individuals have access to essential resources, education, and opportunities for personal growth, the World Amazing Plan aims to create a society where the motivations for crime diminish over time. Rather than focusing on punishment, the plan emphasizes prevention, rehabilitation, and community-building to create a safer, more harmonious world for everyone.
+
+1. **Violence and Aggression**: Encompassing murder, assault, abuse, and torture, the GI will focus on reducing interpersonal and systemic violence by addressing inequality, mental health, and social isolation, fostering a peaceful and supportive society.
+1. **War and Armed Conflict**: Prevented through international collaboration, resource-sharing, and peaceful conflict resolution, eliminating the need for nationalistic or resource-driven wars.
+1. **Exploitation and Human Trafficking**: Addressing the root causes of human trafficking, forced labor, and exploitation through equal access to opportunities, resources, and protection for vulnerable populations.
+1. **Corruption and Abuse of Power**: Eliminated through transparency, shared governance, and removing profit-driven motivations from leadership structures, ensuring integrity at all levels.
+1. **Discrimination and Inequality**: Encompassing systemic discrimination, such as racism, sexism, and other forms of bias, addressed through education, inclusivity, and equal access to resources.
+1. **Forced Displacement**: Prevented by ensuring equitable access to housing, resources, and community stability, removing the conditions that lead to displacement due to conflict, disaster, or economic hardship.
 
 
 ## Luxury Class for All
@@ -270,9 +312,9 @@ In the GI, your one-time contribution **covers you for life.**
 ### The Bottom Line
 The GI **eliminates inefficiencies, pools resources globally, and ensures that every dollar builds a world where no one is left behind.**
 
-> This isn’t about funding the current system.  
-> It’s about **co-creating a new one where we all thrive.**  
-> **The GI is a new world economy.**
+This isn’t about funding the current system.  
+It’s about **co-creating a new one where we all thrive.**  
+**The GI is a new world economy.**
 
 
 ## The Role of Work in the GI: 2 Days A Week Only
@@ -843,6 +885,7 @@ While these conflicts won’t dissolve overnight, the GI provides a foundation f
 
 ## Updates
 > Significant updates are listed below, minor tweaks can be found in the git history. All dates in YYYY-MM-DD format.
+- **2025-07-03**: Merged sections from benefits document into benefits section
 - **2025-06-26**: Reorganized table of contents and imported sections from the abridged overview
 - **2025-06-25**: Improved introduction
 - **2024-12-08**: Added section on authority within family structures
