@@ -11,7 +11,6 @@
 - [**Overview**](docs/overview.md)
 - [**Questions & Answers**](docs/overview.md#questions-and-answers)
 - [**Global Initiatives**](docs/initiatives.md)
-- [**Global Benefits**](docs/benefits.md)
 
 ## Four Critical Steps to World Amazing
 - [**Step 1: Worldwide Public Discussions**](docs/discussions.md)
