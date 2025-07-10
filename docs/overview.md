@@ -1,4 +1,5 @@
 # Overview: World Amazing
+> The World Amazing Plan is a universal, open-source, decentralized framework with no ruler, where every human worldwide experiences universal well-being, where essentials are guaranteed, and where work is fulfilling and life carries a profound sense of security and joy.
 
 ## Table of Contents
 
@@ -49,7 +50,6 @@
 **Part 1: The Vision & Framework**
 
 ## Introducing: The World Amazing Plan
-> The World Amazing Plan is a universal, open-source, decentralized framework with no ruler, where every human worldwide experiences universal well-being, where essentials are guaranteed, and where work is fulfilling and life carries a profound sense of security and joy.
 
 ### Global Discussion: The First Step to World Amazing
 This plan doesn’t begin with blueprints for new institutions or a ten-point agenda for global reform, though it offers thoughts on both.
