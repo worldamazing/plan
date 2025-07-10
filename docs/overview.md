@@ -1,8 +1,3 @@
-> [!TIP]
-> Want a quicker (but less detailed) overview?
->
-> Consider starting with [this article](https://substack.com/home/post/p-159298678) or with the [top 10 list](https://substack.com/home/post/p-159858774).
-
 # Overview: World Amazing
 
 ## Table of Contents
@@ -32,17 +27,23 @@
 - [Step Two: Funding the Core Fund and Beyond](#step-two-funding-the-core-fund-and-beyond)
 - [Step Three: Implementation Phases](#step-three-implementation-phases)
 - [Step Four: World Amazing](#step-four-world-amazing)
+
+**Part 5: Transition Vision**  
 - [How the Plan Unfolds](#how-the-plan-unfolds)
 
-**Part 5: The Challenges Ahead**  
+**Part 6: The Challenges Ahead**  
 - [The Global Challenge of Deception](#the-global-challenge-of-deception)
 - [Authority Within Family Structures](#authority-within-family-structures-seeding-the-patterns-of-hierarchy-and-deception)
 
-**Part 6: Closing Remarks and Q/A**  
+**Part 7: Closing Remarks and Q/A**  
 - [Closing Remarks](#closing-remarks)
 - [Questions and Answers](#questions-and-answers)
 - [Updates](#updates)
-   
+
+---
+> [!TIP]
+> Want a quicker (but less detailed) overview? Consider starting with [this article](https://substack.com/home/post/p-159298678) or with the [top 10 list](https://substack.com/home/post/p-159858774).
+
 
 ---
 **Part 1: The Vision & Framework**
@@ -483,6 +484,9 @@ In this future:
 By rooting the world in trust, collaboration, and abundance, the GI will help humanity transition into this amazing future. Living amazing is not just a goal but the natural result of a society built to nurture the boundless potential of all its members.
 
 
+---
+**Part 5: Transition Vision**  
+
 ## How the Plan Unfolds
 Following the path laid out in the *Four Critical Steps*, the implementation of the World Amazing Plan will naturally unfold in distinct, powerful phases.
 
@@ -494,7 +498,7 @@ By the end of this decade, humanity will not only have healed but will be on a p
 
 
 ---
-**Part 5: The Challenges Ahead**
+**Part 6: The Challenges Ahead**
 ## The Global Challenge of Deception
 Central to the success of the GI framework is addressing the root issue that holds humanity back: *deception*.
 
@@ -570,7 +574,7 @@ By illuminating the generational transmission of deceptive authority, it becomes
 
 
 ---
-**Part 6: Closing Remarks and Q/A**
+**Part 7: Closing Remarks and Q/A**
 
 ## Closing Remarks
 This plan transcends the arbitrary borders that have long divided humanity, embracing the common values that unite us on this singular, shared planet, dispensing national boundaries to envelop every corner of the globe, championing a world that regards each individual equally, without preference or prejudice.
