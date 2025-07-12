@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This document has been ***deprecated*** and all contents have been integrated into the [overview](/docs/overview.md)
+
 # On Restoration, Healing, and Reimagining Justice
 In a Global Institution (GI) world, the concept of justice is no longer tied to punishment, fear, or retribution. Instead, justice is reimagined as a communal process of healing and restoration. It is about mending the relationships between individuals and communities, addressing the root causes of harm, and fostering a society where every individual has the opportunity to grow, contribute, and thrive.
 
