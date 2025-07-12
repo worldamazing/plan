@@ -1,5 +1,5 @@
 # World Amazing: A Global Institution, Plan, and Framework
-> A 100% open-source framework to make life amazing for all worldwide including living extremely comfortable, safe, free, warless, and amazing.
+> The World Amazing Plan is a universal, open-source, decentralized framework with no ruler, where every human worldwide experiences universal well-being, where essentials are guaranteed, and where work is fulfilling and life carries a profound sense of security and joy.
 
 <!--
 > Includes reducing essential work for everyone to 2 days per week on average, fostering early retirement from intensive physical or mental labor into mentorship roles by age 50, and eliminating base essential living expenses such as housing, utilities, healthcare, education, casualwear, groceries, yearly vacations, and pet health coverage.
@@ -18,8 +18,10 @@
 - [**Step 3: Building Everything and Anything**](docs/implementation.md)
 - **Step 4: Learning to Live Amazing**
 
+<!--
 ## Core Values
 - [**On Restoration, Healing, and Reimagining Justice**](/docs/values/justice.md)
+-->
 
 ## Ways To Get Involved Today
 - **Engage on GitHub**: Visit the [discussion board](https://github.com/worldamazing/plan/discussions), star this repo, or follow [@worldamazing](https://github.com/worldamazing) on GitHub. Creating a GitHub account is 100% free. <!--and requires no prior knowledge using [distributed control software](https://simple.wikipedia.org/wiki/Distributed_revision_control) like git.-->
