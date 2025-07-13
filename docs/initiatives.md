@@ -6,7 +6,7 @@
 > This is what it looks like when we start building a world based on truth, cooperation, and the boundless potential of the human spirit.
 
 > [!TIP]
-> This section offers deeper insight into key initiatives of the World Amazing Plan. For a full walkthrough of the plan’s structure, vision, and path forward, see the [overview](/docs/overview.md).
+> *This section offers deeper insight into key initiatives of the World Amazing Plan. For a full walkthrough of the plan’s structure, vision, and path forward, see the [overview](/docs/overview.md).*
 
 
 ## Table of Contents
