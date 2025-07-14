@@ -1,12 +1,12 @@
+> [!TIP]
+> *This section offers deeper insight into key initiatives of the World Amazing Plan. For a full walkthrough of the plan’s structure, vision, and path forward, see the [overview](/docs/overview.md).*
+
 # World Amazing Initiatives: Key Features of the Global Institution
 > The initiatives outlined in this document are not merely a list of ambitious projects. They represent the natural, creative, and collaborative outpouring of a humanity that has begun the foundational work of healing its shared historical distortions through the Global Discussion, **the foundational first step of the World Amazing Plan.**
 >
 > These are the systems and structures that become possible when scarcity, fear, and hierarchy are no longer the primary organizing principles of society. Each department and initiative is designed not just for function, but to actively support and sustain the clarity, well-being, and connection achieved through our collective transformation.
 >
 > This is what it looks like when we start building a world based on truth, cooperation, and the boundless potential of the human spirit.
-
-> [!TIP]
-> *This section offers deeper insight into key initiatives of the World Amazing Plan. For a full walkthrough of the plan’s structure, vision, and path forward, see the [overview](/docs/overview.md).*
 
 
 ## Table of Contents
