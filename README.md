@@ -4,17 +4,15 @@
 
 ## Key Documents
 - [**Overview**](docs/overview.md)  
-    *The foundational document for the entire plan. This is the comprehensive guide to the plan's philosophy, its core framework, the step-by-step transition plan, and a detailed Q&A section. Start here.*
+    *The foundational document for the entire plan. This is the comprehensive guide to the plan's philosophy, its core framework, the step-by-step transition plan, and a detailed Q&A section.*
 - [**Global Initiatives**](docs/initiatives.md)  
     *A deep dive into the specific, large-scale projects and departments that will be created within the framework, from housing and healthcare to fun and manufacturing.*
 
 
-## Get Involved
-- **Engage on GitHub**: Visit the [discussion board](https://github.com/worldamazing/plan/discussions), star this repo, or follow [@worldamazing](https://github.com/worldamazing) on GitHub. Creating a GitHub account is 100% free. <!--and requires no prior knowledge using [distributed control software](https://simple.wikipedia.org/wiki/Distributed_revision_control) like git.-->
-
-- **Think About It**: Take time to reflect on the plan and how it resonates with your personal experiences and aspirations. Ponder potential challenges and opportunities.
-
-- **Talk About It**: Once you've thought about it, discuss the World Amazing plan online and in person with others willing to have a discussion on creating a world that would be incredible for all.
+## Help Get This Started
+- **Think About It**: Take time to reflect on the plan and how it resonates with your personal experiences and aspirations.
+- **Talk About It**: Once you've thought about it, discuss the World Amazing plan with others online and in person.
+- **Engage on GitHub**: Visit the [Discussions](https://github.com/worldamazing/plan/discussions), star this repo, or follow [@worldamazing](https://github.com/worldamazing) on GitHub.
 
 
 ## Welcome Message
