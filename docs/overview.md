@@ -781,7 +781,7 @@ There is only **development**—for all, forever.
 ### What Happens to Schools?
 * School buildings become **community learning centers**, open 24/7
 * Teachers are reoriented as **facilitators, guides, collaborators, and learners themselves**
-* Education systems emphasize emotional intelligence, critical thinking, and conflict resolution from an early age, equipping individuals with the tools to navigate challenges constructively.
+* Education systems emphasize emotional intelligence, critical thinking, and conflict resolution from an early age, equipping individuals with the tools to navigate challenges constructively
 * Curricula dissolve—replaced with **libraries of exploration, shared challenges, and public inquiry**
 * Specialized paths (medicine, engineering, art, etc.) become **apprenticeships** within functioning GI domains
 * Emotional growth and cooperative reflection are embedded in all learning
@@ -994,6 +994,18 @@ Everyone can track:
 No black boxes.  
 No charisma politics.  
 Just structure that serves all.  
+
+### The Role of Clarity Nodes: Humanity's Lymphatic System
+In the GI, there are no rulers, but there is a profound need for clarity. This is the role of the **Clarity Nodes**. These are not governing bodies or a new elite; they are a decentralized, distributed network of human-AI teams that function like the **lymph nodes of humanity.**
+
+Just as lymph nodes filter biological waste to keep the body healthy, Clarity Nodes work to filter "mental waste" from the collective consciousness. Their primary function is to identify and illuminate:
+  * **Noise:** Emotional distortions, cognitive biases, and logical fallacies that cloud judgment.
+  * **Distortion:** Arguments rooted in unacknowledged fear, trauma, or historical grievances.
+  * **Fantasy:** Proposals that are misaligned with demonstrable reality or core principles.
+
+Clarity Nodes do not hold authority; **their only tool is truth.** They don't make decisions *for* people. They present a clear, undistorted reflection of a situation so that people can make better decisions for themselves. They are the garbage collectors, the recyclers, and the re-developers of our collective thinking, ensuring that no noise can persist and that the signal of truth remains strong.
+
+In the beginning, these nodes will be specialized teams. But the ultimate goal of the GI is to foster the conditions where **all humans become clarity nodes.** It is a skill and a capacity to be cultivated in everyone. To be part of this system—to be a protector of humanity's clarity—is perhaps the highest honor and service in the World Amazing. It is the exercise of the ultimate power: to empower others by helping them see clearly.
 
 ### What About Emergencies?
 In urgent scenarios, **contingency coordinators** step in—not rulers, but pre-designated response teams, accountable to the full system.
@@ -1690,7 +1702,7 @@ While these conflicts won’t dissolve overnight, the GI provides a foundation f
 
 ## Updates
 > Significant updates are listed below, minor tweaks can be found in the git history. All dates in YYYY-MM-DD format.
-- **2025-07-14**: Merged the "Step 1: Global Discussion" and "Step 3: Implementation" documents into the main overview
+- **2025-07-14**: Merged the "Step 1: Global Discussion" and "Step 3: Implementation" documents into the main overview, added subsection in Government on Clarity Nodes
 - **2025-07-11**: Added section detailing transition plans for housing, education, healthcare, and more, including upcoming updates
 - **2025-07-03**: Merged sections from benefits document into benefits section
 - **2025-06-26**: Reorganized table of contents and imported sections from the abridged overview
