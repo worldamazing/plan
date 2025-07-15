@@ -18,14 +18,15 @@
 
 **Part 3: The GI Operating System**
 - [What We Need From Everyone](#what-we-need-from-everyone)
-- [The One-Time Contribution: $25,000 for a Lifetime of Freedom](#the-one-time-contribution-25000-for-a-lifetime-of-freedom)
 - [The Role of Work in the GI: 2 Days A Week Only](#the-role-of-work-in-the-gi-2-days-a-week-only)
+- [The GI Economy: Value, Growth, and Contribution](#the-gi-economy-value-growth-and-contribution)
 - [Projects: Your Freedom to Build Anything](#projects-your-freedom-to-build-anything)
+- [The Structure of the GI: A Decentralized Ecosystem, Not a Monolith](#the-structure-of-the-gi-a-decentralized-ecosystem-not-a-monolith)
 - [The End of Taxes](#the-end-of-taxes)
 
 **Part 4: Four Critical Steps to World Amazing**  
 - [Step One: Global Discussion: The Transformation of Self](#step-one-global-discussion-the-transformation-of-self)
-- [Step Two: Funding the Core Fund and Beyond](#step-two-funding-the-core-fund-and-beyond)
+- [Step Two: Securing the Core Fund](#step-two-securing-the-core-fund)
 - [Step Three: Implementation Phases: Building Everything and Anything](#step-three-implementation-phases-building-everything-and-anything)
 - [Step Four: World Amazing](#step-four-world-amazing)
 
@@ -282,51 +283,12 @@ This approach ensures that the concept of luxury evolves to uplift everyone. Car
 Building a thriving world requires both shared investment and collective effort from every member.  
 
 For all to live in an amazing world, all that’s needed from everyone worldwide is:  
-1. A reasonable, **one-time financial contribution**  
-2. A commitment to **meaningful, shared work**
+  1. A commitment to **meaningful, shared work of 2/days per week**  
+  2. A reasonable, **one-time financial contribution of $25,000 USD**  
 
 This plan isn’t about charity, taxation, or sacrifice.
 
 It’s about building a system that works for all of us, from those with the least, to everyday working families, to those living in extreme abundance.
-
-
-## The One-Time Contribution: $25,000 for a Lifetime of Freedom
-In the GI, no one pays taxes. No one pays rent. No one pays medical bills or tuition. Instead, each member makes a **single, one-time contribution of $25,000**—and that’s it. You’re covered for life.
-
-This isn’t a fee. It’s a key. It unlocks everything you need to live fully: a home, healthcare, education, clean energy, sustainable infrastructure, community spaces, and access to opportunity.
-
-### Can’t pay? You’re still welcome.
-- Pay over time with no interest.  
-- Earn your way in through meaningful work.  
-- Receive sponsorship or equity-based support.
-
-### How Will the Money Be Used?
-- Every contribution is placed into a personal fund under the member’s control, ensuring fully transparent and democratic spending decisions.
-- Your money is your vote. No spending decision is made without your vote.
-- No portion will be allocated to personal salaries or private enrichment.
-- All contributions will be used to acquire resources, build infrastructure, and create self-sustaining communities.
-
-### A Smarter System, A Better Deal
-For most people, **$25,000 is less than what they currently spend in a single year on rent, medical bills, and education.** Over a lifetime, the cost to cover these in today’s economy could amount to hundreds of thousands of dollars, if not millions.
-
-In the GI, that same amount **buys your freedom—forever.**
-
-### What Does This Cover?
-Your contribution funds **everything essential for a lifetime of security and fulfillment**:  
-- **Your home—owned, not rented.** No mortgages. No landlords. Just stability.  
-- **Healthcare—for life.** The highest quality care, fully covered. Worldwide.  
-- **Education—at any level.** Learn anything, anytime, at no cost.  
-- **Thriving communities.** Parks, libraries, cultural centers, public transportation, and more.  
-- **Sustainability & innovation.** Investing in clean energy, automation, and global well-being.
-
-In the GI, your one-time contribution **covers you for life.**
-
-### The Bottom Line
-The GI **eliminates inefficiencies, pools resources globally, and ensures that every dollar builds a world where no one is left behind.**
-
-This isn’t about funding the current system.  
-It’s about **co-creating a new one where we all thrive.**  
-**The GI is a new world economy.**
 
 
 ## The Role of Work in the GI: 2 Days A Week Only
@@ -367,6 +329,93 @@ All GI work will focus on **building and maintaining the systems that benefit ev
 > **In the GI, work is no longer about survival—it is about purpose, creativity, and progress.**
 
 
+## The GI Economy: Value, Growth, and Contribution
+
+### The Core Fund: Our Shared Foundation
+In the GI, no one pays taxes. No one pays rent. No one pays medical bills or tuition. Instead, each member makes a **single, one-time contribution of $25,000**—and that’s it. You’re covered for life.
+
+This isn’t a fee. It’s a key. It unlocks everything you need to live fully: a home, healthcare, education, clean energy, sustainable infrastructure, community spaces, and access to opportunity.
+
+#### Can’t pay? You’re still welcome:
+- Pay over time with no interest.  
+- Earn your way in through meaningful work.  
+- Receive sponsorship or equity-based support.
+
+#### How Will the Money Be Used?
+- Every contribution is placed into a personal fund under the member’s control, ensuring fully transparent and democratic spending decisions.
+- Your money is your vote. No spending decision is made without your vote.
+- No portion will be allocated to personal salaries or private enrichment.
+- All contributions will be used to acquire resources, build infrastructure, and create self-sustaining communities.
+
+#### A Smarter System, A Better Deal:
+For most people, **$25,000 is less than what they currently spend in a single year on rent, medical bills, and education.** Over a lifetime, the cost to cover these in today’s economy could amount to hundreds of thousands of dollars, if not millions.
+
+In the GI, that same amount **buys your freedom—forever.**
+
+#### What Does This Cover?
+Your contribution funds **everything essential for a lifetime of security and fulfillment**:  
+- **Your home—owned, not rented.** No mortgages. No landlords. Just stability.  
+- **Healthcare—for life.** The highest quality care, fully covered. Worldwide.  
+- **Education—at any level.** Learn anything, anytime, at no cost.  
+- **Thriving communities.** Parks, libraries, cultural centers, public transportation, and more.  
+- **Sustainability & innovation.** Investing in clean energy, automation, and global well-being.
+
+In the GI, your one-time contribution **covers you for life.**
+
+#### The Bottom Line:
+The GI **eliminates inefficiencies, pools resources globally, and ensures that every dollar builds a world where no one is left behind.**
+
+This isn’t about funding the current system.  
+It’s about **co-creating a new one where we all thrive.**  
+**The GI is a new world economy.**
+
+
+### Scale and Strategy of the Core Fund
+To lay the foundation for a world free from bills and taxes, the GI framework is designed to mobilize resources on an unprecedented scale. The initial goal is to engage at least one billion people—about 10% of the global population—to build a core fund of **$25 trillion** (*1 billion people * $25k = $25 trillion*).
+  - **Sustainable Spending & Growth:** From this core fund, a sustainable **4% (or $1 trillion annually)** will be used to acquire resources and build out the initial infrastructure from 2025 to 2050. This ensures long-term stability and ample time to establish the GI framework. This fund will not be used to pay core salaries, as all essentials are provided to members through the internal GI marketplace.
+  - **Universal & Inclusive Pathways:** The goal is for every human to have a core fund of $25k under their management. For those unable to contribute financially immediately, membership can be achieved through accessible pathways like multi-year investment plans, scholarships for past societal contributions, or voluntary work commitments beyond the GI's 2-day workweek.
+  - **Scaling for Global Impact:** As the GI grows and every member of humanity contributes, the collective's capacity expands exponentially. This would scale the operating budget to about **$8 trillion annually** (*~8 billion people * $25k * 4% yearly = $8 trillion*), enabling us to address humanity's most pressing needs and foster innovation on a global scale.
+
+
+### Beyond the Core: Project Funds & Personal Growth
+Members have the opportunity to grow their personal funds by engaging in or starting projects within the GI. This system encourages innovation, creativity, and collaborative entrepreneurship while aligning personal success with the broader goals of the GI.
+
+While no member will require a salary or additional personal funds to cover essential living costs, since these are provided by the institution, the ability to earn through contributions to institution projects ensures that members can achieve financial growth and personal development within the GI framework.
+
+
+### A New Definition of Wealth: The Tiered Membership System
+The GI reimagines wealth as a tool for collective progress, dismantling old paradigms of exclusivity and inequality. Members can ethically accumulate financial resources, knowing their success contributes to both personal prosperity and the greater good. By encouraging all members to build wealth through meaningful contributions, the GI ensures that financial success is accessible to all, fostering a community where resources are used ethically to support inclusivity, sustainability, and global improvement.
+
+#### Higher Membership Levels:
+The GI framework introduces a tiered membership system designed to recognize various forms of member contributions. Members can ascend to higher levels through one of three ways: direct financial contributions, revenue from successful GI projects, or recognition for exceptional non-financial contributions.
+
+Each level signifies a deeper engagement with and contribution to the GI, carrying perks and increased financial influence within the community. The specifics of the benefits associated with each tier will be developed collaboratively within the GI community, ensuring they reflect the collective values and goals of all members.
+
+The proposed levels include:
+- **$25,000** (*the core membership level*)
+- **$100,000**
+- **$1 million**
+- **$10 million**
+- **$100 million**
+- **$1 billion**
+- **$10 billion**
+- **$100 billion**
+- **Beyond $100 billion**
+
+#### Pathways to Higher Membership Levels:
+Members can achieve higher tiers through one of three primary pathways:
+
+1. **Direct Financial Contributions:** Members can achieve higher membership levels by directly investing amounts that correspond to specific tiers. For example, by investing $100,000, a member qualifies for the corresponding membership level. This investment grants them the ability to personally spend an equivalent amount ($100,000) in the GI marketplace. Due to the GI's operational efficiencies and the unique economic model, spending within the GI marketplace will offer a higher value compared to traditional markets. This means that the $100,000 spent in the GI marketplace could have the purchasing power equivalent to a significantly higher amount in a conventional market, effectively doubling or even tripling the value of their spending. Thus, their initial financial contribution not only supports the GI’s projects and initiatives but also retains substantial value for personal use within the ecosystem, preserving and likely enhancing their purchasing power.
+
+2. **Revenue from GI Projects:** Members can achieve higher membership levels by leading or significantly contributing to projects that generate revenue within the GI. For instance, to reach the $100,000 tier, a member would need their project to generate a net profit of $200,000. This profit is then divided equally, with $100,000 going into the member's GI project fund, which they directly control and can use to fund future projects or initiatives. The other $100,000 is credited to their personal salary fund, available for use within the GI marketplace or for personal saving. This structure rewards members for successful project outcomes and enhances their financial influence within the GI.
+
+3. **Recognition for Outstanding Contributions:** Members who make significant non-financial contributions, such as exceptional community service, innovation, or leadership, can be elevated to higher membership levels in recognition of their efforts. For instance, if a member's contributions are deemed extraordinary enough to warrant elevation to the $100,000 level, they will be awarded $100,000 for their personal project fund and an additional $100,000 in their salary fund. This acknowledgment ensures that invaluable contributions of skills, expertise, and leadership are rewarded equivalently to financial investments, empowering these members to have a greater impact within the GI while enjoying enhanced benefits in the GI marketplace.
+
+#### Benefits of Higher Levels:
+- **Enhanced Economic Impact**: The influx of funds from these higher tiers significantly expands the GI's financial capabilities, enabling a broader range of ambitious projects and infrastructure developments. This additional capital ensures that the GI can pursue large-scale endeavors that might be beyond the scope of the initial core fund, from advanced technological research to expansive ecological restoration projects.
+- **Strategic Goal: Transition to GI Economy**: The ultimate objective of introducing these tiers is to encourage the transition of personal, corporate, and institutional funds from traditional economies into the GI economy. By offering superior value and impact per dollar spent within the GI marketplace, the framework aims to render traditional economic systems obsolete. This shift not only consolidates the GI's economic base but also aligns global financial resources with sustainable and equitable growth, making the GI a central hub for future economic activity worldwide.
+
+
 ## Projects: Your Freedom to Build Anything
 In the GI, anyone can start a project at any time—without needing permission, approval, or bureaucracy.  
   
@@ -393,6 +442,16 @@ Projects are where **you** bring your genius to life—and where the GI proves i
 
 > We’re not just replacing systems.  
 > We’re replacing limitation—with possibility.
+
+
+## The Structure of the GI: A Decentralized Ecosystem, Not a Monolith
+The name "Global Institution" might conjure images of a single, massive, top-down bureaucracy. The reality is the opposite. The GI is not a monolith; it is a **decentralized, open-source protocol for cooperation.**
+
+Think of it like the Internet itself. The Internet isn't one giant computer. It's a countless number of independent computers all agreeing to speak the same language (protocols like TCP/IP) to form a single, seamless network.
+
+Similarly, the GI is a **federation of thousands of autonomous hubs.** A local housing co-op in Los Angeles, a research center in Nairobi, and a manufacturing facility in Berlin are all distinct entities. They are self-governing and responsive to local needs, but they are all connected by the shared principles, resources, and communication standards of the GI framework.
+
+This structure is designed for resilience and freedom. There is no central point of control. Instead, there is a shared commitment to a set of core values—transparency, truth, and universal well-being—that allows for unprecedented global coordination without sacrificing local autonomy. The GI isn't a world government; it's the framework that allows humanity to govern itself.
 
 
 ## The End of Taxes
@@ -460,22 +519,14 @@ To ensure maximum participation, continuous feedback mechanisms will be in place
   - **Full Accessibility:** All physical and virtual venues will be fully accessible, with sign language interpreters and materials in multiple formats.
 
 
-## Step Two: Funding the Core Fund and Beyond
-The GI aims to raise $25 trillion by engaging at least one billion people worldwide, each contributing $25,000. This contribution is not a fee, but an investment in a future free from taxes or bills for essentials like housing, healthcare, education, and food, creating a foundation for universal prosperity.
+## Step Two: Securing the Core Fund
+The second critical step is the collective act of capitalizing our new world. This involves a global mobilization effort to establish the GI's **Core Fund**, the foundational resource pool that will make the transition possible.
 
-- **Transparent and Controlled Contributions**: Every contribution is placed into a personal fund under the member’s control, ensuring fully transparent and democratic spending decisions. The funds will be used solely to acquire resources, build infrastructure, and create self-sustaining communities, with no portion allocated to personal salaries or private enrichment. From the $25 trillion fund, 4%, or $1 trillion annually, or $1000 per person from the $25,000 investment, will sustain operations and projects from 2025 to 2050, providing ample time to establish and expand the GI’s framework.
+The initial target is to engage at least **one billion people** to build a fund of **$25 trillion**. This is achieved through the one-time, $25,000 Core Contribution from each member, a mechanism detailed in the GI Operating System.
 
-- **Inclusivity Through Earned Membership**: The goal is for all members, not just 10% of the world population, to have a core fund of $25,000 under their control. For those unable to pay upfront, membership can be earned through multi-year investment plans, scholarships recognizing past contributions to society, or additional work commitments within the GI. With members working an average of just two days a week, these commitments can be fulfilled quickly, ensuring everyone can meet their core fund investment. This approach removes financial barriers, enabling full participation in allocating core funds toward projects and guaranteeing all members an equal voice in governance and decision-making.
+This fund is not an abstract pool of money; it is the engine for Step Three. It will be drawn upon sustainably, with a projected **4% annual budget**, to acquire the land, resources, and technology needed to build the first self-sustaining communities.
 
-- **Scaling the GI’s Impact**: With every member of humanity joining the GI and having $25,000 in their core fund, the GI’s capacity for global impact grows exponentially. This would allow the GI to increase its yearly spending from $1 trillion annually to nearly $10 trillion annually, expanding its ability to address humanity’s most pressing needs and foster innovation on a global scale.
-
-- **Revenue Sharing and Personal Growth**: Members can also grow their personal funds by participating in or initiating GI projects. Those who contribute to projects that generate revenue retain full control over all profits, which are split 50/50. Half of the earnings are directed toward funding additional GI initiatives, with control remaining in the hands of the project members, while the other half is added to their personal funds. These personal funds also remain under the member’s control, allowing them to decide how to use their earnings for non-essential purchases in the GI marketplace that are not covered by the GI core fund.
-
-- **Incentivized Membership Tiers**: Higher membership levels beyond the core GI membership will be available to reflect deeper engagement. These levels can be achieved through direct contributions, project revenues, or exceptional service. This tiered membership system incentivizes active participation and ensures that project success directly benefits both individual members and the broader GI community, expanding the GI’s global impact.
-
-- **A Global Commitment to Cooperation**: By creating a system of voluntary contributions driven by shared purpose and accountability, the GI fosters a global commitment to cooperation and shared prosperity. Individuals with greater financial resources are encouraged and incentivized to contribute more, reflecting a collective responsibility to create a better future for all, while providing those who contribute larger amounts greater value in the GI market than external markets. Goods and services within the GI will be higher quality and lower priced than existing economies.
-
-For a deeper dive into funding, visit the [World Amazing Funding](https://github.com/worldamazing/plan/blob/main/docs/funding.md) document.
+This step is the practical test of our collective will. It is the moment humanity decides to invest not in old, failing systems, but directly in its own shared, amazing future.
 
 
 ## Step Three: Implementation Phases: Building Everything and Anything
@@ -1702,6 +1753,7 @@ While these conflicts won’t dissolve overnight, the GI provides a foundation f
 
 ## Updates
 > Significant updates are listed below, minor tweaks can be found in the git history. All dates in YYYY-MM-DD format.
+- **2025-07-15**: Merged in the "Step 2" funding document, slimmed overview Step 2 section, and added section on the GI as a monolith
 - **2025-07-14**: Merged the "Step 1: Global Discussion" and "Step 3: Implementation" documents into the main overview, added subsection in Government on Clarity Nodes
 - **2025-07-11**: Added section detailing transition plans for housing, education, healthcare, and more, including upcoming updates
 - **2025-07-03**: Merged sections from benefits document into benefits section
