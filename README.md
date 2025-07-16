@@ -1,6 +1,14 @@
-# World Amazing: A Global Institution, Plan, and Framework
+# World Amazing Plan: A Global Framework
 > The World Amazing Plan is a universal, open-source, decentralized framework with no ruler, where every human worldwide experiences universal well-being, where essentials are guaranteed, and where work is fulfilling and life carries a profound sense of security and joy.
 
+## Key Highlights
+   - **2-Day Workweek:** From weekend to workend, with five days for life, creativity, and rest.
+   - **Lifetime Essentials Covered:** Health, education, housing, utilities, and food are guaranteed rights, not monthly bills.
+   - **One-Time Contribution for Lifetime Freedom:** No rent, no mortgage, no medical debt, and no taxes—ever again.
+   - **True Home Ownership for All:** You’re not a tenant or a debtor. You’re a steward of your own place.
+   - **A World Without Rulers:** A decentralized, transparent system where truth, not authority, guides our decisions.
+   - **The End of Systemic Distortion:** A global discussion to heal our shared past and unlock our collective clarity.
+   - **Radical Creative Freedom:** The time, space, and resources to build anything you can imagine.
 
 ## Key Documents
 - [**Overview**](docs/overview.md)  
@@ -11,7 +19,7 @@
 
 ## Help Get This Started
 - **Think About It**: Take time to reflect on the plan and how it resonates with your personal experiences and aspirations.
-- **Talk About It**: Once you've thought about it, discuss the World Amazing plan with others online and in person.
+- **Talk About It**: Discuss the World Amazing plan with others online and in person.
 - **Engage on GitHub**: Visit the [Discussions](https://github.com/worldamazing/plan/discussions), star this repo, or follow [@worldamazing](https://github.com/worldamazing) on GitHub.
 
 
