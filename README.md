@@ -24,7 +24,7 @@
 
 
 ## Welcome Message
-> Welcome to the World Amazing framework, plan, and global institution: designed to elevate and harmonize the way we live, work, and interact within our global community.
+> Welcome to the World Amazing Plan: designed to elevate and harmonize the way we live, work, and interact within our global community.
 > 
 > The World Amazing mission is fundamentally shaped by the will of the people. This plan is not a rigid directive but an open proposal, inviting everyone to engage, contribute, and refine our shared journey toward global transformation.
 > 
@@ -32,12 +32,6 @@
 
 
 <!--
-## Four Critical Steps to World Amazing
-- [**Step 1: Worldwide Public Discussions**](docs/discussions.md)
-- [**Step 2: Funding and Governance**](docs/funding.md)
-- [**Step 3: Building Everything and Anything**](docs/implementation.md)
-- **Step 4: Learning to Live Amazing**
-
 ## Our Potential Future
 - [**Mental Health**](docs/vision/mental-health.md)
 - [**Creativity and Human Potential**](docs/vision/human-potential.md)
