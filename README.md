@@ -19,7 +19,7 @@
 
 ## Help Get This Started
 - **Think About It**: Take time to reflect on the plan and how it resonates with your personal experiences and aspirations.
-- **Talk About It**: Discuss the World Amazing plan with others online and in person.
+- **Talk About It**: Discuss the World Amazing Plan with others online and in person.
 - **Engage on GitHub**: Visit the [Discussions](https://github.com/worldamazing/plan/discussions), star this repo, or follow [@worldamazing](https://github.com/worldamazing) on GitHub.
 
 
