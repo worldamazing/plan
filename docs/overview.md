@@ -1943,9 +1943,3 @@ While these conflicts won’t dissolve overnight, the GI provides a foundation f
 [worldamazing.org](https://worldamazing.org)
 | [plan](https://github.com/worldamazing/plan)
 | [contact](mailto:hello@worldamazing.org)
-
-
-
-- [The Resistance to Clarity: Fear of Exposure and the Ego's Last Stand](#the-resistance-to-clarity-fear-of-exposure-and-the-egos-last-stand)
-- [First Aid for Clarity: How to Receive Truth When It Finally Arrives](#first-aid-for-clarity-how-to-receive-truth-when-it-finally-arrives)
-- [The Challenge of the First Generation:
