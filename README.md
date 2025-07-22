@@ -9,8 +9,8 @@
    - **A World Without Rulers:** A decentralized, transparent system where truth, not authority, guides our decisions.
    - **The End of Systemic Distortion:** A global discussion to heal our shared past and unlock our collective clarity.
    - **Radical Creative Freedom:** The time, space, and resources to build anything you can imagine.
-   - **One Shared World** – No defended borders, no artificial scarcity. Just place, time, and people.
-   - **A New Human Rhythm** - When fear, shame, anger, blame and misplaced pride fall away, a united humanity can finally begin.
+   - **One Shared World**: No defended borders, no artificial scarcity. Just place, time, and people.
+   - **A New Human Rhythm**: When fear, shame, anger, blame and misplaced pride fall away, a united humanity can finally begin.
 
 ## Key Documents
 - [**Overview**](docs/overview.md)  
