@@ -4,13 +4,14 @@
 ## Key Highlights
    - **2-Day Workweek:** From weekend to workend, with five days for life, creativity, and rest.
    - **Lifetime Essentials Covered:** Health, education, housing, utilities, and food are guaranteed rights, not monthly bills.
-   - **One-Time Contribution for Lifetime Freedom:** No rent, no mortgage, no medical debt, and no taxes—ever again.
+   - **One-Time Contribution for Lifetime Freedom:** No rent, no mortgage, no medical debt, and no taxes, ever again.
    - **True Home Ownership for All:** You’re not a tenant or a debtor. You’re a steward of your own place.
    - **A World Without Rulers:** A decentralized, transparent system where truth, not authority, guides our decisions.
    - **The End of Systemic Distortion:** A global discussion to heal our shared past and unlock our collective clarity.
    - **Radical Creative Freedom:** The time, space, and resources to build anything you can imagine.
    - **One Shared World**: No defended borders, no artificial scarcity. Just place, time, and people.
    - **A New Human Rhythm**: When fear, shame, anger, blame and misplaced pride fall away, a united humanity can finally begin.
+
 
 ## Key Documents
 - [**Overview**](docs/overview.md)  
