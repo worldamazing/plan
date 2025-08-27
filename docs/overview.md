@@ -319,9 +319,9 @@ Below are the core patterns of mental disordering, and the challenge of facing t
 
 
 ## The Armor of Anger: How a Primal Defense Perpetuates Distortion
-Because core shame is unbearable, the psyche develops powerful strategies to avoid feeling it. While some turn this feeling inward, leading to depression or collapse, many utilize a more active and external defense: **anger**.
+Anger is almost never what it appears to be. In a distorted world, it is rarely a primary emotion. Instead, it is the armor of the fractured self—a powerful, fiery shield developed by the psyche for one primary purpose: **to avoid the unbearable feeling of core shame.** It is the brilliant, tragic strategy of a mind that has learned it is safer to feel powerful and righteous in its rage than to feel small and flawed in its vulnerability.
 
-Anger is the armor of the fractured self. It is a shield of fire that serves two purposes:
+It is a shield of fire that serves two purposes:
   - **It transforms the pain:** It takes the powerless feeling of "I am bad" and projects it outward into the powerful, righteous feeling of "You are wrong."
   - **It creates distance:** It pushes others away, preventing anyone from getting close enough to see the fragile, wounded self it protects.
     
