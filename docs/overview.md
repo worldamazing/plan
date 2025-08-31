@@ -1,5 +1,12 @@
-# Overview: World Amazing
-> This document outlines a plan for everyone. For the child with their whole life ahead and the elder who feels life has passed them by. For the cynic and the dreamer. For the powerful and the powerless. It is a framework for a world where truly **no one is left behind.** *Its purpose is not just to reform our governments or fix our healthcare. It is a plan to restore our collective spirit and to build a world of breathtaking beauty, joy, and safety.*
+> [!IMPORTANT]
+> *This is a living document. Feedback is welcome via [discussions](https://github.com/worldamazing/plan/discussions) or [email](mailto:hello@worldamazing.org)*.
+>
+> *Last major update: [August 30, 2025](#updates)*
+
+# World Amazing: Overview of the Plan, Framework, and Institution
+> This document outlines a plan for everyone. For the child with their whole life ahead and the elder who feels life has passed them by. For the cynic and the dreamer. For the powerful and the powerless. It is a framework for a world where truly **no one is left behind.**
+>
+> *Its purpose is not just to reform our governments or fix our healthcare. It is a plan to restore our collective spirit and to build a world of breathtaking beauty, joy, and safety.*
 > 
 > Imagine cities with streets returned to people, seamlessly connected by extensive public transportation and filled with life: ample parks, community gardens, shaded walkways, comfortable benches, public art, bustling outdoor cafes, and flowing paths for bikes, scooters, and every kind of personal transport. Imagine a world with open roads returned to the human experience for joyful driving along scenic routes, while the logistical burden of deliveries, services, and traffic is handled seamlessly out of sight. Imagine a society so abundant and secure that we can design incredible playful spaces for our companions: lanes around cities where dogs can roam safely, elevated catwalks where cats explore freely, or other initiatives that make the world truly a blissful home for all its inhabitants.
 >
@@ -12,7 +19,8 @@
 
 **Part 1: The Vitals**  
 - [Introducing: The World Amazing Plan](#introducing-the-world-amazing-plan)
-- [The Core Wound: Uncovering the Source Code of Distortion](#the-core-wound-uncovering-the-source-code-of-distortion)
+- [The Core Wound: Our 10,000-Year Cycle of Distortion](#the-core-wound-our-10000-year-cycle-of-distortion)
+- [Shame: The Weight of the Wound](#shame-the-weight-of-the-wound)
 - [The Disorder of a Distorted World](#the-disorder-of-a-distorted-world)
 - [The Armor of Anger: How a Primal Defense Perpetuates Distortion](#the-armor-of-anger-how-a-primal-defense-perpetuates-distortion)
 - [The Fortress of 'No': On the Cynic's Fear of Hope](#the-fortress-of-no-on-the-cynics-fear-of-hope)
@@ -73,7 +81,7 @@
 - [The Resistance to Clarity: Fear of Exposure and the Ego's Last Stand](#the-resistance-to-clarity-fear-of-exposure-and-the-egos-last-stand)
 - [First Aid for Clarity: How to Receive Truth When It Finally Arrives](#first-aid-for-clarity-how-to-receive-truth-when-it-finally-arrives)
 - [The Challenge of the First Generation: Forging Resilience in a World Without Scars](#the-challenge-of-the-first-generation-forging-resilience-in-a-world-without-scars)
-- [What is Human Nature? From Perceived Flaw to Evolutionary Superpower](#what-is-human-nature-from-perceived-flaw-to-evolutionary-superpower)
+- [What is Human Nature? From Perceived Flaw to Our Defining Superpower](#what-is-human-nature-from-perceived-flaw-to-our-defining-superpower)
 
 **Part 8: The Vision Realized: A Glimpse into the World Amazing**
 - [The New Tiers of Civilization](#the-new-tiers-of-civilization)
@@ -83,6 +91,7 @@
 - [Closing Remarks](#closing-remarks)
 - [Questions and Answers](#questions-and-answers)
 - [Updates](#updates)
+
 
 ---
 > [!NOTE]
@@ -95,16 +104,21 @@
 > ### Local First, Globally Connected
 > The World Amazing framework is designed to be implemented at the community level. It is not a top-down global government. Think of it as a powerful, open-source operating system that a city, a region, or even a nation can choose to install on its "local hardware."
 > 
-> Within this model, funds are managed locally, and decisions are made by the people they affect. However, this local autonomy is connected to a global network of cooperation. All communities running on the GI framework agree to a set of universal protocols—a commitment to human rights, ecological stewardship, and the free flow of knowledge—that allow us to tackle planetary-scale challenges together. It is a system designed to be both deeply local and deeply connected.
+> Within this model, funds are managed locally, and decisions are made by the people they affect. However, this local autonomy is connected to a global network of cooperation. All communities running on the framework agree to a set of universal protocols—a commitment to human rights, ecological stewardship, and the free flow of knowledge—that allow us to tackle planetary-scale challenges together. It is a system designed to be both deeply local and deeply connected.
 > 
 > ### Your Role: From Critic to Architect
 > Because this is a framework, your role as the reader is not to be a critic searching for flaws. It is to be an architect exploring possibilities. When you encounter a section that seems incomplete or a challenge that seems unaddressed, resist the urge to declare it a "gap." Instead, accept the invitation to think *with* the framework.
 > 
 > Ask yourself:
-> *   *"Using these first principles, how *could* we solve this?"*
-> *   *"How could my own community adapt and implement this part of the framework?"*
+>  - **How could we solve this?** Using the First Principles (*listed below*), what is a plausible, principle-aligned solution to this challenge?
+>  - **How could we apply this locally?** How could my own city, neighborhood, or community adapt and implement this part of the framework to solve our specific, real-world problems?
+>  - **What is the human experience?** What would it feel like to live in this new system? What new joys, new challenges, or new ways of relating would emerge?
+>  - **What is the next level of detail?** Taking this high-level concept, what would the next layer of the blueprint look like? What are the key operational questions we would need to answer to make this real?
+>  - **What is the most beautiful version of this?** Pushing beyond mere functionality, what would the most creative, joyful, and inspiring expression of this idea be? How do we make this not just work, but sing?
+>
+> This document is a starting point—a robust and well-reasoned **Version 0.96**, the mature and seasoned diagnosis that has looked deeper into the abyss of the human condition and revealed a painful, profound, and sober understanding. It represents a major update from [**Version 0.69**](https://github.com/worldamazing/plan/blob/15cc549263c4a76b725309527ce1753a027374e4/docs/overview.md), a thorough pitch full of passion, though lacking in the real hard work ahead. This current version is now ready for world input to help finalize a **Version 1.0.** From there, it can evolve into Versions 2.0, 3.0, and beyond, as we continuously refine the blueprint for our shared, amazing future.
 > 
-> This document is a starting point—a robust and well-reasoned "Version 1.0." It is presented with the full understanding that many details will be debated, refined, and improved by the collective intelligence of the people who choose to build with it. Its purpose is not to have every answer, but to provide a new direction of thought and a set of tools for finding those answers together.
+> This process requires that many details be debated, refined, and improved by the collective intelligence of the people who choose to build with it. This document's purpose is not to have every answer, but to provide a new direction of thought and a set of tools for finding those answers together.
 >
 > The ultimate goal of this framework is to empower humanity to upgrade everything:
 > - **Our Hardware:** The physical world: our cities, homes, energy, and transportation.
@@ -117,12 +131,27 @@
 > To guide your thinking, keep these **First Principles** of the framework in mind:
 > 
 >   - **The Root of Dysfunction is Distortion:** All major societal problems, from inequality to conflict, are symptoms of a single, underlying foundation of fear, deception, and distorted hierarchy.
->   - **Healing and Building are Symbiotic:** Lasting structural change is only possible on a foundation of healed human consciousness. This internal work is not a prerequisite that must be completed first; **it is the parallel, ongoing process that fuels and is fueled by the tangible work of building a new world. They happen together.**
+>   - **Healing is the Goal, Not the Gate.** The ultimate vision of this plan is a healed humanity. However, the complete psychological transformation of every individual is **not a prerequisite** for the plan to begin. The framework is designed to function and deliver immense value even in a world still in transition. The logistical upgrades—better housing, a smarter economy, a more efficient use of resources—can be implemented in parallel with the deep, ongoing work of healing. The new, safer systems create the conditions for more people to heal, and the newly healed people make the systems run even better. They are a symbiotic, self-reinforcing loop, not a linear sequence.
 >   - **Obsolescence Over Opposition:** Do not fight the old system. The strategy is non-confrontational. Build a new system so compelling, efficient, and humane that it attracts the population and resources, causing the old system to become irrelevant.
 >   - **Transparency is the Immune System:** Secrecy is the medium for corruption and control. Radical transparency is the primary defense against manipulation and the core mechanism for building and maintaining trust.
 >   - **Abundance is a Design Choice:** Scarcity is not a fundamental reality but an artificial construct of our current systems. By eliminating waste and focusing on true needs, universal abundance is achievable.
 >   - **The Real Work is Internal.** The plans for housing, energy, and work are the easier part. The true, essential labor is psychological. This plan is, at its core, a pedagogical tool: a curriculum for cultivating the healed consciousness from which a new world can emerge.
 >   - **The Ultimate Metric is the Human.** Every proposal that follows should be judged by a single question: What kind of human does this system produce? Efficiency at the cost of well-being is a failure. Abundance at the cost of purpose is a failure. The North Star is, and always must be, human flourishing.
+
+
+---
+> [!IMPORTANT]
+> 
+> ## Join The Discussion
+> This framework is not a monologue; it is an invitation to a global dialogue. Your thoughts, critiques, and contributions are not just welcome; they are essential fuel for this project's evolution.
+>
+> Whether you believe this is the most amazing plan you've ever read, or you think it's an impossible dream, your perspective is vital. Here's how you can contribute right now:
+>
+> *   **Challenge the Assumptions:** Interrogate the first principles. Propose alternatives. Find the blind spots and help strengthen the weak points.
+> *   **Engage the Thought Experiment:** Imagine it's real. If you had access to unlimited funding, a willing global workforce, and seamless coordination across cities and nations, what would you build first? What problem would you solve?
+> *   **Translate the Vision:** The most powerful ideas are the ones that spread. Create art. Write stories. Make memes. Discuss it with your friends. Translate the core concepts into the language you speak best. All of these will help begin spreading awareness and soon thereafter impacting hearts and minds.
+> 
+> And finally, bring your clarity, your criticism, and your creativity to the **[GitHub Discussions](https://github.com/worldamazing/plan/discussions)**. Creating a GitHub account is not only free, but also cool 😎
 
 
 ---
@@ -156,7 +185,8 @@
 ---
 **Part 1: The Vitals**
 - [Introducing: The World Amazing Plan](#introducing-the-world-amazing-plan)
-- [The Core Wound: Uncovering the Source Code of Distortion](#the-core-wound-uncovering-the-source-code-of-distortion)
+- [The Core Wound: Our 10,000-Year Cycle of Distortion](#the-core-wound-our-10000-year-cycle-of-distortion)
+- [Shame: The Weight of the Wound](#shame-the-weight-of-the-wound)
 - [The Disorder of a Distorted World](#the-disorder-of-a-distorted-world)
 - [The Armor of Anger: How a Primal Defense Perpetuates Distortion](#the-armor-of-anger-how-a-primal-defense-perpetuates-distortion)
 - [The Fortress of 'No': On the Cynic's Fear of Hope](#the-fortress-of-no-on-the-cynics-fear-of-hope)
@@ -232,11 +262,34 @@ Each part of the World Amazing Plan is designed not just for function, but to he
 To understand the human this system can produce, we must first be honest about the humanity we are working with. The sections that follow in this first part, "The Vitals," are a deep dive into the psychological and emotional landscape of our shared human condition. The journey through this plan begins with a clear, unflinching look at ourselves, beginning with the core wound of our past to the healed human that waits to emerge.
 
 
-## The Core Wound: Uncovering the Source Code of Distortion
-If there is a single obstacle holding humanity back from the amazing world we are capable of creating, it is not a lack of resources, technology, or intelligence. It is a deep, psychological distortion born from our 10,000-year history of hierarchy. Within this distortion, the natural, healthy signal of social **misalignment** no longer leads to a temporary sense of **wrongdoing** and quick repair. Instead, it has mutated into a chronic, toxic state of **shame.** It is this unresolved shame, this feeling of being fundamentally flawed, that drives the elaborate performances we construct to hide our true selves from each other, sometimes leading to anger, hatred, despair, or other non-constructive behaviors.
+## The Core Wound: Our 10,000-Year Cycle of Distortion
+For millennia, we have confronted the great problems of humanity—war, poverty, injustice, environmental destruction—as if they were separate logistical challenges. We have written treaties, created economic models, and built technologies of incredible sophistication, all in an effort to solve them. Yet they persist, mutate, and in many cases, worsen. This suggests our approach has been flawed. We have been treating the symptoms, not the disease.
+
+The World Amazing framework is built on a single, powerful diagnosis: these are not separate problems. They are all symptoms of a single, underlying psycho-social distortion—a fracture in our collective consciousness that occurred roughly 10,000 years ago with the rise of rigid, fear-based hierarchy.
+
+Therefore, to build a world that lasts, we cannot simply pour a new concrete foundation over the same fractured ground. We must first heal the ground itself. The journey through this plan begins not with blueprints for cities, but with a clear-eyed diagnosis of the human condition. We must understand the wound before we can build the world that will heal it.
+
+### The Cycle of Distortion: The Engine of Our Suffering
+This 10,000-year-old wound is not a single emotion, but a toxic, self-perpetuating cycle built on four interconnected forces: **Dominance, Fear, Shame, and Anger.**
+
+1.  **Dominance:** This is the external force that powers the cycle. It is the imposition of will through control, coercion, and the threat of violence. It is the core mechanism of rigid hierarchy, designed to enforce conformity and maintain an unequal distribution of power.
+
+2.  **Fear:** This is the immediate emotional response to a world structured by Dominance. It is the primal, rational terror of punishment, exile, or harm for failing to obey. It is a constant, low-grade survival anxiety that forces us to suppress our authentic selves.
+
+3.  **Shame:** This is the toxic *internalization* of that Fear. When we live in a state of constant fear and self-suppression, the external message of "You are not safe to be yourself" mutates into the internal belief that *"I am fundamentally flawed and unworthy."* Shame is the weight of the wound, the feeling of being misaligned from humanity itself.
+
+4.  **Anger:** This is the primary armor we forge to protect ourselves from the unbearable pain of Shame. It is a powerful, fiery defense mechanism that projects the internal wound outward as external blame. It takes the powerless feeling of "I am bad" and transforms it into the powerful, righteous feeling of "You are wrong."
+
+This four-part cycle - **Dominance -> Fear -> Shame -> Anger** - is the source code of our collective dysfunction. Dominance creates Fear, Fear internalizes into Shame, Shame is masked by Anger, and that Anger is often used to Dominate others, beginning the cycle anew.
+
+The following sections are a deep dive into the mechanics of this wound. We will unwind the nature of Shame, dissect the disorders that arise from this distorted world, and examine the defenses of Anger and Fear that keep us trapped. By understanding the architecture of our collective wound, we gain the power to heal it. And from that healed ground, a new world can finally, and freely, grow.
+
+
+## Shame: The Weight of the Wound
+If there is a single internal experience that defines the pain of our collective wound, it is shame. Within the Cycle of Distortion, the natural, healthy signal of social **misalignment** no longer leads to a temporary sense of **wrongdoing** and quick repair. Instead, it has mutated into a chronic, toxic state of **shame.** It is this unresolved shame, this feeling of being fundamentally flawed, that drives the elaborate performances we construct to hide our true selves from each other.
 
 ### An Unresolved Sense of Wrongdoing
-To understand this core obstacle, we must first look beneath emotions and even beneath the concept of "wrongdoing." At the most fundamental level, there is a neutral, biological signal that all social animals possess: a sense of **alignment** with their group. It is a feeling of being in harmony with the social bond. The opposite of this is **misalignment**: a feeling of friction, of being out of sync with the group. This is a simple feedback mechanism, essential for cooperative living.
+To understand this core component of the wound, we must first look beneath emotions and even beneath the concept of "wrongdoing." At the most fundamental level, there is a neutral, biological signal that all social animals possess: a sense of **alignment** with their group. It is a feeling of being in harmony with the social bond. The opposite of this is **misalignment**: a feeling of friction, of being out of sync with the group. This is a simple feedback mechanism, essential for cooperative living.
 
 The meaning of this signal is determined by the culture of the group. Accepted behaviors vary not only between species, but even between different groups within the same species. These local norms define the limits on everything from aggression and posturing to, in rare cases, lethal violence. Ultimately, it is the group's shared sense of what is and isn't acceptable that gives the signal its power.
 
@@ -244,7 +297,7 @@ In animal societies, when there is a sense of misalignment within a group, it is
 
 The concept of "wrongdoing" is the first layer of cultural interpretation we place upon this raw signal of misalignment. In a healthy society, this is a functional step: the misalignment is identified as a "wrongdoing," it is quickly resolved through established social tools, and alignment is restored.
 
-Shame, however, is what happens when the social process breaks down.
+Shame, however, is what happens when this social process breaks down.
 
 > Shame is a sense of misalignment that never gets resolved.
 
@@ -253,22 +306,27 @@ The word "shame" itself is a loaded and imprecise tool. For one person, shame mi
 
 When we use this word, we are often talking past each other, triggering defenses without even realizing it. To move forward with clarity, we must define our terms precisely:
   - **Misalignment:** This is the raw, neutral, and resolvable signal that a social bond has been stressed. It is a temporary state, a prompt for repair.
-  - **Shame:** This is the toxic, lingering state that occurs when misalignment is never resolved. It is a wound of identity, not a signal about an action, and it appears to be a uniquely human distortion.
+  - **Shame:** This is the toxic, lingering state that occurs when misalignment is never resolved. It is a wound of identity, not a signal about an action, and it appears to be a uniquely human consequence of the Cycle of Distortion.
 
 Our current society does not resolve misalignment often within groups, which leads to the creation of shame, anger, isolation, or other misaligned dynamics within a group.
 
 ### Shame Emerged Recently
-For humanity, we lived in harmony for 200,000 years, quickly resolving wrongdoing as it arose, as we would expect, as all species, particularly those of social variety, have many tools of non-violent means to resolve conflict, whatever it may be. But once humanity began civilization about 10,000 years ago, it disturbed the balance of humanity, a shift into a world of rigid hierarchy and manufactured scarcity, a brutal new context of human existence.
+For the vast majority of our existence—over 200,000 years-humans lived in small, cooperative groups. Like other social species, we would have had effective ways to resolve conflict quickly, restoring alignment to the group as it was essential for survival. But once humanity began civilization about 10,000 years ago, it disturbed the balance of humanity, a shift into a world of rigid hierarchy and manufactured scarcity, ***a brutal new context of human existence.***
 
 Survival became dependent on strict conformity, on ignoring wrongdoing rather than addressing it. In this world, the neutral signal of social deviation became fused with a new, terrifying interpretation: **conform or face exile or death**. Even the act of "being oneself" became a sign of wrongdoing that one should be "ashamed" of. This is how a healthy feedback mechanism meant to show us what needs to be addressed mutated into a deep wound lasting thousands of years. The signal "I have broken a social bond" was no longer a simple prompt for repair. It became the pervasive, toxic state of identity we now know as **shame**: the belief that *"I am fundamentally flawed, and therefore my place in the world is at risk."*
 
-This state of toxic, identity-level shame is an unbearable weight for anyone to carry. Some choose to not feel shame for their past, justifying their past actions to keep the feeling at bay, though it always remains lingering. To counter this lingering feeling, many seek to build, to achieve, and to become something more.
+### The Performance Self: Hiding the True Self
+This state of toxic, identity-level shame is an unbearable weight for anyone to carry. Some choose to not feel shame for their past, justifying their past actions to keep the feeling at bay, though it always remains lingering.
 
+> To counter this lingering feeling, many seek to build, to achieve, and to become something more.
+> 
 > The tragedy is not in the achievement itself, but in the purpose it comes to serve.
+> 
+> *This noble striving gets hijacked by the wound of shame, driven by becoming something new rather than healing the self.*  
 
-This noble striving gets hijacked by the wound of shame, driven by becoming something new rather than healing the self. Instead of our achievements being an expression of a whole self, they become the materials for a **Performance Self:** an identity forged from a need to prove worth and conceal shame. This Performance Self is the armor we wear. It can perform competence to hide its fear of inadequacy. It can perform strength to hide its fear of perceived fragility. It can even perform righteousness to hide secrets of harm.
+Instead of our achievements being an expression of a whole self, they become the materials for a **Performance Self:** an identity forged from a need to prove worth and conceal shame. This Performance Self is the armor we wear. It can perform competence to hide its fear of inadequacy. It can perform strength to hide its fear of perceived fragility. It can even perform righteousness to hide secrets of harm.
 
-### Shame: Soon No Longer Needed, Healing Instead
+### Shame: Soon No longer Needed, Healing Instead
 > **The World Amazing Plan does not ask humanity to forget this wound. It asks us to finally carry it, together.**
 
 *The 10,000-year-old ache is not a personal failure to be hidden, but a **collective inheritance to be acknowledged**.* It is our sacred scar. We don't try to erase it. We recall the past, we begin to think of it in the context of a shared 10,000-year history, **and we let these memories inform our compassion for ourselves and for every other person.**
@@ -281,9 +339,9 @@ This is how shame becomes obsolete: by giving everyone an environment where it c
     
 In a world where you can reveal your deepest truths and be met not with rejection, but with a quiet "I see you, and you are still one of us," shame has no oxygen.
 
-> Shame cannot survive in the light.  
+> Shame cannot survive in the light.
 > We do not defeat it by fighting it.
-> 
+>
 > **We build a humanity so complete, so integrated, and so grounded in compassionate truth that the very concept of hiding becomes a forgotten relic.**
 
 The armor can finally be laid down, not because it was broken, but because it is no longer needed.
@@ -2120,7 +2178,7 @@ In addition to the explored trans plans, many more remain to be detailed in futu
 - [The Resistance to Clarity: Fear of Exposure and the Ego's Last Stand](#the-resistance-to-clarity-fear-of-exposure-and-the-egos-last-stand)
 - [First Aid for Clarity: How to Receive Truth When It Finally Arrives](#first-aid-for-clarity-how-to-receive-truth-when-it-finally-arrives)
 - [The Challenge of the First Generation: Forging Resilience in a World Without Scars](#the-challenge-of-the-first-generation-forging-resilience-in-a-world-without-scars)
-- [What is Human Nature? From Perceived Flaw to Evolutionary Superpower](#what-is-human-nature-from-perceived-flaw-to-evolutionary-superpower)
+- [What is Human Nature? From Perceived Flaw to Our Defining Superpower](#what-is-human-nature-from-perceived-flaw-to-our-defining-superpower)
 
 ## The Global Challenge of Deception
 Central to the success of the GI framework is addressing the root issue that holds humanity back: *deception*.
@@ -2309,7 +2367,7 @@ The GI's response to this challenge is not to reintroduce artificial hardship, b
 Ultimately, the GI is built on the hypothesis that the human spirit does not *require* suffering to become strong. It requires **engagement, purpose, and meaningful challenges.** By removing the toxic stress of survival, we free up a child's immense energy to be poured into learning, creating, and connecting, thus building a new, more profound, and more joyful kind of resilience.
 
 
-## What is Human Nature? From Perceived Flaw to Evolutionary Superpower
+## What is Human Nature? From Perceived Flaw to Our Defining Superpower
 Perhaps the deepest challenge to the World Amazing Plan is not logistical, political, or even pedagogical, but the quiet, pervasive belief in our own flawed nature. The story we have told ourselves for millennia is that humans are fundamentally selfish, violent, and competitive, and that any system must be built to contain our worst impulses.
 
 This is a conclusion drawn from 10,000 years of observation. It is also a profound misdiagnosis. We have been watching a traumatized species adapt to a sick environment and mistaking its trauma response for its true nature.
@@ -2774,8 +2832,14 @@ While these conflicts won’t dissolve overnight, the GI provides a foundation f
 
 ## Updates
 > Significant updates are listed below, minor tweaks can be found in the git history. All dates in YYYY-MM-DD format.
+- **2025-08-30**: **MAJOR ARCHITECTURAL REFINEMENT:** A focused update to significantly improve the document's introduction and the clarity of its core psychological diagnosis.
+  - **"How to Use This Document" Refinements:** The preface was significantly upgraded: the "Framework" analogy was made more precise, a new "First Principle" ("Healing is the Goal, Not the Gate") replaced an existing one, and the list of generative questions for the reader was expanded.
+  - **"The Core Wound" Restructured:** The original "Core Wound" section has been split into two distinct parts for greater clarity:
+    - A new introductory section, `The Core Wound: Our 10,000-Year Cycle of Distortion`, which now features the diagnostic model of the self-perpetuating cycle of **Dominance -> Fear -> Shame -> Anger.**
+    - A focused deep dive, `Shame: The Weight of the Wound`.
+  - The document's main title was updated.
 - **2025-08-28**: Added to the *Vitals* deep dives on the cynic's fear of hope (The Fortress of 'No'), the ultimate goal of a healed connection (Resilient Attachment), the emotions that become obsolete (The Great Dissolution), and the profound consequences of freeing up our collective mind (The Liberation of Cognitive Bandwidth). 
-- **2025-08-26**: **BIG BEAUTIFUL UPDATE.** This is a significant update focused on strengthening the plan's core philosophy and strategic viability. Key additions include:
+- **2025-08-26**: **BIG BEAUTIFUL UPDATE:** This is a significant update focused on strengthening the plan's core philosophy and strategic viability. Key additions include:
   - **Part 1 has been transformed into "The Vitals,"** a new, deep dive into the psychological and emotional foundations of the plan.
   - **Part 5 has been completely rebuilt as "The Genesis Phase,"** transforming the old, linear "Four Steps" into a dynamic five-stage narrative
   - The **"Operating System" section** now includes a comprehensive economic proposal, built on the triad of Clarity, Capital, and Time.
