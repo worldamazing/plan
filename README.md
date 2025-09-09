@@ -16,20 +16,24 @@
 ## Key Documents
 - [**Overview**](docs/overview.md)  
     *The foundational document for the entire plan. This is the comprehensive guide to the plan's philosophy, its core framework, the step-by-step transition plan, and a detailed Q&A section.*
-- [**Global Initiatives**](docs/initiatives.md)  
-    *A deep dive into the specific, large-scale projects and departments that will be created within the framework, from housing and healthcare to fun and manufacturing.*
-
+  
 
 ## Help Get This Started
 - **Think About It**: Take time to reflect on the plan and how it resonates with your personal experiences and aspirations.
 - **Talk About It**: Discuss the World Amazing Plan with others online and in person.
 - **Engage on GitHub**: Visit the [Discussions](https://github.com/worldamazing/plan/discussions), star this repo, or follow [@worldamazing](https://github.com/worldamazing) on GitHub.
 
+---
 > [!IMPORTANT]
 > The World Amazing mission is fundamentally shaped by the will of the people. This plan is not a rigid directive but an open proposal, inviting everyone to engage, contribute, and refine our shared journey toward global transformation.
 > 
 > If you notice areas that could benefit from refinement, editing, or expansion, your feedback is invaluable. You are encouraged to post your insights to the [discussions](https://github.com/orgs/worldamazing/discussions) or to send an email with questions or comments to hello@worldamazing.org.
 
+
+<!--
+- [**Global Initiatives**](docs/initiatives.md)  
+    *A deep dive into the specific, large-scale projects and departments that will be created within the framework, from housing and healthcare to fun and manufacturing.*
+-->
 
 <!--
 ## Our Potential Future
