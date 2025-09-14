@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > *This is a living document. Feedback is welcome via [discussions](https://github.com/worldamazing/plan/discussions) or [email](mailto:hello@worldamazing.org)*.
 >
-> *Last major update: [August 30, 2025](#updates)*
+> *Last major update: [September 14, 2025](#updates)*
 
 # World Amazing: Overview of the Plan, Framework, and Institution
 > This document outlines a plan for everyone. For the child with their whole life ahead and the elder who feels life has passed them by. For the cynic and the dreamer. For the powerful and the powerless. It is a framework for a world where truly **no one is left behind.**
@@ -19,6 +19,7 @@
 
 **Part 1: The Vitals**  
 - [Introducing: The World Amazing Plan](#introducing-the-world-amazing-plan)
+- [The Great Relief: The True Goal of This Plan](#the-great-relief-the-true-goal-of-this-plan)
 - [The Core Wound: Our 10,000-Year Cycle of Distortion](#the-core-wound-our-10000-year-cycle-of-distortion)
 - [Shame: The Weight of the Wound](#shame-the-weight-of-the-wound)
 - [The Disorder of a Distorted World](#the-disorder-of-a-distorted-world)
@@ -116,7 +117,7 @@
 >  - **What is the next level of detail?** Taking this high-level concept, what would the next layer of the blueprint look like? What are the key operational questions we would need to answer to make this real?
 >  - **What is the most beautiful version of this?** Pushing beyond mere functionality, what would the most creative, joyful, and inspiring expression of this idea be? How do we make this not just work, but sing?
 >
-> This document is a starting point—a robust and well-reasoned **Version 0.96**, the mature and seasoned diagnosis that has looked deeper into the abyss of the human condition and revealed a painful, profound, and sober understanding. It represents a major update from [**Version 0.69**](https://github.com/worldamazing/plan/blob/15cc549263c4a76b725309527ce1753a027374e4/docs/overview.md), a thorough pitch full of passion, though lacking in the real hard work ahead. This current version is now ready for world input to help finalize a **Version 1.0.** From there, it can evolve into Versions 2.0, 3.0, and beyond, as we continuously refine the blueprint for our shared, amazing future.
+> This document is a starting point—a robust and well-reasoned **Version 0.90**, the mature and seasoned diagnosis that has looked deeper into the abyss of the human condition and revealed a painful, profound, and sober understanding. It represents a major update from [**Version 0.69**](https://github.com/worldamazing/plan/blob/15cc549263c4a76b725309527ce1753a027374e4/docs/overview.md), a thorough pitch full of passion, though lacking in the real hard work ahead. This current version is now ready for world input to help finalize a **Version 1.0.** From there, it can evolve into Versions 2.0, 3.0, and beyond, as we continuously refine the blueprint for our shared, amazing future.
 > 
 > This process requires that many details be debated, refined, and improved by the collective intelligence of the people who choose to build with it. This document's purpose is not to have every answer, but to provide a new direction of thought and a set of tools for finding those answers together.
 >
@@ -185,6 +186,7 @@
 ---
 **Part 1: The Vitals**
 - [Introducing: The World Amazing Plan](#introducing-the-world-amazing-plan)
+- [The Great Relief: The True Goal of This Plan](#the-great-relief-the-true-goal-of-this-plan)
 - [The Core Wound: Our 10,000-Year Cycle of Distortion](#the-core-wound-our-10000-year-cycle-of-distortion)
 - [Shame: The Weight of the Wound](#shame-the-weight-of-the-wound)
 - [The Disorder of a Distorted World](#the-disorder-of-a-distorted-world)
@@ -260,6 +262,24 @@ Each part of the World Amazing Plan is designed not just for function, but to he
 > The implicit question baked into every section of the World Amazing Plan is not *"What do people get?"* but *"What kind of human does this system produce?"*
 
 To understand the human this system can produce, we must first be honest about the humanity we are working with. The sections that follow in this first part, "The Vitals," are a deep dive into the psychological and emotional landscape of our shared human condition. The journey through this plan begins with a clear, unflinching look at ourselves, beginning with the core wound of our past to the healed human that waits to emerge.
+
+
+## The Great Relief: The True Goal of This Plan
+This plan is not a World Peace Plan. It is about building a world where humanity can finally experience a state of profound and total **relief.** And from this, through our shared efforts, the world, the people, and everything about life transforms into a truly amazing experience, including the act of living life itself. And all of this is rooted in relief.
+
+For millennia, we have dreamed of "world peace," imagining it as a state where all wars have ended. But this is a fragile and incomplete vision. Even if every border were secure and every army laid down its arms, humanity would still not be at peace. We would still be trapped in a state of relentless, low-grade warfare with the systems that govern our lives.
+
+The truth is, a world without war but still defined by debt, by the endless pressure to work for survival, by the anxiety of of a self performing for acceptance, and by the weight of our unhealed wounds would be an untenable peace. It would be a global pressure cooker, destined to explode.
+
+The goal of the World Amazing Plan is therefore not just to stop the fighting, but to **turn off the heat.** It is a plan for a new kind of peace: the peace of **True Relief.**
+
+This relief is multi-layered:
+*   It is the **Economic Relief** of a life without rent, mortgage, or debt.
+*   It is the **Temporal Relief** of a world where your time is your own, not a commodity to be sold.
+*   It is the **Physical Relief** of a body no longer wracked by the chronic stress of survival.
+*   And most profoundly, it is the **Psychological Relief** of putting down the armor of a lifetime—the shame, the fear, the anger, the performance—and finally being able to be fully, and safely, yourself.
+
+This is the ultimate promise of the plan. But to achieve this state of total relief, we cannot simply build new cities on top of our old wounds. We must first have the courage to understand the nature of the pressure itself. The journey to relief begins with a clear and unflinching diagnosis of the wound that created the pressure in the first place.
 
 
 ## The Core Wound: Our 10,000-Year Cycle of Distortion
@@ -2832,6 +2852,7 @@ While these conflicts won’t dissolve overnight, the GI provides a foundation f
 
 ## Updates
 > Significant updates are listed below, minor tweaks can be found in the git history. All dates in YYYY-MM-DD format.
+- **2025-09-14**: A major architectural update to the plan's core philosophy. Added a new foundational section to Part 1, "The Great Relief," which clarifies the true goal of the plan: to move beyond a fragile "world peace" and create the conditions for a profound and total relief for all of humanity.
 - **2025-08-30**: **MAJOR ARCHITECTURAL REFINEMENT:** A focused update to significantly improve the document's introduction and the clarity of its core psychological diagnosis.
   - **"How to Use This Document" Refinements:** The preface was significantly upgraded: the "Framework" analogy was made more precise, a new "First Principle" ("Healing is the Goal, Not the Gate") replaced an existing one, and the list of generative questions for the reader was expanded.
   - **"The Core Wound" Restructured:** The original "Core Wound" section has been split into two distinct parts for greater clarity:
