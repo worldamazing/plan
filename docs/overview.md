@@ -2852,7 +2852,7 @@ While these conflicts won’t dissolve overnight, the GI provides a foundation f
 
 ## Updates
 > Significant updates are listed below, minor tweaks can be found in the git history. All dates in YYYY-MM-DD format.
-- **2025-09-14**: A major architectural update to the plan's core philosophy. Added a new foundational section to Part 1, "The Great Relief," which clarifies the true goal of the plan: to move beyond a fragile "world peace" and create the conditions for a profound and total relief for all of humanity.
+- **2025-09-14**: Added a new foundational section to Part 1, "The Great Relief," which clarifies the true goal of the plan: to move beyond a fragile "world peace" and create the conditions for a profound and total relief for all of humanity.
 - **2025-08-30**: **MAJOR ARCHITECTURAL REFINEMENT:** A focused update to significantly improve the document's introduction and the clarity of its core psychological diagnosis.
   - **"How to Use This Document" Refinements:** The preface was significantly upgraded: the "Framework" analogy was made more precise, a new "First Principle" ("Healing is the Goal, Not the Gate") replaced an existing one, and the list of generative questions for the reader was expanded.
   - **"The Core Wound" Restructured:** The original "Core Wound" section has been split into two distinct parts for greater clarity:
