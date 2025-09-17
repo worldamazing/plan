@@ -269,7 +269,7 @@ This plan is not a World Peace Plan. It is about building a world where humanity
 
 For millennia, we have dreamed of "world peace," imagining it as a state where all wars have ended. But this is a fragile and incomplete vision. Even if every border were secure and every army laid down its arms, humanity would still not be at peace. We would still be trapped in a state of relentless, low-grade warfare with the systems that govern our lives.
 
-The truth is, a world without war but still defined by debt, by the endless pressure to work for survival, by the anxiety of of a self performing for acceptance, and by the weight of our unhealed wounds would be an untenable peace. It would be a global pressure cooker, destined to explode.
+The truth is, a world without war but still defined by debt, by the endless pressure to work for survival, by the anxiety of a self performing for acceptance, and by the weight of our unhealed wounds would be an untenable peace. It would be a global pressure cooker, destined to explode.
 
 The goal of the World Amazing Plan is therefore not just to stop the fighting, but to **turn off the heat.** It is a plan for a new kind of peace: the peace of **True Relief.**
 
