@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > *This is a living document. Feedback is welcome via [discussions](https://github.com/worldamazing/plan/discussions) or [email](mailto:hello@worldamazing.org)*.
 >
-> *Last major update: [September 14, 2025](#updates)*
+> *Last major update: [September 20, 2025](#updates)*
 
 # World Amazing: Overview of the Plan, Framework, and Institution
 > This document outlines a plan for everyone. For the child with their whole life ahead and the elder who feels life has passed them by. For the cynic and the dreamer. For the powerful and the powerless. It is a framework for a world where truly **no one is left behind.**
@@ -88,7 +88,8 @@
 - [The New Tiers of Civilization](#the-new-tiers-of-civilization)
 - [Upcoming Vision Expansions](#upcoming-vision-expansions)
 
-**Part 9: Closing Remarks and Q/A**  
+**Part 9: The End and Q/A**  
+- [The Great Inquiry: The Purpose of a Healed Species](#the-great-inquiry-the-purpose-of-a-healed-species)
 - [Closing Remarks](#closing-remarks)
 - [Questions and Answers](#questions-and-answers)
 - [Updates](#updates)
@@ -2527,10 +2528,46 @@ Future updates to this section will include:
 
 
 ---
-**Part 9: Closing Remarks and Q/A**
+**Part 9: The End and Q/A**  
+- [The Great Inquiry: The Purpose of a Healed Species](#the-great-inquiry-the-purpose-of-a-healed-species)
 - [Closing Remarks](#closing-remarks)
 - [Questions and Answers](#questions-and-answers)
 - [Updates](#updates)
+
+## The Great Inquiry: The Purpose of a Healed Species
+After the journey through the diagnosis of our wounds and the architecture of our healing, a final, fundamental question emerges: **What is the purpose of a species that has solved the problem of survival?**
+
+Do we build this amazing world only to rest in a state of perfect, static comfort? Is the ultimate goal of humanity a peaceful and prosperous retirement?
+
+The answer is no. The World Amazing framework is not designed to be the final chapter of the human story. It is designed to be the **first.**
+
+### From Survival to Inquiry
+For our entire recorded history, we have been a species trapped in a protracted, traumatic adolescence. We were a brilliant but wounded consciousness, consuming nearly all of our immense cognitive and spiritual energy fighting shadows—the external shadows of scarcity and conflict, and the internal shadows of fear and shame. Our greatest works of art, our most profound philosophies, and our most daring scientific discoveries were all achieved in spite of this condition, like flowers growing through cracks in concrete.
+
+The entire purpose of the Global Institution is to finally and completely repave the foundation. It is a planetary-scale platform built to liberate humanity from the age-old struggle for survival, freeing us to begin our adult work.
+
+That work is **The Great Inquiry.**
+
+Having solved the problem of *how* to live, we are finally free to dedicate our full, undivided attention to the magnificent questions of *why* we live. The ultimate purpose of a healed humanity is to serve as the universe's organ of self-awareness—to transform from a species at war with itself into a species in wonder of existence.
+
+### The Nature of The Great Inquiry
+The Great Inquiry is not a single project, but a new mode of being. It is the natural, joyful expression of a consciousness that is no longer burdened by distortion. It will unfold across every dimension of human experience:
+
+*   **The Cosmic Inquiry:** We will turn our unified gaze to the stars and to the very fabric of reality. What is the nature of consciousness? What is our place in the cosmos? Are we alone? The GI becomes a single, coordinated research entity for exploring the deepest mysteries of physics, biology, and metaphysics, not for profit or prestige, but for pure understanding.
+
+*   **The Creative Inquiry:** We will explore the absolute limits of beauty. What new forms of art, music, and storytelling become possible in a world without suffering? The planet itself becomes a canvas for a continuous, collaborative, and joyful explosion of creative expression, celebrating the infinite diversity of human imagination.
+
+*   **The Relational Inquiry:** We will rediscover the true nature of connection. What does love look like without fear? What is the depth of a friendship not based on need? What does community feel like without hierarchy? Human relationships, free from the performance of the old world, will become a profound field of honest, beautiful, and healing exploration.
+
+*   **The Internal Inquiry:** We will journey into the vast, uncharted territory of our own minds. The Practice of Honesty and the journey of healing do not end when the world is fixed; they become the baseline for a species dedicated to continuous inner exploration, seeking not to cure a wound, but to discover the full potential of a healed consciousness.
+
+### A Planet Reborn as an Instrument of Wonder
+The ultimate vision of the World Amazing is to transform Planet Earth from a battlefield of competing survival drives into a single, cohesive, and joyful instrument of cosmic curiosity.
+
+Life ceases to be a problem to be solved and becomes a mystery to be savored. Every act—from designing a city to composing a symphony, from raising a child to having a conversation with a friend—becomes a part of this Great Inquiry.
+
+This is the ultimate dividend of a healed world. We do not just get to live in a paradise. We get to become a species worthy of the questions it is finally free to ask. Our true story is just beginning.
+
 
 ## Closing Remarks
 This plan transcends the arbitrary borders that have long divided humanity, embracing the common values that unite us on this singular, shared planet, dispensing national boundaries to envelop every corner of the globe, championing a world that regards each individual equally, without preference or prejudice.
@@ -2852,6 +2889,7 @@ While these conflicts won’t dissolve overnight, the GI provides a foundation f
 
 ## Updates
 > Significant updates are listed below, minor tweaks can be found in the git history. All dates in YYYY-MM-DD format.
+- **2025-09-20**: Added the final section, "The Great Inquiry," to outline the ultimate purpose of a healed human species.
 - **2025-09-14**: Added a new foundational section to Part 1, "The Great Relief," which clarifies the true goal of the plan: to move beyond a fragile "world peace" and create the conditions for a profound and total relief for all of humanity.
 - **2025-08-30**: **MAJOR ARCHITECTURAL REFINEMENT:** A focused update to significantly improve the document's introduction and the clarity of its core psychological diagnosis.
   - **"How to Use This Document" Refinements:** The preface was significantly upgraded: the "Framework" analogy was made more precise, a new "First Principle" ("Healing is the Goal, Not the Gate") replaced an existing one, and the list of generative questions for the reader was expanded.
