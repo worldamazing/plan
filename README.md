@@ -16,7 +16,7 @@
    - **The End of Systemic Distortion:** A global discussion to heal our shared past and unlock our collective clarity.
    - **Radical Creative Freedom:** The time, space, and resources to build anything you can imagine.
    - **One Shared World**: No defended borders, no artificial scarcity. Just place, time, and people.
-   - **A New Human Rhythm**: When fear, shame, anger, blame and misplaced pride fall away, a united humanity can finally begin.
+   - **A New Human Rhythm**: When fear, shame, anger, blame, and misplaced pride fall away, a united humanity can finally begin.
 
 
 ## Key Documents
@@ -24,6 +24,7 @@
     *The foundational document for the entire plan. This is the comprehensive guide to the plan's philosophy, its core framework, the step-by-step transition plan, and a detailed Q&A section.*
 - [**Global Initiatives**](docs/initiatives.md)  
     *A deep dive into the specific, large-scale projects and departments that will be created within the framework, from housing and healthcare to fun and manufacturing.*
+
 
 ## Implementations
 The following projects are the first implementations of the World Amazing Framework.
@@ -42,19 +43,12 @@ The following projects are the first implementations of the World Amazing Framew
 -->
 
 
-  
-
 ## Help Get This Started
 - **Think About It**: Take time to reflect on the plan and how it resonates with your personal experiences and aspirations.
 - **Talk About It**: Discuss the World Amazing Plan with others online and in person.
 - **Engage on GitHub**: Visit the [Discussions](https://github.com/worldamazing/plan/discussions), star this repo, or follow [@worldamazing](https://github.com/worldamazing) on GitHub.
 
 
-
-<!--
-- [**Global Initiatives**](docs/initiatives.md)  
-    *A deep dive into the specific, large-scale projects and departments that will be created within the framework, from housing and healthcare to fun and manufacturing.*
--->
 
 <!--
 ## Our Potential Future
