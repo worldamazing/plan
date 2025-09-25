@@ -22,12 +22,14 @@
 ## Key Documents
 - [**Overview**](docs/overview.md)  
     *The foundational document for the entire plan. This is the comprehensive guide to the plan's philosophy, its core framework, the step-by-step transition plan, and a detailed Q&A section.*
+- [**Global Initiatives**](docs/initiatives.md)  
+    *A deep dive into the specific, large-scale projects and departments that will be created within the framework, from housing and healthcare to fun and manufacturing.*
 
 ## Implementations
 The following projects are the first implementations of the World Amazing Framework.
 
 ### 🌎 WHOMANATEE: The Global Wrapper
-*   **Description:** `WHOMANATEE` is the first, primary, and reference implementation of the Global Institution. It is the open-source, global wrapper designed to provide the entire world with the foundational services for a life of relief and purpose—from housing and healthcare to education and creative freedom. Whomanatee is the fertile ground from which a thousand unique and amazing projects can be launched, providing the universal support system for a healed and thriving humanity.
+*   **Description:** `WHOMANATEE` is the first, primary, and reference implementation of the Global Institution. It is the open-source, global wrapper designed to provide the entire world with the foundational services for a life of relief and purpose—from housing and healthcare to education and creative freedom. `WHOMANATEE` is the fertile ground from which a thousand unique and amazing projects can be launched, providing the universal support system for a healed and thriving humanity.
 *   **Status:** In development.
 *   **Explore:** **[whomanatee.org](https://whomanatee.org)**
 *   **Attend:** **[Sunday Serviced](https://whomanatee.org/serviced)** - world human servicings. A little alignment. A tweak here. A turn there. We'll get every human back up and running in no time, relief within days, total restoration within years.
