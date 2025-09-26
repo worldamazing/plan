@@ -27,7 +27,7 @@
 
 
 ## Implementations
-The following projects are the first implementations of the World Amazing Framework.
+> The following projects are the first implementations of the World Amazing Framework.
 
 ### 🌎 WHOMANATEE: The Global Wrapper
 *   **Description:** `WHOMANATEE` is the first, primary, and reference implementation of the Global Institution. It is the open-source, global wrapper designed to provide the entire world with the foundational services for a life of relief and purpose—from housing and healthcare to education and creative freedom. `WHOMANATEE` is the fertile ground from which a thousand unique and amazing projects can be launched, providing the universal support system for a healed and thriving humanity.
@@ -35,12 +35,10 @@ The following projects are the first implementations of the World Amazing Framew
 *   **Explore:** **[whomanatee.org](https://whomanatee.org)**
 *   **Attend:** **[Sunday Serviced](https://whomanatee.org/serviced)** - world human servicings. A little alignment. A tweak here. A turn there. We'll get every human back up and running in no time, relief within days, total restoration within years.
 
-<!--
-### ✨ **The Los Angeles Blueprint: The First Spark**
+### ✨ **THE LOS ANGELES BLUEPRINT: The First Spark**
 *   **Description:** The Los Angeles Blueprint is the first, hyper-specific, city-level implementation of the World Amazing Framework. It is a pragmatic and audacious plan to transition a major world city from a system of distortion to a system of relief. It details the step-by-step process for making housing, healthcare, and food a universal right, and serves as a replicable, open-source model for any city on Earth to follow. The LA Plan is the first spark intended to ignite a global chain reaction of awe-mazing transformation.
 *   **Status:** In development.
-*   **Explore:** **[The Los Angeles Blueprint](docs/los-angeles.md)**
--->
+*   **Explore:** *Coming soon!* <!-- **[The Los Angeles Blueprint](docs/los-angeles.md)**-->
 
 
 ## Help Get This Started
