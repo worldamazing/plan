@@ -27,7 +27,7 @@
 
 
 ## Implementations
-> The following projects are the first implementations of the World Amazing Framework.
+> The following projects are the first proposed implementations of the World Amazing Framework.
 
 ### 🌎 WHOMANATEE: The Global Wrapper
 *   **Description:** `WHOMANATEE` is the first, primary, and reference implementation of the Global Institution. It is the open-source, global wrapper designed to provide the entire world with the foundational services for a life of relief and purpose—from housing and healthcare to education and creative freedom. `WHOMANATEE` is the fertile ground from which a thousand unique and amazing projects can be launched, providing the universal support system for a healed and thriving humanity.
