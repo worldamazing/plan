@@ -108,7 +108,7 @@
 > ### Local First, Globally Connected
 > The World Amazing framework is designed to be implemented at the community level. It is not a top-down global government. Think of it as a powerful, open-source operating system that a city, a region, or even a nation can choose to install on its "local hardware."
 > 
-> Within this model, funds are managed locally, and decisions are made by the people they affect. However, this local autonomy is connected to a global network of cooperation. All communities running on the framework agree to a set of universal protocols—a commitment to human rights, ecological stewardship, and the free flow of knowledge—that allow us to tackle planetary-scale challenges together. It is a system designed to be both deeply local and deeply connected.
+> Within this model, funds are managed locally, and decisions are made by the people they affect. However, this local autonomy is connected to a global network of cooperation. All communities running on the framework agree to a set of universal protocols—a commitment to the protection and nourishment of all humans, ecological stewardship, and the free flow of knowledge—that allow us to tackle planetary-scale challenges together. It is a system designed to be both deeply local and deeply connected.
 > 
 > ### Your Role: From Critic to Architect
 > Because this is a framework, your role as the reader is not to be a critic searching for flaws. It is to be an architect exploring possibilities. When you encounter a section that seems incomplete or a challenge that seems unaddressed, resist the urge to declare it a "gap." Instead, accept the invitation to think *with* the framework.
