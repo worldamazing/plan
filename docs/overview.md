@@ -39,7 +39,7 @@
 **Part 2: The Framework**  
 - [The Global Institution: A Global Wrapper Fostering Amazing](#the-global-institution-a-global-wrapper-fostering-amazing)
 - [Key Highlights of the World Amazing Plan](#key-highlights-of-the-world-amazing-plan)
-- [Global Initiatives: Building an Amazing Future](global-initiatives-building-an-amazing-future)
+- [Global Initiatives: Building an Amazing Future](#global-initiatives-building-an-amazing-future)
 
 **Part 3: Global Benefits: All Batteries Included**
 - [Covered For All](#covered-for-all)
