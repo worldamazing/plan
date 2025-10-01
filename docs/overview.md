@@ -1,8 +1,3 @@
-> [!IMPORTANT]
-> *This is a living document. Feedback is welcome via [discussions](https://github.com/worldamazing/plan/discussions) or [email](mailto:hello@worldamazing.org)*.
->
-> *Last major update: [September 20, 2025](#updates)*
-
 # World Amazing: Overview of the Plan, Framework, and Institution
 > This document outlines a plan for everyone. For the child with their whole life ahead and the elder who feels life has passed them by. For the cynic and the dreamer. For the powerful and the powerless. It is a framework for a world where truly **no one is left behind.**
 >
@@ -96,10 +91,17 @@
 
 
 ---
+> [!IMPORTANT]
+> *This is a living document. Feedback is welcome via [discussions](https://github.com/worldamazing/plan/discussions) or [email](mailto:hello@worldamazing.org)*.
+>
+> *Last major update: [September 20, 2025](#updates)*
+
+
+---
 > [!NOTE]
 > 
 > ## A Framework for a New World: How to Use This Document
-> This document is not a finished painting to be passively admired or critiqued. It is an architectural blueprint, a set of first principles, and a toolkit. It is a **framework**, in the same way that Django is a framework for building web applications, or a constitution is a framework for building a just society.
+> This document is an architectural blueprint, a set of first principles, and a toolkit. It is a **framework**, in the same way that Django is a framework for building web applications, or a constitution is a framework for building a just society.
 > 
 > A framework does not give you the finished product. It gives you a powerful, well-structured starting point and a set of reliable tools so you don't have to reinvent the wheel. It provides the foundational structure and core components—the "operating system"—from which a thousand unique applications can be built. This plan is the foundational framework from which a thousand unique and thriving communities can emerge.
 > 
