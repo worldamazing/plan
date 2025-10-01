@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> *This is a living document. Feedback is welcome via [discussions](https://github.com/worldamazing/plan/discussions) or [email](mailto:hello@worldamazing.org)*.
+>
+> *Last major update: [September 20, 2025](#updates)*
+
 # World Amazing: Overview of the Plan, Framework, and Institution
 > This document outlines a plan for everyone. For the child with their whole life ahead and the elder who feels life has passed them by. For the cynic and the dreamer. For the powerful and the powerless. It is a framework for a world where truly **no one is left behind.**
 >
@@ -11,6 +16,9 @@
 
 
 ## Table of Contents
+- [How to Use This Document](#a-framework-for-a-new-world-how-to-use-this-document)
+- [Join The Discussion](#join-the-discussion)
+- [Choose Your Path](#choose-your-path)
 
 **Part 1: The Vitals**  
 - [Introducing: The World Amazing Plan](#introducing-the-world-amazing-plan)
@@ -88,13 +96,6 @@
 - [Closing Remarks](#closing-remarks)
 - [Questions and Answers](#questions-and-answers)
 - [Updates](#updates)
-
-
----
-> [!IMPORTANT]
-> *This is a living document. Feedback is welcome via [discussions](https://github.com/worldamazing/plan/discussions) or [email](mailto:hello@worldamazing.org)*.
->
-> *Last major update: [September 20, 2025](#updates)*
 
 
 ---
