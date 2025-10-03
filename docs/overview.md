@@ -182,9 +182,10 @@
 >     2.  **Jump to What We Need From Everyone.** (This is in Part 4). This shows you the core contributions.
 >     3.  **Finally, read the first few questions in the Q&A.** (Part 9). This shows how the plan handles immediate, common-sense objections.
 
+
 ---
 > [!TIP]
-> *Looking for an even quicker overview? Consider starting with [this article](https://substack.com/home/post/p-159298678) or with the [top 10 list](https://substack.com/home/post/p-159858774).*
+> *Looking for an even quicker overview? Check out this [top 10 list](https://substack.com/home/post/p-159858774) that goes to 11.*
 
 
 ---
