@@ -3,8 +3,8 @@
 >
 > *Last major update: [September 20, 2025](#updates)*
 
-# World Amazing: Overview of the Plan, Framework, and Institution
-> This document outlines a plan for everyone. For the child with their whole life ahead and the elder who feels life has passed them by. For the cynic and the dreamer. For the powerful and the powerless. It is a framework for a world where truly **no one is left behind.**
+# World Amazing: The Plan to Restore Our Collective Spirit
+> This document outlines a plan for everyone. For the child with their whole life ahead and the elder who feels life has passed them by. For the cynic and the dreamer. For the powerful and the powerless. It is a framework for a world where every single being is invited to flourish.
 >
 > *Its purpose is not just to reform our governments or fix our healthcare. It is a plan to restore our collective spirit and to build a world of breathtaking beauty, joy, and safety.*
 > 
@@ -12,7 +12,7 @@
 >
 > But this vision extends far beyond concrete and code. It is a world remade at the human level. Imagine living in a society where the background noise of anxiety has been replaced by a quiet, collective calm. Imagine conversations driven not by performance and agenda, but by genuine curiosity and trust. Imagine the lightness in the air when people feel safe enough to be seen, to be honest, and to be whole. This is a world where human connection is the most valuable resource, and where the joy of being with one another is the ultimate metric of success.
 > 
-> World Amazing is a roadmap to a civilization where the basics of life are guaranteed and the heights of human creativity, joy, and wonder are all woven into the very design and structure of our world.
+> World Amazing is a roadmap to a civilization where a foundation of profound security is guaranteed, so that the heights of human creativity, joy, and wonder can be woven into the very design and structure of our world.
 
 
 ## Table of Contents
