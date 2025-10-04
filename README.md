@@ -38,7 +38,7 @@
 ### ✨ **THE LOS ANGELES BLUEPRINT: The First Spark**
 *   **Description:** The Los Angeles Blueprint is the first, hyper-specific, city-level implementation of the World Amazing Framework. It details the step-by-step process for making housing, healthcare, and food a universal right, and serves as a replicable, open-source model for any city on Earth to follow.
 *   **Status:** In development.
-*   **Explore:** *Coming soon!* <!-- **[The Los Angeles Blueprint](docs/los-angeles.md)**-->
+*   **Explore:** **[The Los Angeles Blueprint](docs/los-angeles.md)**
 
 
 ## Help Get This Started
