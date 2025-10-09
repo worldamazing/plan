@@ -19,12 +19,14 @@
    - **A New Human Rhythm**: When fear, shame, anger, blame, and misplaced pride fall away, a united humanity can finally begin.
 
 
-## Key Documents
+## Key Document
 - [**Overview**](docs/overview.md)  
     *The foundational document for the entire plan. This is the comprehensive guide to the plan's philosophy, its core framework, the step-by-step transition plan, and a detailed Q&A section.*
+
+<!--
 - [**Global Initiatives**](docs/initiatives.md)  
     *A deep dive into the specific, large-scale projects and departments that will be created within the framework, from housing and healthcare to fun and manufacturing.*
-
+-->
 
 ## Implementations
 > The following projects are the first proposed implementations of the World Amazing Framework.
