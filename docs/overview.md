@@ -190,13 +190,11 @@ This relief is multi-layered:
 
 This is the ultimate promise of the plan. But to achieve this state of total relief, we cannot simply build new cities on top of our old wounds. We must first have the courage to understand the nature of the pressure itself. The journey to relief begins with a clear and unflinching diagnosis of the wound that created the pressure in the first place.
 
-> Each part of the World Amazing Plan is designed not just for function, but to heal and uplift, creating a world in which truly no one is left behind.
-
 
 ## The Core Wound: The Bugs of Civilization 1.0
 The immense suffering and conflict in our world are not the result of a flawed or evil human nature. Instead, they are the predictable and understandable consequences of a species grappling with the immense challenge of living together at a planetary scale. Our crises are the natural growing pains of a relatively young civilization.
 
-For the vast majority of our history encompassing over 200,000 years, we lived as a different kind of human, in small, cooperative groups where social bonds were direct. The shift to large-scale, anonymous societies, which began with the dawn of agriculture very recently some 10,000 years ago, was a monumental leap: a first, brave attempt at a new form of human organization. Agricultuere, in effect, was the start of humanity's de-facto world **Civilization, Version 1.0.**
+For the vast majority of our history encompassing over 200,000 years, we lived as a different kind of human, in small, cooperative groups where social bonds were direct. The shift to large-scale, anonymous societies, which began with the dawn of agriculture very recently some 10,000 years ago, was a monumental leap: a first, brave attempt at a new form of human organization. Agriculture, in effect, was the start of humanity's de-facto world **Civilization, Version 1.0.**
 
 Like any first version of a complex new operating system, it was a buggy beta. It solved some problems, like how to support a larger population, but it introduced a series of critical, cascading bugs into our social code. New structures of rigid hierarchy, new anxieties born from manufactured scarcity, and a new pressure to perform for acceptance began to overwrite our innate, cooperative instincts.
 
@@ -272,6 +270,8 @@ The entire World Amazing Framework is an engineering plan to create these condit
 *   **Connection over Performance:** By creating a culture of invitation and relief, we allow our authentic, cooperative nature to re-emerge.
 
 This is the path forward. It is a journey from the complexity of the cycle to the simplicity of **Clarity.** The following parts of this document are the detailed, architectural blueprints for how we build that path, together.
+
+> Each part of the World Amazing Plan is designed not just for function, but to heal and uplift, creating a world in which truly no one is left behind.
 
 
 ---
