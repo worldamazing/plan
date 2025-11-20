@@ -1,5 +1,13 @@
+> [!IMPORTANT]
+> *This document is scheduled for a significant refresh and update. Key changes will include:*
+>
+> *   *Transitioning all references from the "Global Institution (GI)" to the more accurate **"Global Partnership (GP)."***
+> *   *Refining the language to consistently frame the Framework as an **objective, engineering blueprint for humanity**, rather than the subjective vision of a specific group. In other words, updating phrases like "our vision", "we will", etc, which makes it seem like this framework is not being run for and by the entirety of humanity.*
+
+
 > [!TIP]
 > *This section offers deeper insight into key initiatives of the World Amazing Plan. For a full walkthrough of the plan’s structure, vision, and path forward, see the [overview](/docs/overview.md).*
+
 
 # World Amazing Initiatives
 > The initiatives outlined in this document are not merely a list of ambitious projects. They represent the natural, creative, and collaborative outpouring of a humanity that has begun the foundational work of healing its shared historical distortions through the Global Discussion, **the foundational first step of the World Amazing Plan.**
