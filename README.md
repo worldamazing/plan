@@ -14,7 +14,7 @@
    - **A New Human Rhythm**: When fear, shame, anger, blame, and misplaced pride fall away, a united humanity can finally begin.
 
 
-## Key Document
+## The Full Guide
 - [**Overview**](docs/overview.md) - The entire plan including the core framework, transition plans, and answers to the most likely questions.
 
 <!--
@@ -22,14 +22,13 @@
     *A deep dive into the specific, large-scale projects and departments that will be created within the framework, from housing and healthcare to fun and manufacturing.*
 -->
 
-
 ## Implementations
-> The following projects are the first proposed implementations of the World Amazing Framework.
 
-### 🌏 WHOMANATEE: The Global Wrapper
+### 🌏 The Global Wrapper (WHOMANATEE)
 *   **Description:** `WHOMANATEE` is the first, primary, and reference implementation of the World Amazing Framework. It is the open-source, global wrapper designed to provide the entire world with the foundational services for a life of relief and purpose. `WHOMANATEE` is the fertile ground from which a thousand unique and amazing projects can be launched.
 *   **Status:** *In development.*
 *   **Explore:** **[whomanatee.org](https://whomanatee.org)**
+
 
 <!--
 ### ✨ **THE LOS ANGELES BLUEPRINT: The First Spark**
@@ -38,16 +37,23 @@
 *   **Explore:** **[The Los Angeles Blueprint](docs/los-angeles.md)**
 -->
 
-## Help Get This Started
-- **Think About It**: Take time to reflect on the plan and how it resonates with your personal experiences and aspirations.
-- **Talk About It**: Discuss the World Amazing Plan with others online and in person.
-- **Engage on GitHub**: Post to [Discussions](https://github.com/worldamazing/plan/discussions), star this repo, or follow [@worldamazing](https://github.com/worldamazing) on GitHub.
 
 ---
 > [!IMPORTANT]
+>
 > *The World Amazing mission is fundamentally shaped by the will of the people. This plan is not a rigid directive but an open proposal, inviting everyone to engage, contribute, and refine our shared journey toward global transformation.*
 > 
-> *If you notice areas that could benefit from refinement, editing, or expansion, your feedback is invaluable. You are encouraged to post your insights to the [discussions](https://github.com/orgs/worldamazing/discussions) or to send an email with questions or comments to hello@worldamazing.org*
+> ## Join the Discussion
+> This framework is an invitation to a global dialogue. Your thoughts, critiques, and contributions are not just welcome, they are essential fuel for this project's evolution. Whether you believe this is the most amazing plan you've ever read, or you think it's an impossible dream, your perspective is vital.
+>
+> Here's how you can contribute right now:
+> *   **Think About It**: Take time to reflect on the plan and how it resonates with your personal experiences and aspirations.
+> *   **Talk About It:** The most powerful ideas are the ones that spread. Discuss it with your friends. Translate the core concepts into the language you speak best.
+> *   **Challenge the Assumptions:** Interrogate the first principles. Propose alternatives. Find the blind spots and help strengthen the weak points.
+> *   **Engage the Thought Experiment:** Imagine it's real. If you had access to unlimited funding, a willing global workforce, and seamless coordination across cities and nations, what would you build first? What problem would you solve?
+> 
+> *And finally, bring your clarity, your criticism, and your creativity to the **[GitHub Discussions](https://github.com/worldamazing/plan/discussions)**. Creating a GitHub account is not only free, but also cool 😎*
+
 
 ---
 [worldamazing.org](https://worldamazing.org)
