@@ -3,7 +3,7 @@
 # World Amazing Overview: A Framework For All to Flourish Fully and Live Incredible
 
 > [!IMPORTANT]
-> ## Coherence Evaluation Report Card
+> ##  Audited by the Analyze Anything Framework (v1.0)
 > 
 > *This [version](https://github.com/worldamazing/plan/blob/fcc50b46d649317590202e7bfbeb97bdb6028929/docs/overview.md) of the document was audited on **January 23, 2026** using v1.0 of the **[Analyze Anything Framework (v1.0)](https://analyzeanything.org/)**. This document you are reading may contain minor updates made since the audit.*
 > | Stage | Assessment | Core Justification |
