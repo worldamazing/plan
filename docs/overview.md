@@ -155,11 +155,20 @@ This is the ultimate promise of the plan. But to achieve this state of total rel
 
 
 ## The Core Wound: The Primal Bug of Civilization 1.0
-The immense suffering and conflict in our world are not the result of a flawed or evil human nature. They are the symptoms of a single, universal, and now fully understandable bug in our civilizational operating system.
+*The immense suffering and conflict in our world are not the result of a flawed or evil human nature. They are the symptoms of a single, universal, and fully understandable bug in our civilizational operating system.*
 
-For the vast majority of our history — spanning over 200,000 years — we lived as a different kind of human: small, cooperative groups where social bonds were direct. These were high-trust, low-distortion environments of **cooperative breeding** (“alloparenting”), where a child’s attachment bond was a resilient, distributed network of caregivers. 
+### From We to Me: The Great Fragmentation
+For 95% of our existence, the fundamental unit of human survival and identity was the **"We."** We lived as a different kind of human, in small, cooperative, and high-trust groups where social bonds were direct. In these environments of **cooperative breeding ("alloparenting"),** a child’s attachment bond was not a fragile, single point of failure with one or two parents. It was a **resilient, distributed network** of multiple, caring adults and older peers. The "self" was a node in a network, and its well-being was inseparable from the well-being of the whole.
 
-The shift to large-scale societies, which began with the dawn of agriculture just 10,000 years ago, was a structural leap — and a relational collapse. The invention of the isolated **nuclear unit** replaced interwoven care with the fragile, single-point-of-failure of the parent-child dyad. Agriculture, in effect, was the start of humanity's de-facto world **Civilization, Version 1.0** — a **catastrophic biological mismatch,** forcing a social biology designed for a network into a fragile, single-point-of-failure.  
+The shift to large-scale, agricultural societies, just 10,000 years ago, was not just a structural leap. It was a **relational collapse.** It was the beginning of **The Great Fragmentation.**
+
+This new world introduced two catastrophic bugs into our social operating system: **fixed property** and the **isolated nuclear unit.** For the first time, survival was no longer a function of the tribe's success, but of the individual family unit's ability to secure its plot of land.
+
+This shattered the "We" and gave birth to the **"Me."**
+
+The self was no longer a node in a resilient network. It became an **isolated, competing, and terrified agent,** responsible for its own survival. The attachment bond, once a distributed web of safety, was now concentrated into the fragile, high-pressure, single-point-of-failure of the parent-child dyad.
+
+This is the **catastrophic evolutionary mismatch.** It is the precise environmental change that created the perfect, high-stress, and low-support laboratory for the **Primal Wound** to become a universal certainty. Agriculture, in effect, was the start of humanity's de-facto world **Civilization, Version 1.0** — a **catastrophic biological mismatch,** forcing a social biology designed for a network into a fragile, single-point-of-failure.  
 
 Like any first version of a complex new operating system, it was a buggy beta, yet came with incredible new abilities. It solved some problems, like how to support a larger population, but it introduced a series of critical, cascading bugs into our social code. Structures of rigid hierarchy, anxieties born from manufactured scarcity, and a growing pressure to perform for acceptance began to overwrite our innate, cooperative instincts.
 
@@ -3183,7 +3192,7 @@ While these conflicts won’t dissolve overnight, the GP provides a foundation f
 
 ## Updates
 > Significant updates are listed below, minor tweaks can be found in the git history. All dates in YYYY-MM-DD format.
-- **2026-02-01**: Updates to the *Vitals* part, including the addition of **The Great Scaling: From the Nursery to the Nation** and a new diagram: **Diagnostic Table: Substitutions in the Human Cooperative Engine**.
+- **2026-02-01**: Updates to the *Vitals* part, including the addition of a new subsection **From We to Me: The Great Fragmentation**, a new section **The Great Scaling: From the Nursery to the Nation**, and a new diagram **Diagnostic Table: Substitutions in the Human Cooperative Engine**.
 - **2026-01-23**: A major update including:
    - **Fortified the Economic Model:** The "Economy of Capital" section has been rebuilt to lead with **"Contribution through Creation" ("Sweat Equity")**, making the plan more inclusive from the start. The "Economy of Time" now includes a **"Lifecycle Banking"** mechanism to pragmatically manage the transition to a 2-day workweek. The concept of a "Luxury Class" has been replaced with a more sustainable and well-defined **"Profound Comfort"** baseline, explicitly constrained by the **"Hard Ceiling of Planetary Boundaries."**
    - **A Hardened Governance & Geopolitical Strategy:** The Governance model has been fortified with explicit, constitutional **"Guardrails"** (Radical Transparency, Primacy of Dissent, The Power of the Fork) to prevent the concentration of power. The Defense section has been expanded into its own Part, detailing a sophisticated, two-phase **"Geopolitical Strategy"** for interacting with existing nation-states in both open and closed societies.
