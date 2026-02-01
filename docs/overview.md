@@ -1,11 +1,11 @@
-> *This is a living document, last major update: [January 23, 2026](#updates)*
+> *This is a living document, last major update: [February 1, 2026](#updates)*
 
 # World Amazing Overview: A Framework For All to Flourish Fully and Live Incredible
 
 > [!IMPORTANT]
 > ##  Audited by the Analyze Anything Framework (v1.0)
 > 
-> *This [version](https://github.com/worldamazing/plan/blob/fcc50b46d649317590202e7bfbeb97bdb6028929/docs/overview.md) of the document was audited on **January 23, 2026** using v1.0 of the **[Analyze Anything Framework (v1.0)](https://analyzeanything.org/)**. This document you are reading may contain minor updates made since the audit.*
+> *This [version](https://github.com/worldamazing/plan/blob/fcc50b46d649317590202e7bfbeb97bdb6028929/docs/overview.md) of the document was audited on **January 23, 2026** using v1.0 of the **[Analyze Anything Framework (v1.0)](https://analyzeanything.org/)**. This document you are reading contains updates and refinments made since the audit.*
 > | Stage | Assessment | Core Justification |
 > | --- | --- | --- |
 > | **Part 1: Validity** | ✅ **PASS (Clears the Floor)** | The work is highly structured and conceptually unified. It establishes valid logical deduction (removing the "Primal Bug" removes symptoms) and offers falsifiable mechanisms (e.g., the "Beachhead" strategy) rather than relying on wishful thinking. |
@@ -39,7 +39,8 @@
 **Part 1: The Vitals**  
 - [The Great Relief: The True Goal of This Plan](#the-great-relief-the-true-goal-of-this-plan)
 - [The Core Wound: The Primal Bug of Civilization 1.0](#the-core-wound-the-primal-bug-of-civilization-10)
-- [First Principles of the Framework](#first-principles-of-the-framework)
+- [The Great Scaling: From the Nursery to the Nation](#the-great-scaling-from-the-nursery-to-the-nation)
+- [First Principles: The Axioms of a Coherent Reality](#first-principles-the-axioms-of-a-coherent-reality)
 - [Deconstructing the Core Myths of Civilization 1.0](#deconstructing-the-core-myths-of-civilization-10)
 - [The Path Forward: From Cycle of Distortion to Clarity](#the-path-forward-from-cycle-of-distortion-to-clarity)
 - [How to Use This Framework](#how-to-use-this-framework)
@@ -156,11 +157,13 @@ This is the ultimate promise of the plan. But to achieve this state of total rel
 ## The Core Wound: The Primal Bug of Civilization 1.0
 The immense suffering and conflict in our world are not the result of a flawed or evil human nature. They are the symptoms of a single, universal, and now fully understandable bug in our civilizational operating system.
 
-For the vast majority of our history encompassing over 200,000 years, we lived as a different kind of human, in small, cooperative groups where social bonds were direct. The shift to large-scale, anonymous societies, which began with the dawn of agriculture very recently some 10,000 years ago, was a monumental leap: a first, brave attempt at a new form of human organization. Agriculture, in effect, was the start of humanity's de-facto world **Civilization, Version 1.0.**
+For the vast majority of our history — spanning over 200,000 years — we lived as a different kind of human: small, cooperative groups where social bonds were direct. These were high-trust, low-distortion environments of **cooperative breeding** (“alloparenting”), where a child’s attachment bond was a resilient, distributed network of caregivers. 
 
-Like any first version of a complex new operating system, it was a buggy beta. It solved some problems, like how to support a larger population, but it introduced a series of critical, cascading bugs into our social code. New structures of rigid hierarchy, new anxieties born from manufactured scarcity, and a new pressure to perform for acceptance began to overwrite our innate, cooperative instincts.
+The shift to large-scale societies, which began with the dawn of agriculture just 10,000 years ago, was a structural leap — and a relational collapse. The invention of the isolated **nuclear unit** replaced interwoven care with the fragile, single-point-of-failure of the parent-child dyad. Agriculture, in effect, was the start of humanity's de-facto world **Civilization, Version 1.0** — a **catastrophic biological mismatch,** forcing a social biology designed for a network into a fragile, single-point-of-failure.  
 
-This is not a uniquely human failure. It is likely a universal challenge. Any intelligent, social species in the universe that makes the leap from a planetary collection of small tribes to a single, integrated global civilization would almost certainly face this same, difficult transition. They, too, would have to debug the first, flawed version of their world.
+Like any first version of a complex new operating system, it was a buggy beta, yet came with incredible new abilities. It solved some problems, like how to support a larger population, but it introduced a series of critical, cascading bugs into our social code. Structures of rigid hierarchy, anxieties born from manufactured scarcity, and a growing pressure to perform for acceptance began to overwrite our innate, cooperative instincts.
+
+This is not a uniquely human failure — it is likely a universal threshold. Any intelligent, social species in the universe that makes the leap from a planetary collection of small tribes to a single, integrated global civilization would almost certainly face this same, difficult transition. They, too, would have to debug the first, flawed version of their world.
 
 ### The Hijacking of a Perfect Engine
 This bug is not a vague, historical event. It is a specific, mechanistic, and deeply personal tragedy that is reenacted in the quietest moments of childhood.
@@ -171,25 +174,52 @@ But a child's first and most non-negotiable reality is the need for a secure att
 
 The primal bug is the tragic conflict that arises when these two drives are pitted against each other. In the high-stress, low-support environment of the isolated nuclear family—itself a flawed invention of Civilization 1.0—a child's authentic, clarity-seeking self is inevitably perceived as a threat to the caregiver's own, fragile, and unhealed state.
 
-The child's brain, a perfect logician, is then faced with an impossible choice: align with the truth of its own perception (and risk the attachment), or distort its own perception to maintain the attachment.
-
-The survival imperative always wins.
+The child's brain, a perfect logician, is then faced with an **unbearable choice:** to align with the **truth of its own senses** (which feels like the terror of abandonment) or to align with the **caregiver's distortion** (which feels like the safety of attachment). In this battle between clarity and survival, the primal, biological imperative for survival always wins.
 
 In an act of brilliant and heartbreaking self-preservation, the brain hijacks its own prime directive. It learns to suppress its own clarity. It accepts the caregiver's distorted reality as its own. It agrees to the foundational lie—"I must perform to be loved"—in order to survive.
 
-This is the **Primal Wound.** It is the moment the coherence engine is forced to become a distortion engine.
+This 'performance' can take many forms. For some, it is a performance of compliance—the 'good boy' or 'good girl' who learns that their safety lies in being helpful, quiet, and agreeable. For others, it is a performance of rebellion—the 'angry' or 'stubborn' kid who learns that a wall of rage is the only effective defense against a world that feels intrusive and unsafe. Both are masks. Both are fortresses. Both are the brilliant, tragic strategies of a perfect engine that has been forced to run a corrupted code.
 
-### The Birth of the Fortress
-From this single, foundational act of self-abandonment, everything else flows. The authentic self is buried, and the **Performance Self**—the mask, the puppet, the fortress—is constructed in its place. The rest of your life becomes the exhausting and tragic project of defending this fortress.
+> This is the **Primal Wound.** It is the moment the coherence engine is forced to become a distortion engine.
 
-The old "Cycle of Distortion"—Dominance, Fear, Shame, Anger—is not the bug itself. It is the predictable, chaotic noise generated by a billion minds all running this same, corrupted, self-protective software.
+### The Birth of the Fortress: The Performance Self
+From this single, foundational **act of cognitive self-preservation**—the brilliant, tragic system override where the brain's drive for clarity is sacrificed for the drive for survival—everything else flows. The authentic self is buried, and the **Performance Self**—the mask, the puppet, the fortress—is constructed in its place. The rest of your life becomes the exhausting and tragic project of defending this fortress.
+
+> *The old "Cycle of Distortion"—Dominance, Fear, Shame, Anger—is not the bug itself. It is the predictable, chaotic noise generated by a billion minds all running this same, corrupted, self-protective software.*
 
 But the most important truth is this: bugs can be fixed. Acknowledging that you are not broken, but are running a piece of faulty, inherited code, is not a cause for despair. It is the source of your ultimate power. It means your suffering is not a life sentence. It is an engineering problem.
 
 This framework is the patch. It is the "defragmentation" tool for the human mind. By understanding the mechanics of the bug, we can finally begin the work of debugging ourselves and launching a more stable, more beautiful, and truly coherent **Civilization 2.0.**
 
+### Diagnostic Table: Substitutions in the Human Cooperative Engine
+*The Primal Bug isn’t just visible in childhood. It scales through every layer of society — from friendships to laws to economies. This table traces the cascading substitutions made across the human system: the original function, the distorted overlay, and how each now manifests in daily life and institutional design.*
 
-## First Principles of the Framework
+| **Subsystem**               | **Original Function**                             | **Distorted Substitution**                          | **Behavioral Signature**                                | **Structural Signature**                                  |
+| --------------------------- | ------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------- |
+| **Bonding & Affection**     | Cooperative feedback and emotional attunement     | Conditional love, performance-based worth           | People-pleasing, fear of abandonment, cling-then-punish | Family units based on control, not mutual development     |
+| **Cognition & Conflict**    | Truth-based disagreement resolution               | Win-based arguing, deception to "survive"           | Debate-as-status, lying to avoid shame                  | Legal systems adversarial by design                       |
+| **Expression & Signal**     | Honest self-revelation to strengthen the group    | Signaling for social gain or protection             | Virtue signaling, “brand”-like personas                 | Social media architectures encouraging performance        |
+| **Fear Response**           | Temporary alert mechanism for danger              | Chronic internalized fear used as behavioral leash  | Nervous compliance, shame avoidance                     | Schooling, workplaces structured on discipline and reward |
+| **Curiosity & Inquiry**     | Cooperative sense-making                          | Deference to authority, intellectual gatekeeping    | Fear of asking "stupid" questions                       | Academic elitism, credential-based access to knowledge    |
+| **Repair & Reconciliation** | Restoring bonds through mutual truth              | Suppression, blame redirection, or punitive force   | Apologies as performance, ghosting, vengeance           | Carceral systems, "justice" without repair                |
+| **Time Orientation**        | Present-rooted attention, long-term stewardship   | Extractive urgency, future-hoarding, trauma looping | Hurry sickness, nostalgia as escape                     | Quarterly capitalism, apocalyptic futurism                |
+| **Sensory Self-Awareness**  | Embodied regulation and interpersonal feedback    | Dissociation, over-analytical abstraction           | Avoidance of eye contact, somatic numbness              | Medicine detached from lived experience                   |
+| **Desire & Attraction**     | Natural convergence around vitality and resonance | Hijacked by media, status, or power associations    | "Type" fetishizing, shame-driven intimacy patterns      | Mass media shaping desire, dating apps as marketplaces    |
+
+> These are not flaws of humanity. These are swapped wires, hijacked signals, broken mirrors pretending to reflect us. The engine is still inside. It remembers how to run.
+
+
+## The Great Scaling: From the Nursery to the Nation
+The Primal Wound is not a private, personal tragedy. It is the **fractal seed of all societal dysfunction.** A civilization is nothing more than the sum of the internal states of its people.
+
+*   A world of children taught to **perform for love** becomes a world of adults trapped in the **anxious marketplace of the Performance Self.**
+*   A world of children who feel **fundamentally unsafe** becomes a world of adults who build **hoarding economies and tribal fortresses.**
+*   A world of children forced to **accept incoherence** becomes a world of adults who tolerate **political corruption and systemic lies.**
+
+All the great "problems" of our world—our wars, our inequalities, our ecological self-destruction—are not separate crises. They are the macroscopic projection of the same, single, unresolved trauma, reenacted on a planetary scale. To heal the world, we must first heal the wound where the world begins: in the quiet space between a caregiver and a child.
+
+
+## First Principles: The Axioms of a Coherent Reality
 What follows are the foundational axioms upon which this entire framework is built. They are the non-negotiable foundations of a coherent reality. To engage with this work is to commit to testing all things against these principles.
 
    - **The Root of Dysfunction is Distortion:** All major societal problems, from inequality to conflict, are symptoms of a single, underlying foundation of fear, deception, and distorted hierarchy.
@@ -3153,6 +3183,7 @@ While these conflicts won’t dissolve overnight, the GP provides a foundation f
 
 ## Updates
 > Significant updates are listed below, minor tweaks can be found in the git history. All dates in YYYY-MM-DD format.
+- **2026-02-01**: Updates to the *Vitals* part, including the addition of **The Great Scaling: From the Nursery to the Nation** and a new diagram: **Diagnostic Table: Substitutions in the Human Cooperative Engine**.
 - **2026-01-23**: A major update including:
    - **Fortified the Economic Model:** The "Economy of Capital" section has been rebuilt to lead with **"Contribution through Creation" ("Sweat Equity")**, making the plan more inclusive from the start. The "Economy of Time" now includes a **"Lifecycle Banking"** mechanism to pragmatically manage the transition to a 2-day workweek. The concept of a "Luxury Class" has been replaced with a more sustainable and well-defined **"Profound Comfort"** baseline, explicitly constrained by the **"Hard Ceiling of Planetary Boundaries."**
    - **A Hardened Governance & Geopolitical Strategy:** The Governance model has been fortified with explicit, constitutional **"Guardrails"** (Radical Transparency, Primacy of Dissent, The Power of the Fork) to prevent the concentration of power. The Defense section has been expanded into its own Part, detailing a sophisticated, two-phase **"Geopolitical Strategy"** for interacting with existing nation-states in both open and closed societies.
