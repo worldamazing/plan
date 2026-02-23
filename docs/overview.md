@@ -176,8 +176,6 @@ For 95% of our existence, the fundamental unit of human survival and identity wa
 
 This long stability was shattered by a single, revolutionary, and ultimately catastrophic technology: agriculture. The ability to cultivate land introduced two new and toxic concepts into the human operating system: fixed, defensible property, and the inheritance of that property through a clear bloodline. For the first time, long-term survival was no longer a function of the tribe's collective success, but of a single, small family unit's ability to secure its resources against its neighbors.
 
-This millennia-long stability was shattered by a single, revolutionary, and ultimately catastrophic technology: **agriculture.** The ability to cultivate land introduced two new and catastrophic, toxic bugs into the human operating system: **fixed, defensible property** and the **isolated nuclear unit** required to maintain and inherit it. For the first time, long-term survival was no longer a function of the tribe's collective success, but of a single family's ability to secure its resources against its neighbors.
-
 The shift to large-scale, agricultural societies, just 10,000 years ago, was not just a structural leap. It was a **relational collapse.** It was the beginning of **The Great Fragmentation.**
 
 This shattered the "We" and gave birth to the **"Me."**
