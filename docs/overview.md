@@ -134,7 +134,7 @@
 >
 > This document is a comprehensive blueprint for a new civilization. It is a dense and deeply interconnected work. To grasp its core logic, focus on these **five foundational pillars** on your first read. Understanding these sections will give you the complete "source code" of the new paradigm.
 >
-> 1.  **[Part 1: The Vitals](#the-great-relief-the-true-goal-of-this-plan)**: This is the **Complete Diagnosis and Foundational Toolkit.** It explains the single, primal bug at the root of our suffering, deconstructs the core myths of our broken civilization, and provides the "First Principles" for the new one. *This entire part is the most important section to master.*
+> 1.  **[Part 1: The Vitals](#part-1-the-vitals)**: This is the **Complete Diagnosis and Foundational Toolkit.** It explains the single, primal bug at the root of our suffering, deconstructs the core myths of our broken civilization, and provides the "First Principles" for the new one. *This entire part is the most important section to master.*
 >
 > 2.  **[The First Coherence (Part 5)](#the-first-coherence-the-revolution-of-the-self)**: This is the **Personal Path Forward.** It explains that the revolution does not begin "out there," but with the courageous, internal work of healing this wound within yourself. It is the practical first step.
 >
