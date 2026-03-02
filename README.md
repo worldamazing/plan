@@ -39,7 +39,7 @@ The goal of this plan is not just "world peace." It is **Relief**. It is the sys
 ---
 ## The Documentation
 
-### 📘 [The Overview](/docs/overview.md) (Read This First)
+### 📘 [The Overview](/docs/overview.md)
 The core documentation. This covers:  
 
 * **The Primal Bug:** Why Civilization 1.0 is failing.
