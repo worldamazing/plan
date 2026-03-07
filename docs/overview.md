@@ -138,7 +138,7 @@
 >
 > 1.  **[Part 1: The Vitals](#part-1-the-vitals)**: This is the **Complete Diagnosis of Civilization 1.0.** It establishes the true goal of structural relief, deconstructs the core myths blocking our progress, and explains the cascading, primal wounds at the root of our collective suffering. *This entire part is the most important section to master.*
 >
-> 2.  **[Part 2: The Framework](#part-1-the-framework)**: This is the **User Manual and Foundational Toolkit.** It provides the "First Principles" for building a new, coherent reality and introduces the Global Partnership (GP)—the practical, decentralized operating system designed to replace our broken structures with universal abundance.
+> 2.  **[Part 2: The Framework](#part-2-the-framework)**: This is the **User Manual and Foundational Toolkit.** It provides the "First Principles" for building a new, coherent reality and introduces the Global Partnership (GP)—the practical, decentralized operating system designed to replace our broken structures with universal abundance.
 >
 > 3.  **[The First Coherence (Part 5)](#the-first-coherence-the-revolution-of-the-self)**: This is the **Personal Path Forward.** It explains that the revolution does not begin "out there," but with the courageous, internal work of healing this wound within yourself. It is the practical first step.
 >
@@ -182,7 +182,7 @@ When a human nervous system is finally granted total, structural relief, it does
 ## Deconstructing the Core Myths of Civilization 1.0
 Before we can architect a new civilizational model, we must first identify and dismantle the invisible, foundational myths upon which our current, flawed system is built. These are the "bugs" in our collective thinking, the often-unconscious assumptions that make a better world seem impossible.
 
-What follows is a deconstruction of the four great myths that hold humanity captive.
+What follows is a deconstruction of the great myths that hold humanity captive.
 
 ### 1. The Myth of Scarcity
 > **The Myth:** *"There are not enough resources for everyone to live well. Life is a zero-sum competition for a limited pie, and inequality is the inevitable, tragic result."*
@@ -239,7 +239,7 @@ This myth confuses **technological progression** with **somatic and societal hea
 
 Technology is an amplifier. Without repairing the underlying, structural fractures of our civilization, it simply scales our dysfunctions. We have given an inflamed, highly stressed species access to global algorithms, lethal drones, and artificial intelligence. In a broken operating system, a better smartphone doesn't create deeper connection; it creates a more efficient mechanism for performance, comparison, and isolation. A more efficient supply chain doesn't create abundance for all; it creates a more efficient mechanism for hoarding wealth at the top.
 
-We cannot code, invent, or manufacture our way out of a biological and structural crisis. Until we change the underlying operating system from extraction to profound comfort, our technology will continue to be a highly advanced weapon used in a primitive, low-grade war against ourselves
+We cannot code, invent, or manufacture our way out of a biological and structural crisis. Until we change the underlying operating system from extraction to profound comfort, our technology will continue to be a highly advanced weapon used in a primitive, low-grade war against ourselves.
 
 
 ## The Primal Wound of Civilization 1.0: The Inflammation of Humanity
