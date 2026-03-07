@@ -1,4 +1,4 @@
-> *This is a living document, last major update: [February 1, 2026](#updates)*
+> *This is a living document, last major update: [March 7, 2026](#updates)*
 
 # World Amazing Overview: A Framework For All to Flourish Fully and Live Incredible
 > This document outlines a plan for everyone. For the child with their whole life ahead and the elder who feels life has passed them by. For the cynic and the dreamer. For the powerful and the powerless. It is a framework for a world where every single being is invited to flourish.
@@ -35,8 +35,9 @@
 **Part 1: The Vitals**  
 - [The Great Relief: The True Goal of This Plan](#the-great-relief-the-true-goal-of-this-plan)
 - [Deconstructing the Core Myths of Civilization 1.0](#deconstructing-the-core-myths-of-civilization-10)
-- [The Core Wound: The Primal Bug of Civilization 1.0](#the-core-wound-the-primal-bug-of-civilization-10)
-- [The Great Scaling: From the Nursery to the Nation](#the-great-scaling-from-the-nursery-to-the-nation)
+- [The Primal Wound of Civilization 1.0: The Inflammation of Humanity](#the-primal-wound-of-civilization-10-the-inflammation-of-humanity)
+- [The Great Scaling: The Feedback Loop of Distortion](#the-great-scaling-the-feedback-loop-of-distortion)
+- [A Note on Blame, Justice, and the Work Ahead](#a-note-on-blame-justice-and-the-work-ahead)
 - [The Path Forward: From Cycle of Distortion to Clarity](#the-path-forward-from-cycle-of-distortion-to-clarity)
 
 **Part 2: The Framework**  
@@ -128,6 +129,7 @@
 - [Questions and Answers](#questions-and-answers)
 - [Updates](#updates)
 
+
 ---
 > [!TIP]
 > ## A Guide for the First-Time Reader
@@ -168,6 +170,13 @@ This relief is multi-layered:
 *   And most profoundly, it is the **Psychological Relief** of putting down the armor of a lifetime—the shame, the fear, the anger, the performance—and finally being able to be fully, and safely, yourself.
 
 This is the ultimate promise of the plan. But to achieve this state of total relief, we cannot simply build new cities on top of our old wounds. We must first have the courage to understand the nature of the pressure itself. The journey to relief begins with a clear and unflinching diagnosis of the wound that created the pressure in the first place.
+
+### Beyond Relief: The Architecture of Amazing
+If Relief is the floor, "Amazing" is the ceiling. The World Amazing Framework is not merely a project to reduce harm; it is a mechanism to unlock the highest biological and creative potential of the human species.
+
+When a human nervous system is finally granted total, structural relief, it does not power down into laziness. It boots up. Without the exhausting, cognitive load of managing chronic fear, constantly performing to prove our worth, and fighting for conditional survival, the human mind is freed to do what it was originally designed to do: play, explore, connect, and build.
+
+"Amazing" is not a marketing buzzword; it is the natural, inevitable biological output of a healed human operating in a structurally safe environment. It is the joy of deep learning, the thrill of uninhibited creativity, and the profound connection of true cooperation. We are turning off the heat of Civilization 1.0 so that the true, amazing capabilities of humanity can finally emerge from the ashes.
 
 
 ## Deconstructing the Core Myths of Civilization 1.0
@@ -221,77 +230,62 @@ True, groundbreaking creativity does not come from a place of fear. It comes fro
 
 A world of profound security would not be a homogenous blob. It would trigger a **Cambrian explosion of human individuality.** When people are finally free from the need to conform in order to survive, their unique, authentic, and "weird" selves can finally emerge. It would be a world of unparalleled diversity, driven not by the desperate need to "get ahead," but by the joyful, intrinsic human desire to explore, to create, to build, and to discover what lies beyond the next horizon.
 
+### 5. The Myth of Technological Salvation
+> **The Myth:** *"Things have never been better. Look at our smartphones, our medical advances, and our global supply chains. Civilization 1.0 is working; it just needs a few software updates, and technology will eventually solve our remaining problems."*
 
-## The Core Wound: The Primal Bug of Civilization 1.0
-*The immense suffering and conflict in our world are not the result of a flawed or evil human nature. They are the symptoms of a single, universal, and fully understandable bug in our civilizational operating system.*
+**The Truth: Technology Scales the Operating System; It Doesn't Cure It.**
 
-### From We to Me: The Great Fragmentation
-For 95% of our existence, the fundamental unit of human survival and identity was the **"We."** We lived as a different kind of human, in small, cooperative, and high-trust groups where social bonds were direct. In these environments of **cooperative breeding ("alloparenting"),** a child’s attachment bond was not a fragile, single point of failure with one or two parents. It was a **resilient, distributed network** of multiple, caring adults and older peers. The "self" was a node in a network, and its well-being was inseparable from the well-being of the whole.
+This myth confuses **technological progression** with **somatic and societal healing**. Civilization 1.0 is undeniably brilliant at upgrading machines, but it uses those machines to optimize the extraction of human time, attention, and labor.
 
-This long stability was shattered by a single, revolutionary, and ultimately catastrophic technology: agriculture. The ability to cultivate land introduced two new and toxic concepts into the human operating system: fixed, defensible property, and the inheritance of that property through a clear bloodline. For the first time, long-term survival was no longer a function of the tribe's collective success, but of a single, small family unit's ability to secure its resources against its neighbors.
+Technology is an amplifier. Without repairing the underlying, structural fractures of our civilization, it simply scales our dysfunctions. We have given an inflamed, highly stressed species access to global algorithms, lethal drones, and artificial intelligence. In a broken operating system, a better smartphone doesn't create deeper connection; it creates a more efficient mechanism for performance, comparison, and isolation. A more efficient supply chain doesn't create abundance for all; it creates a more efficient mechanism for hoarding wealth at the top.
 
-The shift to large-scale, agricultural societies, just 10,000 years ago, was not just a structural leap. It was a **relational collapse.** It was the beginning of **The Great Fragmentation.**
+We cannot code, invent, or manufacture our way out of a biological and structural crisis. Until we change the underlying operating system from extraction to profound comfort, our technology will continue to be a highly advanced weapon used in a primitive, low-grade war against ourselves
 
-This shattered the "We" and gave birth to the **"Me."**
 
-The self was no longer a node in a resilient network. It became an **isolated, competing, and terrified agent,** responsible for its own survival. The attachment bond, once a distributed web of safety, was now concentrated into the fragile, high-pressure, single-point-of-failure of the parent-child dyad.
+## The Primal Wound of Civilization 1.0: The Inflammation of Humanity
+*The immense suffering and conflict in our world are not the result of a flawed or evil human nature. They are the symptoms of a single, universal bug in our civilizational operating system.*
 
-This is the **catastrophic evolutionary mismatch.** It is the precise environmental change that created the perfect, high-stress, and low-support laboratory for the **Primal Wound** to become a universal certainty. Agriculture, in effect, was the start of humanity's de-facto world **Civilization, Version 1.0** — a **catastrophic biological mismatch,** forcing a social biology designed for a network into a fragile, single-point-of-failure.  
+### The Species-Level Injury
+For the vast majority of our existence, human survival was based on intrinsic belonging within small, cooperative networks. If you were born into the "We," your right to exist and be cared for was guaranteed.
 
-Like any first version of a complex new operating system, it was a buggy beta, yet came with incredible new abilities. It solved some problems, like how to support a larger population, but it introduced a series of critical, cascading bugs into our social code. Structures of rigid hierarchy, anxieties born from manufactured scarcity, and a growing pressure to perform for acceptance began to overwrite our innate, cooperative instincts.
+The advent of Civilization 1.0—driven by the creation of surplus, property, and rigid hierarchy—introduced a catastrophic new concept into the human operating system: **Conditional Survival.** Suddenly, your right to eat, be safe, and exist had to be earned, defended, or extracted.
 
-This is not a uniquely human failure — it is likely a universal threshold. Any intelligent, social species in the universe that makes the leap from a planetary collection of small tribes to a single, integrated global civilization would almost certainly face this same, difficult transition. They, too, would have to debug the first, flawed version of their world.
+This was the Primal Wound to our species. We were severed from the resilient network and forced into the isolated, anxious "Me." Survival shifted from a state of trust to a state of chronic, low-grade threat.
 
-### The Hijacking of a Perfect Engine
-This bug is not a vague, historical event. It is a specific, mechanistic, and deeply personal tragedy that is reenacted in the quietest moments of childhood.
+### The Chain of Infection: The Birth of the Performance Self
+This historical shift triggered a chronic fever—an "inflammation of humanity"—that is mechanically passed down in every generation through a strict sequence:
 
-Every human is born a perfect **Coherence Engine.** Your brain, at its most fundamental level, is a clarity-seeking device, relentlessly driven to create a coherent and accurate model of reality. Your survival depends on it.
+1. **The System Crushes the Adult**  
+The hierarchical, extractive machine of Civilization 1.0 subjects adults to chronic stress, the fear of scarcity, and systemic powerlessness. To survive this, the adult accumulates unresolved rage, deep-seated shame, and chronic exhaustion.
 
-But a child's first and most non-negotiable reality is the need for a secure attachment to their caregiver. This is the primal imperative.
+2. **The Vector Bleeds into the Home**  
+The adult cannot simply leave this inflammation at the door. The adult brings this dysregulated, poisoned nervous system back into the living environment. The home becomes saturated with the ambient anxiety, unspoken fears, and reactive anger of adults trying to survive the outside world.
 
-The primal bug is the tragic conflict that arises when these two drives are pitted against each other. In the high-stress, low-support environment of the isolated nuclear family—itself a flawed invention of Civilization 1.0—a child's authentic, clarity-seeking self is inevitably perceived as a threat to the caregiver's own, fragile, and unhealed state.
+3. **The Birth of the Performance Self**  
+A child’s brain is a perfect "Coherence Engine," relentlessly driven to perceive reality accurately. However, a child’s most non-negotiable biological need is the attachment bond to their caregiver—securing protection to avoid death.
 
-The child's brain, a perfect logician, is then faced with an **unbearable choice:** to align with the **truth of its own senses** (which feels like the terror of abandonment) or to align with the **caregiver's distortion** (which feels like the safety of attachment). In this battle between clarity and survival, the primal, biological imperative for survival always wins.
+When faced with an erratic, stressed, or angry adult, the child faces a terrifying reality: _my protector is unsafe_. To point out the adult's distortion is to threaten the life-saving bond. Therefore, the child's mind acts as a brilliant, desperate adaptation engine. It suppresses its own clarity and generates whatever behavioral strategy is required to manage the threat and maintain the bond.
 
-In an act of brilliant and heartbreaking self-preservation, the brain hijacks its own prime directive. It learns to suppress its own clarity. It accepts the caregiver's distorted reality as its own. It agrees to the foundational lie—"I must perform to be loved"—in order to survive.
+For some, this means becoming perfectly compliant and helpful. For others, it means becoming invisible and silent. For others still, it means reflecting the adult's volatility or becoming a target to absorb the tension. These are highly effective, short-term survival adaptations that solidify into devastating, long-term maladaptations. The authentic, coherence-seeking self is buried, and the **Performance Self** is born—a permanent mask perfectly contoured to whatever shape the distorted environment demanded.
 
-This 'performance' can take many forms. For some, it is a performance of compliance—the 'good boy' or 'good girl' who learns that their safety lies in being helpful, quiet, and agreeable. For others, it is a performance of rebellion—the 'angry' or 'stubborn' kid who learns that a wall of rage is the only effective defense against a world that feels intrusive and unsafe. Both are masks. Both are fortresses. Both are the brilliant, tragic strategies of a perfect engine that has been forced to run a corrupted code.
+### The Cycle of Distortion
+This cognitive amputation leaves us as a planet of adults disconnected from our coherent nature, operating on an exhausting, defensive behavioral loop to protect our fragile Performance Selves. This is the **Cycle of Distortion**:
 
-> This is the **Primal Wound.** It is the moment the coherence engine is forced to become a distortion engine.
+* **Dominance** (to control the environment)
+* **Fear** (of being exposed or losing conditional worth)
+* **Shame** (the internalized blame and feeling of being flawed)
+* **Anger** (the fiery armor used to keep others away from the shame)
 
-### The Primal Wound: The Ghost in Your Machine
+This cycle is not human nature; it is the predictable, chaotic noise generated by a species running corrupted, self-protective software.
 
-This hijacking is the **Primal Wound.**
+When an entire species operates from this defensive, highly inflamed posture, the distortion inevitably bleeds out of the individual psyche and hardcodes itself into our institutions. We stop building systems for human flourishing and start building systems to manage, police, and profit from our collective distortions, our fears, our deepest shames, and our suppressed rage. The table below maps this exact translation: how our original, healthy biological functions were hijacked and replaced by the structural machinery of Civilization 1.0.
 
-It is not a single event that happened and was over. It is a **permanent, structural change** in the architecture of your mind. It is the installation of a ghost in your own machine.
-
-It is the quiet, ever-present voice in the back of your head that whispers you are not good enough.  
-It is the subtle, physical tension in your jaw and shoulders that never fully goes away.  
-It is the exhausting, lifelong, and unconscious work of managing the fortress of your Performance Self.  
-It is the reason you feel a profound and inexplicable loneliness even when you are surrounded by people who claim to love you.
-
-It is the moment your coherence engine was forced to become a distortion engine. And it has been running that corrupted code ever since.
-
-### The Birth of the Fortress: The Performance Self and The Cylce of Distortion
-From this single, foundational **act of cognitive self-preservation**—the brilliant, tragic system override where the brain's drive for clarity is sacrificed for the drive for survival—everything else flows. The authentic self is buried, and the **Performance Self**—the mask, the puppet, the fortress—is constructed in its place. The rest of your life becomes the exhausting and tragic project of defending this fortress.
+### Diagnostic Table: Substitutions in the Human Cooperative Engine
+*The Primal Bug scales through every layer of society — from friendships to laws to economies. A mind that has lost its internal **coherence** can no longer participate in healthy, external **cooperation.** This table traces the cascading substitutions made across the very **architecture of human cooperation**: the original function, the distorted overlay, and how each now manifests in daily life and institutional design.*
 
 > [!IMPORTANT]
 > 
-> *The **Performance Self**, in its constant, exhausting effort to defend its fortress, operates on a looping, defensive algorithm. This algorithm is the **"Cycle of Distortion"**:*
-> 
-> - *Dominance (to control the environment)*
-> - *Fear (of being exposed)*
-> - *Shame (the core wound it is hiding)*
-> - *Anger (the fiery wall of its defense)*
-> 
-> *This cycle is not the bug itself; it is the predictable, chaotic noise generated by a billion minds all running this same, corrupted, self-protective software.*
-
-But the most important truth is this: bugs can be fixed. Acknowledging that you are not broken, but are running a piece of faulty, inherited code, is not a cause for despair. It is the source of your ultimate power. It means your suffering is not a life sentence. It is an engineering problem.
-
-This framework is the patch. It is the "defragmentation" tool for the human mind. By understanding the mechanics of the bug, we can finally begin the work of debugging ourselves and launching a more stable, more beautiful, and truly coherent **Civilization 2.0.**
-
-### Diagnostic Table: Substitutions in the Human Cooperative Engine
-*The Primal Bug isn’t just visible in childhood. It scales through every layer of society — from friendships to laws to economies. A mind that has lost its internal **coherence** can no longer participate in healthy, external **cooperation.** This table traces the cascading substitutions made across the **Human Cooperative Engine**: the original function, the distorted overlay, and how each now manifests in daily life and institutional design.*
+> These are not flaws of humanity. These are swapped wires, hijacked signals, broken mirrors pretending to reflect us. The engine is still inside. It remembers how to run.
 
 | **Subsystem**               | **Original Function**                             | **Distorted Substitution**                          | **Behavioral Signature**                                | **Structural Signature**                                  |
 | --------------------------- | ------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------- |
@@ -305,21 +299,60 @@ This framework is the patch. It is the "defragmentation" tool for the human mind
 | **Sensory Self-Awareness**  | Embodied regulation and interpersonal feedback    | Dissociation, over-analytical abstraction           | Avoidance of eye contact, somatic numbness              | Medicine detached from lived experience                   |
 | **Desire & Attraction**     | Natural convergence around vitality and resonance | Hijacked by media, status, or power associations    | "Type" fetishizing, shame-driven intimacy patterns      | Mass media shaping desire, dating apps as marketplaces    |
 
-> [!IMPORTANT]
-> 
-> These are not flaws of humanity. These are swapped wires, hijacked signals, broken mirrors pretending to reflect us. The engine is still inside. It remembers how to run.
+
+## The Great Scaling: The Feedback Loop of Distortion
+The Primal Wound is not just a private, personal tragedy; it is the engine of a closed, self-sustaining feedback loop.
+
+The macro-system (Civilization 1.0) creates the inflamed micro-environment (the stressed home). The home forces the child to amputate their clarity and build a Performance Self to survive. That child then grows into the exact type of inflamed, anxious, and compliant adult required to keep the extractive macro-system running.
+
+### The Prison of the Self
+This process does not stop in childhood. The adult, now trapped in their Performance Self, enters the larger systems of society—the workplace, the political arena, the marketplace of relationships—which then demand their own, new performances. The mask of the "Good Boy" is replaced by the mask of the "Ambitious Professional." The mask of the "Angry Kid" is replaced by the mask of the "Tough Masculine Man."
+
+Over time, this state of performing ceases to be a strategy. It becomes a **prison.** The person forgets that the mask is a mask. The authentic, coherence-seeking self is so deeply buried that the Performance Self becomes the only "self" they know.
+
+The final and most tragic stage of this disease is when the mind's prime directive inverts completely. A mind that has spent a lifetime running on a foundation of lies can become so accustomed to the "fog" that it begins to prefer it. It becomes a **decoherence-oriented engine.** It actively seeks out drama, creates chaos, and resists clarity, because the quiet, stable state of coherence feels, to this deeply wounded system, like an alien and terrifying void. This is the source of a mind that is no longer just lost in the fog, but has become a **generator of the fog itself.**
+
+### The Creation of "Them"
+When adults are forced to operate from a place of chronic fear, fighting to secure their conditional worth in a hierarchy, the immense pressure of the system requires a release valve. This is the mechanical origin of creating a "them." To secure their own physical safety—and to avoid facing their own unbearable, internal shame—groups export the trauma and the burden of survival downward onto someone weaker.
+
+This manifests as the societal-scale terror of enslavement, severe exploitation, and systemic "othering." Racism, artificial castes, and war are not anomalies or glitches in Civilization 1.0; they are its load-bearing structures. They are the required, brutal mathematics of a system where survival is not guaranteed. All the great "problems" of our world are therefore not separate crises; they are the macroscopic projection of this exact loop of distortion, reenacted on a planetary scale.
+
+To heal the world, we cannot wait to raise a "perfect," un-traumatized generation of children. The loop must be broken from the outside. We, the adults currently running the nations and economies of the world, must build a macroeconomic structure that acts as a secure, unconditional foundation. By replacing the terror of scarcity with profound comfort for all, we give the collective adult nervous system permission to finally stand down. When we build a structurally safe world, the children of today will not need to be "fixed"—they will simply fold right into this new reality, learning to live in clarity by observing a world that no longer punishes it.
 
 
-## The Great Scaling: From the Nursery to the Nation
-The Primal Wound is not a private, personal tragedy. It is the **fractal seed of all societal dysfunction.** A civilization is nothing more than the sum of the internal states of its people.
+## A Note on Blame, Justice, and the Work Ahead
+If you have truly absorbed the diagnosis of the Primal Wound, you are likely feeling a profound and righteous anger. You now see, with a new and terrible clarity, the source of your pain. You have a name for the wound, and you may now have a face for the person who inflicted it.
 
-*   A world of children taught to **perform for love** becomes a world of adults trapped in the **anxious marketplace of the Performance Self.**
-*   A world of children who feel **fundamentally unsafe** becomes a world of adults who build **hoarding economies and tribal fortresses.**
-*   A world of children forced to **accept incoherence** becomes a world of adults who tolerate **political corruption and systemic lies.**
+The first and most natural impulse of a healing mind is to seek justice. To find the one to blame. To demand that the perpetrator be punished for the harm they have caused.
 
-All the great "problems" of our world—our wars, our inequalities, our ecological self-destruction—are not separate crises. They are the macroscopic projection of the same, single, unresolved trauma, reenacted on a planetary scale.
- 
-To heal the world, we do not start by trying to engineer a flawless new generation of children. We start by taking responsibility for ourselves. We, the adults currently running the nations and economies of the world, must turn around and face the unhealed wounds we inherited from our own caregivers. We must do the hard work of restoring our own severed coherence. When we do this—when the adults finally put down the armor of the Performance Self and build a structurally safe world—the children of today will not need to be "fixed." They will simply fold right into this new reality, learning to live in clarity by observing a world that no longer punishes it.
+This impulse is logical. It is valid. And it is a trap.
+
+### The Logic of a Broken Machine
+To blame your mother, your father, or any single individual is to fundamentally misunderstand the nature of the disease. It is like blaming a single, broken cog for the failure of a vast, systemically flawed machine.
+
+The truth is more terrible, and ultimately more liberating: **Your perpetrator was also a victim.**
+
+They were a carrier of a virus they did not create. They were running the same, corrupted, "Civilization 1.0" software that was installed in them as a child. Their acts of harm were not the actions of a free and conscious agent; they were the predictable, tragic, and often unconscious output of their own, unhealed wound.
+
+This does not excuse the harm. The pain is real. The damage is real. But to focus on individual blame is to remain trapped in the old paradigm of punishment and retribution. It is a dead end.
+
+### The True Target of Your Rage
+Your rage is a sacred and necessary energy. It is the fuel for your own liberation. But it must be aimed at the correct target.
+
+Do not aim your fire at the other prisoners.
+
+Aim your fire at the **walls of the prison itself.**
+
+The true enemy is not a person. It is the **system of distortion.** It is the 10,000-year-old architecture of lies, fear, and incoherence that has pitted us all against each other.
+
+### The Hard Road of Healing
+The path forward is not a path of easy forgiveness, and it is not a path of righteous vengeance. It is a path of **ruthless, compassionate, and systemic deconstruction.**
+
+The work ahead is difficult. It will require you to hold two, seemingly contradictory truths at the same time:
+1.  The harm done to you was real, it was wrong, and you have every right to your anger.
+2.  The person who harmed you was a product of a broken system, and true, lasting justice can only come from dismantling that system for everyone, forever.
+
+This is the great challenge. It is the work of transforming the personal fire of your own rage into the clean, bright, and universal light of a shared revolution. The journey will take years. It will be hard. But it is the only path that leads to true, and total, liberation.
 
 
 ## The Path Forward: From Cycle of Distortion to Clarity
@@ -3232,6 +3265,12 @@ While these conflicts won’t dissolve overnight, the GP provides a foundation f
 
 ## Updates
 > Significant updates are listed below, minor tweaks can be found in the git history. All dates in YYYY-MM-DD format.
+
+- **2026-03-07: MAJOR ARCHITECTURAL REFACTORING of Part 1 ("The Vitals").** This is a complete, foundational overhaul of the document's core diagnosis and narrative structure.
+    - **New Narrative Flow:** Part 1 has been re-ordered for maximum clarity and persuasive power, moving from the "Goal" (The Great Relief) to the "Deconstruction of Old Beliefs" (The Myths), before delivering the core "Diagnosis" (The Primal Wound).
+    - **Upgraded Core Diagnosis:** The "Core Wound" section has been completely rewritten to center on the mechanistic process of the "Primal Wound" and the "Hijacking of the Coherence Engine," grounding the entire framework in a new, more powerful psycho-biological model.
+    - **New Foundational Sections:** Several crucial new sections have been added, including **"The Great Scaling,"** which connects the personal wound to societal dysfunction, **"The Myth of Technological Salvation,"** which completes the deconstruction of Civilization 1.0's core beliefs, and **"A Note on Blame, Justice, and the Work Ahead."**
+    - **New Diagnostic Tool:** A comprehensive **"Diagnostic Table"** has been added to the "Primal Wound" section, providing a powerful, at-a-glance summary of the substitutions made across the entire architecture of human cooperation.
 - **2026-02-01**: Updates to the *Vitals* part, including the addition of a new subsection **From We to Me: The Great Fragmentation**, a new section **The Great Scaling: From the Nursery to the Nation**, and a new diagram **Diagnostic Table: Substitutions in the Human Cooperative Engine**.
 - **2026-01-23**: A major update including:
    - **Fortified the Economic Model:** The "Economy of Capital" section has been rebuilt to lead with **"Contribution through Creation" ("Sweat Equity")**, making the plan more inclusive from the start. The "Economy of Time" now includes a **"Lifecycle Banking"** mechanism to pragmatically manage the transition to a 2-day workweek. The concept of a "Luxury Class" has been replaced with a more sustainable and well-defined **"Profound Comfort"** baseline, explicitly constrained by the **"Hard Ceiling of Planetary Boundaries."**
