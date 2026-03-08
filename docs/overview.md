@@ -19,7 +19,7 @@
 > [!IMPORTANT]
 > ##  Audited by the Analyze Anything Framework (v1.0)
 > 
-> *This [version](https://github.com/worldamazing/plan/blob/fcc50b46d649317590202e7bfbeb97bdb6028929/docs/overview.md) of the document was audited on **January 23, 2026** using v1.0 of the **[Analyze Anything Framework (v1.0)](https://analyzeanything.org/)**. This document you are reading contains some refinements made since the audit.*
+> *This [version](https://github.com/worldamazing/plan/blob/fcc50b46d649317590202e7bfbeb97bdb6028929/docs/overview.md) of the document was audited on **January 23, 2026** using v1.0 of the **[Analyze Anything Framework](https://analyzeanything.org/)**. This document you are reading contains some refinements made since the audit.*
 > | Stage | Assessment | Core Justification |
 > | --- | --- | --- |
 > | **Part 1: Validity** | ✅ **PASS (Clears the Floor)** | The work is highly structured and conceptually unified. It establishes valid logical deduction (removing the "Primal Bug" removes symptoms) and offers falsifiable mechanisms (e.g., the "Beachhead" strategy) rather than relying on wishful thinking. |
@@ -3269,7 +3269,7 @@ While these conflicts won’t dissolve overnight, the GP provides a foundation f
 - **2026-03-07: MAJOR ARCHITECTURAL REFACTORING of Part 1 ("The Vitals").** This is a complete, foundational overhaul of the document's core diagnosis and narrative structure.
     - **New Narrative Flow:** Part 1 has been re-ordered for maximum clarity and persuasive power, moving from the "Goal" (The Great Relief) to the "Deconstruction of Old Beliefs" (The Myths), before delivering the core "Diagnosis" (The Primal Wound).
     - **Upgraded Core Diagnosis:** The "Core Wound" section has been completely rewritten to center on the mechanistic process of the "Primal Wound" and the "Hijacking of the Coherence Engine," grounding the entire framework in a new, more powerful psycho-biological model.
-    - **New Foundational Sections:** Several crucial new sections have been added, including **"The Great Scaling,"** which connects the personal wound to societal dysfunction, **"The Myth of Technological Salvation,"** which completes the deconstruction of Civilization 1.0's core beliefs, and **"A Note on Blame, Justice, and the Work Ahead."**
+    - **New Foundational Sections:** Several crucial new sections have been added, including **"The Great Scaling,"** which connects the personal wound to societal dysfunction, **"The Myth of Technological Salvation,"** which completes the deconstruction of Civilization 1.0's core beliefs, and **"A Note on Blame, Justice, and the Work Ahead,"** which directly addresses the reader's natural impulse for blame and retribution.
     - **New Diagnostic Tool:** A comprehensive **"Diagnostic Table"** has been added to the "Primal Wound" section, providing a powerful, at-a-glance summary of the substitutions made across the entire architecture of human cooperation.
 - **2026-02-01**: Updates to the *Vitals* part, including the addition of a new subsection **From We to Me: The Great Fragmentation**, a new section **The Great Scaling: From the Nursery to the Nation**, and a new diagram **Diagnostic Table: Substitutions in the Human Cooperative Engine**.
 - **2026-01-23**: A major update including:
