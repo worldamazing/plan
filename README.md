@@ -1,27 +1,14 @@
 # World Amazing: A Framework For All to Live Incredible
-### Upgrading Civilization: From Survival (v1.0) to Flourishing (v2.0)
 
-> The World Amazing Framework is an open-source civilizational operating system designed to move humanity from a state of survival to a state of **Profound Comfort**. It is a blueprint for a world where essentials are guaranteed through contribution, all essential work is a shared responsibility, and life is defined by relief rather than anxiety.
-
-
----
-> [!IMPORTANT]
-> ### 🛡️ Audited by the Analyze Anything Framework (v1.0)
-> *This framework has undergone a rigorous coherence audit to ensure logical consistency, falsifiability, and structural integrity using v1.0 of the [**Analyze Anything Framework (v1.0)**](https://analyzeanything.org/).*  
+> ## Upgrading Civilization: From Survival (v1.0) to Flourishing (v2.0)
 >
-> | **Metric** | **Assessment** |
-> | :--- | :--- |
-> | **1. Validity** | ✅ **CLEARS THE FLOOR** |
-> | **2. Rigor** | ✅ **HIGH RIGOR / HIGH CONSISTENCY** |
-> | **3. Paradigm Shift** | ✅ **POTENTIALLY HISTORIC** |
-> | **Final Status** | **ROBUST / COHERENT / HIGH-FIDELITY BLUEPRINT** |
-> 
-> ### ➡️ **[Read the Full Evaluation Report](https://github.com/beakbahama/log/blob/main/docs/analyze-anything/world-amazing.md)**
+> The World Amazing Framework is an open-source civilizational framework for moving humanity from conditional life under Civilization 1.0 to a civilization organized around relief, truth, cooperation, and human flourishing. Rather than patching isolated crises one by one, it proposes a new social operating system in which the essentials of life are guaranteed, work is reorganized around meaningful contribution rather than coercive survival, and public systems are designed to support human development rather than chronic pressure.
 
 
----
-## The Promise: The Great Relief
+## Relief is the Floor, Amazing is the Ceiling
 The goal of this plan is not just "world peace." It is **Relief**. It is the systematic removal of the background noise of anxiety—financial, physical, and psychological—that defines modern life.
+
+But relief is not the endpoint. It is the floor. **Amazing** is the ceiling: the civilizational horizon that opens once life is no longer organized around chronic pressure, conditional survival, and distortion. Amazing means a world where beauty, play, creativity, deep learning, meaningful contribution, and rich public life are no longer peripheral luxuries, but part of the normal design of civilization. The aim is not merely to reduce suffering. It is to build a world genuinely worthy of human beings.
 
 
 ## Key Highlights
@@ -33,37 +20,56 @@ The goal of this plan is not just "world peace." It is **Relief**. It is the sys
 * **The Obsolescence Strategy:** We do not fight the old system. We simply build a new one so effective, so humane, and so efficient that the old system becomes obsolete.
 * **Radical Creative Freedom:** With survival guaranteed and time abundant, you have the space, resources, and support to **build anything you can imagine**—from art to industry.
 * **The End of Systemic Distortion:** A commitment to healing the "Primal Bug" of Civilization 1.0. We foster a global discussion to dissolve fear, shame, and blame, allowing a **new human rhythm** of connection and clarity to emerge.
-* **One Shared World:** We move beyond artificial scarcity and defended borders. By harmonizing global resources, we create a world where every human is a citizen of the whole.
+* **One Shared World:** We move beyond artificial scarcity and defended borders. By harmonizing global resources, we create a world where every human belongs to the whole.
 
 
 ---
-## The Documentation
+## ✨ Start Here: The Framework and Its Companion Texts
+*The project has several entry points, each serving a different function: public invitation, framework hub, full blueprint, companion papers, implementation layer, and live public gathering.*
 
-### 📘 [The Overview](/docs/overview.md)
-The core documentation. This covers:  
-
-* **The Primal Bug:** Why Civilization 1.0 is failing.
-* **The Global Partnership:** The structure of the new world.
-* **The Genesis Phase:** The transition plan from *Here* to *There*.
-* **The Economy of Clarity:** How we trade truth for efficiency.
+### ➡️ Visit: [makeitamazing.org](https://makeitamazing.org)  
+The public on-ramp to the whole project. Read this first to get a concise introduction to the civilizational shift from **Civilization 1.0** to **Civilization 2.0**—why the current world is not enough, why “amazing” is the right baseline.
 
 
-### 🌏 [WHOMANATEE](https://whomanatee.org) (The Global Wrapper)
-*   `WHOMANATEE` is the first, primary, and reference implementation of the World Amazing Framework. It is the open-source, global wrapper designed to provide the entire world with the foundational services for a life of relief and purpose. `WHOMANATEE` is the fertile ground from which a thousand unique and amazing projects can be launched.
+### ➡️ Visit: [worldamazing.org](https://worldamazing.org)
+The main framework hub for World Amazing: a public entry point into the full body of work, including the main blueprint, companion papers, live public pathways, and the broader framework for moving from Civilization 1.0 to Civilization 2.0.
 
 
----
-> [!NOTE]
-> ### Join the Discussion
-> 
-> *The World Amazing mission is fundamentally shaped by the will of the people. This plan is not a rigid directive but an open proposal, inviting everyone to engage, contribute, and refine our shared journey toward global transformation.*
-> 
-> **How to contribute:**
-> 1. **Interrogate the Principles:** Read the [Overview](/docs/overview.md) and help find the blind spots.
-> 2. **Engage the Thought Experiment:** If resources and labor were solved, what would you build?
-> 3. **Submit a Pull Request:** Help refine the logic, the language, and the code.
-> 
-> ### 💬 **[Join the GitHub Discussions](https://github.com/worldamazing/plan/discussions)**  
+### ➡️ Explore: [The Full Overview](/docs/overview.md)
+The main integrated blueprint for the World Amazing framework.
+
+This document brings the full architecture together, including:
+
+* **The diagnosis:** why Civilization 1.0 is failing
+* **The Global Partnership:** the structure of the new world
+* **The Operating System:** the economic, social, and governance logic of the framework
+* **The Genesis Phase:** the transition from blueprint to living reality
+* **The broader vision:** what becomes possible when relief becomes the floor and amazing becomes the ceiling
+
+
+### ➡️ Read: The Amazing Papers
+Companion essays that clarify, test, extend, and apply the World Amazing framework across its hardest questions. The Overview remains the main integrated blueprint, while the papers deepen specific pillars, mechanism layers, and civilizational sticking points.
+
+* **[Paper I — On the Conditions for Human Flourishing Worldwide](/docs/amazing-papers/on-human-flourishing-worldwide.md)**  
+  A foundational mechanism paper explaining how the World Amazing Plan addresses the world’s visible crises, hidden distortions, and downstream harms by changing the conditions that keep producing them.
+
+* **[Paper II — On Relief](/docs/amazing-papers/on-relief.md)**  
+  Why peace is not enough, why the world as it stands today keeps humans running hot, and why relief must become the floor of civilization if life is ever to become truly amazing for all.
+
+* **[Paper III — On Childhood](/docs/amazing-papers/on-childhood.md)**  
+  How civilizations reproduce themselves through the human being. This paper explores childhood, family, attachment, hidden harm, and human development as one of the deepest frontiers of civilization—showing why the home is not outside the system, but one of the main places the system becomes flesh.
+
+* **[Paper IV — On Land](/docs/amazing-papers/on-land.md)**  
+  Why the current map is not the final answer, and how the framework approaches land, belonging, return, stewardship, and integration without repeating the logic of exclusion and displacement.
+
+
+### ➡️ Visit: [whomanatee.org](https://whomanatee.org)
+WHOMANATEE is the first and reference implementation layer of the World Amazing framework: the real-world wrapper through which projects, systems, spaces, and public initiatives can begin making the plan tangible and increasingly inevitable worldwide.
+
+
+### ➡️ Attend: [The World Amazing Show](https://worldamazing.org/show)
+A live public entry point into the framework. The World Amazing Show is where the project begins taking public form: through discussion, movement, gathering, music, and direct participation in imagining and building what comes next. It is not separate from the framework. It is one of the first ways the framework becomes real in public.
+
 
 ---
 [worldamazing.org](https://worldamazing.org)
