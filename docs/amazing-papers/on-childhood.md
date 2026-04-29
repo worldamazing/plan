@@ -137,7 +137,8 @@ That field includes:
 * the covering over of harms polite society would rather leave unnamed
 * the transfer of adult pain downward into the more vulnerable
 * the sexualization of dependency and other forms of exploitative boundary collapse
-* hidden predation inside trusted structures, including the gravest betrayals of childhood that civilization too often treats as unspeakable until spectacle briefly forces them into view
+* hidden predation inside trusted structures
+* the gravest betrayals of childhood that civilization too often treats as unspeakable until spectacle briefly forces them into view
 
 These harms do not all operate at the same depth, severity, or mechanism, but they belong to one field because each reveals what happens when child reality becomes subordinate to adult distortion.
 
@@ -182,7 +183,7 @@ Fourth, it changes authority itself. Authority under Civilization 1.0 is often a
 
 Fifth, it changes what education is for. Education stops being primarily a system of sorting, compliance, discipline, and credentialing, and becomes part of a broader developmental ecology aimed at emergence. The question stops being how to produce a manageable worker or citizen and becomes: what kind of human being is this world helping to form?
 
-Sixth, it changes how harm is handled. The old world often swings between secrecy and punishment. Either the harm remains buried, or it erupts into blame, scandal, exile, or carceral theater. Neither reliably heals the conditions that produced it. The World Amazing Plan shifts toward recognition, protection, repair, truthful intervention, and grief. This does not mean softness toward harm. It means the goal is no longer merely control of visible fallout, but transformation of the conditions that keep generating it. *A coherent civilization does not wait for leaked names, scandal cycles, or public outrage to acknowledge severe harm against children; it builds conditions in which such harm is harder to generate, harder to hide, faster to interrupt, and never protected by silence, prestige, or private immunity.*
+Sixth, it changes how harm is handled. The old world often swings between secrecy and punishment. Either the harm remains buried, or it erupts into blame, scandal, exile, or carceral theater. Neither reliably heals the conditions that produced it. The World Amazing Plan shifts toward recognition, protection, repair, truthful intervention, and grief. This does not mean softness toward harm. It means the goal is no longer merely control of visible fallout, but transformation of the conditions that keep generating it. A coherent civilization does not wait for leaked names, scandal cycles, or public outrage to acknowledge severe harm against children; it builds conditions in which such harm is harder to generate, harder to hide, faster to interrupt, and never protected by silence, prestige, or private immunity.
 
 These shifts matter because childhood is not just about preventing catastrophe. It is about what kind of human becomes possible when catastrophe is no longer the hidden background condition.
 
