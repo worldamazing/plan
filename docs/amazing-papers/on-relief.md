@@ -32,23 +32,17 @@ Since the start of civilization, human life has been progressively organized aro
 
 This is what it means to say the world runs hot.
 
-It runs hot economically.  
-People live stalked by rent, mortgages, debt, unstable access to care, utility fear, food pressure, and the knowledge that one disruption can send life cascading.
+It runs hot economically. People live stalked by rent, mortgages, debt, unstable access to care, utility fear, food pressure, and the knowledge that one disruption can send life cascading.
 
-It runs hot temporally.  
-Time is consumed by work, commuting, chores, bureaucracy, administrative drag, survival planning, status maintenance, and the endless low-level management of barely holding things together.
+It runs hot temporally. Time is consumed by work, commuting, chores, bureaucracy, administrative drag, survival planning, status maintenance, and the endless low-level management of barely holding things together.
 
-It runs hot physically.  
-Bodies carry sleep disruption, stress chemistry, environmental burden, poor air, poor food, sedentary confinement, chronic vigilance, and the accumulated strain of long-term survival adaptation.
+It runs hot physically. Bodies carry sleep disruption, stress chemistry, environmental burden, poor air, poor food, sedentary confinement, chronic vigilance, and the accumulated strain of long-term survival adaptation.
 
-It runs hot psychologically.  
-People are expected to manage image, regulate others, suppress truth, stay composed, stay employable, stay appealing, stay useful, stay updated, stay functional, and stay “fine” even while life remains structured around background insecurity.
+It runs hot psychologically. People are expected to manage image, regulate others, suppress truth, stay composed, stay employable, stay appealing, stay useful, stay updated, stay functional, and stay “fine” even while life remains structured around background insecurity.
 
-It runs hot socially.  
-Belonging is fragile. Honesty is costly. People overperform, under-reveal, self-censor, avoid, appease, posture, detach, or collapse. Relationships become burdened by the same pressure that saturates everything else.
+It runs hot socially. Belonging is fragile. Honesty is costly. People overperform, under-reveal, self-censor, avoid, appease, posture, detach, or collapse. Relationships become burdened by the same pressure that saturates everything else.
 
-It runs hot developmentally.  
-Children are raised by adults who themselves were formed under heat, and the child learns to mistake adaptation for development, coping for strength, and chronic pressure for reality.
+It runs hot developmentally. Children are raised by adults who themselves were formed under heat, and the child learns to mistake adaptation for development, coping for strength, and chronic pressure for reality.
 
 This is not a small problem sitting beside the others. It is one of the conditions beneath almost all the others.
 
