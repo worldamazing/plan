@@ -68,21 +68,7 @@ a private exhale.
 
 Those things can matter, but that is not what this paper means.
 
-Relief is not merely comfort. It is structural decompression.
-
-It means the removal of needless pressure from the baseline conditions of life.
-
-Relief is economic: life is no longer stalked by rent terror, debt bondage, fragile access to essentials, or the constant threat of falling through.
-
-Relief is temporal: time stops being devoured by the struggle to remain afloat and begins to return to the human being.
-
-Relief is physical: the body is no longer required to normalize the same degree of chronic strain, stress load, inflammatory burden, and environmental hostility.
-
-Relief is psychological: a person no longer has to perform worth, guard constantly, self-manage under hidden threat, and live as though collapse is always nearby.
-
-Relief is relational: truth becomes more survivable, belonging less conditional, connection less defensive, and intimacy less burdened by fear and distortion.
-
-Relief is civilizational: the surrounding systems stop demanding that people adapt to incoherence just to remain inside ordinary life.
+Relief is structural decompression across the whole field of life: economic, temporal, physical, psychological, relational, and civilizational. It is what becomes possible when life is no longer organized against the human being.
 
 That is why relief is so foundational. It is not a mood. It is not a coping mechanism. It is what becomes possible when life is no longer organized against the human organism.
 
