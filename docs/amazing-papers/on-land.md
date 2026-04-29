@@ -140,7 +140,7 @@ That means the path forward must include restoration where possible, rehousing w
 
 Grief matters here more than modern political language usually allows.
 
-Not everything broken by land violence can be repaired cleanly. Some losses are irretrievable. Some landscapes were destroyed. Some communities were shattered beyond restoration in their original form. Some returns will be symbolic, partial, dispersed, or transformed. Some people will return to places that no longer resemble what was remembered. Some will return not to possession, but to presence. Some will not return at all, but will still require recognition, memorialization, and continuity.
+Not everything broken by land violence can be repaired cleanly. Some losses are irretrievable. Some landscapes were destroyed. Some communities were shattered beyond restoration in their original form. Some returns will be symbolic, partial, dispersed, or transformed. Some people will return to places that no longer resemble what was remembered. Some will return not to possession, but to presence. Some will not return at all, but will still require recognition, memorialization, and continuity. Where full restoration is no longer possible in material form, restoration may still take the form of truthful inheritance: education, memorial structures, living archives, and forms of remembrance that carry loss forward without allowing it to be erased across generations.
 
 A coherent civilization does not force cheerful closure over irreparable loss. It makes room for grief without allowing grief to become a mandate for further destruction.
 
