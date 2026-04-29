@@ -194,6 +194,8 @@ Curiosity deepens. Play becomes more genuine. Learning becomes less defended. In
 
 And from that freer child, a different adult emerges.
 
+But this question does not concern only the child still ahead of us. It also concerns the adult already here. Almost no adult alive today was brought through childhood under conditions truly worthy of a human being, which means nearly all carry some unfinished developmental reality within them. A coherent civilization must therefore do more than protect children now. It must also create conditions in which adults can continue developing toward wholeness for the first time — not through indulgence, not through the erasure of harm, and not through the suspension of accountability, but through the long restoration of more truthful, less distorted, more fully human life.
+
 An adult less driven by fear. Less dependent on domination. Less shaped by secret shame. Less desperate to secure value through control, submission, or performance. More capable of truth. More capable of intimacy. More capable of building institutions that do not repeat the architecture of harm.
 
 This is why childhood must be understood as one of the deepest civilizational questions.
