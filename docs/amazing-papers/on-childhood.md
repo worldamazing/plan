@@ -208,9 +208,9 @@ You can have better infrastructure, cleaner energy, more efficient transport, an
 
 That is the line.
 
-A healed civilization is not one that merely protects children from the worst visible horrors while leaving the deeper developmental field untouched.
+A healed civilization is not one that merely protects children from the worst visible horrors while leaving the deeper developmental field untouched. It is also one that refuses to treat the already-living adult as developmentally finished simply because time has passed.
 
-It is a civilization in which children no longer have to adapt to distortion in order to belong.
+It is a civilization in which neither children nor adults have to adapt to distortion in order to belong.
 
 That means:
 
