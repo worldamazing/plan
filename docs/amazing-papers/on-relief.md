@@ -172,7 +172,7 @@ You can still get flashes of brilliance under pressure. You can still get art fr
 
 The World Amazing Plan is not built on the belief that humans need pressure to become extraordinary. It is built on the recognition that humans have never yet been allowed to become extraordinary under truly relieved conditions at civilizational scale.
 
-But relief alone is not the final answer, any more than pain reduction alone is the final answer.
+But relief alone is not the final destination, any more than pain reduction is the final state of health.
 
 A civilization cannot fix suffering forever by aiming only for less suffering. It must also build toward a form of life so beautiful, meaningful, alive, and worth inhabiting that humanity no longer needs distorted substitutes for what the world failed to provide.
 
@@ -286,4 +286,4 @@ Humanity needs a civilization in which relief is real and Amazing is the horizon
 
 Because the goal is not merely that people survive life a little more comfortably.
 
-The goal is that life finally stops being organized against them — and becomes, something truly remarkable to experience every day.
+The goal is that life finally stops being organized against them and becomes something truly remarkable to experience every day.
