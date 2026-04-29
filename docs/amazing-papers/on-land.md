@@ -144,7 +144,7 @@ Not everything broken by land violence can be repaired cleanly. Some losses are 
 
 A coherent civilization does not force cheerful closure over irreparable loss. It makes room for grief without allowing grief to become a mandate for further destruction.
 
-This is one of the deepest reasons the land question must be rethought. Because under the current system, unresolved grief is routinely mobilized into fresh exclusion, fresh blood, fresh enclosures, fresh justifications for domination. The old wound becomes the fuel for the new wound.
+This is one of the deepest reasons the land question must be rethought. Under the current system, unresolved grief is routinely mobilized into fresh exclusion, fresh blood, fresh enclosures, fresh justifications for domination. The old wound becomes the fuel for the new wound.
 
 The World Amazing Plan does not permit that cycle to remain the governing logic.
 
