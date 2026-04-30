@@ -1,4 +1,4 @@
-> *Last major update: [April 2026](#updates)*
+> *Last major update: [April 30, 2026](#updates)*
 
 # World Amazing Overview: A Framework For All to Flourish Fully and Live Incredible
 > This document is a blueprint for a different civilization.
@@ -3389,7 +3389,7 @@ While these conflicts won’t dissolve overnight, the GP provides a foundation f
 ## Updates
 > Significant updates are listed below, minor tweaks can be found in the git history. All dates in YYYY-MM-DD format.
 
-- **2026-04-28: Major restructuring and rewrite of the Overview’s frontmatter and Part 1 ("The Vitals").**
+- **2026-04-30: Major restructuring and rewrite of the Overview’s frontmatter and Part 1 ("The Vitals").**
     - **Part 1 was fully rebuilt around a new diagnostic architecture.** The previous sequence centered on **“Deconstructing the Core Myths of Civilization 1.0,” “The Primal Wound of Civilization 1.0: The Inflammation of Humanity,”** and **“The Great Scaling: The Feedback Loop of Distortion”** has been replaced by a more developed progression through **Relief, Amazing, the Civilizational Rupture, Rupture to Distortion, the World Distortion Built, Blame and Structural Justice, the inherited assumptions protecting Civilization 1.0, and the Path Forward.**
     - **The philosophical and diagnostic core of Part 1 was significantly expanded and clarified.** The new version reframes the opening of the document around conditional life, rupture, distortion, inherited assumptions, and the movement from civilizational diagnosis toward structural clarity.
     - **Frontmatter and reader guidance were substantially updated.** The preface, first-time reader note, and opening framing were revised to better present the Overview as the document’s main cumulative blueprint while still preserving targeted entry points for readers approaching specific sections first.
