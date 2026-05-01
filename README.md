@@ -19,7 +19,7 @@ But relief is not the endpoint. It is the floor. **Amazing** is the ceiling: the
 * **Governance by Clarity:** We replace "Rulers" with "Structure." Decisions are made through a transparent, decentralized network of **Clarity Nodes** and local consensus, prioritizing truth over power.
 * **The Obsolescence Strategy:** We do not fight the old system. We simply build a new one so effective, so humane, and so efficient that the old system becomes obsolete.
 * **Radical Creative Freedom:** With survival guaranteed and time abundant, you have the space, resources, and support to **build anything you can imagine**—from art to industry.
-* **The End of Systemic Distortion:** A commitment to healing the "Primal Bug" of Civilization 1.0. We foster a global discussion to dissolve fear, shame, and blame, allowing a **new human rhythm** of connection and clarity to emerge.
+* **The End of Systemic Distortion:** A commitment to healing the distortions of Civilization 1.0. We foster a global discussion to dissolve fear, shame, and blame, allowing a **new human rhythm** of connection and clarity to emerge.
 * **One Shared World:** We move beyond artificial scarcity and defended borders. By harmonizing global resources, we create a world where every human belongs to the whole.
 
 
