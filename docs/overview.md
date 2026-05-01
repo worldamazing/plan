@@ -18,7 +18,7 @@
 >
 > ## Structural Audit Note
 >
-> ### ➡️ [**Read the full analysis**](https://github.com/beakbahama/log/blob/main/docs/analyze-anything/world-amazing.md)
+> ### ➡️ [**Read the full analysis**](/docs/aaf-results.md)
 >  
 > A prior version of this document was audited on **January 23, 2026** using v1.0 of the **[Analyze Anything Framework](https://analyzeanything.org/)**. The version you are reading now includes refinements made since that audit.
 >
