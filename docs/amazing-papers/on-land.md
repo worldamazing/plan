@@ -191,4 +191,4 @@ This is what it means to move from possession to stewardship, from exclusion to 
 
 The current map is not the final answer.
 
-Humanity still has to become worthy of the Earth it lives on.
+Humanity must once again become worthy of the Earth it shares.
